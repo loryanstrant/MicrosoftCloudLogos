@@ -1,7 +1,10 @@
 # Microsoft Cloud Logos
 
-This collection of logos has been built over the years using both official Microsoft logo packages, as well as hard to find places (i.e. scraping websites or blog posts, AppSource, product screens, presentations, and anywhere I can find them).
-I try to keep this current, and also retain legacy logos just for the sake of it.
+This collection of logos has been built up over the years using both official Microsoft logo packages, as well as hard to find places (i.e. scraping websites or blog posts, AppSource, product screens, presentations, and anywhere I can find them).
+It originally lived in my OneDrive for use in documents, but then I kept sharing it with colleagues whenever I'd spot an incorrect or dated product logo.
+As it's continued to grow, I've decided it's time for it to live on GitHub instead so the rest of the community can benefit from it, and hopefully contribute!
+
+I'll try to keep this current as possible, and will also retain legacy logos just for the sake of it.
 
 Enjoy!
 
