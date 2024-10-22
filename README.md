@@ -1,4 +1,4 @@
-# Microsoft Cloud Logos
+# Microsoft Cloud Product Logos
 
 This collection of logos has been built up over the years using both official Microsoft logo packages, as well as hard to find places (i.e. scraping websites or blog posts, AppSource, product screens, presentations, and anywhere I can find them).
 
