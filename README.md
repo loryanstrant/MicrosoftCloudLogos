@@ -9,22 +9,28 @@ As it's continued to grow, I've decided it's time for it to live on GitHub inste
 
 I'll try to keep this current as possible, and will also retain legacy logos just for the sake of it.
 
+If you have any to add or update any, please feel free to contribute!
+
 
 Enjoy!
 
 
 ## References and sources
 
-[Viva Explorers - Viva icons](https://github.com/Viva-Explorers/Viva-Icons)
+[Azure](https://learn.microsoft.com/en-us/azure/architecture/icons/)
 
 [Dynamics 365](https://learn.microsoft.com/en-us/dynamics365/get-started/icons)
 
+[Entra ID](https://learn.microsoft.com/en-us/entra/architecture/architecture-icons)
+
+[Fabric](https://learn.microsoft.com/en-us/fabric/get-started/icons)
+
 [Power Platform](https://learn.microsoft.com/en-us/power-platform/guidance/icons)
 
-[Azure](https://learn.microsoft.com/en-us/azure/architecture/icons/)
+[Viva (courtesy of Viva Explorers)](https://github.com/Viva-Explorers/Viva-Icons)
+
 
 [Microsoft Trademarks and Branding Guidelines](https://learn.microsoft.com/en-us/microsoft-365/cloud-storage-partner-program/online/branding)
-
 
 
 Disclaimer: I do not work for Microsoft, do not claim copyright or ownership of any of these files. All logos are the property of Microsoft Corporation.
