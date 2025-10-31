@@ -24,16 +24,16 @@ Enjoy!
 
 I have attempted to bring order to the challenge of keeping track of current and legacy logos by applying the following logic:
 
-* Logos are grouped by their (current) product family grouping, as defined by Microsoft marketing (i.e. website).
-  There are some outliers to clear logic here, such as Entra ID being part of Microsoft 365 and Entra suite, or Intune, or Power BI being part of Power Platform and Fabric. I do my best to apply reasoning for these.
-* Where multiple versions of a logo exist - older versions are stored in sub-folders prefixed by their years of (official) existence.
-* Where a product has been retired entirely - it is moved into the "zzLEGACY logos" folder.
-* Where a product has had a significant rename - the old logos are in a sub-folder of the current name, for example:
-  MyAnalytics and Workplace Analytics are found under the Viva Insights folder
-  Yammer is found under the Viva Engage folder
-  Power Virtual Agents is found under the Copilot Studio folder
-  Office is found under the Microsoft 365 Apps folder (note the capital "A")
-* Exceptions to the rename logic are where the current product is significantly different from the previous and/or has itself had numerous logo versions (e.g. Skype for Business).
+- Logos are grouped by their (current) product family grouping, as defined by Microsoft marketing (i.e. website).
+  - There are some outliers to clear logic here, such as Entra ID being part of Microsoft 365 and Entra suite, or Intune, or Power BI being part of Power Platform and Fabric. I do my best to apply reasoning for these.
+- Where multiple versions of a logo exist - older versions are stored in sub-folders prefixed by their years of (official) existence.
+- Where a product has been retired entirely - it is moved into the "zzLEGACY logos" folder.
+- Where a product has had a significant rename - the old logos are in a sub-folder of the current name, for example:
+  - MyAnalytics and Workplace Analytics are found under the Viva Insights folder
+  - Yammer is found under the Viva Engage folder
+  - Power Virtual Agents is found under the Copilot Studio folder
+  - Office is found under the Microsoft 365 Apps folder (note the capital "A")
+- Exceptions to the rename logic are where the current product is significantly different from the previous and/or has itself had numerous logo versions (e.g. Skype for Business).
 
 
 
