@@ -8,21 +8,27 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Segoe+UI:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
     <header class="header">
+        <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">
+            <span class="icon-sun">☀️</span>
+            <span class="icon-moon">🌙</span>
+        </button>
         <div class="header-content">
             <h1 class="header-title">
                 <span class="logo-icon">☁️</span>
                 Microsoft Cloud Product Logos
             </h1>
-            <p class="header-subtitle">A comprehensive collection of Microsoft cloud product logos</p>
         </div>
     </header>
 
     <nav class="nav-tabs">
         <button class="nav-tab active" data-tab="home">Home</button>
-        <button class="nav-tab" data-tab="gallery">Browse Logos</button>
+        <button class="nav-tab" data-tab="gallery">Find Logos</button>
+        <button class="nav-tab" data-tab="folders">Browse Folders</button>
+        <button class="nav-tab" data-tab="reference">Reference Links</button>
     </nav>
 
     <main class="main-content">
@@ -31,9 +37,28 @@
             <div class="intro-section">
                 <div class="intro-card">
                     <h2>Welcome</h2>
-                    <p>This collection of logos has been built up over the years using both official Microsoft logo packages, as well as hard-to-find places (scraping websites, blog posts, AppSource, product screens, presentations, and anywhere they can be found).</p>
-                    <p>It originally lived in OneDrive for use in documents, but then kept being shared with colleagues whenever an incorrect or dated product logo was spotted.</p>
-                    <p>As it continued to grow, it was time for it to live on GitHub so the rest of the community can benefit from it, and hopefully contribute!</p>
+                    <div class="welcome-content">
+                        <div class="author-sidebar">
+                            <img src="https://github.com/loryanstrant.png" alt="Loryan Strant" class="author-photo">
+                            <div class="author-links">
+                                <a href="https://www.loryanstrant.com" target="_blank" rel="noopener noreferrer" aria-label="Website">
+                                    <svg viewBox="0 0 24 24" fill="currentColor">
+                                        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/>
+                                    </svg>
+                                </a>
+                                <a href="https://www.linkedin.com/in/loryanstrant" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                                    <svg viewBox="0 0 24 24" fill="currentColor">
+                                        <path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.32 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.79M6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77z"/>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="welcome-text">
+                            <p>This collection of logos has been built up over the years using both official Microsoft logo packages, as well as hard-to-find places (scraping websites, blog posts, AppSource, product screens, presentations, and anywhere they can be found).</p>
+                            <p>It originally lived in OneDrive for use in documents, but then kept being shared with colleagues whenever an incorrect or dated product logo was spotted.</p>
+                            <p>As it continued to grow, it was time for it to live on GitHub so the rest of the community can benefit from it, and hopefully contribute!</p>
+                        </div>
+                    </div>
                 </div>
 
                 <div class="intro-card">
@@ -48,8 +73,18 @@
                             <span class="stat-label">Product Families</span>
                         </div>
                         <div class="stat-item">
-                            <span class="stat-number" id="formats-count">0</span>
-                            <span class="stat-label">File Formats</span>
+                            <span class="stat-number" id="unique-products">0</span>
+                            <span class="stat-label">Unique Products</span>
+                        </div>
+                    </div>
+                    <div class="charts-container">
+                        <div class="chart-wrapper">
+                            <h4>Logos by Product Family</h4>
+                            <canvas id="family-chart" class="chart-canvas"></canvas>
+                        </div>
+                        <div class="chart-wrapper">
+                            <h4>Unique Logos per Family</h4>
+                            <canvas id="unique-logos-chart" class="chart-canvas"></canvas>
                         </div>
                     </div>
                 </div>
@@ -155,6 +190,45 @@
                 <button id="load-more-btn" class="load-more-btn">Load More</button>
             </div>
         </section>
+
+        <!-- Folders Tab -->
+        <section id="folders-tab" class="tab-content">
+            <div class="folder-browser">
+                <div class="folder-breadcrumb" id="folder-breadcrumb">
+                    <span class="breadcrumb-current">Root</span>
+                </div>
+                <div id="folder-grid" class="folder-grid">
+                    <!-- Folders will be rendered here -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Reference Links Tab -->
+        <section id="reference-tab" class="tab-content">
+            <div class="intro-card">
+                <h2>Reference Links</h2>
+                <p>These logos are available in the GitHub Pages folder and provide stable URLs that can be embedded in applications like Power BI reports, presentations, or websites. When logos are updated in the repository, these URLs will automatically serve the latest version - no changes needed on your end!</p>
+                <p><strong>Want a logo added?</strong> <a href="https://github.com/loryanstrant/MicrosoftCloudLogos/issues/new" target="_blank" rel="noopener noreferrer">Create an issue</a> or <a href="https://github.com/loryanstrant/MicrosoftCloudLogos/pulls" target="_blank" rel="noopener noreferrer">submit a pull request</a>.</p>
+            </div>
+            <div class="intro-card">
+                <h2>Available Reference Logos</h2>
+                <div class="reference-scroll-container">
+                    <table class="reference-links-table">
+                        <thead>
+                            <tr>
+                                <th>Preview</th>
+                                <th>Logo Name</th>
+                                <th>Relative URL</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody id="reference-table-body">
+                            <!-- Reference links will be rendered here -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
     </main>
 
     <!-- Logo Preview Modal -->
@@ -191,7 +265,7 @@
     </div>
 
     <footer class="footer">
-        <p>&copy; Logo collection by <a href="https://github.com/loryanstrant" target="_blank" rel="noopener noreferrer">Loryan Strant</a></p>
+        <p>Logo collection by <a href="https://github.com/loryanstrant" target="_blank" rel="noopener noreferrer">Loryan Strant</a></p>
         <p class="footer-disclaimer">All logos are the property of Microsoft Corporation.</p>
     </footer>
 
