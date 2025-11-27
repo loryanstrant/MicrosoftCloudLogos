@@ -23,7 +23,8 @@
     // Fallback image for when logo images fail to load
     const FALLBACK_IMAGE_SVG = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100'%3E%3Crect fill='%23f3f2f1' width='100' height='100'/%3E%3Ctext x='50' y='55' text-anchor='middle' fill='%23a19f9d' font-size='12'%3ENo Preview%3C/text%3E%3C/svg%3E";
 
-    // Reference logos in the docs folder
+    // Reference logos in the docs folder - these are maintained manually as they represent
+    // stable URLs for embedding. Update this list when adding new reference logos.
     const REFERENCE_LOGOS = [
         { name: 'Excel', file: 'Excel-256x256.png' },
         { name: 'Forms', file: 'Forms-256x256.png' },
@@ -40,20 +41,6 @@
         { name: 'Viva Engage', file: 'VivaEngage-256x256.png' },
         { name: 'Whiteboard', file: 'Whiteboard-256x256.png' },
         { name: 'Word', file: 'Word-256x256.png' }
-    ];
-
-    // Folder structure for browser
-    const FOLDER_STRUCTURE = [
-        'Azure',
-        'Copilot (not M365)',
-        'Dynamics 365',
-        'Entra',
-        'Fabric',
-        'Microsoft 365',
-        'Power Platform',
-        'Viva',
-        'other',
-        'zzLEGACY logos'
     ];
 
     // State
@@ -128,13 +115,9 @@
         // Initialize stats on home page
         updateStats();
 
-        // Initialize charts (wrapped in try-catch in case Chart.js is not loaded)
-        try {
-            if (typeof Chart !== 'undefined') {
-                initCharts();
-            }
-        } catch (e) {
-            console.warn('Charts could not be initialized:', e);
+        // Initialize charts if Chart.js is loaded
+        if (typeof Chart !== 'undefined') {
+            initCharts();
         }
 
         // Populate filter dropdowns
@@ -864,21 +847,18 @@
             // Add copy functionality
             const copyBtn = row.querySelector('.copy-btn');
             copyBtn.addEventListener('click', () => {
-                const fullUrl = window.location.origin + window.location.pathname.replace('index.html', '') + relativeUrl;
+                // Build URL using URL constructor for robustness
+                const baseUrl = new URL('./', window.location.href);
+                const fullUrl = new URL(relativeUrl, baseUrl).href;
+                
                 navigator.clipboard.writeText(fullUrl).then(() => {
                     copyBtn.textContent = 'Copied!';
                     setTimeout(() => {
                         copyBtn.textContent = 'Copy URL';
                     }, 2000);
                 }).catch(() => {
-                    // Fallback for older browsers
-                    const textArea = document.createElement('textarea');
-                    textArea.value = fullUrl;
-                    document.body.appendChild(textArea);
-                    textArea.select();
-                    document.execCommand('copy');
-                    document.body.removeChild(textArea);
-                    copyBtn.textContent = 'Copied!';
+                    // Show the URL for manual copying if clipboard fails
+                    copyBtn.textContent = 'Copy failed';
                     setTimeout(() => {
                         copyBtn.textContent = 'Copy URL';
                     }, 2000);
