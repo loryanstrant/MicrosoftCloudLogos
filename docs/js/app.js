@@ -13,6 +13,15 @@
         rawBaseUrl: 'https://raw.githubusercontent.com/loryanstrant/MicrosoftCloudLogos/main/'
     };
 
+    // Constants for year filter values
+    const YEAR_VALUES = {
+        CURRENT: 'current',
+        LEGACY: 'legacy'
+    };
+
+    // Fallback image for when logo images fail to load
+    const FALLBACK_IMAGE_SVG = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100'%3E%3Crect fill='%23f3f2f1' width='100' height='100'/%3E%3Ctext x='50' y='55' text-anchor='middle' fill='%23a19f9d' font-size='12'%3ENo Preview%3C/text%3E%3C/svg%3E";
+
     // State
     const state = {
         filteredLogos: [],
@@ -117,7 +126,7 @@
      * Populate the year filter dropdown with available years
      */
     function populateYearFilter() {
-        const years = [...new Set(logoData.map(l => l.year))].filter(y => y !== 'current' && y !== 'legacy');
+        const years = [...new Set(logoData.map(l => l.year))].filter(y => y !== YEAR_VALUES.CURRENT && y !== YEAR_VALUES.LEGACY);
         years.sort().reverse();
 
         years.forEach(year => {
@@ -368,12 +377,12 @@
         card.setAttribute('tabindex', '0');
         card.setAttribute('aria-label', `View ${logo.name} logo`);
 
-        const imageUrl = CONFIG.rawBaseUrl + encodeURIComponent(logo.path).replace(/%2F/g, '/');
+        const imageUrl = buildRawImageUrl(logo.path);
 
         card.innerHTML = `
             <div class="logo-card-inner">
                 <div class="logo-image-container">
-                    <img src="${imageUrl}" alt="${logo.name}" loading="lazy" onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22100%22 height=%22100%22><rect fill=%22%23f3f2f1%22 width=%22100%22 height=%22100%22/><text x=%2250%22 y=%2255%22 text-anchor=%22middle%22 fill=%22%23a19f9d%22 font-size=%2212%22>No Preview</text></svg>'">
+                    <img src="${imageUrl}" alt="${logo.name}" loading="lazy" onerror="this.src='${FALLBACK_IMAGE_SVG}'">
                 </div>
                 <span class="logo-format-badge">${logo.format}</span>
             </div>
@@ -405,8 +414,8 @@
      * @param {Object} logo - Logo data object
      */
     function openModal(logo) {
-        const imageUrl = CONFIG.rawBaseUrl + encodeURIComponent(logo.path).replace(/%2F/g, '/');
-        const githubUrl = CONFIG.githubBaseUrl + encodeURIComponent(logo.path).replace(/%2F/g, '/');
+        const imageUrl = buildRawImageUrl(logo.path);
+        const githubUrl = buildGithubUrl(logo.path);
 
         elements.modalImage.src = imageUrl;
         elements.modalImage.alt = logo.name;
@@ -455,9 +464,27 @@
      * @returns {string} - Formatted year string
      */
     function formatYear(year) {
-        if (year === 'current') return 'Current';
-        if (year === 'legacy') return 'Legacy';
+        if (year === YEAR_VALUES.CURRENT) return 'Current';
+        if (year === YEAR_VALUES.LEGACY) return 'Legacy';
         return year;
+    }
+
+    /**
+     * Build URL for raw image access
+     * @param {string} path - Logo path
+     * @returns {string} - Full URL for raw image
+     */
+    function buildRawImageUrl(path) {
+        return CONFIG.rawBaseUrl + encodeURIComponent(path).replace(/%2F/g, '/');
+    }
+
+    /**
+     * Build URL for GitHub file view
+     * @param {string} path - Logo path
+     * @returns {string} - Full URL for GitHub file
+     */
+    function buildGithubUrl(path) {
+        return CONFIG.githubBaseUrl + encodeURIComponent(path).replace(/%2F/g, '/');
     }
 
     /**
