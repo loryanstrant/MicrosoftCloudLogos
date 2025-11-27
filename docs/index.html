@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microsoft Cloud Product Logos</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Segoe+UI:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="header-content">
+            <h1 class="header-title">
+                <span class="logo-icon">☁️</span>
+                Microsoft Cloud Product Logos
+            </h1>
+            <p class="header-subtitle">A comprehensive collection of Microsoft cloud product logos</p>
+        </div>
+    </header>
+
+    <nav class="nav-tabs">
+        <button class="nav-tab active" data-tab="home">Home</button>
+        <button class="nav-tab" data-tab="gallery">Browse Logos</button>
+    </nav>
+
+    <main class="main-content">
+        <!-- Home Tab -->
+        <section id="home-tab" class="tab-content active">
+            <div class="intro-section">
+                <div class="intro-card">
+                    <h2>Welcome</h2>
+                    <p>This collection of logos has been built up over the years using both official Microsoft logo packages, as well as hard-to-find places (scraping websites, blog posts, AppSource, product screens, presentations, and anywhere they can be found).</p>
+                    <p>It originally lived in OneDrive for use in documents, but then kept being shared with colleagues whenever an incorrect or dated product logo was spotted.</p>
+                    <p>As it continued to grow, it was time for it to live on GitHub so the rest of the community can benefit from it, and hopefully contribute!</p>
+                </div>
+
+                <div class="intro-card">
+                    <h2>What's Included</h2>
+                    <div class="stats-grid">
+                        <div class="stat-item">
+                            <span class="stat-number" id="total-logos">0</span>
+                            <span class="stat-label">Total Logos</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-number" id="product-families">0</span>
+                            <span class="stat-label">Product Families</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-number" id="formats-count">0</span>
+                            <span class="stat-label">File Formats</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="intro-card">
+                    <h2>Organization</h2>
+                    <ul class="feature-list">
+                        <li>Logos are grouped by their current product family (Azure, Microsoft 365, Dynamics 365, etc.)</li>
+                        <li>Multiple versions of logos are organized by their years of existence</li>
+                        <li>Retired products are in the Legacy collection</li>
+                        <li>Various styles available: full-color, monochrome positive, monochrome negative</li>
+                    </ul>
+                </div>
+
+                <div class="intro-card">
+                    <h2>Contributing</h2>
+                    <p>If you have logos to add or update, please feel free to contribute on GitHub!</p>
+                    <a href="https://github.com/loryanstrant/MicrosoftCloudLogos" class="github-link" target="_blank" rel="noopener noreferrer">
+                        <svg class="github-icon" viewBox="0 0 16 16" width="20" height="20">
+                            <path fill="currentColor" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                        </svg>
+                        View on GitHub
+                    </a>
+                </div>
+
+                <div class="intro-card disclaimer">
+                    <h2>Disclaimer</h2>
+                    <p>The maintainer does not work for Microsoft, does not claim copyright or ownership of any of these files. All logos are the property of Microsoft Corporation.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Gallery Tab -->
+        <section id="gallery-tab" class="tab-content">
+            <div class="filters-section">
+                <div class="search-box">
+                    <input type="text" id="search-input" placeholder="Search logos..." aria-label="Search logos">
+                    <span class="search-icon">🔍</span>
+                </div>
+
+                <div class="filters-row">
+                    <div class="filter-group">
+                        <label for="family-filter">Product Family</label>
+                        <select id="family-filter">
+                            <option value="">All Families</option>
+                        </select>
+                    </div>
+
+                    <div class="filter-group">
+                        <label for="style-filter">Logo Style</label>
+                        <select id="style-filter">
+                            <option value="">All Styles</option>
+                            <option value="full-color">Full Color</option>
+                            <option value="monochrome">Monochrome</option>
+                            <option value="monochrome-positive">Monochrome Positive</option>
+                            <option value="monochrome-negative">Monochrome Negative</option>
+                            <option value="negative">Negative</option>
+                            <option value="positive">Positive</option>
+                        </select>
+                    </div>
+
+                    <div class="filter-group">
+                        <label for="year-filter">Era</label>
+                        <select id="year-filter">
+                            <option value="">All Eras</option>
+                            <option value="current">Current</option>
+                            <option value="legacy">Legacy</option>
+                        </select>
+                    </div>
+
+                    <div class="filter-group">
+                        <label for="format-filter">Format</label>
+                        <select id="format-filter">
+                            <option value="">All Formats</option>
+                            <option value="PNG">PNG</option>
+                            <option value="SVG">SVG</option>
+                            <option value="JPG">JPG</option>
+                        </select>
+                    </div>
+
+                    <div class="filter-group">
+                        <label for="sort-select">Sort By</label>
+                        <select id="sort-select">
+                            <option value="name-asc">Name (A-Z)</option>
+                            <option value="name-desc">Name (Z-A)</option>
+                            <option value="family">Product Family</option>
+                            <option value="format">File Format</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="results-info">
+                    <span id="results-count">0 logos found</span>
+                    <button id="clear-filters" class="clear-btn">Clear Filters</button>
+                </div>
+            </div>
+
+            <div id="logo-gallery" class="logo-gallery">
+                <!-- Logos will be rendered here -->
+            </div>
+
+            <div id="load-more-container" class="load-more-container">
+                <button id="load-more-btn" class="load-more-btn">Load More</button>
+            </div>
+        </section>
+    </main>
+
+    <!-- Logo Preview Modal -->
+    <div id="logo-modal" class="modal">
+        <div class="modal-content">
+            <button class="modal-close" aria-label="Close modal">&times;</button>
+            <div class="modal-body">
+                <div class="modal-image-container">
+                    <img id="modal-image" src="" alt="">
+                </div>
+                <div class="modal-info">
+                    <h3 id="modal-title"></h3>
+                    <dl class="modal-details">
+                        <dt>Product Family</dt>
+                        <dd id="modal-family"></dd>
+                        <dt>Style</dt>
+                        <dd id="modal-style"></dd>
+                        <dt>Era</dt>
+                        <dd id="modal-year"></dd>
+                        <dt>Format</dt>
+                        <dd id="modal-format"></dd>
+                        <dt>Size</dt>
+                        <dd id="modal-size"></dd>
+                    </dl>
+                    <a id="modal-download" href="" class="download-btn" download>
+                        Download Logo
+                    </a>
+                    <a id="modal-github" href="" class="github-btn" target="_blank" rel="noopener noreferrer">
+                        View on GitHub
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <p>&copy; Logo collection by <a href="https://github.com/loryanstrant" target="_blank" rel="noopener noreferrer">Loryan Strant</a></p>
+        <p class="footer-disclaimer">All logos are the property of Microsoft Corporation.</p>
+    </footer>
+
+    <script src="js/logo-data.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
