@@ -10,7 +10,8 @@
     const CONFIG = {
         itemsPerPage: 48,
         githubBaseUrl: 'https://github.com/loryanstrant/MicrosoftCloudLogos/blob/main/',
-        rawBaseUrl: 'https://raw.githubusercontent.com/loryanstrant/MicrosoftCloudLogos/main/'
+        rawBaseUrl: 'https://raw.githubusercontent.com/loryanstrant/MicrosoftCloudLogos/main/',
+        docsBaseUrl: './' // For reference links - relative to GitHub Pages
     };
 
     // Constants for year filter values
@@ -21,6 +22,26 @@
 
     // Fallback image for when logo images fail to load
     const FALLBACK_IMAGE_SVG = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100'%3E%3Crect fill='%23f3f2f1' width='100' height='100'/%3E%3Ctext x='50' y='55' text-anchor='middle' fill='%23a19f9d' font-size='12'%3ENo Preview%3C/text%3E%3C/svg%3E";
+
+    // Reference logos in the docs folder - these are maintained manually as they represent
+    // stable URLs for embedding. Update this list when adding new reference logos.
+    const REFERENCE_LOGOS = [
+        { name: 'Excel', file: 'Excel-256x256.png' },
+        { name: 'Forms', file: 'Forms-256x256.png' },
+        { name: 'Loop', file: 'Loop-256x256.png' },
+        { name: 'M365 Copilot', file: 'M365Copilot-256x256.png' },
+        { name: 'OneDrive', file: 'OneDrive-256x256.png' },
+        { name: 'OneNote', file: 'OneNote-256x256.png' },
+        { name: 'Outlook', file: 'Outlook-256x256.png' },
+        { name: 'Planner', file: 'Planner-256x256.png' },
+        { name: 'PowerPoint', file: 'PowerPoint-256x256.png' },
+        { name: 'SharePoint', file: 'SharePoint-256x256.png' },
+        { name: 'Stream', file: 'Stream-256x256.png' },
+        { name: 'Teams', file: 'Teams-256x256.png' },
+        { name: 'Viva Engage', file: 'VivaEngage-256x256.png' },
+        { name: 'Whiteboard', file: 'Whiteboard-256x256.png' },
+        { name: 'Word', file: 'Word-256x256.png' }
+    ];
 
     // State
     const state = {
@@ -33,7 +54,9 @@
             year: '',
             format: ''
         },
-        sortBy: 'name-asc'
+        sortBy: 'name-asc',
+        currentFolder: '',
+        charts: {}
     };
 
     // DOM Elements
@@ -41,7 +64,9 @@
         tabs: document.querySelectorAll('.nav-tab'),
         tabContents: {
             home: document.getElementById('home-tab'),
-            gallery: document.getElementById('gallery-tab')
+            gallery: document.getElementById('gallery-tab'),
+            folders: document.getElementById('folders-tab'),
+            reference: document.getElementById('reference-tab')
         },
         searchInput: document.getElementById('search-input'),
         familyFilter: document.getElementById('family-filter'),
@@ -67,13 +92,20 @@
         modalClose: document.querySelector('.modal-close'),
         totalLogos: document.getElementById('total-logos'),
         productFamilies: document.getElementById('product-families'),
-        formatsCount: document.getElementById('formats-count')
+        uniqueProducts: document.getElementById('unique-products'),
+        themeToggle: document.getElementById('theme-toggle'),
+        folderBreadcrumb: document.getElementById('folder-breadcrumb'),
+        folderGrid: document.getElementById('folder-grid'),
+        referenceTableBody: document.getElementById('reference-table-body')
     };
 
     /**
      * Initialize the application
      */
     function init() {
+        // Initialize theme
+        initTheme();
+
         // Check if logoData is available
         if (typeof logoData === 'undefined') {
             console.error('Logo data not loaded');
@@ -82,6 +114,11 @@
 
         // Initialize stats on home page
         updateStats();
+
+        // Initialize charts if Chart.js is loaded
+        if (typeof Chart !== 'undefined') {
+            initCharts();
+        }
 
         // Populate filter dropdowns
         populateFamilyFilter();
@@ -92,8 +129,39 @@
         sortLogos();
         renderGallery();
 
+        // Initialize folder browser
+        renderFolderBrowser('');
+
+        // Initialize reference links
+        renderReferenceLinks();
+
         // Set up event listeners
         setupEventListeners();
+    }
+
+    /**
+     * Initialize theme from localStorage or system preference
+     */
+    function initTheme() {
+        const savedTheme = localStorage.getItem('theme');
+        if (savedTheme) {
+            document.documentElement.setAttribute('data-theme', savedTheme);
+        } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            document.documentElement.setAttribute('data-theme', 'dark');
+        }
+    }
+
+    /**
+     * Toggle between light and dark theme
+     */
+    function toggleTheme() {
+        const currentTheme = document.documentElement.getAttribute('data-theme');
+        const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+        document.documentElement.setAttribute('data-theme', newTheme);
+        localStorage.setItem('theme', newTheme);
+        
+        // Update charts for new theme
+        updateChartsTheme();
     }
 
     /**
@@ -101,11 +169,129 @@
      */
     function updateStats() {
         const families = new Set(logoData.map(l => l.family));
-        const formats = new Set(logoData.map(l => l.format));
+        const uniqueProductNames = new Set(logoData.map(l => l.name));
 
         elements.totalLogos.textContent = logoData.length.toLocaleString();
         elements.productFamilies.textContent = families.size;
-        elements.formatsCount.textContent = formats.size;
+        elements.uniqueProducts.textContent = uniqueProductNames.size;
+    }
+
+    /**
+     * Initialize charts
+     */
+    function initCharts() {
+        // Get family distribution
+        const familyCounts = {};
+        const uniqueLogosPerFamily = {};
+        
+        logoData.forEach(logo => {
+            familyCounts[logo.family] = (familyCounts[logo.family] || 0) + 1;
+            if (!uniqueLogosPerFamily[logo.family]) {
+                uniqueLogosPerFamily[logo.family] = new Set();
+            }
+            uniqueLogosPerFamily[logo.family].add(logo.name);
+        });
+
+        const families = Object.keys(familyCounts).sort();
+        const counts = families.map(f => familyCounts[f]);
+        const uniqueCounts = families.map(f => uniqueLogosPerFamily[f].size);
+
+        // Color palette
+        const colors = [
+            '#0078D4', '#50A0F0', '#005A9E', '#00BCF2', '#008272',
+            '#107C10', '#B4009E', '#5C2D91', '#D83B01', '#A4262C'
+        ];
+
+        // Family chart
+        const familyChartCtx = document.getElementById('family-chart');
+        if (familyChartCtx) {
+            state.charts.familyChart = new Chart(familyChartCtx, {
+                type: 'doughnut',
+                data: {
+                    labels: families,
+                    datasets: [{
+                        data: counts,
+                        backgroundColor: colors.slice(0, families.length),
+                        borderWidth: 0
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    plugins: {
+                        legend: {
+                            position: 'bottom',
+                            labels: {
+                                boxWidth: 12,
+                                padding: 8,
+                                font: { size: 11 }
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        // Unique logos per family chart
+        const uniqueLogosCtx = document.getElementById('unique-logos-chart');
+        if (uniqueLogosCtx) {
+            state.charts.uniqueLogosChart = new Chart(uniqueLogosCtx, {
+                type: 'bar',
+                data: {
+                    labels: families,
+                    datasets: [{
+                        label: 'Unique Logos',
+                        data: uniqueCounts,
+                        backgroundColor: colors.slice(0, families.length),
+                        borderWidth: 0
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    plugins: {
+                        legend: {
+                            display: false
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+        }
+
+        updateChartsTheme();
+    }
+
+    /**
+     * Update charts theme colors
+     */
+    function updateChartsTheme() {
+        const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+        const textColor = isDark ? '#F3F2F1' : '#201F1E';
+        const gridColor = isDark ? '#3B3A39' : '#E1DFDD';
+
+        Object.values(state.charts).forEach(chart => {
+            if (chart && chart.options) {
+                if (chart.options.plugins && chart.options.plugins.legend) {
+                    chart.options.plugins.legend.labels.color = textColor;
+                }
+                if (chart.options.scales) {
+                    if (chart.options.scales.x) {
+                        chart.options.scales.x.ticks = { color: textColor };
+                        chart.options.scales.x.grid = { color: gridColor };
+                    }
+                    if (chart.options.scales.y) {
+                        chart.options.scales.y.ticks = { color: textColor };
+                        chart.options.scales.y.grid = { color: gridColor };
+                    }
+                }
+                chart.update();
+            }
+        });
     }
 
     /**
@@ -141,6 +327,9 @@
      * Set up all event listeners
      */
     function setupEventListeners() {
+        // Theme toggle
+        elements.themeToggle.addEventListener('click', toggleTheme);
+
         // Tab navigation
         elements.tabs.forEach(tab => {
             tab.addEventListener('click', () => switchTab(tab.dataset.tab));
@@ -219,7 +408,9 @@
 
         // Update tab content
         Object.entries(elements.tabContents).forEach(([name, content]) => {
-            content.classList.toggle('active', name === tabName);
+            if (content) {
+                content.classList.toggle('active', name === tabName);
+            }
         });
     }
 
@@ -382,7 +573,7 @@
         card.innerHTML = `
             <div class="logo-card-inner">
                 <div class="logo-image-container">
-                    <img src="${imageUrl}" alt="${logo.name}" loading="lazy" onerror="this.src='${FALLBACK_IMAGE_SVG}'">
+                    <img src="${imageUrl}" alt="${escapeHtml(logo.name)}" loading="lazy" onerror="this.src='${FALLBACK_IMAGE_SVG}'">
                 </div>
                 <span class="logo-format-badge">${logo.format}</span>
             </div>
@@ -496,6 +687,186 @@
         const div = document.createElement('div');
         div.textContent = text;
         return div.innerHTML;
+    }
+
+    /**
+     * Render the folder browser
+     * @param {string} currentPath - Current folder path
+     */
+    function renderFolderBrowser(currentPath) {
+        state.currentFolder = currentPath;
+        
+        // Render breadcrumb
+        renderBreadcrumb(currentPath);
+        
+        // Get folders and files for current path
+        const foldersAndFiles = getFoldersAndFiles(currentPath);
+        
+        // Render folder grid
+        elements.folderGrid.innerHTML = '';
+        
+        // Render folders
+        foldersAndFiles.folders.forEach(folder => {
+            const folderItem = document.createElement('div');
+            folderItem.className = 'folder-item';
+            folderItem.innerHTML = `
+                <span class="folder-icon">📁</span>
+                <span class="folder-name">${escapeHtml(folder)}</span>
+            `;
+            folderItem.addEventListener('click', () => {
+                const newPath = currentPath ? `${currentPath}/${folder}` : folder;
+                renderFolderBrowser(newPath);
+            });
+            elements.folderGrid.appendChild(folderItem);
+        });
+        
+        // Render files (logos)
+        foldersAndFiles.files.forEach(logo => {
+            const fileItem = document.createElement('div');
+            fileItem.className = 'file-item';
+            const imageUrl = buildRawImageUrl(logo.path);
+            fileItem.innerHTML = `
+                <img src="${imageUrl}" alt="${escapeHtml(logo.name)}" class="file-preview" loading="lazy" onerror="this.src='${FALLBACK_IMAGE_SVG}'">
+                <span class="file-name">${escapeHtml(logo.filename)}</span>
+            `;
+            fileItem.addEventListener('click', () => openModal(logo));
+            elements.folderGrid.appendChild(fileItem);
+        });
+        
+        // Show empty state if no items
+        if (foldersAndFiles.folders.length === 0 && foldersAndFiles.files.length === 0) {
+            elements.folderGrid.innerHTML = `
+                <div class="empty-state">
+                    <div class="empty-state-icon">📂</div>
+                    <h3>Empty folder</h3>
+                    <p>No files or subfolders found</p>
+                </div>
+            `;
+        }
+    }
+
+    /**
+     * Render breadcrumb navigation
+     * @param {string} currentPath - Current folder path
+     */
+    function renderBreadcrumb(currentPath) {
+        elements.folderBreadcrumb.innerHTML = '';
+        
+        // Root
+        const rootItem = document.createElement('span');
+        rootItem.className = currentPath ? 'breadcrumb-item' : 'breadcrumb-current';
+        rootItem.textContent = 'Root';
+        if (currentPath) {
+            rootItem.addEventListener('click', () => renderFolderBrowser(''));
+        }
+        elements.folderBreadcrumb.appendChild(rootItem);
+        
+        if (currentPath) {
+            const parts = currentPath.split('/');
+            parts.forEach((part, index) => {
+                // Separator
+                const separator = document.createElement('span');
+                separator.className = 'breadcrumb-separator';
+                separator.textContent = ' / ';
+                elements.folderBreadcrumb.appendChild(separator);
+                
+                // Part
+                const partPath = parts.slice(0, index + 1).join('/');
+                const isLast = index === parts.length - 1;
+                const partItem = document.createElement('span');
+                partItem.className = isLast ? 'breadcrumb-current' : 'breadcrumb-item';
+                partItem.textContent = part;
+                if (!isLast) {
+                    partItem.addEventListener('click', () => renderFolderBrowser(partPath));
+                }
+                elements.folderBreadcrumb.appendChild(partItem);
+            });
+        }
+    }
+
+    /**
+     * Get folders and files for a given path
+     * @param {string} currentPath - Current folder path
+     * @returns {Object} - Object with folders and files arrays
+     */
+    function getFoldersAndFiles(currentPath) {
+        const folders = new Set();
+        const files = [];
+        
+        logoData.forEach(logo => {
+            const logoPath = logo.path;
+            
+            if (currentPath) {
+                // Check if logo is in current path or subfolder
+                if (!logoPath.startsWith(currentPath + '/')) return;
+                
+                const relativePath = logoPath.substring(currentPath.length + 1);
+                const parts = relativePath.split('/');
+                
+                if (parts.length === 1) {
+                    // File in current folder
+                    files.push(logo);
+                } else {
+                    // Subfolder
+                    folders.add(parts[0]);
+                }
+            } else {
+                // Root level
+                const parts = logoPath.split('/');
+                if (parts.length === 1) {
+                    files.push(logo);
+                } else {
+                    folders.add(parts[0]);
+                }
+            }
+        });
+        
+        return {
+            folders: [...folders].sort((a, b) => a.localeCompare(b)),
+            files: files.sort((a, b) => a.filename.localeCompare(b.filename))
+        };
+    }
+
+    /**
+     * Render reference links table
+     */
+    function renderReferenceLinks() {
+        elements.referenceTableBody.innerHTML = '';
+        
+        REFERENCE_LOGOS.forEach(logo => {
+            const row = document.createElement('tr');
+            const relativeUrl = logo.file;
+            
+            row.innerHTML = `
+                <td><img src="${relativeUrl}" alt="${escapeHtml(logo.name)}" class="reference-link-preview" loading="lazy"></td>
+                <td>${escapeHtml(logo.name)}</td>
+                <td><code class="reference-link-url">${relativeUrl}</code></td>
+                <td><button class="copy-btn" data-url="${relativeUrl}">Copy URL</button></td>
+            `;
+            
+            // Add copy functionality
+            const copyBtn = row.querySelector('.copy-btn');
+            copyBtn.addEventListener('click', () => {
+                // Build URL using URL constructor for robustness
+                const baseUrl = new URL('./', window.location.href);
+                const fullUrl = new URL(relativeUrl, baseUrl).href;
+                
+                navigator.clipboard.writeText(fullUrl).then(() => {
+                    copyBtn.textContent = 'Copied!';
+                    setTimeout(() => {
+                        copyBtn.textContent = 'Copy URL';
+                    }, 2000);
+                }).catch(() => {
+                    // Show the URL for manual copying if clipboard fails
+                    copyBtn.textContent = 'Copy failed';
+                    setTimeout(() => {
+                        copyBtn.textContent = 'Copy URL';
+                    }, 2000);
+                });
+            });
+            
+            elements.referenceTableBody.appendChild(row);
+        });
     }
 
     // Initialize when DOM is ready
