@@ -23,6 +23,8 @@
     --text-primary: #201F1E;
     --text-secondary: #605E5C;
     --border-color: #E1DFDD;
+    --link-color: #0078D4;
+    --link-hover-color: #005A9E;
 }
 
 /* Dark Mode */
@@ -41,6 +43,8 @@
     --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3);
     --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.25);
     --shadow-lg: 0 10px 20px rgba(0, 0, 0, 0.35);
+    --link-color: #4DB2FF;
+    --link-hover-color: #80C8FF;
 }
 
 /* Reset and Base */
@@ -63,6 +67,17 @@ body {
     display: flex;
     flex-direction: column;
     transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+a {
+    color: var(--link-color);
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+a:hover {
+    color: var(--link-hover-color);
+    text-decoration: underline;
 }
 
 /* Header */
@@ -101,10 +116,35 @@ body {
 }
 
 /* Dark Mode Toggle */
-.theme-toggle {
+.header-actions {
     position: absolute;
     top: 1rem;
     right: 1rem;
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+}
+
+.github-header-btn {
+    width: 44px;
+    height: 44px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: var(--transition);
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.github-header-btn:hover {
+    background: rgba(255, 255, 255, 0.3);
+    transform: scale(1.05);
+}
+
+.theme-toggle {
     width: 44px;
     height: 44px;
     border: none;
@@ -263,6 +303,7 @@ body {
     grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
     gap: 1rem;
     text-align: center;
+    margin-bottom: 1.5rem;
 }
 
 .stat-item {
@@ -911,6 +952,7 @@ body {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 1.5rem;
+    margin-top: 1.5rem;
     margin-bottom: 1.5rem;
 }
 
