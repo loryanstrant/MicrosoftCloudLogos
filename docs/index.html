@@ -20,10 +20,17 @@
 </head>
 <body>
     <header class="header">
-        <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">
-            <span class="icon-sun">☀️</span>
-            <span class="icon-moon">🌙</span>
-        </button>
+        <div class="header-actions">
+            <a href="https://github.com/loryanstrant/MicrosoftCloudLogos" target="_blank" rel="noopener noreferrer" class="github-header-btn" aria-label="View on GitHub">
+                <svg viewBox="0 0 16 16" width="20" height="20" fill="currentColor">
+                    <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                </svg>
+            </a>
+            <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">
+                <span class="icon-sun">☀️</span>
+                <span class="icon-moon">🌙</span>
+            </button>
+        </div>
         <div class="header-content">
             <h1 class="header-title">
                 <span class="logo-icon">☁️</span>
@@ -214,26 +221,28 @@
 
         <!-- Reference Links Tab -->
         <section id="reference-tab" class="tab-content">
-            <div class="intro-card">
-                <h2>Reference Links</h2>
-                <p>These logos are available in the GitHub Pages folder and provide stable URLs that can be embedded in applications like Power BI reports, presentations, or websites. When logos are updated in the repository, these URLs will automatically serve the latest version - no changes needed on your end!</p>
-            </div>
-            <div class="intro-card">
-                <h2>Available Reference Logos</h2>
-                <div class="reference-scroll-container">
-                    <table class="reference-links-table">
-                        <thead>
-                            <tr>
-                                <th>Preview</th>
-                                <th>Logo Name</th>
-                                <th>Relative URL</th>
-                                <th>Action</th>
-                            </tr>
-                        </thead>
-                        <tbody id="reference-table-body">
-                            <!-- Reference links will be rendered here -->
-                        </tbody>
-                    </table>
+            <div class="intro-section">
+                <div class="intro-card">
+                    <h2>Reference Links</h2>
+                    <p>These logos are available in the GitHub Pages folder and provide stable URLs that can be embedded in applications like Power BI reports, presentations, or websites. When logos are updated in the repository, these URLs will automatically serve the latest version - no changes needed on your end!</p>
+                </div>
+                <div class="intro-card">
+                    <h2>Available Reference Logos</h2>
+                    <div class="reference-scroll-container">
+                        <table class="reference-links-table">
+                            <thead>
+                                <tr>
+                                    <th>Preview</th>
+                                    <th>Logo Name</th>
+                                    <th>Relative URL</th>
+                                    <th>Action</th>
+                                </tr>
+                            </thead>
+                            <tbody id="reference-table-body">
+                                <!-- Reference links will be rendered here -->
+                            </tbody>
+                        </table>
+                    </div>
                 </div>
             </div>
         </section>
