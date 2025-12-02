@@ -16,7 +16,7 @@ If you have any to add or update any, please feel free to contribute!
 
 Enjoy!
 
-
+You can also access it by going to www.mscloudlogos.com where you'll find an easy to use interface for sorting and filtering the icons.
 
 
 
