@@ -20,6 +20,16 @@ You can also access it by going to www.mscloudlogos.com where you'll find an eas
 
 
 
+## Contributing
+
+When you add or rename logo files, you need to regenerate the GitHub Pages data file to make them visible on the website. Run this command from the repository root:
+
+```bash
+python3 generate-logo-data.py
+```
+
+This will scan all logo files in the repository and update `docs/js/logo-data.js`, which powers the website at www.mscloudlogos.com.
+
 ## File \& folder structure
 
 I have attempted to bring order to the challenge of keeping track of current and legacy logos by applying the following logic:
