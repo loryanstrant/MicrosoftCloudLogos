@@ -1,0 +1,74 @@
+name: Update GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'README.md'
+      - 'docs/**'
+  pull_request:
+    types: [opened, synchronize]
+    paths-ignore:
+      - 'README.md'
+      - 'docs/**'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update-logo-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.ref || github.ref }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      
+      - name: Run generate-logo-data.py
+        run: python3 generate-logo-data.py
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if ! git diff --quiet docs/js/logo-data.js; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit and push changes (push event)
+        if: steps.check_changes.outputs.changed == 'true' && github.event_name == 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/js/logo-data.js
+          git commit -m "Update logo-data.js [automated]"
+          git push
+      
+      - name: Commit and push changes (pull request from same repo)
+        if: steps.check_changes.outputs.changed == 'true' && github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/js/logo-data.js
+          git commit -m "Update logo-data.js [automated]"
+          git push
+      
+      - name: Comment on PR (pull request from fork)
+        if: steps.check_changes.outputs.changed == 'true' && github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name != github.repository
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '⚠️ The logo data needs to be regenerated. Please run `python3 generate-logo-data.py` locally and commit the changes.'
+            })
