@@ -140,7 +140,9 @@ def get_recent_additions(repo_root, limit=50):
             '--pretty=format:%H|%ai|%an|%ae',
             '--name-status',
             '--diff-filter=A',
-            f'-{limit * 3}'  # Get more than we need to filter
+            # Request more commits than needed because we'll filter out non-logo files
+            # We multiply by 3 to have a buffer since not all commits contain logo additions
+            f'-{limit * 3}'
         ]
         
         result = subprocess.run(cmd, capture_output=True, text=True, cwd=repo_root)

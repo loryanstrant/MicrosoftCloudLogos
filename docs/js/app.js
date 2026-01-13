@@ -11,7 +11,8 @@
         itemsPerPage: 48,
         githubBaseUrl: 'https://github.com/loryanstrant/MicrosoftCloudLogos/blob/main/',
         rawBaseUrl: 'https://raw.githubusercontent.com/loryanstrant/MicrosoftCloudLogos/main/',
-        docsBaseUrl: './' // For reference links - relative to GitHub Pages
+        docsBaseUrl: './', // For reference links - relative to GitHub Pages
+        defaultAvatarUrl: 'https://github.com/github.png' // Default GitHub avatar
     };
 
     // Constants for year filter values
@@ -914,7 +915,7 @@
             card.className = 'recent-update-item';
             card.innerHTML = `
                 <div class="recent-update-preview">
-                    <img src="${rawUrl}" alt="${escapeHtml(filename)}" loading="lazy" onerror="this.src='${FALLBACK_IMAGE_SVG}'">
+                    <img src="${rawUrl}" alt="${escapeHtml(filename)}" loading="lazy">
                 </div>
                 <div class="recent-update-info">
                     <h3 class="recent-update-filename">${escapeHtml(filename)}</h3>
@@ -928,6 +929,14 @@
                     </div>
                 </div>
             `;
+            
+            // Add error handler to image programmatically to avoid XSS
+            const img = card.querySelector('.recent-update-preview img');
+            if (img) {
+                img.onerror = function() {
+                    this.src = FALLBACK_IMAGE_SVG;
+                };
+            }
             
             elements.recentUpdatesList.appendChild(card);
         });
@@ -953,7 +962,7 @@
             
             // Build GitHub profile URL
             let githubUrl = '#';
-            let avatarUrl = 'https://github.com/github.png'; // Default GitHub avatar
+            let avatarUrl = CONFIG.defaultAvatarUrl;
             
             if (contributor.github_username) {
                 githubUrl = `https://github.com/${contributor.github_username}`;
