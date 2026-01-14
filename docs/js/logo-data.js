@@ -24260,304 +24260,304 @@ const logoData = [
 // Recently added files
 const recentAdditions = [
   {
-    "path": "Azure/Azure 256x256 padded.png",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Power Platform/AI Builder/AI Builder 300x300.png",
+    "date": "2026-01-14 09:33:15 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "742c79e43ac079525064f786f400cedf33c068ac"
   },
   {
-    "path": "Azure/Azure AI Studio logo 315x315.png",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Power Platform/AI Builder/AIBuilder_scalable.svg",
+    "date": "2026-01-14 09:33:15 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "742c79e43ac079525064f786f400cedf33c068ac"
   },
   {
-    "path": "Azure/Azure.png",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Power Platform/Agent 365 300x300.png",
+    "date": "2026-01-14 09:33:15 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "742c79e43ac079525064f786f400cedf33c068ac"
   },
   {
-    "path": "Azure/ai + machine learning/00028-icon-service-Batch-AI.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Power Platform/Agent 365_scalable.svg",
+    "date": "2026-01-14 09:33:15 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "742c79e43ac079525064f786f400cedf33c068ac"
   },
   {
-    "path": "Azure/ai + machine learning/00030-icon-service-Machine-Learning-Studio-(Classic)-Web-Services.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Power Platform/Copilot Studio/CopilotStudio_scalable.svg",
+    "date": "2026-01-14 09:33:15 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "742c79e43ac079525064f786f400cedf33c068ac"
   },
   {
-    "path": "Azure/ai + machine learning/00031-icon-service-Genomics.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Power Platform/Dataverse/Dataverse 300x300.png",
+    "date": "2026-01-14 09:33:15 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "742c79e43ac079525064f786f400cedf33c068ac"
   },
   {
-    "path": "Azure/ai + machine learning/00792-icon-service-Computer-Vision.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Power Platform/Dataverse/Dataverse_scalable.svg",
+    "date": "2026-01-14 09:33:15 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "742c79e43ac079525064f786f400cedf33c068ac"
   },
   {
-    "path": "Azure/ai + machine learning/00793-icon-service-Custom-Vision.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Power Platform/Power Apps/Power Apps 300x300.png",
+    "date": "2026-01-14 09:33:15 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "742c79e43ac079525064f786f400cedf33c068ac"
   },
   {
-    "path": "Azure/ai + machine learning/00794-icon-service-Face-APIs.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Power Platform/Power Apps/PowerApps_scalable.svg",
+    "date": "2026-01-14 09:33:15 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "742c79e43ac079525064f786f400cedf33c068ac"
   },
   {
-    "path": "Azure/ai + machine learning/00795-icon-service-Content-Moderators.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Power Platform/Power Automate/Power Automate 300x300.png",
+    "date": "2026-01-14 09:33:15 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "742c79e43ac079525064f786f400cedf33c068ac"
   },
   {
-    "path": "Azure/ai + machine learning/00796-icon-service-Personalizers.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Power Platform/Power Automate/PowerAutomate_scalable.svg",
+    "date": "2026-01-14 09:33:15 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "742c79e43ac079525064f786f400cedf33c068ac"
   },
   {
-    "path": "Azure/ai + machine learning/00797-icon-service-Speech-Services.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Power Platform/Power BI/Power BI 300x300.png",
+    "date": "2026-01-14 09:33:15 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "742c79e43ac079525064f786f400cedf33c068ac"
   },
   {
-    "path": "Azure/ai + machine learning/00799-icon-service-QnA-Makers.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Power Platform/Power Pages/Power Pages 300x300.png",
+    "date": "2026-01-14 09:33:15 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "742c79e43ac079525064f786f400cedf33c068ac"
   },
   {
-    "path": "Azure/ai + machine learning/00800-icon-service-Translator-Text.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Power Platform/Power Pages/PowerPages_scalable.svg",
+    "date": "2026-01-14 09:33:15 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "742c79e43ac079525064f786f400cedf33c068ac"
   },
   {
-    "path": "Azure/ai + machine learning/00801-icon-service-Language-Understanding.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Power Platform/Power Platform/PowerPlatform_scalable.png",
+    "date": "2026-01-14 09:33:15 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "742c79e43ac079525064f786f400cedf33c068ac"
   },
   {
-    "path": "Azure/ai + machine learning/00812-icon-service-Immersive-Readers.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Power Platform/Power Platform/PowerPlatform_scalable.svg",
+    "date": "2026-01-14 09:33:15 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "742c79e43ac079525064f786f400cedf33c068ac"
   },
   {
-    "path": "Azure/ai + machine learning/00814-icon-service-Anomaly-Detector.svg",
-    "date": "2026-01-14 13:01:37 +1100",
-    "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "path": "Dynamics 365/Business Central/2019-2025/BusinessCentral_scalable.svg",
+    "date": "2025-12-15 09:11:27 +0100",
+    "author": "Tobias Fenster",
+    "sha": "d897cd59a6b9f58a6ef151f15541b9f6a071b01f"
   },
   {
-    "path": "Azure/ai + machine learning/00819-icon-service-Form-Recognizers.svg",
-    "date": "2026-01-14 13:01:37 +1100",
-    "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "path": "Power Platform/Agent 365.svg",
+    "date": "2025-11-29 15:08:33 +0200",
+    "author": "Jukka Niiranen",
+    "sha": "5942835c32b358e9358395ffe7b1edb540a2a745"
   },
   {
-    "path": "Azure/ai + machine learning/01239-icon-service-Azure-Experimentation-Studio.svg",
-    "date": "2026-01-14 13:01:37 +1100",
-    "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "path": "Power Platform/PowerPages (2025 unofficial).svg",
+    "date": "2025-11-22 12:10:52 +0000",
+    "author": "Eickhel Mendoza",
+    "sha": "8b0fecffbf7474de686ec4df3e342543d3416e51"
   },
   {
-    "path": "Azure/ai + machine learning/01688-icon-service-Azure-Object-Understanding.svg",
-    "date": "2026-01-14 13:01:37 +1100",
-    "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "path": "Power Platform/Power Automate/PowerAutomate (2025 unofficial).svg",
+    "date": "2025-11-22 12:09:50 +0000",
+    "author": "Eickhel Mendoza",
+    "sha": "683553d56c5818f76b9d74fbc8df19a20ae189cc"
   },
   {
-    "path": "Azure/ai + machine learning/02409-icon-service-Metrics-Advisor.svg",
-    "date": "2026-01-14 13:01:37 +1100",
-    "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "path": "Power Platform/Power Apps/PowerApps (2025 unofficial).svg",
+    "date": "2025-11-22 12:09:13 +0000",
+    "author": "Eickhel Mendoza",
+    "sha": "4c7a8279f828e357e57ce43ee02df2ce3c8b00d2"
   },
   {
-    "path": "Azure/ai + machine learning/02749-icon-service-Azure-Applied-AI-Services.svg",
-    "date": "2026-01-14 13:01:37 +1100",
-    "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "path": "Dynamics 365/Dynamics 365 App Icons/CustomerInsights.png",
+    "date": "2025-11-12 15:15:13 +0100",
+    "author": "paulineko",
+    "sha": "9069dbdd742081061dca8f05f08667cf4febbd4a"
   },
   {
-    "path": "Azure/ai + machine learning/02876-icon-service-Language.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Microsoft 365/Stream/Microsoft_Stream.png",
+    "date": "2025-10-31 11:01:55 -0700",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "f710e2ab627319d20f35f621ec6c3960f2216a76"
   },
   {
-    "path": "Azure/ai + machine learning/03337-icon-service-Bonsai.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Microsoft 365/To Do/To_Do.png",
+    "date": "2025-10-31 11:01:55 -0700",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "f710e2ab627319d20f35f621ec6c3960f2216a76"
   },
   {
-    "path": "Azure/ai + machine learning/10044-icon-service-Cognitive-Search.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Microsoft 365/To Do/To_Do.svg",
+    "date": "2025-10-31 11:01:55 -0700",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "f710e2ab627319d20f35f621ec6c3960f2216a76"
   },
   {
-    "path": "Azure/ai + machine learning/10162-icon-service-Cognitive-Services.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Power Platform/Copilot Studio 300x300.png",
+    "date": "2025-10-28 11:58:23 -0700",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "a8d99b9b9595a8a7b30dd3504d08126d7451f73d"
   },
   {
-    "path": "Azure/ai + machine learning/10164-icon-service-Genomics-Accounts.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Bing icon.png",
+    "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   },
   {
-    "path": "Azure/ai + machine learning/10165-icon-service-Bot-Services.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Defender_512.png",
+    "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   },
   {
-    "path": "Azure/ai + machine learning/10166-icon-service-Machine-Learning.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Defender_512_padded.png",
+    "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   },
   {
-    "path": "Azure/ai + machine learning/10167-icon-service-Machine-Learning-Studio-Workspaces.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Designer icon.png",
+    "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   },
   {
-    "path": "Azure/ai + machine learning/10168-icon-service-Machine-Learning-Studio-Web-Service-Plans.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Microsoft 365/Access/Access_512.png",
+    "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   },
   {
-    "path": "Azure/analytics/00009-icon-service-Log-Analytics-Workspaces.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Microsoft 365/Access/Access_512_padded.png",
+    "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   },
   {
-    "path": "Azure/analytics/00039-icon-service-Event-Hubs.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Microsoft 365/Clipchamp/Clipchamp_512.png",
+    "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   },
   {
-    "path": "Azure/analytics/00042-icon-service-Stream-Analytics-Jobs.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Microsoft 365/Clipchamp/Clipchamp_512_padded.png",
+    "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   },
   {
-    "path": "Azure/analytics/00562-icon-service-Endpoint-Analytics.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Microsoft 365/Copilot in [app]/M365 icon.png",
+    "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   },
   {
-    "path": "Azure/analytics/00606-icon-service-Azure-Synapse-Analytics.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Microsoft 365/Excel/Excel_512.png",
+    "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   },
   {
-    "path": "Azure/analytics/02189-icon-service-Azure-Workbooks.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Microsoft 365/Excel/Excel_512_padded.png",
+    "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   },
   {
-    "path": "Azure/analytics/02209-icon-service-Private-Link-Services.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Microsoft 365/Forms/Forms_512.png",
+    "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   },
   {
-    "path": "Azure/analytics/03332-icon-service-Power-BI-Embedded.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Microsoft 365/Forms/Forms_512_padded.png",
+    "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   },
   {
-    "path": "Azure/analytics/03335-icon-service-Power-Platform.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Microsoft 365/Loop/Loop icon.png",
+    "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   },
   {
-    "path": "Azure/analytics/10126-icon-service-Data-Factories.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Microsoft 365/Microsoft Places 48x48.png",
+    "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   },
   {
-    "path": "Azure/analytics/10142-icon-service-HD-Insight-Clusters.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Microsoft 365/OneDrive/OneDrive_512.png",
+    "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   },
   {
-    "path": "Azure/analytics/10143-icon-service-Data-Lake-Analytics.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Microsoft 365/OneDrive/OneDrive_512_padded.png",
+    "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   },
   {
-    "path": "Azure/analytics/10145-icon-service-Azure-Data-Explorer-Clusters.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Microsoft 365/OneNote/OneNote_512.png",
+    "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   },
   {
-    "path": "Azure/analytics/10148-icon-service-Analysis-Services.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Microsoft 365/OneNote/OneNote_512_padded.png",
+    "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   },
   {
-    "path": "Azure/analytics/10149-icon-service-Event-Hub-Clusters.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Microsoft 365/Outlook/Outlook_512.png",
+    "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   },
   {
-    "path": "Azure/analytics/10150-icon-service-Data-Lake-Store-Gen1.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Microsoft 365/Outlook/Outlook_512_padded.png",
+    "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   },
   {
-    "path": "Azure/analytics/10787-icon-service-Azure-Databricks.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Microsoft 365/Pages icon.png",
+    "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   },
   {
-    "path": "Azure/app services/00046-icon-service-App-Service-Plans.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Microsoft 365/PowerPoint/PowerPoint_512.png",
+    "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   },
   {
-    "path": "Azure/app services/00049-icon-service-App-Service-Certificates.svg",
-    "date": "2026-01-14 13:01:37 +1100",
+    "path": "Microsoft 365/PowerPoint/PowerPoint_512_padded.png",
+    "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
-    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   }
 ];
 
@@ -24567,5 +24567,30 @@ const contributors = [
     "name": "Loryan Strant",
     "email": "51473494+loryanstrant@users.noreply.github.com",
     "github_username": "loryanstrant"
+  },
+  {
+    "name": "Jukka Niiranen",
+    "email": "jukkan@users.noreply.github.com",
+    "github_username": "jukkan"
+  },
+  {
+    "name": "Eickhel Mendoza",
+    "email": "17008622+Eickhel@users.noreply.github.com",
+    "github_username": "Eickhel"
+  },
+  {
+    "name": "Tobias Fenster",
+    "email": "tfenster@4psbau.de",
+    "github_username": null
+  },
+  {
+    "name": "Richard Hooper",
+    "email": "littlehoops@gmail.com",
+    "github_username": null
+  },
+  {
+    "name": "paulineko",
+    "email": "mail@paulinekolde.info",
+    "github_username": null
   }
 ];
