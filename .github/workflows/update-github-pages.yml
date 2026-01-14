@@ -28,6 +28,7 @@ jobs:
         with:
           ref: ${{ github.head_ref || github.ref }}
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0  # Fetch full git history for contributors and recent additions
       
       - name: Set up Python
         uses: actions/setup-python@v5
