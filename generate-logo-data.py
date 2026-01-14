@@ -196,6 +196,7 @@ def get_contributors(repo_root):
     """Get list of contributors from git history"""
     contributors_by_username = {}  # GitHub username -> contributor info
     contributors_by_name = {}      # Name (lowercase) -> contributor info
+    names_with_github_username = set()  # Track names that have GitHub usernames
     
     try:
         # Get all contributors
@@ -239,24 +240,20 @@ def get_contributors(repo_root):
                             'email': email,
                             'github_username': github_username
                         }
-                    # Also mark this name as seen with a GitHub username
-                    if name_key not in contributors_by_name:
-                        contributors_by_name[name_key] = github_username
+                    # Mark this name as having a GitHub username
+                    names_with_github_username.add(name_key)
                 else:
                     # No GitHub username - only add if we haven't seen this name with a GitHub username
-                    if name_key not in contributors_by_name:
+                    if name_key not in names_with_github_username and name_key not in contributors_by_name:
                         contributors_by_name[name_key] = {
                             'name': name,
                             'email': email,
                             'github_username': None
                         }
         
-        # Combine results: GitHub username entries + name-only entries (that don't have GitHub usernames)
+        # Combine results: GitHub username entries + name-only entries
         result = list(contributors_by_username.values())
-        for name_key, value in contributors_by_name.items():
-            # Only add if it's a dict (not a GitHub username reference)
-            if isinstance(value, dict):
-                result.append(value)
+        result.extend(contributors_by_name.values())
         
     except Exception as e:
         print(f"Warning: Error getting contributors: {e}")
