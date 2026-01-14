@@ -134,15 +134,16 @@ def get_recent_additions(repo_root, limit=50):
     try:
         # Get list of added files from git history (not renames or moves, just additions)
         # Using --diff-filter=A to get only added files
+        # Increase buffer since many commits don't contain logo files - we need 5x to ensure adequate coverage after filtering
         cmd = [
             'git', 'log', 
             '--all',
             '--pretty=format:%H|%ai|%an|%ae',
             '--name-status',
             '--diff-filter=A',
-            # Request more commits than needed because we'll filter out non-logo files
-            # We multiply by 3 to have a buffer since not all commits contain logo additions
-            f'-{limit * 3}'
+            # Request enough commits to find plenty of logo additions
+            # We multiply by 5 to have a buffer since not all commits contain logo additions
+            f'-{limit * 5}'
         ]
         
         result = subprocess.run(cmd, capture_output=True, text=True, cwd=repo_root)
@@ -180,9 +181,10 @@ def get_recent_additions(repo_root, limit=50):
                         'author': current_commit['author'],
                         'sha': current_commit['sha']
                     })
-                    
-                    if len(recent_files) >= limit:
-                        break
+        
+        # Sort collected files by date (most recent first) to show truly recent additions
+        # rather than files ordered by git log traversal (which can be alphabetical within commits)
+        recent_files.sort(key=lambda x: x['date'], reverse=True)
         
     except Exception as e:
         print(f"Warning: Error getting git history: {e}")
@@ -192,7 +194,9 @@ def get_recent_additions(repo_root, limit=50):
 
 def get_contributors(repo_root):
     """Get list of contributors from git history"""
-    contributors = {}
+    contributors_by_username = {}  # GitHub username -> contributor info
+    contributors_by_name = {}      # Name (lowercase) -> contributor info
+    names_with_github_username = set()  # Track names that have GitHub usernames
     
     try:
         # Get all contributors
@@ -225,18 +229,37 @@ def get_contributors(repo_root):
                     else:
                         github_username = email_parts
                 
-                if email not in contributors:
-                    contributors[email] = {
-                        'name': name,
-                        'email': email,
-                        'github_username': github_username
-                    }
+                # Deduplicate: prefer entries with GitHub usernames
+                name_key = name.lower()
+                
+                if github_username:
+                    # If we have a GitHub username, use it as the primary key
+                    if github_username not in contributors_by_username:
+                        contributors_by_username[github_username] = {
+                            'name': name,
+                            'email': email,
+                            'github_username': github_username
+                        }
+                    # Mark this name as having a GitHub username
+                    names_with_github_username.add(name_key)
+                else:
+                    # No GitHub username - only add if we haven't seen this name with a GitHub username
+                    if name_key not in names_with_github_username and name_key not in contributors_by_name:
+                        contributors_by_name[name_key] = {
+                            'name': name,
+                            'email': email,
+                            'github_username': None
+                        }
+        
+        # Combine results: GitHub username entries + name-only entries
+        result = list(contributors_by_username.values())
+        result.extend(contributors_by_name.values())
         
     except Exception as e:
         print(f"Warning: Error getting contributors: {e}")
         return []
     
-    return list(contributors.values())
+    return result
 
 def generate_logo_data_js(logos, recent_additions, contributors, output_file):
     """Generate logo-data.js file"""
