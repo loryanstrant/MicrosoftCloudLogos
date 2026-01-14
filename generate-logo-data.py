@@ -134,7 +134,7 @@ def get_recent_additions(repo_root, limit=50):
     try:
         # Get list of added files from git history (not renames or moves, just additions)
         # Using --diff-filter=A to get only added files
-        # We need to get more commits to ensure we have enough logo files after filtering
+        # Increase buffer since many commits don't contain logo files - we need 5x to ensure adequate coverage after filtering
         cmd = [
             'git', 'log', 
             '--all',
@@ -182,8 +182,8 @@ def get_recent_additions(repo_root, limit=50):
                         'sha': current_commit['sha']
                     })
         
-        # Sort by date (most recent first) to show truly recent additions
-        # rather than just the first N files found in git history
+        # Sort collected files by date (most recent first) to show truly recent additions
+        # rather than files ordered by git log traversal (which can be alphabetical within commits)
         recent_files.sort(key=lambda x: x['date'], reverse=True)
         
     except Exception as e:
