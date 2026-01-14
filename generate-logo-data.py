@@ -8,7 +8,9 @@ file used by the GitHub Pages interface.
 import os
 import json
 import re
+import subprocess
 from pathlib import Path
+from datetime import datetime
 
 # Configuration
 REPO_ROOT = Path(__file__).parent
@@ -125,7 +127,118 @@ def scan_logos(root_path):
     
     return logos
 
-def generate_logo_data_js(logos, output_file):
+def get_recent_additions(repo_root, limit=50):
+    """Get recently added logo files from git history"""
+    recent_files = []
+    
+    try:
+        # Get list of added files from git history (not renames or moves, just additions)
+        # Using --diff-filter=A to get only added files
+        cmd = [
+            'git', 'log', 
+            '--all',
+            '--pretty=format:%H|%ai|%an|%ae',
+            '--name-status',
+            '--diff-filter=A',
+            # Request more commits than needed because we'll filter out non-logo files
+            # We multiply by 3 to have a buffer since not all commits contain logo additions
+            f'-{limit * 3}'
+        ]
+        
+        result = subprocess.run(cmd, capture_output=True, text=True, cwd=repo_root)
+        
+        if result.returncode != 0:
+            print("Warning: Could not get git history for recent additions")
+            return []
+        
+        lines = result.stdout.split('\n')
+        current_commit = None
+        
+        for line in lines:
+            line = line.strip()
+            if '|' in line and len(line.split('|')) == 4:
+                # This is a commit info line
+                parts = line.split('|')
+                current_commit = {
+                    'sha': parts[0],
+                    'date': parts[1],
+                    'author': parts[2],
+                    'email': parts[3]
+                }
+            elif line.startswith('A\t') and current_commit:
+                # This is an added file
+                file_path = line[2:].strip()
+                
+                # Check if it's a logo file and not in excluded folders
+                path_obj = Path(file_path)
+                if (path_obj.suffix.lower() in LOGO_EXTENSIONS and
+                    not any(excluded in path_obj.parts for excluded in EXCLUDE_FOLDERS)):
+                    
+                    recent_files.append({
+                        'path': file_path,
+                        'date': current_commit['date'],
+                        'author': current_commit['author'],
+                        'sha': current_commit['sha']
+                    })
+                    
+                    if len(recent_files) >= limit:
+                        break
+        
+    except Exception as e:
+        print(f"Warning: Error getting git history: {e}")
+        return []
+    
+    return recent_files[:limit]
+
+def get_contributors(repo_root):
+    """Get list of contributors from git history"""
+    contributors = {}
+    
+    try:
+        # Get all contributors
+        cmd = ['git', 'log', '--all', '--pretty=format:%an|%ae']
+        result = subprocess.run(cmd, capture_output=True, text=True, cwd=repo_root)
+        
+        if result.returncode != 0:
+            print("Warning: Could not get git history for contributors")
+            return []
+        
+        lines = result.stdout.split('\n')
+        for line in lines:
+            line = line.strip()
+            if '|' in line:
+                parts = line.split('|')
+                name = parts[0]
+                email = parts[1]
+                
+                # Skip bot accounts
+                if 'bot' in email.lower() or 'bot' in name.lower():
+                    continue
+                
+                # Extract GitHub username from email if it's a GitHub noreply email
+                github_username = None
+                if 'users.noreply.github.com' in email:
+                    # Format: username@users.noreply.github.com or id+username@users.noreply.github.com
+                    email_parts = email.split('@')[0]
+                    if '+' in email_parts:
+                        github_username = email_parts.split('+')[1]
+                    else:
+                        github_username = email_parts
+                
+                if email not in contributors:
+                    contributors[email] = {
+                        'name': name,
+                        'email': email,
+                        'github_username': github_username
+                    }
+        
+    except Exception as e:
+        print(f"Warning: Error getting contributors: {e}")
+        return []
+    
+    return list(contributors.values())
+
+def generate_logo_data_js(logos, recent_additions, contributors, output_file):
     """Generate logo-data.js file"""
     # Sort logos by name for consistency
     logos_sorted = sorted(logos, key=lambda x: (x['family'], x['name'], x['path']))
@@ -134,6 +247,18 @@ def generate_logo_data_js(logos, output_file):
     js_content = "// Auto-generated logo data\n"
     js_content += "const logoData = "
     js_content += json.dumps(logos_sorted, indent=2)
+    js_content += ";\n\n"
+    
+    # Add recent additions
+    js_content += "// Recently added files\n"
+    js_content += "const recentAdditions = "
+    js_content += json.dumps(recent_additions, indent=2)
+    js_content += ";\n\n"
+    
+    # Add contributors
+    js_content += "// Contributors\n"
+    js_content += "const contributors = "
+    js_content += json.dumps(contributors, indent=2)
     js_content += ";\n"
     
     # Write to file
@@ -150,8 +275,16 @@ def main():
     
     print(f"Found {len(logos)} logo files")
     
+    print("Getting recent additions from git history...")
+    recent_additions = get_recent_additions(REPO_ROOT, limit=50)
+    print(f"Found {len(recent_additions)} recent additions")
+    
+    print("Getting contributors from git history...")
+    contributors = get_contributors(REPO_ROOT)
+    print(f"Found {len(contributors)} contributors")
+    
     print(f"Generating {OUTPUT_FILE}...")
-    count = generate_logo_data_js(logos, OUTPUT_FILE)
+    count = generate_logo_data_js(logos, recent_additions, contributors, OUTPUT_FILE)
     
     print(f"✓ Generated logo-data.js with {count} logos")
     
@@ -164,6 +297,7 @@ def main():
     print("\nLogos by product family:")
     for family in sorted(families.keys()):
         print(f"  {family}: {families[family]}")
+
 
 if __name__ == '__main__':
     main()

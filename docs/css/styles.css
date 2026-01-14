@@ -1149,6 +1149,141 @@ a:hover {
     border-radius: var(--radius-sm);
 }
 
+/* Recent Updates Styles */
+.recent-updates-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+}
+
+.recent-update-item {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    overflow: hidden;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.recent-update-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.recent-update-preview {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--input-bg);
+    padding: 1rem;
+}
+
+.recent-update-preview img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.recent-update-info {
+    padding: 1rem;
+}
+
+.recent-update-filename {
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 0 0 0.5rem 0;
+    color: var(--text-color);
+    word-break: break-word;
+}
+
+.recent-update-path {
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+    margin: 0 0 0.75rem 0;
+    font-family: 'Courier New', monospace;
+    word-break: break-all;
+}
+
+.recent-update-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    margin-bottom: 0.75rem;
+    font-size: 0.875rem;
+}
+
+.recent-update-date,
+.recent-update-author {
+    color: var(--text-secondary);
+}
+
+.recent-update-actions {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.no-data {
+    text-align: center;
+    padding: 2rem;
+    color: var(--text-secondary);
+}
+
+/* Contributors Styles */
+.contributors-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1.5rem;
+}
+
+.contributor-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    overflow: hidden;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.contributor-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.contributor-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    text-decoration: none;
+    color: var(--text-color);
+}
+
+.contributor-avatar {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 3px solid var(--primary-color);
+    margin-bottom: 1rem;
+    object-fit: cover;
+}
+
+.contributor-info {
+    text-align: center;
+}
+
+.contributor-name {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin: 0 0 0.25rem 0;
+    color: var(--text-color);
+}
+
+.contributor-username {
+    font-size: 0.875rem;
+    color: var(--text-secondary);
+    margin: 0;
+}
+
 @media (max-width: 768px) {
     .welcome-content {
         flex-direction: column;
@@ -1174,5 +1309,10 @@ a:hover {
     .reference-links-table th,
     .reference-links-table td {
         padding: 0.5rem;
+    }
+
+    .recent-updates-list,
+    .contributors-list {
+        grid-template-columns: 1fr;
     }
 }

@@ -11,7 +11,8 @@
         itemsPerPage: 48,
         githubBaseUrl: 'https://github.com/loryanstrant/MicrosoftCloudLogos/blob/main/',
         rawBaseUrl: 'https://raw.githubusercontent.com/loryanstrant/MicrosoftCloudLogos/main/',
-        docsBaseUrl: './' // For reference links - relative to GitHub Pages
+        docsBaseUrl: './', // For reference links - relative to GitHub Pages
+        defaultAvatarUrl: 'https://github.com/github.png' // Default GitHub avatar
     };
 
     // Constants for year filter values
@@ -66,7 +67,9 @@
             home: document.getElementById('home-tab'),
             gallery: document.getElementById('gallery-tab'),
             folders: document.getElementById('folders-tab'),
-            reference: document.getElementById('reference-tab')
+            reference: document.getElementById('reference-tab'),
+            recent: document.getElementById('recent-tab'),
+            contributors: document.getElementById('contributors-tab')
         },
         searchInput: document.getElementById('search-input'),
         familyFilter: document.getElementById('family-filter'),
@@ -96,7 +99,9 @@
         themeToggle: document.getElementById('theme-toggle'),
         folderBreadcrumb: document.getElementById('folder-breadcrumb'),
         folderGrid: document.getElementById('folder-grid'),
-        referenceTableBody: document.getElementById('reference-table-body')
+        referenceTableBody: document.getElementById('reference-table-body'),
+        recentUpdatesList: document.getElementById('recent-updates-list'),
+        contributorsList: document.getElementById('contributors-list')
     };
 
     /**
@@ -134,6 +139,12 @@
 
         // Initialize reference links
         renderReferenceLinks();
+
+        // Initialize recent updates
+        renderRecentUpdates();
+
+        // Initialize contributors
+        renderContributors();
 
         // Set up event listeners
         setupEventListeners();
@@ -866,6 +877,109 @@
             });
             
             elements.referenceTableBody.appendChild(row);
+        });
+    }
+
+    /**
+     * Render recent updates list
+     */
+    function renderRecentUpdates() {
+        if (!elements.recentUpdatesList) return;
+        
+        // Check if recentAdditions data is available
+        if (typeof recentAdditions === 'undefined' || !recentAdditions.length) {
+            elements.recentUpdatesList.innerHTML = '<p class="no-data">No recent updates data available.</p>';
+            return;
+        }
+        
+        elements.recentUpdatesList.innerHTML = '';
+        
+        recentAdditions.forEach(item => {
+            const date = new Date(item.date);
+            const formattedDate = date.toLocaleDateString('en-US', { 
+                year: 'numeric', 
+                month: 'long', 
+                day: 'numeric' 
+            });
+            
+            // Get filename from path
+            const filename = item.path.split('/').pop();
+            
+            // Create URL to the file on GitHub
+            const githubUrl = `${CONFIG.githubBaseUrl}${item.path}`;
+            
+            // Create URL for the raw file
+            const rawUrl = `${CONFIG.rawBaseUrl}${item.path}`;
+            
+            const card = document.createElement('div');
+            card.className = 'recent-update-item';
+            card.innerHTML = `
+                <div class="recent-update-preview">
+                    <img src="${rawUrl}" alt="${escapeHtml(filename)}" loading="lazy">
+                </div>
+                <div class="recent-update-info">
+                    <h3 class="recent-update-filename">${escapeHtml(filename)}</h3>
+                    <p class="recent-update-path">${escapeHtml(item.path)}</p>
+                    <p class="recent-update-meta">
+                        <span class="recent-update-date">📅 ${formattedDate}</span>
+                        <span class="recent-update-author">👤 ${escapeHtml(item.author)}</span>
+                    </p>
+                    <div class="recent-update-actions">
+                        <a href="${githubUrl}" target="_blank" rel="noopener noreferrer" class="github-btn">View on GitHub</a>
+                    </div>
+                </div>
+            `;
+            
+            // Add error handler to image programmatically to avoid XSS
+            const img = card.querySelector('.recent-update-preview img');
+            if (img) {
+                img.onerror = function() {
+                    this.src = FALLBACK_IMAGE_SVG;
+                };
+            }
+            
+            elements.recentUpdatesList.appendChild(card);
+        });
+    }
+
+    /**
+     * Render contributors list
+     */
+    function renderContributors() {
+        if (!elements.contributorsList) return;
+        
+        // Check if contributors data is available
+        if (typeof contributors === 'undefined' || !contributors.length) {
+            elements.contributorsList.innerHTML = '<p class="no-data">No contributors data available.</p>';
+            return;
+        }
+        
+        elements.contributorsList.innerHTML = '';
+        
+        contributors.forEach(contributor => {
+            const card = document.createElement('div');
+            card.className = 'contributor-card';
+            
+            // Build GitHub profile URL
+            let githubUrl = '#';
+            let avatarUrl = CONFIG.defaultAvatarUrl;
+            
+            if (contributor.github_username) {
+                githubUrl = `https://github.com/${contributor.github_username}`;
+                avatarUrl = `https://github.com/${contributor.github_username}.png?size=200`;
+            }
+            
+            card.innerHTML = `
+                <a href="${githubUrl}" target="_blank" rel="noopener noreferrer" class="contributor-link">
+                    <img src="${avatarUrl}" alt="${escapeHtml(contributor.name)}" class="contributor-avatar" loading="lazy">
+                    <div class="contributor-info">
+                        <h3 class="contributor-name">${escapeHtml(contributor.name)}</h3>
+                        ${contributor.github_username ? `<p class="contributor-username">@${escapeHtml(contributor.github_username)}</p>` : ''}
+                    </div>
+                </a>
+            `;
+            
+            elements.contributorsList.appendChild(card);
         });
     }
 
