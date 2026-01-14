@@ -24261,305 +24261,311 @@ const logoData = [
 const recentAdditions = [
   {
     "path": "Azure/Azure 256x256 padded.png",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/Azure AI Studio logo 315x315.png",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/Azure.png",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/00028-icon-service-Batch-AI.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/00030-icon-service-Machine-Learning-Studio-(Classic)-Web-Services.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/00031-icon-service-Genomics.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/00792-icon-service-Computer-Vision.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/00793-icon-service-Custom-Vision.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/00794-icon-service-Face-APIs.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/00795-icon-service-Content-Moderators.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/00796-icon-service-Personalizers.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/00797-icon-service-Speech-Services.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/00799-icon-service-QnA-Makers.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/00800-icon-service-Translator-Text.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/00801-icon-service-Language-Understanding.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/00812-icon-service-Immersive-Readers.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/00814-icon-service-Anomaly-Detector.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/00819-icon-service-Form-Recognizers.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/01239-icon-service-Azure-Experimentation-Studio.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/01688-icon-service-Azure-Object-Understanding.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/02409-icon-service-Metrics-Advisor.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/02749-icon-service-Azure-Applied-AI-Services.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/02876-icon-service-Language.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/03337-icon-service-Bonsai.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/10044-icon-service-Cognitive-Search.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/10162-icon-service-Cognitive-Services.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/10164-icon-service-Genomics-Accounts.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/10165-icon-service-Bot-Services.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/10166-icon-service-Machine-Learning.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/10167-icon-service-Machine-Learning-Studio-Workspaces.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/ai + machine learning/10168-icon-service-Machine-Learning-Studio-Web-Service-Plans.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/analytics/00009-icon-service-Log-Analytics-Workspaces.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/analytics/00039-icon-service-Event-Hubs.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/analytics/00042-icon-service-Stream-Analytics-Jobs.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/analytics/00562-icon-service-Endpoint-Analytics.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/analytics/00606-icon-service-Azure-Synapse-Analytics.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/analytics/02189-icon-service-Azure-Workbooks.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/analytics/02209-icon-service-Private-Link-Services.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/analytics/03332-icon-service-Power-BI-Embedded.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/analytics/03335-icon-service-Power-Platform.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/analytics/10126-icon-service-Data-Factories.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/analytics/10142-icon-service-HD-Insight-Clusters.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/analytics/10143-icon-service-Data-Lake-Analytics.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/analytics/10145-icon-service-Azure-Data-Explorer-Clusters.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/analytics/10148-icon-service-Analysis-Services.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/analytics/10149-icon-service-Event-Hub-Clusters.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/analytics/10150-icon-service-Data-Lake-Store-Gen1.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/analytics/10787-icon-service-Azure-Databricks.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/app services/00046-icon-service-App-Service-Plans.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   },
   {
     "path": "Azure/app services/00049-icon-service-App-Service-Certificates.svg",
-    "date": "2026-01-13 23:40:35 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "82a14fad69dd82ddd1d95a201d85e82dd4c344a2"
+    "date": "2026-01-14 13:01:37 +1100",
+    "author": "Loryan Strant",
+    "sha": "0b77294d9f86035ff7b2470e65f5e348cb3dfe73"
   }
 ];
 
 // Contributors
-const contributors = [];
+const contributors = [
+  {
+    "name": "Loryan Strant",
+    "email": "51473494+loryanstrant@users.noreply.github.com",
+    "github_username": "loryanstrant"
+  }
+];
