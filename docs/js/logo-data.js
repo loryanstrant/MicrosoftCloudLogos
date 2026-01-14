@@ -24362,36 +24362,6 @@ const recentAdditions = [
     "sha": "d897cd59a6b9f58a6ef151f15541b9f6a071b01f"
   },
   {
-    "path": "Power Platform/Agent 365.svg",
-    "date": "2025-11-29 15:08:33 +0200",
-    "author": "Jukka Niiranen",
-    "sha": "5942835c32b358e9358395ffe7b1edb540a2a745"
-  },
-  {
-    "path": "Power Platform/PowerPages (2025 unofficial).svg",
-    "date": "2025-11-22 12:10:52 +0000",
-    "author": "Eickhel Mendoza",
-    "sha": "8b0fecffbf7474de686ec4df3e342543d3416e51"
-  },
-  {
-    "path": "Power Platform/Power Automate/PowerAutomate (2025 unofficial).svg",
-    "date": "2025-11-22 12:09:50 +0000",
-    "author": "Eickhel Mendoza",
-    "sha": "683553d56c5818f76b9d74fbc8df19a20ae189cc"
-  },
-  {
-    "path": "Power Platform/Power Apps/PowerApps (2025 unofficial).svg",
-    "date": "2025-11-22 12:09:13 +0000",
-    "author": "Eickhel Mendoza",
-    "sha": "4c7a8279f828e357e57ce43ee02df2ce3c8b00d2"
-  },
-  {
-    "path": "Dynamics 365/Dynamics 365 App Icons/CustomerInsights.png",
-    "date": "2025-11-12 15:15:13 +0100",
-    "author": "paulineko",
-    "sha": "9069dbdd742081061dca8f05f08667cf4febbd4a"
-  },
-  {
     "path": "Microsoft 365/Stream/Microsoft_Stream.png",
     "date": "2025-10-31 11:01:55 -0700",
     "author": "Loryan Strant",
@@ -24408,36 +24378,6 @@ const recentAdditions = [
     "date": "2025-10-31 11:01:55 -0700",
     "author": "Loryan Strant",
     "sha": "f710e2ab627319d20f35f621ec6c3960f2216a76"
-  },
-  {
-    "path": "Power Platform/Copilot Studio 300x300.png",
-    "date": "2025-10-28 11:58:23 -0700",
-    "author": "Loryan Strant",
-    "sha": "a8d99b9b9595a8a7b30dd3504d08126d7451f73d"
-  },
-  {
-    "path": "Bing icon.png",
-    "date": "2025-10-22 20:03:16 +1100",
-    "author": "Loryan Strant",
-    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
-  },
-  {
-    "path": "Defender_512.png",
-    "date": "2025-10-22 20:03:16 +1100",
-    "author": "Loryan Strant",
-    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
-  },
-  {
-    "path": "Defender_512_padded.png",
-    "date": "2025-10-22 20:03:16 +1100",
-    "author": "Loryan Strant",
-    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
-  },
-  {
-    "path": "Designer icon.png",
-    "date": "2025-10-22 20:03:16 +1100",
-    "author": "Loryan Strant",
-    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   },
   {
     "path": "Microsoft 365/Access/Access_512.png",
@@ -24500,12 +24440,6 @@ const recentAdditions = [
     "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
   },
   {
-    "path": "Microsoft 365/Microsoft Places 48x48.png",
-    "date": "2025-10-22 20:03:16 +1100",
-    "author": "Loryan Strant",
-    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
-  },
-  {
     "path": "Microsoft 365/OneDrive/OneDrive_512.png",
     "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
@@ -24558,39 +24492,105 @@ const recentAdditions = [
     "date": "2025-10-22 20:03:16 +1100",
     "author": "Loryan Strant",
     "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
+  },
+  {
+    "path": "Microsoft 365/SharePoint/SharePoint_512.png",
+    "date": "2025-10-22 20:03:16 +1100",
+    "author": "Loryan Strant",
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
+  },
+  {
+    "path": "Microsoft 365/SharePoint/SharePoint_512_padded.png",
+    "date": "2025-10-22 20:03:16 +1100",
+    "author": "Loryan Strant",
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
+  },
+  {
+    "path": "Microsoft 365/Teams/Teams_512.png",
+    "date": "2025-10-22 20:03:16 +1100",
+    "author": "Loryan Strant",
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
+  },
+  {
+    "path": "Microsoft 365/Teams/Teams_512_padded.png",
+    "date": "2025-10-22 20:03:16 +1100",
+    "author": "Loryan Strant",
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
+  },
+  {
+    "path": "Microsoft 365/Word/Word_512.png",
+    "date": "2025-10-22 20:03:16 +1100",
+    "author": "Loryan Strant",
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
+  },
+  {
+    "path": "Microsoft 365/Word/Word_512_padded.png",
+    "date": "2025-10-22 20:03:16 +1100",
+    "author": "Loryan Strant",
+    "sha": "ce3ea23322ecea79431cf895693039d57a3629b8"
+  },
+  {
+    "path": "Microsoft 365/Excel/Excel 1024x1024 (2025 unofficial).png",
+    "date": "2025-10-07 16:24:11 +1100",
+    "author": "Loryan Strant",
+    "sha": "f67f833162d159e475133105c2c127bb4d6f99ad"
+  },
+  {
+    "path": "Microsoft 365/Word/Word 1024x1024 (2025 unofficial).png",
+    "date": "2025-10-07 16:23:50 +1100",
+    "author": "Loryan Strant",
+    "sha": "2fab7fa35fd5e0f5fb20693083e792a7060fe9dd"
+  },
+  {
+    "path": "Microsoft 365/Teams/Teams 1024x1024 (2025 unofficial).png",
+    "date": "2025-10-07 16:23:33 +1100",
+    "author": "Loryan Strant",
+    "sha": "72731c7047679eafdb6d6b35eaa5f67fecdc41a0"
+  },
+  {
+    "path": "Microsoft 365/SharePoint/SharePoint 1024x1024 (2025 unofficial).png",
+    "date": "2025-10-07 16:23:14 +1100",
+    "author": "Loryan Strant",
+    "sha": "4d586949b9432cadb4e87f949621b9f65dc9d32d"
+  },
+  {
+    "path": "Microsoft 365/PowerPoint/PowerPoint 1024x1024 (2025 unofficial).png",
+    "date": "2025-10-07 16:22:56 +1100",
+    "author": "Loryan Strant",
+    "sha": "8c5d1514841b78112ec44040de7a34219d595453"
   }
 ];
 
 // Contributors
 const contributors = [
   {
-    "name": "Loryan Strant",
-    "email": "51473494+loryanstrant@users.noreply.github.com",
-    "github_username": "loryanstrant"
+    "name": "loryanstrant",
+    "github_username": "loryanstrant",
+    "contributions": 100
   },
   {
-    "name": "Jukka Niiranen",
-    "email": "jukkan@users.noreply.github.com",
-    "github_username": "jukkan"
+    "name": "pauline-kolde",
+    "github_username": "pauline-kolde",
+    "contributions": 5
   },
   {
-    "name": "Eickhel Mendoza",
-    "email": "17008622+Eickhel@users.noreply.github.com",
-    "github_username": "Eickhel"
+    "name": "tfenster",
+    "github_username": "tfenster",
+    "contributions": 4
   },
   {
-    "name": "Tobias Fenster",
-    "email": "tfenster@4psbau.de",
-    "github_username": null
+    "name": "Eickhel",
+    "github_username": "Eickhel",
+    "contributions": 3
   },
   {
-    "name": "Richard Hooper",
-    "email": "littlehoops@gmail.com",
-    "github_username": null
+    "name": "PixelRobots",
+    "github_username": "PixelRobots",
+    "contributions": 3
   },
   {
-    "name": "paulineko",
-    "email": "mail@paulinekolde.info",
-    "github_username": null
+    "name": "jukkan",
+    "github_username": "jukkan",
+    "contributions": 1
   }
 ];

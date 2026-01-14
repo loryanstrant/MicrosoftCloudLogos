@@ -9,6 +9,7 @@ import os
 import json
 import re
 import subprocess
+import urllib.request
 from pathlib import Path
 from datetime import datetime
 
@@ -175,12 +176,15 @@ def get_recent_additions(repo_root, limit=50):
                 if (path_obj.suffix.lower() in LOGO_EXTENSIONS and
                     not any(excluded in path_obj.parts for excluded in EXCLUDE_FOLDERS)):
                     
-                    recent_files.append({
-                        'path': file_path,
-                        'date': current_commit['date'],
-                        'author': current_commit['author'],
-                        'sha': current_commit['sha']
-                    })
+                    # Check if file still exists before adding to the list
+                    full_path = repo_root / file_path
+                    if full_path.exists():
+                        recent_files.append({
+                            'path': file_path,
+                            'date': current_commit['date'],
+                            'author': current_commit['author'],
+                            'sha': current_commit['sha']
+                        })
         
         # Sort collected files by date (most recent first) to show truly recent additions
         # rather than files ordered by git log traversal (which can be alphabetical within commits)
@@ -193,7 +197,76 @@ def get_recent_additions(repo_root, limit=50):
     return recent_files[:limit]
 
 def get_contributors(repo_root):
-    """Get list of contributors from git history"""
+    """Get list of contributors from GitHub API"""
+    contributors_list = []
+    
+    try:
+        # Try to detect repository owner/name from git remote
+        cmd = ['git', 'config', '--get', 'remote.origin.url']
+        result = subprocess.run(cmd, capture_output=True, text=True, cwd=repo_root)
+        
+        if result.returncode != 0:
+            print("Warning: Could not get git remote URL")
+            return []
+        
+        # Parse GitHub repo from remote URL
+        # Formats: https://github.com/owner/repo.git or git@github.com:owner/repo.git
+        remote_url = result.stdout.strip()
+        match = re.search(r'github\.com[:/]([^/]+)/([^/\s]+?)(?:\.git)?$', remote_url)
+        
+        if not match:
+            print("Warning: Could not parse GitHub repository from remote URL")
+            return []
+        
+        owner = match.group(1)
+        repo = match.group(2)
+        
+        # Fetch contributors from GitHub API
+        api_url = f'https://api.github.com/repos/{owner}/{repo}/contributors'
+        
+        # Add User-Agent header as required by GitHub API
+        req = urllib.request.Request(api_url)
+        req.add_header('User-Agent', 'MicrosoftCloudLogos-Generator/1.0')
+        
+        with urllib.request.urlopen(req, timeout=10) as response:
+            data = json.loads(response.read().decode('utf-8'))
+            
+            for contributor in data:
+                # Skip bot accounts based on type field
+                contrib_type = contributor.get('type', '')
+                
+                if contrib_type == 'Bot':
+                    continue
+                
+                login = contributor.get('login', '')
+                
+                # Skip accounts with [bot] suffix in the login
+                if '[bot]' in login:
+                    continue
+                
+                contributors_list.append({
+                    'name': login,  # Use login as display name
+                    'github_username': login,
+                    'contributions': contributor.get('contributions', 0)
+                })
+        
+        print(f"Fetched {len(contributors_list)} contributors from GitHub API")
+        
+    except urllib.error.URLError as e:
+        print(f"Warning: Could not fetch contributors from GitHub API: {e}")
+        print("Falling back to git log method...")
+        # Fall back to git log if API call fails
+        return get_contributors_from_git(repo_root)
+    except Exception as e:
+        print(f"Warning: Error getting contributors: {e}")
+        print("Falling back to git log method...")
+        return get_contributors_from_git(repo_root)
+    
+    return contributors_list
+
+
+def get_contributors_from_git(repo_root):
+    """Fallback method: Get list of contributors from git history"""
     contributors_by_username = {}  # GitHub username -> contributor info
     contributors_by_name = {}      # Name (lowercase) -> contributor info
     names_with_github_username = set()  # Track names that have GitHub usernames
@@ -237,7 +310,6 @@ def get_contributors(repo_root):
                     if github_username not in contributors_by_username:
                         contributors_by_username[github_username] = {
                             'name': name,
-                            'email': email,
                             'github_username': github_username
                         }
                     # Mark this name as having a GitHub username
@@ -247,7 +319,6 @@ def get_contributors(repo_root):
                     if name_key not in names_with_github_username and name_key not in contributors_by_name:
                         contributors_by_name[name_key] = {
                             'name': name,
-                            'email': email,
                             'github_username': None
                         }
         
