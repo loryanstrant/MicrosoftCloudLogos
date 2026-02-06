@@ -24599,7 +24599,7 @@ const contributors = [
   {
     "name": "loryanstrant",
     "github_username": "loryanstrant",
-    "contributions": 103
+    "contributions": 104
   },
   {
     "name": "pauline-kolde",
@@ -24622,13 +24622,13 @@ const contributors = [
     "contributions": 3
   },
   {
-    "name": "jukkan",
-    "github_username": "jukkan",
-    "contributions": 1
-  },
-  {
     "name": "YannickRe",
     "github_username": "YannickRe",
+    "contributions": 2
+  },
+  {
+    "name": "jukkan",
+    "github_username": "jukkan",
     "contributions": 1
   }
 ];
