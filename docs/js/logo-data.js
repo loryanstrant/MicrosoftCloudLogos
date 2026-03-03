@@ -24630,42 +24630,42 @@ const recentAdditions = [
 // Contributors
 const contributors = [
   {
-    "name": "loryanstrant",
+    "name": "Loryan Strant",
     "github_username": "loryanstrant",
     "contributions": 106
   },
   {
-    "name": "pauline-kolde",
+    "name": "paulineko",
     "github_username": "pauline-kolde",
     "contributions": 5
   },
   {
-    "name": "tfenster",
+    "name": "Tobias Fenster",
     "github_username": "tfenster",
     "contributions": 4
   },
   {
-    "name": "Eickhel",
+    "name": "Eickhel Mendoza",
     "github_username": "Eickhel",
     "contributions": 3
   },
   {
-    "name": "PixelRobots",
+    "name": "Richard Hooper",
     "github_username": "PixelRobots",
     "contributions": 3
   },
   {
-    "name": "YannickRe",
+    "name": "Yannick Reekmans",
     "github_username": "YannickRe",
     "contributions": 2
   },
   {
-    "name": "jukkan",
+    "name": "Jukka Niiranen",
     "github_username": "jukkan",
     "contributions": 1
   },
   {
-    "name": "kevmcdonk",
+    "name": "Kevin McDonnell",
     "github_username": "kevmcdonk",
     "contributions": 1
   }

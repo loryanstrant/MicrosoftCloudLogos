@@ -196,6 +196,30 @@ def get_recent_additions(repo_root, limit=50):
     
     return recent_files[:limit]
 
+def make_github_api_request(url):
+    """Make a GitHub API request, using GITHUB_TOKEN if available"""
+    req = urllib.request.Request(url)
+    req.add_header('User-Agent', 'MicrosoftCloudLogos-Generator/1.0')
+    req.add_header('Accept', 'application/vnd.github+json')
+    github_token = os.environ.get('GITHUB_TOKEN', '')
+    if github_token:
+        req.add_header('Authorization', f'Bearer {github_token}')
+    return req
+
+
+def get_github_display_name(login):
+    """Fetch display name from GitHub user profile, falling back to login"""
+    try:
+        req = make_github_api_request(f'https://api.github.com/users/{login}')
+        with urllib.request.urlopen(req, timeout=10) as response:
+            data = json.loads(response.read().decode('utf-8'))
+            display_name = data.get('name') or ''
+            return display_name.strip() if display_name.strip() else login
+    except Exception as e:
+        print(f"Warning: Could not fetch display name for {login}: {e}")
+        return login
+
+
 def get_contributors(repo_root):
     """Get list of contributors from GitHub API"""
     contributors_list = []
@@ -224,9 +248,7 @@ def get_contributors(repo_root):
         # Fetch contributors from GitHub API
         api_url = f'https://api.github.com/repos/{owner}/{repo}/contributors'
         
-        # Add User-Agent header as required by GitHub API
-        req = urllib.request.Request(api_url)
-        req.add_header('User-Agent', 'MicrosoftCloudLogos-Generator/1.0')
+        req = make_github_api_request(api_url)
         
         with urllib.request.urlopen(req, timeout=10) as response:
             data = json.loads(response.read().decode('utf-8'))
@@ -244,8 +266,11 @@ def get_contributors(repo_root):
                 if '[bot]' in login:
                     continue
                 
+                # Fetch display name from user profile
+                display_name = get_github_display_name(login)
+                
                 contributors_list.append({
-                    'name': login,  # Use login as display name
+                    'name': display_name,
                     'github_username': login,
                     'contributions': contributor.get('contributions', 0)
                 })
