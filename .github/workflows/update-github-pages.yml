@@ -37,6 +37,8 @@ jobs:
       
       - name: Run generate-logo-data.py
         run: python3 generate-logo-data.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Check for changes
         id: check_changes
