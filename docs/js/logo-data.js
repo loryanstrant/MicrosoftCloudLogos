@@ -7640,7 +7640,7 @@ const logoData = [
     "filename": "Azure_AD.png",
     "path": "Entra/Azure_Active_Directory/2013-2023/Azure_AD.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2013-2023",
     "size": "",
     "format": "PNG",
     "id": 2028
@@ -7651,7 +7651,7 @@ const logoData = [
     "filename": "Azure_AD_256x256.png",
     "path": "Entra/Azure_Active_Directory/2013-2023/Azure_AD_256x256.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2013-2023",
     "size": "256x256",
     "format": "PNG",
     "id": 2027
@@ -7662,7 +7662,7 @@ const logoData = [
     "filename": "Azure_AD_black_&_white.png",
     "path": "Entra/Azure_Active_Directory/2013-2023/Azure_AD_black_&_white.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2013-2023",
     "size": "",
     "format": "PNG",
     "id": 2026
@@ -12846,18 +12846,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 897
-  },
-  {
-    "name": "Outlook Calendar",
-    "family": "Microsoft_365",
-    "filename": "Outlook-Calendar.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_calendar/2013-2019_negative-format/Outlook-Calendar.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 409
+    "id": 800
   },
   {
     "name": "Outlook Calendar",
@@ -12865,10 +12854,10 @@ const logoData = [
     "filename": "Outlook-Calendar_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_calendar/2013-2019_negative-format/Outlook-Calendar_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 408
+    "id": 386
   },
   {
     "name": "Outlook Calendar",
@@ -12876,10 +12865,10 @@ const logoData = [
     "filename": "Outlook-Calendar_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_calendar/2013-2019_negative-format/Outlook-Calendar_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 407
+    "id": 385
   },
   {
     "name": "Outlook Calendar",
@@ -12887,10 +12876,10 @@ const logoData = [
     "filename": "Outlook-Calendar_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_calendar/2013-2019_negative-format/Outlook-Calendar_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 404
+    "id": 382
   },
   {
     "name": "Outlook Calendar",
@@ -12898,10 +12887,10 @@ const logoData = [
     "filename": "Outlook-Calendar_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_calendar/2013-2019_negative-format/Outlook-Calendar_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 405
+    "id": 383
   },
   {
     "name": "Outlook Calendar",
@@ -12909,21 +12898,10 @@ const logoData = [
     "filename": "Outlook-Calendar_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_calendar/2013-2019_negative-format/Outlook-Calendar_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 406
-  },
-  {
-    "name": "Outlook Customer Manager",
-    "family": "Microsoft_365",
-    "filename": "Outlook-Customer-Manager.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_Customer_Manager/2016-2020_negative-format/Outlook-Customer-Manager.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 500
+    "id": 384
   },
   {
     "name": "Outlook Customer Manager",
@@ -13033,18 +13011,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "96x96",
     "format": "PNG",
-    "id": 507
-  },
-  {
-    "name": "Outlookcalendar",
-    "family": "Microsoft_365",
-    "filename": "OutlookCalendar.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_calendar/2013-2019_postive-format/OutlookCalendar.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 400
+    "id": 468
   },
   {
     "name": "Outlookcalendar",
@@ -13052,10 +13019,10 @@ const logoData = [
     "filename": "OutlookCalendar_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_calendar/2013-2019_postive-format/OutlookCalendar_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 398
+    "id": 377
   },
   {
     "name": "Outlookcalendar",
@@ -13063,10 +13030,10 @@ const logoData = [
     "filename": "OutlookCalendar_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_calendar/2013-2019_postive-format/OutlookCalendar_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 399
+    "id": 378
   },
   {
     "name": "Outlookcalendar",
@@ -13074,10 +13041,10 @@ const logoData = [
     "filename": "OutlookCalendar_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_calendar/2013-2019_postive-format/OutlookCalendar_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 401
+    "id": 379
   },
   {
     "name": "Outlookcalendar",
@@ -13085,10 +13052,10 @@ const logoData = [
     "filename": "OutlookCalendar_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_calendar/2013-2019_postive-format/OutlookCalendar_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 403
+    "id": 381
   },
   {
     "name": "Outlookcalendar",
@@ -13096,10 +13063,10 @@ const logoData = [
     "filename": "OutlookCalendar_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_calendar/2013-2019_postive-format/OutlookCalendar_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 402
+    "id": 380
   },
   {
     "name": "Pages Icon",
@@ -19432,7 +19399,7 @@ const logoData = [
     "filename": "Goals_128.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Goals/2021-2025/Goals_128.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 77
@@ -19443,7 +19410,7 @@ const logoData = [
     "filename": "Goals_16.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Goals/2021-2025/Goals_16.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 78
@@ -19454,7 +19421,7 @@ const logoData = [
     "filename": "Goals_256.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Goals/2021-2025/Goals_256.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 87
@@ -19465,7 +19432,7 @@ const logoData = [
     "filename": "Goals_256_-_padded.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Goals/2021-2025/Goals_256_-_padded.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 81
@@ -19476,7 +19443,7 @@ const logoData = [
     "filename": "Goals_32.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Goals/2021-2025/Goals_32.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 86
@@ -19487,7 +19454,7 @@ const logoData = [
     "filename": "Goals_48.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Goals/2021-2025/Goals_48.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 79
@@ -19498,7 +19465,7 @@ const logoData = [
     "filename": "Goals_512.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Goals/2021-2025/Goals_512.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 83
@@ -19509,7 +19476,7 @@ const logoData = [
     "filename": "Goals_64.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Goals/2021-2025/Goals_64.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 85
@@ -19520,7 +19487,7 @@ const logoData = [
     "filename": "Goals_85.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Goals/2021-2025/Goals_85.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 80
@@ -19531,7 +19498,7 @@ const logoData = [
     "filename": "Goals_96.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Goals/2021-2025/Goals_96.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 84
@@ -20147,7 +20114,7 @@ const logoData = [
     "filename": "Topics_Launch_C_128_1x.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Topics/2021-2025/Topics_Launch_C_128_1x.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 68
@@ -20158,7 +20125,7 @@ const logoData = [
     "filename": "Topics_Launch_C_16_1x.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Topics/2021-2025/Topics_Launch_C_16_1x.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 61
@@ -20169,7 +20136,7 @@ const logoData = [
     "filename": "Topics_Launch_C_192_1x.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Topics/2021-2025/Topics_Launch_C_192_1x.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 58
@@ -20180,7 +20147,7 @@ const logoData = [
     "filename": "Topics_Launch_C_20_1x.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Topics/2021-2025/Topics_Launch_C_20_1x.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 66
@@ -20191,7 +20158,7 @@ const logoData = [
     "filename": "Topics_Launch_C_24_1x.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Topics/2021-2025/Topics_Launch_C_24_1x.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 64
@@ -20202,7 +20169,7 @@ const logoData = [
     "filename": "Topics_Launch_C_256_1x.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Topics/2021-2025/Topics_Launch_C_256_1x.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 67
@@ -20213,7 +20180,7 @@ const logoData = [
     "filename": "Topics_Launch_C_256_1x_-_padded.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Topics/2021-2025/Topics_Launch_C_256_1x_-_padded.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 57
@@ -20224,7 +20191,7 @@ const logoData = [
     "filename": "Topics_Launch_C_32_1x.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Topics/2021-2025/Topics_Launch_C_32_1x.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 62
@@ -20235,7 +20202,7 @@ const logoData = [
     "filename": "Topics_Launch_C_36_1x.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Topics/2021-2025/Topics_Launch_C_36_1x.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 72
@@ -20246,7 +20213,7 @@ const logoData = [
     "filename": "Topics_Launch_C_40_1x.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Topics/2021-2025/Topics_Launch_C_40_1x.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 73
@@ -20257,7 +20224,7 @@ const logoData = [
     "filename": "Topics_Launch_C_48_1x.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Topics/2021-2025/Topics_Launch_C_48_1x.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 74
@@ -20268,7 +20235,7 @@ const logoData = [
     "filename": "Topics_Launch_C_512_1x.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Topics/2021-2025/Topics_Launch_C_512_1x.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 60
@@ -20279,7 +20246,7 @@ const logoData = [
     "filename": "Topics_Launch_C_54_1x.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Topics/2021-2025/Topics_Launch_C_54_1x.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 69
@@ -20290,7 +20257,7 @@ const logoData = [
     "filename": "Topics_Launch_C_60_1x.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Topics/2021-2025/Topics_Launch_C_60_1x.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 59
@@ -20301,7 +20268,7 @@ const logoData = [
     "filename": "Topics_Launch_C_64_1x.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Topics/2021-2025/Topics_Launch_C_64_1x.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 75
@@ -20312,7 +20279,7 @@ const logoData = [
     "filename": "Topics_Launch_C_72_1x.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Topics/2021-2025/Topics_Launch_C_72_1x.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 71
@@ -20323,7 +20290,7 @@ const logoData = [
     "filename": "Topics_Launch_C_80_1x.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Topics/2021-2025/Topics_Launch_C_80_1x.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 70
@@ -20334,7 +20301,7 @@ const logoData = [
     "filename": "Topics_Launch_C_96_1x.png",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Topics/2021-2025/Topics_Launch_C_96_1x.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 65
@@ -20499,7 +20466,7 @@ const logoData = [
     "filename": "Viva_Goals.svg",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Goals/2021-2025/Viva_Goals.svg",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "SVG",
     "id": 82
@@ -20543,7 +20510,7 @@ const logoData = [
     "filename": "Viva_Sales.svg",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Sales/2022-2023/Viva_Sales.svg",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2022-2023",
     "size": "",
     "format": "SVG",
     "id": 76
@@ -20587,7 +20554,7 @@ const logoData = [
     "filename": "Viva_Topics.svg",
     "path": "Viva/zzFORMER_PRODUCTS/Viva_Topics/2021-2025/Viva_Topics.svg",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2021-2025",
     "size": "",
     "format": "SVG",
     "id": 63
@@ -22663,7 +22630,7 @@ const contributors = [
   {
     "name": "Loryan Strant",
     "github_username": "loryanstrant",
-    "contributions": 121
+    "contributions": 120
   },
   {
     "name": "Vivian Voss",
