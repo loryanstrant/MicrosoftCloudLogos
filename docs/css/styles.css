@@ -474,6 +474,72 @@ a:hover {
     border-color: var(--text-secondary);
 }
 
+/* Size Filters Row */
+.size-filters-row {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.filter-group-slider label {
+    display: flex;
+    align-items: baseline;
+    gap: 0.25rem;
+}
+
+.filter-group-slider label span {
+    font-weight: 700;
+    color: var(--ms-blue);
+    min-width: 3.5rem;
+}
+
+.size-slider {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 100%;
+    height: 4px;
+    border-radius: 2px;
+    background: var(--border-color);
+    outline: none;
+    cursor: pointer;
+    transition: background 0.2s ease;
+}
+
+.size-slider:hover {
+    background: var(--ms-gray-light);
+}
+
+.size-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: var(--ms-blue);
+    cursor: pointer;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+    transition: background 0.2s ease, transform 0.1s ease;
+}
+
+.size-slider::-webkit-slider-thumb:hover {
+    background: var(--ms-blue-dark);
+    transform: scale(1.1);
+}
+
+.size-slider::-moz-range-thumb {
+    width: 18px;
+    height: 18px;
+    border: none;
+    border-radius: 50%;
+    background: var(--ms-blue);
+    cursor: pointer;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.size-slider::-moz-range-thumb:hover {
+    background: var(--ms-blue-dark);
+}
+
 /* Logo Gallery */
 .logo-gallery {
     display: grid;

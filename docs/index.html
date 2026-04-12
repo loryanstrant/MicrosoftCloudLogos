@@ -168,8 +168,6 @@
                         <label for="year-filter">Era</label>
                         <select id="year-filter">
                             <option value="">All Eras</option>
-                            <option value="current">Current</option>
-                            <option value="legacy">Legacy</option>
                         </select>
                     </div>
 
@@ -191,6 +189,17 @@
                             <option value="family">Product Family</option>
                             <option value="format">File Format</option>
                         </select>
+                    </div>
+                </div>
+
+                <div class="filters-row size-filters-row">
+                    <div class="filter-group filter-group-slider">
+                        <label for="width-slider">Min Width: <span id="width-slider-value">Any</span></label>
+                        <input type="range" id="width-slider" class="size-slider" min="0" value="0" step="1">
+                    </div>
+                    <div class="filter-group filter-group-slider">
+                        <label for="height-slider">Min Height: <span id="height-slider-value">Any</span></label>
+                        <input type="range" id="height-slider" class="size-slider" min="0" value="0" step="1">
                     </div>
                 </div>
 
