@@ -356,8 +356,8 @@
             }
         });
 
-        // Sort years ascending
-        const years = [...yearSet].sort((a, b) => a - b);
+        // Sort years descending (most recent first)
+        const years = [...yearSet].sort((a, b) => b - a);
 
         // Add "Current" at the top
         const currentOption = document.createElement('option');
