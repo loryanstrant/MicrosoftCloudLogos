@@ -1,5 +1,5 @@
 name: Finance
 type: Product
 status: Active
-altnames: F&O
+altnames:
 prodfamilies: Dynamics 365
