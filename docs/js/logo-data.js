@@ -22324,304 +22324,304 @@ const logoData = [
 // Recently added files
 const recentAdditions = [
   {
-    "path": "Azure/Azure.png",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Microsoft_365/Whiteboard/Whiteboard_256x256_(padded).png",
+    "date": "2026-04-12 11:08:14 +1000",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "fd5a4707c0ad352687ef25e624d4cc4e277cfa0c"
   },
   {
-    "path": "Azure/Azure_256x256_padded.png",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Microsoft_365/zzFORMER_PRODUCTS/InfoPath/2007-2010/InfoPath_2007_logo.svg",
+    "date": "2026-04-12 11:08:14 +1000",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "fd5a4707c0ad352687ef25e624d4cc4e277cfa0c"
   },
   {
-    "path": "Azure/Azure_AI_Studio_logo_315x315.png",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Microsoft_365/zzFORMER_PRODUCTS/InfoPath/2010-2013/InfoPath_gray.png",
+    "date": "2026-04-12 11:08:14 +1000",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "fd5a4707c0ad352687ef25e624d4cc4e277cfa0c"
   },
   {
-    "path": "Azure/ai_+_machine_learning/00028-icon-service-Batch-AI.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Microsoft_365/zzFORMER_PRODUCTS/InfoPath/2010-2013/Microsoft_InfoPath_-_2010.svg",
+    "date": "2026-04-12 11:08:14 +1000",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "fd5a4707c0ad352687ef25e624d4cc4e277cfa0c"
   },
   {
-    "path": "Azure/ai_+_machine_learning/00030-icon-service-Machine-Learning-Studio-(Classic)-Web-Services.svg",
-    "date": "2026-04-12 11:10:39 +1000",
-    "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "path": "Azure/databases/Microsoft_SQL_Server_2025_icon.svg",
+    "date": "2026-04-01 12:02:59 +0100",
+    "author": "LinkeD365",
+    "sha": "3e63b16baae409ecd304f1254280e4d8ab7a6893"
   },
   {
-    "path": "Azure/ai_+_machine_learning/00031-icon-service-Genomics.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/security/00378-icon-service-Detonation.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/ai_+_machine_learning/00792-icon-service-Computer-Vision.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/security/02247-icon-service-Microsoft-Defender-for-IoT.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/ai_+_machine_learning/00793-icon-service-Custom-Vision.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/security/02251-icon-service-Azure-AD-Privleged-Identity-Management.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/ai_+_machine_learning/00794-icon-service-Face-APIs.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/security/03336-icon-service-Microsoft-Defender-EASM.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/ai_+_machine_learning/00795-icon-service-Content-Moderators.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/security/03340-icon-service-Identity-Secure-Score.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/ai_+_machine_learning/00796-icon-service-Personalizers.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/security/03341-icon-service-Azure-AD-Risky-Signins.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/ai_+_machine_learning/00797-icon-service-Speech-Services.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/security/03342-icon-service-Azure-AD-Risky-Users.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/ai_+_machine_learning/00799-icon-service-QnA-Makers.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/security/03343-icon-service-Azure-AD-Authentication-Methods.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/ai_+_machine_learning/00800-icon-service-Translator-Text.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/security/03344-icon-service-Multifactor-Authentication.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/ai_+_machine_learning/00801-icon-service-Language-Understanding.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/security/10229-icon-service-Azure-Information-Protection.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/ai_+_machine_learning/00812-icon-service-Immersive-Readers.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/security/10231-icon-service-Azure-AD-Identity-Protection.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/ai_+_machine_learning/00814-icon-service-Anomaly-Detector.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/security/10233-icon-service-Conditional-Access.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/ai_+_machine_learning/00819-icon-service-Form-Recognizers.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/security/10241-icon-service-Security-Center.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/ai_+_machine_learning/01239-icon-service-Azure-Experimentation-Studio.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/security/10244-icon-service-Application-Security-Groups.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/ai_+_machine_learning/01688-icon-service-Azure-Object-Understanding.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/security/10245-icon-service-Key-Vaults.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/ai_+_machine_learning/02409-icon-service-Metrics-Advisor.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/security/10248-icon-service-Azure-Sentinel.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/ai_+_machine_learning/02749-icon-service-Azure-Applied-AI-Services.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/security/10433-icon-service-User-Settings.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/ai_+_machine_learning/02876-icon-service-Language.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/security/10572-icon-service-ExtendedSecurityUpdates.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/ai_+_machine_learning/03337-icon-service-Bonsai.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/storage/00017-icon-service-Recovery-Services-Vaults.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/ai_+_machine_learning/10044-icon-service-Cognitive-Search.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/storage/00691-icon-service-Azure-Databox-Gateway.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/ai_+_machine_learning/10162-icon-service-Cognitive-Services.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/storage/00776-icon-service-Azure-HCP-Cache.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/ai_+_machine_learning/10164-icon-service-Genomics-Accounts.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/storage/10086-icon-service-Storage-Accounts.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/ai_+_machine_learning/10165-icon-service-Bot-Services.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/storage/10087-icon-service-Storage-Accounts-(Classic).svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/ai_+_machine_learning/10166-icon-service-Machine-Learning.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/storage/10089-icon-service-StorSimple-Device-Managers.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/ai_+_machine_learning/10167-icon-service-Machine-Learning-Studio-Workspaces.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/storage/10090-icon-service-Data-Lake-Storage-Gen1.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/ai_+_machine_learning/10168-icon-service-Machine-Learning-Studio-Web-Service-Plans.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/storage/10091-icon-service-Storage-Explorer.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/analytics/00009-icon-service-Log-Analytics-Workspaces.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/storage/10092-icon-service-StorSimple-Data-Managers.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/analytics/00039-icon-service-Event-Hubs.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/storage/10093-icon-service-Storage-Sync-Services.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/analytics/00042-icon-service-Stream-Analytics-Jobs.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/storage/10094-icon-service-Data-Box.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/analytics/00562-icon-service-Endpoint-Analytics.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/storage/10095-icon-service-Azure-Stack-Edge.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/analytics/00606-icon-service-Azure-Synapse-Analytics.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/storage/10096-icon-service-Azure-NetApp-Files.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/analytics/02189-icon-service-Azure-Workbooks.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/storage/10097-icon-service-Data-Share-Invitations.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/analytics/02209-icon-service-Private-Link-Services.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/storage/10098-icon-service-Data-Shares.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/analytics/03332-icon-service-Power-BI-Embedded.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/storage/10100-icon-service-Import-Export-Jobs.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/analytics/03335-icon-service-Power-Platform.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/storage/10400-icon-service-Azure-Fileshares.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/analytics/10126-icon-service-Data-Factories.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/web/00046-icon-service-App-Service-Plans.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/analytics/10142-icon-service-HD-Insight-Clusters.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/web/00049-icon-service-App-Service-Certificates.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/analytics/10143-icon-service-Data-Lake-Analytics.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/web/00050-icon-service-App-Service-Domains.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/analytics/10145-icon-service-Azure-Data-Explorer-Clusters.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/web/01007-icon-service-Static-Apps.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/analytics/10148-icon-service-Analysis-Services.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/web/03335-icon-service-Power-Platform.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/analytics/10149-icon-service-Event-Hub-Clusters.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/web/10035-icon-service-App-Services.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/analytics/10150-icon-service-Data-Lake-Store-Gen1.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/web/10042-icon-service-API-Management-Services.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/analytics/10787-icon-service-Azure-Databricks.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/web/10044-icon-service-Cognitive-Search.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/app_services/00046-icon-service-App-Service-Plans.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/web/10047-icon-service-App-Service-Environments.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   },
   {
-    "path": "Azure/app_services/00049-icon-service-App-Service-Certificates.svg",
-    "date": "2026-04-12 11:10:39 +1000",
+    "path": "Azure/web/10048-icon-service-API-Connections.svg",
+    "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
-    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
+    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   }
 ];
 
@@ -22630,7 +22630,7 @@ const contributors = [
   {
     "name": "Loryan Strant",
     "github_username": "loryanstrant",
-    "contributions": 119
+    "contributions": 120
   },
   {
     "name": "Vivian Voss",
