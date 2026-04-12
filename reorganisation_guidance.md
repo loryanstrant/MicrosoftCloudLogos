@@ -20,7 +20,60 @@ Each product folder will contain a metadata.md file, which will contain the foll
 | altnames | Alternative or former names, abbreviations | No |
 | prodfamilies | Product family (or families) it is associated with | No |
 
+
 This metadata will be used by the workflow to build the front-end experience for the www.mscloudlogos.com site.
+
+#### Example 1: product
+    name: Viva Engage
+    type: Product
+    status: Active
+    altnames: Engage
+    prodfamilies: Viva Suite
+
+The altname for Viva Engage lists "Engage" as it is sometimes being referred to without the "Viva" prefix.
+
+The prodfamilies listing only shows Viva Suite, but should possibly also show Microsoft 365 - as Viva Engage can exist without Viva Suite licensing. So, is it part of both families?
+
+
+#### Example 2: renamed product
+    name: Yammer
+    type: Product
+    status: Renamed (TO: Viva Engage)
+    altnames: 
+    prodfamilies:
+
+The folder for Yammer would sit underneath the Viva Engage folder.
+
+Nothing is listed uner prodfamilies as it is not an active product, so therefore not part of a product family (as opposed to its replacement Viva Engage, which is part of a product family).
+
+
+#### Example 3: family
+    name: Viva Suite
+    type: Family
+    status: Active
+    altnames:
+    prodfamilies:
+
+
+#### Example 4: feature without a family
+    name: Graph
+    type: Feature
+    status: Active
+    altnames: Office Graph
+    prodfamilies:
+
+Microsoft Graph covers many services, so can exist without being associated with any product families.
+
+
+#### Example 5: feature with a family
+    name: Microsoft 365 Admin Center
+    type: Feature
+    status: Active
+    altnames: MAC
+    prodfamilies: Microsoft 365
+
+Not a product, but has a logo, and is part of a product family.
+
 
 ### Folder & file naming space removal
 All files and folders will have their spaces replaced with an underscore (or hyphen, I haven't decided yet) to help with consistency around file names.
