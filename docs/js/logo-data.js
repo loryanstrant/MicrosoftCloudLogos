@@ -9,7 +9,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1731
+    "id": 1737
   },
   {
     "name": "Aad Licenses",
@@ -20,7 +20,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1546
+    "id": 1552
   },
   {
     "name": "Abs Member",
@@ -31,7 +31,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1425
+    "id": 1431
   },
   {
     "name": "Active Directory Connect Health",
@@ -42,7 +42,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1721
+    "id": 1727
   },
   {
     "name": "Activity Log",
@@ -53,7 +53,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1863
+    "id": 1869
   },
   {
     "name": "Activity Log",
@@ -64,7 +64,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1615
+    "id": 1621
   },
   {
     "name": "Administrative Units",
@@ -75,7 +75,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1744
+    "id": 1750
   },
   {
     "name": "Advisor",
@@ -86,7 +86,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1862
+    "id": 1868
   },
   {
     "name": "Alerts",
@@ -97,7 +97,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1876
+    "id": 1882
   },
   {
     "name": "All Resources",
@@ -108,7 +108,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1765
+    "id": 1771
   },
   {
     "name": "Analysis Services",
@@ -119,7 +119,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2007
+    "id": 2013
   },
   {
     "name": "Anomaly Detector",
@@ -130,7 +130,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1638
+    "id": 1644
   },
   {
     "name": "Api Connections",
@@ -141,7 +141,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1968
+    "id": 1974
   },
   {
     "name": "Api Connections",
@@ -152,7 +152,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1672
+    "id": 1678
   },
   {
     "name": "Api Connections",
@@ -163,7 +163,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1910
+    "id": 1916
   },
   {
     "name": "Api Management Services",
@@ -174,7 +174,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1967
+    "id": 1973
   },
   {
     "name": "Api Management Services",
@@ -185,7 +185,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1670
+    "id": 1676
   },
   {
     "name": "Api Management Services",
@@ -196,7 +196,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1909
+    "id": 1915
   },
   {
     "name": "Api Proxy",
@@ -207,7 +207,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1737
+    "id": 1743
   },
   {
     "name": "App Compliance Automation",
@@ -218,7 +218,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1531
+    "id": 1537
   },
   {
     "name": "App Configuration",
@@ -229,7 +229,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1681
+    "id": 1687
   },
   {
     "name": "App Registrations",
@@ -240,7 +240,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1742
+    "id": 1748
   },
   {
     "name": "App Registrations",
@@ -251,7 +251,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1605
+    "id": 1611
   },
   {
     "name": "App Service Certificates",
@@ -262,7 +262,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1844
+    "id": 1850
   },
   {
     "name": "App Service Certificates",
@@ -273,7 +273,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1918
+    "id": 1924
   },
   {
     "name": "App Service Domains",
@@ -284,7 +284,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1840
+    "id": 1846
   },
   {
     "name": "App Service Domains",
@@ -295,7 +295,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1908
+    "id": 1914
   },
   {
     "name": "App Service Environments",
@@ -306,7 +306,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1847
+    "id": 1853
   },
   {
     "name": "App Service Environments",
@@ -317,7 +317,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1921
+    "id": 1927
   },
   {
     "name": "App Service Plans",
@@ -328,7 +328,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1846
+    "id": 1852
   },
   {
     "name": "App Service Plans",
@@ -339,7 +339,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1920
+    "id": 1926
   },
   {
     "name": "App Services",
@@ -350,7 +350,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1842
+    "id": 1848
   },
   {
     "name": "App Services",
@@ -361,7 +361,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1448
+    "id": 1454
   },
   {
     "name": "App Services",
@@ -372,7 +372,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1506
+    "id": 1512
   },
   {
     "name": "App Services",
@@ -383,7 +383,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1997
+    "id": 2003
   },
   {
     "name": "App Services",
@@ -394,7 +394,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1915
+    "id": 1921
   },
   {
     "name": "Applens",
@@ -405,7 +405,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1624
+    "id": 1630
   },
   {
     "name": "Application Gateways",
@@ -416,7 +416,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1935
+    "id": 1941
   },
   {
     "name": "Application Group",
@@ -427,7 +427,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1466
+    "id": 1472
   },
   {
     "name": "Application Insights",
@@ -438,7 +438,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1971
+    "id": 1977
   },
   {
     "name": "Application Insights",
@@ -449,7 +449,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1870
+    "id": 1876
   },
   {
     "name": "Application Insights",
@@ -460,7 +460,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1617
+    "id": 1623
   },
   {
     "name": "Application Security Groups",
@@ -471,7 +471,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1984
+    "id": 1990
   },
   {
     "name": "Aquila",
@@ -482,7 +482,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1884
+    "id": 1890
   },
   {
     "name": "Arc Data Services",
@@ -493,7 +493,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1552
+    "id": 1558
   },
   {
     "name": "Arc Kubernetes",
@@ -504,7 +504,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1551
+    "id": 1557
   },
   {
     "name": "Arc Machines",
@@ -515,7 +515,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1854
+    "id": 1860
   },
   {
     "name": "Arc Postgresql",
@@ -526,7 +526,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1580
+    "id": 1586
   },
   {
     "name": "Arc Sql Managed Instance",
@@ -537,7 +537,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1537
+    "id": 1543
   },
   {
     "name": "Arc Sql Server",
@@ -548,7 +548,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1524
+    "id": 1530
   },
   {
     "name": "Auto Scale",
@@ -559,7 +559,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1619
+    "id": 1625
   },
   {
     "name": "Automanaged Vm",
@@ -570,7 +570,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1434
+    "id": 1440
   },
   {
     "name": "Automation Accounts",
@@ -581,7 +581,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1861
+    "id": 1867
   },
   {
     "name": "Availability Sets",
@@ -592,7 +592,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1441
+    "id": 1447
   },
   {
     "name": "Avs Vm",
@@ -603,7 +603,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1885
+    "id": 1891
   },
   {
     "name": "Azure",
@@ -614,7 +614,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 1394
+    "id": 1400
   },
   {
     "name": "Azure 256x256 Padded",
@@ -625,7 +625,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 1393
+    "id": 1399
   },
   {
     "name": "Azure A",
@@ -636,7 +636,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1589
+    "id": 1595
   },
   {
     "name": "Azure Active Directory",
@@ -647,7 +647,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1729
+    "id": 1735
   },
   {
     "name": "Azure Ad Authentication Methods",
@@ -658,7 +658,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1982
+    "id": 1988
   },
   {
     "name": "Azure Ad B2c",
@@ -669,7 +669,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1734
+    "id": 1740
   },
   {
     "name": "Azure Ad Domain Services",
@@ -680,7 +680,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1739
+    "id": 1745
   },
   {
     "name": "Azure Ad Identity Protection",
@@ -691,7 +691,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1738
+    "id": 1744
   },
   {
     "name": "Azure Ad Identity Protection",
@@ -702,7 +702,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1992
+    "id": 1998
   },
   {
     "name": "Azure Ad Privilege Identity Management",
@@ -713,7 +713,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1724
+    "id": 1730
   },
   {
     "name": "Azure Ad Privleged Identity Management",
@@ -724,7 +724,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1743
+    "id": 1749
   },
   {
     "name": "Azure Ad Privleged Identity Management",
@@ -735,7 +735,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1993
+    "id": 1999
   },
   {
     "name": "Azure Ad Risky Signins",
@@ -746,7 +746,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1995
+    "id": 2001
   },
   {
     "name": "Azure Ad Risky Users",
@@ -757,7 +757,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1978
+    "id": 1984
   },
   {
     "name": "Azure Ad Roles and Administrators",
@@ -768,7 +768,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1732
+    "id": 1738
   },
   {
     "name": "Azure Ad Roles and Administrators",
@@ -779,7 +779,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1488
+    "id": 1494
   },
   {
     "name": "Azure Ai Studio Logo",
@@ -790,7 +790,7 @@ const logoData = [
     "year": "current",
     "size": "315x315",
     "format": "PNG",
-    "id": 1395
+    "id": 1401
   },
   {
     "name": "Azure Api for Fhir",
@@ -801,7 +801,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1674
+    "id": 1680
   },
   {
     "name": "Azure Applied Ai Services",
@@ -812,7 +812,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1659
+    "id": 1665
   },
   {
     "name": "Azure Arc",
@@ -823,7 +823,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1875
+    "id": 1881
   },
   {
     "name": "Azure Backup Center",
@@ -834,7 +834,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1592
+    "id": 1598
   },
   {
     "name": "Azure Blockchain Service",
@@ -845,7 +845,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1427
+    "id": 1433
   },
   {
     "name": "Azure Center for Sap",
@@ -856,7 +856,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1593
+    "id": 1599
   },
   {
     "name": "Azure Chaos Studio",
@@ -867,7 +867,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1595
+    "id": 1601
   },
   {
     "name": "Azure Cloud Shell",
@@ -878,7 +878,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1542
+    "id": 1548
   },
   {
     "name": "Azure Communication Services",
@@ -889,7 +889,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1536
+    "id": 1542
   },
   {
     "name": "Azure Compute Galleries",
@@ -900,7 +900,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1444
+    "id": 1450
   },
   {
     "name": "Azure Compute Galleries",
@@ -911,7 +911,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1538
+    "id": 1544
   },
   {
     "name": "Azure Cosmos Db",
@@ -922,7 +922,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1409
+    "id": 1415
   },
   {
     "name": "Azure Cosmos Db",
@@ -933,7 +933,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1707
+    "id": 1713
   },
   {
     "name": "Azure Data Catalog",
@@ -944,7 +944,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1692
+    "id": 1698
   },
   {
     "name": "Azure Data Explorer Clusters",
@@ -955,7 +955,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1999
+    "id": 2005
   },
   {
     "name": "Azure Data Explorer Clusters",
@@ -966,7 +966,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1396
+    "id": 1402
   },
   {
     "name": "Azure Database Mariadb Server",
@@ -977,7 +977,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1397
+    "id": 1403
   },
   {
     "name": "Azure Database Migration Services",
@@ -988,7 +988,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1416
+    "id": 1422
   },
   {
     "name": "Azure Database Migration Services",
@@ -999,7 +999,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1922
+    "id": 1928
   },
   {
     "name": "Azure Database Mysql Server",
@@ -1010,7 +1010,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1402
+    "id": 1408
   },
   {
     "name": "Azure Database Postgresql Server",
@@ -1021,7 +1021,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1404
+    "id": 1410
   },
   {
     "name": "Azure Database Postgresql Server Group",
@@ -1032,7 +1032,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1399
+    "id": 1405
   },
   {
     "name": "Azure Databox Gateway",
@@ -1043,7 +1043,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1668
+    "id": 1674
   },
   {
     "name": "Azure Databox Gateway",
@@ -1054,7 +1054,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1695
+    "id": 1701
   },
   {
     "name": "Azure Databox Gateway",
@@ -1065,7 +1065,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1662
+    "id": 1668
   },
   {
     "name": "Azure Databox Gateway",
@@ -1076,7 +1076,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1469
+    "id": 1475
   },
   {
     "name": "Azure Databricks",
@@ -1087,7 +1087,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2013
+    "id": 2019
   },
   {
     "name": "Azure Deployment Environments",
@@ -1098,7 +1098,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1515
+    "id": 1521
   },
   {
     "name": "Azure Devops",
@@ -1109,7 +1109,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1970
+    "id": 1976
   },
   {
     "name": "Azure Edge Hardware Center",
@@ -1120,7 +1120,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1525
+    "id": 1531
   },
   {
     "name": "Azure Experimentation Studio",
@@ -1131,7 +1131,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1657
+    "id": 1663
   },
   {
     "name": "Azure Fileshares",
@@ -1142,7 +1142,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1471
+    "id": 1477
   },
   {
     "name": "Azure Firewall Manager",
@@ -1153,7 +1153,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1942
+    "id": 1948
   },
   {
     "name": "Azure Firewall Policy",
@@ -1164,7 +1164,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1923
+    "id": 1929
   },
   {
     "name": "Azure Hcp Cache",
@@ -1175,7 +1175,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1472
+    "id": 1478
   },
   {
     "name": "Azure Hpc Workbenches",
@@ -1186,7 +1186,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1554
+    "id": 1560
   },
   {
     "name": "Azure Hybrid Center",
@@ -1197,7 +1197,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1622
+    "id": 1628
   },
   {
     "name": "Azure Information Protection",
@@ -1208,7 +1208,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1728
+    "id": 1734
   },
   {
     "name": "Azure Information Protection",
@@ -1219,7 +1219,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1983
+    "id": 1989
   },
   {
     "name": "Azure Lighthouse",
@@ -1230,7 +1230,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1858
+    "id": 1864
   },
   {
     "name": "Azure Load Testing",
@@ -1241,7 +1241,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1557
+    "id": 1563
   },
   {
     "name": "Azure Managed Grafana",
@@ -1252,7 +1252,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1576
+    "id": 1582
   },
   {
     "name": "Azure Maps Accounts",
@@ -1263,7 +1263,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1701
+    "id": 1707
   },
   {
     "name": "Azure Media Service",
@@ -1274,7 +1274,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1907
+    "id": 1913
   },
   {
     "name": "Azure Migrate",
@@ -1285,7 +1285,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1665
+    "id": 1671
   },
   {
     "name": "Azure Monitor Dashboard",
@@ -1296,7 +1296,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1555
+    "id": 1561
   },
   {
     "name": "Azure Monitors for Sap Solutions",
@@ -1307,7 +1307,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1621
+    "id": 1627
   },
   {
     "name": "Azure Netapp Files",
@@ -1318,7 +1318,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1475
+    "id": 1481
   },
   {
     "name": "Azure Network Function Manager",
@@ -1329,7 +1329,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1585
+    "id": 1591
   },
   {
     "name": "Azure Network Function Manager Functions",
@@ -1340,7 +1340,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1535
+    "id": 1541
   },
   {
     "name": "Azure Object Understanding",
@@ -1351,7 +1351,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1653
+    "id": 1659
   },
   {
     "name": "Azure Orbital",
@@ -1362,7 +1362,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1596
+    "id": 1602
   },
   {
     "name": "Azure Purview Accounts",
@@ -1373,7 +1373,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1407
+    "id": 1413
   },
   {
     "name": "Azure Quotas",
@@ -1384,7 +1384,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1534
+    "id": 1540
   },
   {
     "name": "Azure Red Hat Openshift",
@@ -1395,7 +1395,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1504
+    "id": 1510
   },
   {
     "name": "Azure Sentinel",
@@ -1406,7 +1406,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1987
+    "id": 1993
   },
   {
     "name": "Azure Service Bus",
@@ -1417,7 +1417,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1669
+    "id": 1675
   },
   {
     "name": "Azure Sphere",
@@ -1428,7 +1428,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1898
+    "id": 1904
   },
   {
     "name": "Azure Spring Apps",
@@ -1439,7 +1439,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1442
+    "id": 1448
   },
   {
     "name": "Azure Spring Apps",
@@ -1450,7 +1450,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1914
+    "id": 1920
   },
   {
     "name": "Azure Sql",
@@ -1461,7 +1461,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1412
+    "id": 1418
   },
   {
     "name": "Azure Sql Edge",
@@ -1472,7 +1472,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1410
+    "id": 1416
   },
   {
     "name": "Azure Sql Server Stretch Databases",
@@ -1483,7 +1483,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1408
+    "id": 1414
   },
   {
     "name": "Azure Sql Server Stretch Databases",
@@ -1494,7 +1494,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1679
+    "id": 1685
   },
   {
     "name": "Azure Sql Vm",
@@ -1505,7 +1505,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1421
+    "id": 1427
   },
   {
     "name": "Azure Stack",
@@ -1516,7 +1516,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1700
+    "id": 1706
   },
   {
     "name": "Azure Stack Edge",
@@ -1527,7 +1527,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1691
+    "id": 1697
   },
   {
     "name": "Azure Stack Edge",
@@ -1538,7 +1538,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1666
+    "id": 1672
   },
   {
     "name": "Azure Stack Edge",
@@ -1549,7 +1549,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1480
+    "id": 1486
   },
   {
     "name": "Azure Storage Mover",
@@ -1560,7 +1560,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1529
+    "id": 1535
   },
   {
     "name": "Azure Support Center Blue",
@@ -1571,7 +1571,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1902
+    "id": 1908
   },
   {
     "name": "Azure Synapse Analytics",
@@ -1582,7 +1582,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2015
+    "id": 2021
   },
   {
     "name": "Azure Synapse Analytics",
@@ -1593,7 +1593,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1422
+    "id": 1428
   },
   {
     "name": "Azure Token Service",
@@ -1604,7 +1604,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1428
+    "id": 1434
   },
   {
     "name": "Azure Video Indexer",
@@ -1615,7 +1615,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1583
+    "id": 1589
   },
   {
     "name": "Azure Virtual Desktop",
@@ -1626,7 +1626,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1573
+    "id": 1579
   },
   {
     "name": "Azure Vmware Solution",
@@ -1637,7 +1637,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1567
+    "id": 1573
   },
   {
     "name": "Azure Workbooks",
@@ -1648,7 +1648,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2001
+    "id": 2007
   },
   {
     "name": "Azure Workbooks",
@@ -1659,7 +1659,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1611
+    "id": 1617
   },
   {
     "name": "Azureattestation",
@@ -1670,7 +1670,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1881
+    "id": 1887
   },
   {
     "name": "Azurite",
@@ -1681,7 +1681,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1880
+    "id": 1886
   },
   {
     "name": "Backlog",
@@ -1692,7 +1692,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1760
+    "id": 1766
   },
   {
     "name": "Backup Vault",
@@ -1703,7 +1703,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1566
+    "id": 1572
   },
   {
     "name": "Bare Metal Infrastructure",
@@ -1714,7 +1714,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1533
+    "id": 1539
   },
   {
     "name": "Bastions",
@@ -1725,7 +1725,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1937
+    "id": 1943
   },
   {
     "name": "Batch Accounts",
@@ -1736,7 +1736,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1464
+    "id": 1470
   },
   {
     "name": "Batch Accounts",
@@ -1747,7 +1747,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1508
+    "id": 1514
   },
   {
     "name": "Batch Ai",
@@ -1758,7 +1758,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1643
+    "id": 1649
   },
   {
     "name": "Biz Talk",
@@ -1769,7 +1769,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1836
+    "id": 1842
   },
   {
     "name": "Blob Block",
@@ -1780,7 +1780,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1758
+    "id": 1764
   },
   {
     "name": "Blob Page",
@@ -1791,7 +1791,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1771
+    "id": 1777
   },
   {
     "name": "Blockchain Applications",
@@ -1802,7 +1802,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1424
+    "id": 1430
   },
   {
     "name": "Blueprints",
@@ -1813,7 +1813,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1857
+    "id": 1863
   },
   {
     "name": "Bonsai",
@@ -1824,7 +1824,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1654
+    "id": 1660
   },
   {
     "name": "Bot Services",
@@ -1835,7 +1835,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1650
+    "id": 1656
   },
   {
     "name": "Branch",
@@ -1846,7 +1846,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1746
+    "id": 1752
   },
   {
     "name": "Browser",
@@ -1857,7 +1857,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1821
+    "id": 1827
   },
   {
     "name": "Bug",
@@ -1868,7 +1868,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1813
+    "id": 1819
   },
   {
     "name": "Builds",
@@ -1879,7 +1879,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1804
+    "id": 1810
   },
   {
     "name": "Cache",
@@ -1890,7 +1890,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1764
+    "id": 1770
   },
   {
     "name": "Cache Redis",
@@ -1901,7 +1901,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1405
+    "id": 1411
   },
   {
     "name": "Capacity",
@@ -1912,7 +1912,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1630
+    "id": 1636
   },
   {
     "name": "Capacity Reservation Groups",
@@ -1923,7 +1923,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1518
+    "id": 1524
   },
   {
     "name": "Cdn Profiles",
@@ -1934,7 +1934,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1841
+    "id": 1847
   },
   {
     "name": "Cdn Profiles",
@@ -1945,7 +1945,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1938
+    "id": 1944
   },
   {
     "name": "Central Service Instance For Sap",
@@ -1956,7 +1956,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1608
+    "id": 1614
   },
   {
     "name": "Ceres",
@@ -1967,7 +1967,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1888
+    "id": 1894
   },
   {
     "name": "Change Analysis",
@@ -1978,7 +1978,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1975
+    "id": 1981
   },
   {
     "name": "Change Analysis",
@@ -1989,7 +1989,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1618
+    "id": 1624
   },
   {
     "name": "Client Apps",
@@ -2000,7 +2000,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1494
+    "id": 1500
   },
   {
     "name": "Cloud Services (classic)",
@@ -2011,7 +2011,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1435
+    "id": 1441
   },
   {
     "name": "Cloud Services (extended Support)",
@@ -2022,7 +2022,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1517
+    "id": 1523
   },
   {
     "name": "Cloudtest",
@@ -2033,7 +2033,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1977
+    "id": 1983
   },
   {
     "name": "Code",
@@ -2044,7 +2044,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1830
+    "id": 1836
   },
   {
     "name": "Cognitive Search",
@@ -2055,7 +2055,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1642
+    "id": 1648
   },
   {
     "name": "Cognitive Search",
@@ -2066,7 +2066,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1843
+    "id": 1849
   },
   {
     "name": "Cognitive Search",
@@ -2077,7 +2077,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1916
+    "id": 1922
   },
   {
     "name": "Cognitive Services",
@@ -2088,7 +2088,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1632
+    "id": 1638
   },
   {
     "name": "Cognitive Services",
@@ -2099,7 +2099,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1906
+    "id": 1912
   },
   {
     "name": "Collaborative Service",
@@ -2110,7 +2110,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1623
+    "id": 1629
   },
   {
     "name": "Commit",
@@ -2121,7 +2121,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1820
+    "id": 1826
   },
   {
     "name": "Community Images",
@@ -2132,7 +2132,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1575
+    "id": 1581
   },
   {
     "name": "Compliance",
@@ -2143,7 +2143,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1873
+    "id": 1879
   },
   {
     "name": "Compliance Center",
@@ -2154,7 +2154,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1889
+    "id": 1895
   },
   {
     "name": "Computer Vision",
@@ -2165,7 +2165,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1634
+    "id": 1640
   },
   {
     "name": "Conditional Access",
@@ -2176,7 +2176,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1988
+    "id": 1994
   },
   {
     "name": "Confidential Ledgers",
@@ -2187,7 +2187,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1568
+    "id": 1574
   },
   {
     "name": "Connected Cache",
@@ -2198,7 +2198,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1890
+    "id": 1896
   },
   {
     "name": "Connected Vehicle Platform",
@@ -2209,7 +2209,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1904
+    "id": 1910
   },
   {
     "name": "Connections",
@@ -2220,7 +2220,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1956
+    "id": 1962
   },
   {
     "name": "Consortium",
@@ -2231,7 +2231,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1423
+    "id": 1429
   },
   {
     "name": "Container Apps Environments",
@@ -2242,7 +2242,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1581
+    "id": 1587
   },
   {
     "name": "Container Instances",
@@ -2253,7 +2253,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1439
+    "id": 1445
   },
   {
     "name": "Container Instances",
@@ -2264,7 +2264,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1505
+    "id": 1511
   },
   {
     "name": "Container Registries",
@@ -2275,7 +2275,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1507
+    "id": 1513
   },
   {
     "name": "Container Services (deprecated)",
@@ -2286,7 +2286,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1436
+    "id": 1442
   },
   {
     "name": "Content Moderators",
@@ -2297,7 +2297,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1655
+    "id": 1661
   },
   {
     "name": "Controls",
@@ -2308,7 +2308,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1788
+    "id": 1794
   },
   {
     "name": "Controls Horizontal",
@@ -2319,7 +2319,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1824
+    "id": 1830
   },
   {
     "name": "Cost Alerts",
@@ -2330,7 +2330,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1756
+    "id": 1762
   },
   {
     "name": "Cost Analysis",
@@ -2341,7 +2341,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1754
+    "id": 1760
   },
   {
     "name": "Cost Budgets",
@@ -2352,7 +2352,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1774
+    "id": 1780
   },
   {
     "name": "Cost Export",
@@ -2363,7 +2363,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1561
+    "id": 1567
   },
   {
     "name": "Cost Management",
@@ -2374,7 +2374,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1797
+    "id": 1803
   },
   {
     "name": "Cost Management and Billing",
@@ -2385,7 +2385,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1793
+    "id": 1799
   },
   {
     "name": "Cost Management and Billing",
@@ -2396,7 +2396,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1866
+    "id": 1872
   },
   {
     "name": "Cost Management and Billing",
@@ -2407,7 +2407,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1664
+    "id": 1670
   },
   {
     "name": "Counter",
@@ -2418,7 +2418,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1802
+    "id": 1808
   },
   {
     "name": "Cubes",
@@ -2429,7 +2429,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1808
+    "id": 1814
   },
   {
     "name": "Custom Azure Ad Roles",
@@ -2440,7 +2440,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1722
+    "id": 1728
   },
   {
     "name": "Custom Ip Prefix",
@@ -2451,7 +2451,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1602
+    "id": 1608
   },
   {
     "name": "Custom Vision",
@@ -2462,7 +2462,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1639
+    "id": 1645
   },
   {
     "name": "Customer Lockbox for Microsoft Azure",
@@ -2473,7 +2473,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1860
+    "id": 1866
   },
   {
     "name": "Dashboard",
@@ -2484,7 +2484,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1745
+    "id": 1751
   },
   {
     "name": "Dashboard Hub",
@@ -2495,7 +2495,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1905
+    "id": 1911
   },
   {
     "name": "Data Box",
@@ -2506,7 +2506,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1667
+    "id": 1673
   },
   {
     "name": "Data Box",
@@ -2517,7 +2517,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1483
+    "id": 1489
   },
   {
     "name": "Data Collection Rules",
@@ -2528,7 +2528,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1900
+    "id": 1906
   },
   {
     "name": "Data Factories",
@@ -2539,7 +2539,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2012
+    "id": 2018
   },
   {
     "name": "Data Factories",
@@ -2550,7 +2550,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1415
+    "id": 1421
   },
   {
     "name": "Data Factories",
@@ -2561,7 +2561,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1686
+    "id": 1692
   },
   {
     "name": "Data Lake Analytics",
@@ -2572,7 +2572,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2010
+    "id": 2016
   },
   {
     "name": "Data Lake Storage Gen1",
@@ -2583,7 +2583,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1482
+    "id": 1488
   },
   {
     "name": "Data Lake Store Gen1",
@@ -2594,7 +2594,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2000
+    "id": 2006
   },
   {
     "name": "Data Share Invitations",
@@ -2605,7 +2605,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1474
+    "id": 1480
   },
   {
     "name": "Data Shares",
@@ -2616,7 +2616,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1481
+    "id": 1487
   },
   {
     "name": "Database Instance For Sap",
@@ -2627,7 +2627,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1539
+    "id": 1545
   },
   {
     "name": "Ddos Protection Plans",
@@ -2638,7 +2638,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1947
+    "id": 1953
   },
   {
     "name": "Dedicated Hsm",
@@ -2649,7 +2649,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1901
+    "id": 1907
   },
   {
     "name": "Defender Cm Local Manager",
@@ -2660,7 +2660,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1609
+    "id": 1615
   },
   {
     "name": "Defender Dcs Controller",
@@ -2671,7 +2671,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1532
+    "id": 1538
   },
   {
     "name": "Defender Distributer Control System",
@@ -2682,7 +2682,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1591
+    "id": 1597
   },
   {
     "name": "Defender Engineering Station",
@@ -2693,7 +2693,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1607
+    "id": 1613
   },
   {
     "name": "Defender External Management",
@@ -2704,7 +2704,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1572
+    "id": 1578
   },
   {
     "name": "Defender Freezer Monitor",
@@ -2715,7 +2715,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1513
+    "id": 1519
   },
   {
     "name": "Defender Historian",
@@ -2726,7 +2726,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1590
+    "id": 1596
   },
   {
     "name": "Defender Hmi",
@@ -2737,7 +2737,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1599
+    "id": 1605
   },
   {
     "name": "Defender Industrial Packaging System",
@@ -2748,7 +2748,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1523
+    "id": 1529
   },
   {
     "name": "Defender Industrial Printer",
@@ -2759,7 +2759,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1574
+    "id": 1580
   },
   {
     "name": "Defender Industrial Robot",
@@ -2770,7 +2770,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1510
+    "id": 1516
   },
   {
     "name": "Defender Industrial Scale System",
@@ -2781,7 +2781,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1598
+    "id": 1604
   },
   {
     "name": "Defender Marquee",
@@ -2792,7 +2792,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1588
+    "id": 1594
   },
   {
     "name": "Defender Meter",
@@ -2803,7 +2803,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1571
+    "id": 1577
   },
   {
     "name": "Defender Plc",
@@ -2814,7 +2814,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1586
+    "id": 1592
   },
   {
     "name": "Defender Pneumatic Device",
@@ -2825,7 +2825,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1516
+    "id": 1522
   },
   {
     "name": "Defender Programable Board",
@@ -2836,7 +2836,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1600
+    "id": 1606
   },
   {
     "name": "Defender Relay",
@@ -2847,7 +2847,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1558
+    "id": 1564
   },
   {
     "name": "Defender Robot Controller",
@@ -2858,7 +2858,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1514
+    "id": 1520
   },
   {
     "name": "Defender Rtu",
@@ -2869,7 +2869,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1549
+    "id": 1555
   },
   {
     "name": "Defender Sensor",
@@ -2880,7 +2880,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1597
+    "id": 1603
   },
   {
     "name": "Defender Slot",
@@ -2891,7 +2891,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1553
+    "id": 1559
   },
   {
     "name": "Defender Web Guiding System",
@@ -2902,7 +2902,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1564
+    "id": 1570
   },
   {
     "name": "Detonation",
@@ -2913,7 +2913,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1985
+    "id": 1991
   },
   {
     "name": "Dev Console",
@@ -2924,7 +2924,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1799
+    "id": 1805
   },
   {
     "name": "Device Compliance",
@@ -2935,7 +2935,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1496
+    "id": 1502
   },
   {
     "name": "Device Configuration",
@@ -2946,7 +2946,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1497
+    "id": 1503
   },
   {
     "name": "Device Enrollment",
@@ -2957,7 +2957,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1492
+    "id": 1498
   },
   {
     "name": "Device Provisioning Services",
@@ -2968,7 +2968,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1703
+    "id": 1709
   },
   {
     "name": "Device Security Apple",
@@ -2979,7 +2979,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1500
+    "id": 1506
   },
   {
     "name": "Device Security Google",
@@ -2990,7 +2990,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1486
+    "id": 1492
   },
   {
     "name": "Device Security Windows",
@@ -3001,7 +3001,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1491
+    "id": 1497
   },
   {
     "name": "Device Update Iot Hub",
@@ -3012,7 +3012,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1528
+    "id": 1534
   },
   {
     "name": "Devices",
@@ -3023,7 +3023,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1485
+    "id": 1491
   },
   {
     "name": "Devops Starter",
@@ -3034,7 +3034,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1972
+    "id": 1978
   },
   {
     "name": "Devtest Labs",
@@ -3045,7 +3045,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1974
+    "id": 1980
   },
   {
     "name": "Diagnostics Settings",
@@ -3056,7 +3056,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1852
+    "id": 1858
   },
   {
     "name": "Diagnostics Settings",
@@ -3067,7 +3067,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1612
+    "id": 1618
   },
   {
     "name": "Digital Twins",
@@ -3078,7 +3078,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1698
+    "id": 1704
   },
   {
     "name": "Disk Encryption Sets",
@@ -3089,7 +3089,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1454
+    "id": 1460
   },
   {
     "name": "Disk Pool",
@@ -3100,7 +3100,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1548
+    "id": 1554
   },
   {
     "name": "Disks",
@@ -3111,7 +3111,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1437
+    "id": 1443
   },
   {
     "name": "Disks (classic)",
@@ -3122,7 +3122,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1460
+    "id": 1466
   },
   {
     "name": "Disks Snapshots",
@@ -3133,7 +3133,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1430
+    "id": 1436
   },
   {
     "name": "Dns Private Resolver",
@@ -3144,7 +3144,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1948
+    "id": 1954
   },
   {
     "name": "Dns Zones",
@@ -3155,7 +3155,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1932
+    "id": 1938
   },
   {
     "name": "Download",
@@ -3166,7 +3166,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1749
+    "id": 1755
   },
   {
     "name": "Ebooks",
@@ -3177,7 +3177,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1498
+    "id": 1504
   },
   {
     "name": "Edge Management",
@@ -3188,7 +3188,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1886
+    "id": 1892
   },
   {
     "name": "Education",
@@ -3199,7 +3199,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1849
+    "id": 1855
   },
   {
     "name": "Elastic Job Agents",
@@ -3210,7 +3210,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1411
+    "id": 1417
   },
   {
     "name": "Elastic San",
@@ -3221,7 +3221,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1606
+    "id": 1612
   },
   {
     "name": "Endpoint Analytics",
@@ -3232,7 +3232,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2003
+    "id": 2009
   },
   {
     "name": "Enterprise Applications",
@@ -3243,7 +3243,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1730
+    "id": 1736
   },
   {
     "name": "Error",
@@ -3254,7 +3254,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1807
+    "id": 1813
   },
   {
     "name": "Event Grid Domains",
@@ -3265,7 +3265,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1684
+    "id": 1690
   },
   {
     "name": "Event Grid Subscriptions",
@@ -3276,7 +3276,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1683
+    "id": 1689
   },
   {
     "name": "Event Grid Subscriptions",
@@ -3287,7 +3287,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1708
+    "id": 1714
   },
   {
     "name": "Event Grid Topics",
@@ -3298,7 +3298,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1675
+    "id": 1681
   },
   {
     "name": "Event Hub Clusters",
@@ -3309,7 +3309,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2004
+    "id": 2010
   },
   {
     "name": "Event Hub Clusters",
@@ -3320,7 +3320,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1702
+    "id": 1708
   },
   {
     "name": "Event Hubs",
@@ -3331,7 +3331,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2009
+    "id": 2015
   },
   {
     "name": "Event Hubs",
@@ -3342,7 +3342,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1709
+    "id": 1715
   },
   {
     "name": "Exchange Access",
@@ -3353,7 +3353,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1487
+    "id": 1493
   },
   {
     "name": "Exchange On Premises Access",
@@ -3364,7 +3364,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1893
+    "id": 1899
   },
   {
     "name": "Express Route Traffic Collector",
@@ -3375,7 +3375,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1526
+    "id": 1532
   },
   {
     "name": "Expressroute Circuits",
@@ -3386,7 +3386,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1963
+    "id": 1969
   },
   {
     "name": "Expressroute Direct",
@@ -3397,7 +3397,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1562
+    "id": 1568
   },
   {
     "name": "Extendedsecurityupdates",
@@ -3408,7 +3408,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1989
+    "id": 1995
   },
   {
     "name": "Extensions",
@@ -3419,7 +3419,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1809
+    "id": 1815
   },
   {
     "name": "External Identities",
@@ -3430,7 +3430,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1726
+    "id": 1732
   },
   {
     "name": "Face Apis",
@@ -3441,7 +3441,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1641
+    "id": 1647
   },
   {
     "name": "Feature Previews",
@@ -3452,7 +3452,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1818
+    "id": 1824
   },
   {
     "name": "Fhir Service",
@@ -3463,7 +3463,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1547
+    "id": 1553
   },
   {
     "name": "Fiji",
@@ -3474,7 +3474,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1887
+    "id": 1893
   },
   {
     "name": "File",
@@ -3485,7 +3485,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1753
+    "id": 1759
   },
   {
     "name": "Files",
@@ -3496,7 +3496,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1833
+    "id": 1839
   },
   {
     "name": "Firewalls",
@@ -3507,7 +3507,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1941
+    "id": 1947
   },
   {
     "name": "Folder Blank",
@@ -3518,7 +3518,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1779
+    "id": 1785
   },
   {
     "name": "Folder Website",
@@ -3529,7 +3529,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1780
+    "id": 1786
   },
   {
     "name": "Form Recognizers",
@@ -3540,7 +3540,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1646
+    "id": 1652
   },
   {
     "name": "Free Services",
@@ -3551,7 +3551,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1790
+    "id": 1796
   },
   {
     "name": "Front Door and Cdn Profiles",
@@ -3562,7 +3562,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1929
+    "id": 1935
   },
   {
     "name": "Front Door and Cdn Profiles",
@@ -3573,7 +3573,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1911
+    "id": 1917
   },
   {
     "name": "Ftp",
@@ -3584,7 +3584,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1817
+    "id": 1823
   },
   {
     "name": "Function Apps",
@@ -3595,7 +3595,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1455
+    "id": 1461
   },
   {
     "name": "Function Apps",
@@ -3606,7 +3606,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1713
+    "id": 1719
   },
   {
     "name": "Gear",
@@ -3617,7 +3617,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1784
+    "id": 1790
   },
   {
     "name": "Genomics",
@@ -3628,7 +3628,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1637
+    "id": 1643
   },
   {
     "name": "Genomics Accounts",
@@ -3639,7 +3639,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1656
+    "id": 1662
   },
   {
     "name": "Globe Error",
@@ -3650,7 +3650,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1827
+    "id": 1833
   },
   {
     "name": "Globe Success",
@@ -3661,7 +3661,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1748
+    "id": 1754
   },
   {
     "name": "Globe Warning",
@@ -3672,7 +3672,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1831
+    "id": 1837
   },
   {
     "name": "Groups",
@@ -3683,7 +3683,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1723
+    "id": 1729
   },
   {
     "name": "Guide",
@@ -3694,7 +3694,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1776
+    "id": 1782
   },
   {
     "name": "Hd Insight Clusters",
@@ -3705,7 +3705,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2014
+    "id": 2020
   },
   {
     "name": "Heart",
@@ -3716,7 +3716,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1763
+    "id": 1769
   },
   {
     "name": "Help and Support",
@@ -3727,7 +3727,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1787
+    "id": 1793
   },
   {
     "name": "Host Groups",
@@ -3738,7 +3738,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1449
+    "id": 1455
   },
   {
     "name": "Host Pools",
@@ -3749,7 +3749,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1456
+    "id": 1462
   },
   {
     "name": "Hosts",
@@ -3760,7 +3760,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1429
+    "id": 1435
   },
   {
     "name": "Identity Governance",
@@ -3771,7 +3771,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1725
+    "id": 1731
   },
   {
     "name": "Identity Secure Score",
@@ -3782,7 +3782,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1990
+    "id": 1996
   },
   {
     "name": "Image",
@@ -3793,7 +3793,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1770
+    "id": 1776
   },
   {
     "name": "Image Definitions",
@@ -3804,7 +3804,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1459
+    "id": 1465
   },
   {
     "name": "Image Templates",
@@ -3815,7 +3815,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1445
+    "id": 1451
   },
   {
     "name": "Image Versions",
@@ -3826,7 +3826,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1461
+    "id": 1467
   },
   {
     "name": "Images",
@@ -3837,7 +3837,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1462
+    "id": 1468
   },
   {
     "name": "Immersive Readers",
@@ -3848,7 +3848,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1644
+    "id": 1650
   },
   {
     "name": "Import Export Jobs",
@@ -3859,7 +3859,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1476
+    "id": 1482
   },
   {
     "name": "Industrial Iot",
@@ -3870,7 +3870,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1720
+    "id": 1726
   },
   {
     "name": "Information",
@@ -3881,7 +3881,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1794
+    "id": 1800
   },
   {
     "name": "Infrastructure Backup",
@@ -3892,7 +3892,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1628
+    "id": 1634
   },
   {
     "name": "Input Output",
@@ -3903,7 +3903,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1769
+    "id": 1775
   },
   {
     "name": "Instance Pools",
@@ -3914,7 +3914,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1420
+    "id": 1426
   },
   {
     "name": "Instance Pools",
@@ -3925,7 +3925,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1604
+    "id": 1610
   },
   {
     "name": "Integration Accounts",
@@ -3936,7 +3936,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1678
+    "id": 1684
   },
   {
     "name": "Integration Service Environments",
@@ -3947,7 +3947,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1685
+    "id": 1691
   },
   {
     "name": "Internet Analyzer Profiles",
@@ -3958,7 +3958,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1578
+    "id": 1584
   },
   {
     "name": "Intune",
@@ -3969,7 +3969,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1489
+    "id": 1495
   },
   {
     "name": "Intune App Protection",
@@ -3980,7 +3980,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1501
+    "id": 1507
   },
   {
     "name": "Intune For Education",
@@ -3991,7 +3991,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1484
+    "id": 1490
   },
   {
     "name": "Intune Trends",
@@ -4002,7 +4002,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1891
+    "id": 1897
   },
   {
     "name": "Iot Central Applications",
@@ -4013,7 +4013,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1705
+    "id": 1711
   },
   {
     "name": "Iot Edge",
@@ -4024,7 +4024,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1704
+    "id": 1710
   },
   {
     "name": "Iot Hub",
@@ -4035,7 +4035,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1697
+    "id": 1703
   },
   {
     "name": "Ip Groups",
@@ -4046,7 +4046,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1965
+    "id": 1971
   },
   {
     "name": "Journey Hub",
@@ -4057,7 +4057,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1781
+    "id": 1787
   },
   {
     "name": "Key Vaults",
@@ -4068,7 +4068,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1979
+    "id": 1985
   },
   {
     "name": "Keys",
@@ -4079,7 +4079,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1509
+    "id": 1515
   },
   {
     "name": "Kubernetes Fleet Manager",
@@ -4090,7 +4090,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1603
+    "id": 1609
   },
   {
     "name": "Kubernetes Services",
@@ -4101,7 +4101,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1433
+    "id": 1439
   },
   {
     "name": "Kubernetes Services",
@@ -4112,7 +4112,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1503
+    "id": 1509
   },
   {
     "name": "Lab Accounts",
@@ -4123,7 +4123,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1976
+    "id": 1982
   },
   {
     "name": "Lab Services",
@@ -4134,7 +4134,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1969
+    "id": 1975
   },
   {
     "name": "Language",
@@ -4145,7 +4145,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1652
+    "id": 1658
   },
   {
     "name": "Language Understanding",
@@ -4156,7 +4156,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1633
+    "id": 1639
   },
   {
     "name": "Launch Portal",
@@ -4167,7 +4167,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1812
+    "id": 1818
   },
   {
     "name": "Learn",
@@ -4178,7 +4178,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1792
+    "id": 1798
   },
   {
     "name": "Load Balancer Hub",
@@ -4189,7 +4189,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1966
+    "id": 1972
   },
   {
     "name": "Load Balancers",
@@ -4200,7 +4200,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1933
+    "id": 1939
   },
   {
     "name": "Load Test",
@@ -4211,7 +4211,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1806
+    "id": 1812
   },
   {
     "name": "Load Testing",
@@ -4222,7 +4222,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1973
+    "id": 1979
   },
   {
     "name": "Local Network Gateways",
@@ -4233,7 +4233,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1939
+    "id": 1945
   },
   {
     "name": "Local Network Gateways",
@@ -4244,7 +4244,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1544
+    "id": 1550
   },
   {
     "name": "Location",
@@ -4255,7 +4255,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1785
+    "id": 1791
   },
   {
     "name": "Log Analytics Query Pack",
@@ -4266,7 +4266,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1541
+    "id": 1547
   },
   {
     "name": "Log Analytics Workspaces",
@@ -4277,7 +4277,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2006
+    "id": 2012
   },
   {
     "name": "Log Analytics Workspaces",
@@ -4288,7 +4288,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1864
+    "id": 1870
   },
   {
     "name": "Log Analytics Workspaces",
@@ -4299,7 +4299,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1616
+    "id": 1622
   },
   {
     "name": "Log Streaming",
@@ -4310,7 +4310,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1811
+    "id": 1817
   },
   {
     "name": "Logic Apps",
@@ -4321,7 +4321,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1671
+    "id": 1677
   },
   {
     "name": "Logic Apps",
@@ -4332,7 +4332,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1696
+    "id": 1702
   },
   {
     "name": "Logic Apps Custom Connector",
@@ -4343,7 +4343,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1693
+    "id": 1699
   },
   {
     "name": "Machine Learning",
@@ -4354,7 +4354,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1635
+    "id": 1641
   },
   {
     "name": "Machine Learning Studio (classic) Web Services",
@@ -4365,7 +4365,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1649
+    "id": 1655
   },
   {
     "name": "Machine Learning Studio (classic) Web Services",
@@ -4376,7 +4376,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1714
+    "id": 1720
   },
   {
     "name": "Machine Learning Studio Web Service Plans",
@@ -4387,7 +4387,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1647
+    "id": 1653
   },
   {
     "name": "Machine Learning Studio Web Service Plans",
@@ -4398,7 +4398,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1712
+    "id": 1718
   },
   {
     "name": "Machine Learning Studio Workspaces",
@@ -4409,7 +4409,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1651
+    "id": 1657
   },
   {
     "name": "Machine Learning Studio Workspaces",
@@ -4420,7 +4420,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1715
+    "id": 1721
   },
   {
     "name": "Machinesazurearc",
@@ -4431,7 +4431,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1878
+    "id": 1884
   },
   {
     "name": "Maintenance Configuration",
@@ -4442,7 +4442,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1443
+    "id": 1449
   },
   {
     "name": "Managed Applications Center",
@@ -4453,7 +4453,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1867
+    "id": 1873
   },
   {
     "name": "Managed Database",
@@ -4464,7 +4464,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1398
+    "id": 1404
   },
   {
     "name": "Managed Desktop",
@@ -4475,7 +4475,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1868
+    "id": 1874
   },
   {
     "name": "Managed Identities",
@@ -4486,7 +4486,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1740
+    "id": 1746
   },
   {
     "name": "Managed Instance Apache Cassandra",
@@ -4497,7 +4497,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1579
+    "id": 1585
   },
   {
     "name": "Managed Service Fabric",
@@ -4508,7 +4508,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1446
+    "id": 1452
   },
   {
     "name": "Management Groups",
@@ -4519,7 +4519,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1829
+    "id": 1835
   },
   {
     "name": "Management Portal",
@@ -4530,7 +4530,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1775
+    "id": 1781
   },
   {
     "name": "Marketplace",
@@ -4541,7 +4541,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1826
+    "id": 1832
   },
   {
     "name": "Marketplace Management",
@@ -4552,7 +4552,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1883
+    "id": 1889
   },
   {
     "name": "Media",
@@ -4563,7 +4563,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1777
+    "id": 1783
   },
   {
     "name": "Media File",
@@ -4574,7 +4574,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1798
+    "id": 1804
   },
   {
     "name": "Medtech Service",
@@ -4585,7 +4585,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1540
+    "id": 1546
   },
   {
     "name": "Mesh Applications",
@@ -4596,7 +4596,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1465
+    "id": 1471
   },
   {
     "name": "Metrics",
@@ -4607,7 +4607,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1853
+    "id": 1859
   },
   {
     "name": "Metrics",
@@ -4618,7 +4618,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1613
+    "id": 1619
   },
   {
     "name": "Metrics Advisor",
@@ -4629,7 +4629,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1636
+    "id": 1642
   },
   {
     "name": "Metrics Advisor",
@@ -4640,7 +4640,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1440
+    "id": 1446
   },
   {
     "name": "Microsoft Defender Easm",
@@ -4651,7 +4651,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1994
+    "id": 2000
   },
   {
     "name": "Microsoft Defender for Iot",
@@ -4662,7 +4662,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1991
+    "id": 1997
   },
   {
     "name": "Microsoft Dev Box",
@@ -4673,7 +4673,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1563
+    "id": 1569
   },
   {
     "name": "Microsoft Sql Server 2025 Icon",
@@ -4684,7 +4684,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1406
+    "id": 1412
   },
   {
     "name": "Mindaro",
@@ -4695,7 +4695,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1499
+    "id": 1505
   },
   {
     "name": "Mission Landing Zone",
@@ -4706,7 +4706,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1903
+    "id": 1909
   },
   {
     "name": "Mobile",
@@ -4717,7 +4717,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1783
+    "id": 1789
   },
   {
     "name": "Mobile Engagement",
@@ -4728,7 +4728,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1822
+    "id": 1828
   },
   {
     "name": "Mobile Networks",
@@ -4739,7 +4739,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1527
+    "id": 1533
   },
   {
     "name": "Modular Data Center",
@@ -4750,7 +4750,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1896
+    "id": 1902
   },
   {
     "name": "Module",
@@ -4761,7 +4761,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1796
+    "id": 1802
   },
   {
     "name": "Monitor",
@@ -4772,7 +4772,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1859
+    "id": 1865
   },
   {
     "name": "Monitor",
@@ -4783,7 +4783,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1614
+    "id": 1620
   },
   {
     "name": "Multi Tenancy",
@@ -4794,7 +4794,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1627
+    "id": 1633
   },
   {
     "name": "Multifactor Authentication",
@@ -4805,7 +4805,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1986
+    "id": 1992
   },
   {
     "name": "My Customers",
@@ -4816,7 +4816,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1872
+    "id": 1878
   },
   {
     "name": "Nat",
@@ -4827,7 +4827,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1958
+    "id": 1964
   },
   {
     "name": "Network Interfaces",
@@ -4838,7 +4838,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1955
+    "id": 1961
   },
   {
     "name": "Network Managers",
@@ -4849,7 +4849,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1511
+    "id": 1517
   },
   {
     "name": "Network Security Groups",
@@ -4860,7 +4860,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1945
+    "id": 1951
   },
   {
     "name": "Network Security Perimeters",
@@ -4871,7 +4871,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1550
+    "id": 1556
   },
   {
     "name": "Network Watcher",
@@ -4882,7 +4882,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1620
+    "id": 1626
   },
   {
     "name": "Network Watcher",
@@ -4893,7 +4893,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1961
+    "id": 1967
   },
   {
     "name": "Notification Hub Namespaces",
@@ -4904,7 +4904,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1711
+    "id": 1717
   },
   {
     "name": "Notification Hub Namespaces",
@@ -4915,7 +4915,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1917
+    "id": 1923
   },
   {
     "name": "Notification Hubs",
@@ -4926,7 +4926,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1845
+    "id": 1851
   },
   {
     "name": "Notification Hubs",
@@ -4937,7 +4937,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1717
+    "id": 1723
   },
   {
     "name": "Notification Hubs",
@@ -4948,7 +4948,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1998
+    "id": 2004
   },
   {
     "name": "Offers",
@@ -4959,7 +4959,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1625
+    "id": 1631
   },
   {
     "name": "On Premises Data Gateways",
@@ -4970,7 +4970,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1940
+    "id": 1946
   },
   {
     "name": "Open Supply Chain Platform",
@@ -4981,7 +4981,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1556
+    "id": 1562
   },
   {
     "name": "Operation Log (classic)",
@@ -4992,7 +4992,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1865
+    "id": 1871
   },
   {
     "name": "Os Images (classic)",
@@ -5003,7 +5003,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1431
+    "id": 1437
   },
   {
     "name": "Outbound Connection",
@@ -5014,7 +5014,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1426
+    "id": 1432
   },
   {
     "name": "Partner Namespace",
@@ -5025,7 +5025,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1687
+    "id": 1693
   },
   {
     "name": "Partner Registration",
@@ -5036,7 +5036,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1694
+    "id": 1700
   },
   {
     "name": "Partner Topic",
@@ -5047,7 +5047,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1680
+    "id": 1686
   },
   {
     "name": "Peering Service",
@@ -5058,7 +5058,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1582
+    "id": 1588
   },
   {
     "name": "Peerings",
@@ -5069,7 +5069,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1545
+    "id": 1551
   },
   {
     "name": "Personalizers",
@@ -5080,7 +5080,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1648
+    "id": 1654
   },
   {
     "name": "Plans",
@@ -5091,7 +5091,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1629
+    "id": 1635
   },
   {
     "name": "Policy",
@@ -5102,7 +5102,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1877
+    "id": 1883
   },
   {
     "name": "Power",
@@ -5113,7 +5113,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1778
+    "id": 1784
   },
   {
     "name": "Power Bi Embedded",
@@ -5124,7 +5124,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2005
+    "id": 2011
   },
   {
     "name": "Power Platform",
@@ -5135,7 +5135,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2002
+    "id": 2008
   },
   {
     "name": "Power Platform",
@@ -5146,7 +5146,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1673
+    "id": 1679
   },
   {
     "name": "Power Platform",
@@ -5157,7 +5157,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1996
+    "id": 2002
   },
   {
     "name": "Power Platform",
@@ -5168,7 +5168,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1912
+    "id": 1918
   },
   {
     "name": "Power Up",
@@ -5179,7 +5179,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1795
+    "id": 1801
   },
   {
     "name": "Powershell",
@@ -5190,7 +5190,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1757
+    "id": 1763
   },
   {
     "name": "Preview Features",
@@ -5201,7 +5201,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1768
+    "id": 1774
   },
   {
     "name": "Private Endpoints",
@@ -5212,7 +5212,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1520
+    "id": 1526
   },
   {
     "name": "Private Link",
@@ -5223,7 +5223,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1953
+    "id": 1959
   },
   {
     "name": "Private Link Service",
@@ -5234,7 +5234,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1943
+    "id": 1949
   },
   {
     "name": "Private Link Services",
@@ -5245,7 +5245,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2008
+    "id": 2014
   },
   {
     "name": "Private Link Services",
@@ -5256,7 +5256,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1950
+    "id": 1956
   },
   {
     "name": "Process Explorer",
@@ -5267,7 +5267,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1773
+    "id": 1779
   },
   {
     "name": "Production Ready Database",
@@ -5278,7 +5278,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1825
+    "id": 1831
   },
   {
     "name": "Proximity Placement Groups",
@@ -5289,7 +5289,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1927
+    "id": 1933
   },
   {
     "name": "Public Ip Addresses",
@@ -5300,7 +5300,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1931
+    "id": 1937
   },
   {
     "name": "Public Ip Addresses (classic)",
@@ -5311,7 +5311,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1964
+    "id": 1970
   },
   {
     "name": "Public Ip Prefixes",
@@ -5322,7 +5322,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1924
+    "id": 1930
   },
   {
     "name": "Qna Makers",
@@ -5333,7 +5333,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1640
+    "id": 1646
   },
   {
     "name": "Quickstart Center",
@@ -5344,7 +5344,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1837
+    "id": 1843
   },
   {
     "name": "Recent",
@@ -5355,7 +5355,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1823
+    "id": 1829
   },
   {
     "name": "Recovery Services Vaults",
@@ -5366,7 +5366,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1850
+    "id": 1856
   },
   {
     "name": "Recovery Services Vaults",
@@ -5377,7 +5377,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1663
+    "id": 1669
   },
   {
     "name": "Recovery Services Vaults",
@@ -5388,7 +5388,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1470
+    "id": 1476
   },
   {
     "name": "Region Management",
@@ -5399,7 +5399,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1819
+    "id": 1825
   },
   {
     "name": "Relays",
@@ -5410,7 +5410,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1690
+    "id": 1696
   },
   {
     "name": "Remote Rendering",
@@ -5421,7 +5421,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1660
+    "id": 1666
   },
   {
     "name": "Reservations",
@@ -5432,7 +5432,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1752
+    "id": 1758
   },
   {
     "name": "Reserved Capacity",
@@ -5443,7 +5443,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1899
+    "id": 1905
   },
   {
     "name": "Reserved Ip Addresses (classic)",
@@ -5454,7 +5454,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1930
+    "id": 1936
   },
   {
     "name": "Resource Explorer",
@@ -5465,7 +5465,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1834
+    "id": 1840
   },
   {
     "name": "Resource Graph Explorer",
@@ -5476,7 +5476,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1855
+    "id": 1861
   },
   {
     "name": "Resource Group List",
@@ -5487,7 +5487,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1782
+    "id": 1788
   },
   {
     "name": "Resource Groups",
@@ -5498,7 +5498,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1828
+    "id": 1834
   },
   {
     "name": "Resource Guard",
@@ -5509,7 +5509,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1584
+    "id": 1590
   },
   {
     "name": "Resource Linked",
@@ -5520,7 +5520,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1751
+    "id": 1757
   },
   {
     "name": "Resource Management Private Link",
@@ -5531,7 +5531,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1962
+    "id": 1968
   },
   {
     "name": "Resource Mover",
@@ -5542,7 +5542,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1570
+    "id": 1576
   },
   {
     "name": "Restore Points",
@@ -5553,7 +5553,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1447
+    "id": 1453
   },
   {
     "name": "Restore Points Collections",
@@ -5564,7 +5564,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1463
+    "id": 1469
   },
   {
     "name": "Route Filters",
@@ -5575,7 +5575,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1936
+    "id": 1942
   },
   {
     "name": "Route Tables",
@@ -5586,7 +5586,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1959
+    "id": 1965
   },
   {
     "name": "Rtos",
@@ -5597,7 +5597,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1522
+    "id": 1528
   },
   {
     "name": "Savings Plans",
@@ -5608,7 +5608,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1587
+    "id": 1593
   },
   {
     "name": "Scheduler",
@@ -5619,7 +5619,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1805
+    "id": 1811
   },
   {
     "name": "Scheduler Job Collections",
@@ -5630,7 +5630,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1874
+    "id": 1880
   },
   {
     "name": "Scvmm Management Servers",
@@ -5641,7 +5641,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1560
+    "id": 1566
   },
   {
     "name": "Search",
@@ -5652,7 +5652,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1814
+    "id": 1820
   },
   {
     "name": "Search Grid",
@@ -5663,7 +5663,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1815
+    "id": 1821
   },
   {
     "name": "Security",
@@ -5674,7 +5674,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1733
+    "id": 1739
   },
   {
     "name": "Security Baselines",
@@ -5685,7 +5685,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1490
+    "id": 1496
   },
   {
     "name": "Security Center",
@@ -5696,7 +5696,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1980
+    "id": 1986
   },
   {
     "name": "Sendgrid Accounts",
@@ -5707,7 +5707,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1677
+    "id": 1683
   },
   {
     "name": "Server Farm",
@@ -5718,7 +5718,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1816
+    "id": 1822
   },
   {
     "name": "Service Catalog Mad",
@@ -5729,7 +5729,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1856
+    "id": 1862
   },
   {
     "name": "Service Endpoint Policies",
@@ -5740,7 +5740,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1925
+    "id": 1931
   },
   {
     "name": "Service Fabric Clusters",
@@ -5751,7 +5751,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1432
+    "id": 1438
   },
   {
     "name": "Service Fabric Clusters",
@@ -5762,7 +5762,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1502
+    "id": 1508
   },
   {
     "name": "Service Health",
@@ -5773,7 +5773,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1800
+    "id": 1806
   },
   {
     "name": "Service Providers",
@@ -5784,7 +5784,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1871
+    "id": 1877
   },
   {
     "name": "Shared Image Galleries",
@@ -5795,7 +5795,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1438
+    "id": 1444
   },
   {
     "name": "Signalr",
@@ -5806,7 +5806,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1913
+    "id": 1919
   },
   {
     "name": "Software As A Service",
@@ -5817,7 +5817,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1682
+    "id": 1688
   },
   {
     "name": "Software Updates",
@@ -5828,7 +5828,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1495
+    "id": 1501
   },
   {
     "name": "Solutions",
@@ -5839,7 +5839,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1851
+    "id": 1857
   },
   {
     "name": "Sonic Dash",
@@ -5850,7 +5850,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1879
+    "id": 1885
   },
   {
     "name": "Spatial Anchor Accounts",
@@ -5861,7 +5861,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1661
+    "id": 1667
   },
   {
     "name": "Speech Services",
@@ -5872,7 +5872,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1645
+    "id": 1651
   },
   {
     "name": "Spot Vm",
@@ -5883,7 +5883,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1944
+    "id": 1950
   },
   {
     "name": "Spot Vmss",
@@ -5894,7 +5894,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1951
+    "id": 1957
   },
   {
     "name": "Sql Data Warehouses",
@@ -5905,7 +5905,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1417
+    "id": 1423
   },
   {
     "name": "Sql Data Warehouses",
@@ -5916,7 +5916,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1689
+    "id": 1695
   },
   {
     "name": "Sql Database",
@@ -5927,7 +5927,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1403
+    "id": 1409
   },
   {
     "name": "Sql Elastic Pools",
@@ -5938,7 +5938,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1414
+    "id": 1420
   },
   {
     "name": "Sql Managed Instance",
@@ -5949,7 +5949,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1401
+    "id": 1407
   },
   {
     "name": "Sql Server",
@@ -5960,7 +5960,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1418
+    "id": 1424
   },
   {
     "name": "Sql Server Registries",
@@ -5971,7 +5971,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1419
+    "id": 1425
   },
   {
     "name": "Ssd",
@@ -5982,7 +5982,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1759
+    "id": 1765
   },
   {
     "name": "Ssh Keys",
@@ -5993,7 +5993,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1543
+    "id": 1549
   },
   {
     "name": "Ssis Lift And Shift Ir",
@@ -6004,7 +6004,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1400
+    "id": 1406
   },
   {
     "name": "Static Apps",
@@ -6015,7 +6015,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1919
+    "id": 1925
   },
   {
     "name": "Storage Accounts",
@@ -6026,7 +6026,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1468
+    "id": 1474
   },
   {
     "name": "Storage Accounts (classic)",
@@ -6037,7 +6037,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1479
+    "id": 1485
   },
   {
     "name": "Storage Azure Files",
@@ -6048,7 +6048,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1755
+    "id": 1761
   },
   {
     "name": "Storage Container",
@@ -6059,7 +6059,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1791
+    "id": 1797
   },
   {
     "name": "Storage Explorer",
@@ -6070,7 +6070,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1467
+    "id": 1473
   },
   {
     "name": "Storage Queue",
@@ -6081,7 +6081,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1761
+    "id": 1767
   },
   {
     "name": "Storage Sync Services",
@@ -6092,7 +6092,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1473
+    "id": 1479
   },
   {
     "name": "Storage Tasks",
@@ -6103,7 +6103,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1895
+    "id": 1901
   },
   {
     "name": "Storsimple Data Managers",
@@ -6114,7 +6114,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1477
+    "id": 1483
   },
   {
     "name": "Storsimple Device Managers",
@@ -6125,7 +6125,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1688
+    "id": 1694
   },
   {
     "name": "Storsimple Device Managers",
@@ -6136,7 +6136,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1478
+    "id": 1484
   },
   {
     "name": "Stream Analytics Jobs",
@@ -6147,7 +6147,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2011
+    "id": 2017
   },
   {
     "name": "Stream Analytics Jobs",
@@ -6158,7 +6158,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1710
+    "id": 1716
   },
   {
     "name": "Subnet",
@@ -6169,7 +6169,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1952
+    "id": 1958
   },
   {
     "name": "Subscriptions",
@@ -6180,7 +6180,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1789
+    "id": 1795
   },
   {
     "name": "System Topic",
@@ -6191,7 +6191,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1676
+    "id": 1682
   },
   {
     "name": "Table",
@@ -6202,7 +6202,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1803
+    "id": 1809
   },
   {
     "name": "Tag",
@@ -6213,7 +6213,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1750
+    "id": 1756
   },
   {
     "name": "Tags",
@@ -6224,7 +6224,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1786
+    "id": 1792
   },
   {
     "name": "Targets Management",
@@ -6235,7 +6235,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1512
+    "id": 1518
   },
   {
     "name": "Template Specs",
@@ -6246,7 +6246,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1521
+    "id": 1527
   },
   {
     "name": "Templates",
@@ -6257,7 +6257,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1772
+    "id": 1778
   },
   {
     "name": "Tenant Properties",
@@ -6268,7 +6268,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1741
+    "id": 1747
   },
   {
     "name": "Tenant Status",
@@ -6279,7 +6279,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1493
+    "id": 1499
   },
   {
     "name": "Test Base",
@@ -6290,7 +6290,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1601
+    "id": 1607
   },
   {
     "name": "Tfs Vc Repository",
@@ -6301,7 +6301,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1766
+    "id": 1772
   },
   {
     "name": "Time Series Data Sets",
@@ -6312,7 +6312,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1719
+    "id": 1725
   },
   {
     "name": "Time Series Insights Access Policies",
@@ -6323,7 +6323,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1706
+    "id": 1712
   },
   {
     "name": "Time Series Insights Environments",
@@ -6334,7 +6334,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1716
+    "id": 1722
   },
   {
     "name": "Time Series Insights Event Sources",
@@ -6345,7 +6345,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1699
+    "id": 1705
   },
   {
     "name": "Toolbox",
@@ -6356,7 +6356,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1762
+    "id": 1768
   },
   {
     "name": "Traffic Manager Profiles",
@@ -6367,7 +6367,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1954
+    "id": 1960
   },
   {
     "name": "Translator Text",
@@ -6378,7 +6378,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1658
+    "id": 1664
   },
   {
     "name": "Troubleshoot",
@@ -6389,7 +6389,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1747
+    "id": 1753
   },
   {
     "name": "Universal Print",
@@ -6400,7 +6400,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1848
+    "id": 1854
   },
   {
     "name": "Update Management Center",
@@ -6411,7 +6411,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1559
+    "id": 1565
   },
   {
     "name": "Updates",
@@ -6422,7 +6422,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1626
+    "id": 1632
   },
   {
     "name": "User Privacy",
@@ -6433,7 +6433,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1869
+    "id": 1875
   },
   {
     "name": "User Settings",
@@ -6444,7 +6444,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1727
+    "id": 1733
   },
   {
     "name": "User Settings",
@@ -6455,7 +6455,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1981
+    "id": 1987
   },
   {
     "name": "User Subscriptions",
@@ -6466,7 +6466,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1631
+    "id": 1637
   },
   {
     "name": "Users",
@@ -6477,7 +6477,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1736
+    "id": 1742
   },
   {
     "name": "Verifiable Credentials",
@@ -6488,7 +6488,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1735
+    "id": 1741
   },
   {
     "name": "Versions",
@@ -6499,7 +6499,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1767
+    "id": 1773
   },
   {
     "name": "Video Analyzers",
@@ -6510,7 +6510,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1519
+    "id": 1525
   },
   {
     "name": "Virtual Clusters",
@@ -6521,7 +6521,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1413
+    "id": 1419
   },
   {
     "name": "Virtual Instance for Sap",
@@ -6532,7 +6532,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1569
+    "id": 1575
   },
   {
     "name": "Virtual Machine",
@@ -6543,7 +6543,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1457
+    "id": 1463
   },
   {
     "name": "Virtual Machines (classic)",
@@ -6554,7 +6554,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1453
+    "id": 1459
   },
   {
     "name": "Virtual Network Gateways",
@@ -6565,7 +6565,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1949
+    "id": 1955
   },
   {
     "name": "Virtual Networks",
@@ -6576,7 +6576,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1960
+    "id": 1966
   },
   {
     "name": "Virtual Networks (classic)",
@@ -6587,7 +6587,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1957
+    "id": 1963
   },
   {
     "name": "Virtual Router",
@@ -6598,7 +6598,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1928
+    "id": 1934
   },
   {
     "name": "Virtual Visits Builder",
@@ -6609,7 +6609,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1577
+    "id": 1583
   },
   {
     "name": "Virtual Wan Hub",
@@ -6620,7 +6620,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1934
+    "id": 1940
   },
   {
     "name": "Virtual Wans",
@@ -6631,7 +6631,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1926
+    "id": 1932
   },
   {
     "name": "Vm App Definitions",
@@ -6642,7 +6642,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1594
+    "id": 1600
   },
   {
     "name": "Vm App Versions",
@@ -6653,7 +6653,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1565
+    "id": 1571
   },
   {
     "name": "Vm Image Version",
@@ -6664,7 +6664,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1610
+    "id": 1616
   },
   {
     "name": "Vm Images (classic)",
@@ -6675,7 +6675,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1451
+    "id": 1457
   },
   {
     "name": "Vm Scale Sets",
@@ -6686,7 +6686,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1450
+    "id": 1456
   },
   {
     "name": "Wac",
@@ -6697,7 +6697,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1530
+    "id": 1536
   },
   {
     "name": "Web App + Database",
@@ -6708,7 +6708,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1894
+    "id": 1900
   },
   {
     "name": "Web Application Firewall Policies(waf)",
@@ -6719,7 +6719,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1946
+    "id": 1952
   },
   {
     "name": "Web Jobs",
@@ -6730,7 +6730,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1897
+    "id": 1903
   },
   {
     "name": "Web Slots",
@@ -6741,7 +6741,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1838
+    "id": 1844
   },
   {
     "name": "Web Test",
@@ -6752,7 +6752,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1810
+    "id": 1816
   },
   {
     "name": "Website Power",
@@ -6763,7 +6763,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1801
+    "id": 1807
   },
   {
     "name": "Website Staging",
@@ -6774,7 +6774,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1839
+    "id": 1845
   },
   {
     "name": "Windows Notification Services",
@@ -6785,7 +6785,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1882
+    "id": 1888
   },
   {
     "name": "Windows10 Core Services",
@@ -6796,7 +6796,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1718
+    "id": 1724
   },
   {
     "name": "Workbooks",
@@ -6807,7 +6807,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1835
+    "id": 1841
   },
   {
     "name": "Worker Container App",
@@ -6818,7 +6818,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1892
+    "id": 1898
   },
   {
     "name": "Workflow",
@@ -6829,7 +6829,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1832
+    "id": 1838
   },
   {
     "name": "Workspaces",
@@ -6840,7 +6840,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1452
+    "id": 1458
   },
   {
     "name": "Workspaces",
@@ -6851,7 +6851,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1458
+    "id": 1464
   },
   {
     "name": "Copilot (general)",
@@ -6862,7 +6862,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 270
+    "id": 276
   },
   {
     "name": "Copilot (general)",
@@ -6873,7 +6873,7 @@ const logoData = [
     "year": "current",
     "size": "250x250",
     "format": "PNG",
-    "id": 280
+    "id": 286
   },
   {
     "name": "Copilot (general)",
@@ -6884,7 +6884,7 @@ const logoData = [
     "year": "current",
     "size": "300x250",
     "format": "PNG",
-    "id": 275
+    "id": 281
   },
   {
     "name": "Copilot for Finance",
@@ -6895,7 +6895,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 282
+    "id": 288
   },
   {
     "name": "Copilot for Finance 256x256 Padded",
@@ -6906,7 +6906,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 274
+    "id": 280
   },
   {
     "name": "Copilot for Sales",
@@ -6917,7 +6917,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 276
+    "id": 282
   },
   {
     "name": "Copilot for Sales 256x256 Padded",
@@ -6928,7 +6928,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 269
+    "id": 275
   },
   {
     "name": "Copilot for Service",
@@ -6939,7 +6939,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 281
+    "id": 287
   },
   {
     "name": "Copilot for Service 256x256 Padded",
@@ -6950,7 +6950,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 279
+    "id": 285
   },
   {
     "name": "Dragon Copilot",
@@ -6961,7 +6961,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 272
+    "id": 278
   },
   {
     "name": "Dragon Copilot",
@@ -6972,7 +6972,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 273
+    "id": 279
   },
   {
     "name": "Github Copilot",
@@ -6983,7 +6983,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 277
+    "id": 283
   },
   {
     "name": "Github Copilot 256x256 Padded",
@@ -6994,7 +6994,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 278
+    "id": 284
   },
   {
     "name": "Github Copilot Monochrome",
@@ -7005,7 +7005,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 271
+    "id": 277
   },
   {
     "name": "Businesscentral",
@@ -7016,7 +7016,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "",
     "format": "SVG",
-    "id": 2
+    "id": 1
   },
   {
     "name": "Businesscentral",
@@ -7027,7 +7027,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1
+    "id": 0
   },
   {
     "name": "Commerce",
@@ -7038,7 +7038,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 14
+    "id": 20
   },
   {
     "name": "Commerce Scalable Fluid",
@@ -7049,7 +7049,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 13
+    "id": 19
   },
   {
     "name": "Connectedstore",
@@ -7060,7 +7060,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 56
+    "id": 62
   },
   {
     "name": "Corehr",
@@ -7071,7 +7071,29 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 16
+    "id": 22
+  },
+  {
+    "name": "Corehr",
+    "family": "Dynamics_365",
+    "filename": "CoreHR_scalable.svg",
+    "path": "Dynamics_365/Human_Resources/Core_HR/CoreHR_scalable.svg",
+    "style": "full-color",
+    "year": "current",
+    "size": "",
+    "format": "SVG",
+    "id": 17
+  },
+  {
+    "name": "Customerinsights",
+    "family": "Dynamics_365",
+    "filename": "CustomerInsights_scalable.svg",
+    "path": "Dynamics_365/Customer_Insights/2023-2025 scalable/CustomerInsights_scalable.svg",
+    "style": "full-color",
+    "year": "2023-2025",
+    "size": "",
+    "format": "SVG",
+    "id": 7
   },
   {
     "name": "Customerinsights",
@@ -7082,7 +7104,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 7
+    "id": 6
   },
   {
     "name": "Customerinsights",
@@ -7093,7 +7115,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 6
+    "id": 5
   },
   {
     "name": "Customerinsights",
@@ -7104,7 +7126,7 @@ const logoData = [
     "year": "2019-2023",
     "size": "",
     "format": "SVG",
-    "id": 3
+    "id": 2
   },
   {
     "name": "Customerservice",
@@ -7115,7 +7137,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 52
+    "id": 58
   },
   {
     "name": "Customerservice",
@@ -7126,7 +7148,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 54
+    "id": 60
   },
   {
     "name": "Customerservice Scalable 256x256 Padded",
@@ -7137,7 +7159,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 53
+    "id": 59
   },
   {
     "name": "Customerserviceinsights",
@@ -7148,7 +7170,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 19
+    "id": 25
   },
   {
     "name": "Customerservices Scalable Fluid",
@@ -7159,7 +7181,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 55
+    "id": 61
   },
   {
     "name": "Customervoice",
@@ -7170,7 +7192,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 17
+    "id": 23
   },
   {
     "name": "Customervoice Scalable Fluid",
@@ -7181,7 +7203,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 18
+    "id": 24
   },
   {
     "name": "Dynamics 365 Contact Center Logo",
@@ -7192,7 +7214,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 11
+    "id": 12
   },
   {
     "name": "Dynamics365",
@@ -7203,7 +7225,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 8
+    "id": 9
   },
   {
     "name": "Dynamics365",
@@ -7214,7 +7236,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 9
+    "id": 10
   },
   {
     "name": "Fieldservice",
@@ -7225,7 +7247,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 30
+    "id": 35
   },
   {
     "name": "Fieldservice Scalable Fluid",
@@ -7236,7 +7258,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 29
+    "id": 34
   },
   {
     "name": "Finance",
@@ -7247,7 +7269,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 34
+    "id": 38
   },
   {
     "name": "Finance",
@@ -7258,7 +7280,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 32
+    "id": 36
   },
   {
     "name": "Finance Scalable 256x256 Padded",
@@ -7269,7 +7291,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 33
+    "id": 37
   },
   {
     "name": "Finance Scalable Fluid",
@@ -7280,7 +7302,18 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 35
+    "id": 39
+  },
+  {
+    "name": "Finance+operations",
+    "family": "Dynamics_365",
+    "filename": "Finance+Operations_scalable.svg",
+    "path": "Dynamics_365/Finance/Finance_&_Operations/Finance+Operations_scalable.svg",
+    "style": "full-color",
+    "year": "current",
+    "size": "",
+    "format": "SVG",
+    "id": 41
   },
   {
     "name": "Finance+operations",
@@ -7291,7 +7324,18 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 23
+    "id": 29
+  },
+  {
+    "name": "Financeoperations Scalable Fluid",
+    "family": "Dynamics_365",
+    "filename": "FinanceOperations_scalable_fluid.svg",
+    "path": "Dynamics_365/Finance/Finance_&_Operations/FinanceOperations_scalable_fluid.svg",
+    "style": "full-color",
+    "year": "current",
+    "size": "",
+    "format": "SVG",
+    "id": 40
   },
   {
     "name": "Financeoperations Scalable Fluid",
@@ -7302,7 +7346,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 22
+    "id": 28
   },
   {
     "name": "Fraudprotection",
@@ -7313,7 +7357,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 10
+    "id": 11
   },
   {
     "name": "Guides",
@@ -7324,7 +7368,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 51
+    "id": 57
   },
   {
     "name": "Humanresources",
@@ -7335,7 +7379,18 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 15
+    "id": 21
+  },
+  {
+    "name": "Humanresources",
+    "family": "Dynamics_365",
+    "filename": "HumanResources_scalable.svg",
+    "path": "Dynamics_365/Human_Resources/HumanResources_scalable.svg",
+    "style": "full-color",
+    "year": "current",
+    "size": "",
+    "format": "SVG",
+    "id": 13
   },
   {
     "name": "Importtool",
@@ -7346,7 +7401,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 49
+    "id": 55
   },
   {
     "name": "Intelligentordermanagement Scalable (1)",
@@ -7357,7 +7412,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 5
+    "id": 4
   },
   {
     "name": "Layout",
@@ -7368,7 +7423,18 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 48
+    "id": 54
+  },
+  {
+    "name": "Marketing",
+    "family": "Dynamics_365",
+    "filename": "Marketing_scalable.svg",
+    "path": "Dynamics_365/Customer_Insights/Marketing/Marketing_scalable.svg",
+    "style": "full-color",
+    "year": "current",
+    "size": "",
+    "format": "SVG",
+    "id": 8
   },
   {
     "name": "Marketing",
@@ -7379,7 +7445,7 @@ const logoData = [
     "year": "2019-2023",
     "size": "",
     "format": "SVG",
-    "id": 4
+    "id": 3
   },
   {
     "name": "Marketinsights",
@@ -7390,7 +7456,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 24
+    "id": 30
   },
   {
     "name": "Mrportal",
@@ -7401,7 +7467,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 45
+    "id": 51
   },
   {
     "name": "Product Insights",
@@ -7412,7 +7478,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 40
+    "id": 46
   },
   {
     "name": "Productvisualize",
@@ -7423,7 +7489,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 46
+    "id": 52
   },
   {
     "name": "Projectoperations",
@@ -7434,7 +7500,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 27
+    "id": 32
   },
   {
     "name": "Projectoperations Scalable Fluid",
@@ -7445,7 +7511,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 26
+    "id": 31
   },
   {
     "name": "Projectserviceautomation",
@@ -7456,7 +7522,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 21
+    "id": 27
   },
   {
     "name": "Projecttimesheet",
@@ -7467,7 +7533,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 38
+    "id": 44
   },
   {
     "name": "Remoteassist",
@@ -7478,7 +7544,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 47
+    "id": 53
   },
   {
     "name": "Returntoschool",
@@ -7489,7 +7555,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 39
+    "id": 45
   },
   {
     "name": "Returntowork",
@@ -7500,7 +7566,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 37
+    "id": 43
   },
   {
     "name": "Sales",
@@ -7511,7 +7577,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 41
+    "id": 47
   },
   {
     "name": "Sales",
@@ -7522,7 +7588,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 42
+    "id": 48
   },
   {
     "name": "Sales Scalable 256x256 Padded",
@@ -7533,7 +7599,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 44
+    "id": 50
   },
   {
     "name": "Sales Scalable Fluid",
@@ -7544,7 +7610,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 43
+    "id": 49
   },
   {
     "name": "Salesinsights",
@@ -7555,7 +7621,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 28
+    "id": 33
   },
   {
     "name": "Scmwarehousing",
@@ -7566,7 +7632,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 36
+    "id": 42
   },
   {
     "name": "Supplychainmanagement",
@@ -7577,7 +7643,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 12
+    "id": 18
   },
   {
     "name": "Sustainabilitycalculator",
@@ -7588,40 +7654,40 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 20
+    "id": 26
   },
   {
     "name": "Talent",
     "family": "Dynamics_365",
     "filename": "Talent_scalable.svg",
-    "path": "Dynamics_365/Talent/Talent_scalable.svg",
+    "path": "Dynamics_365/Human_Resources/Talent/Talent_scalable.svg",
     "style": "full-color",
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 0
+    "id": 14
   },
   {
     "name": "Talentattract",
     "family": "Dynamics_365",
     "filename": "TalentAttract_scalable.svg",
-    "path": "Dynamics_365/Talent_Attract/TalentAttract_scalable.svg",
+    "path": "Dynamics_365/Human_Resources/Talent/Talent_Attract/TalentAttract_scalable.svg",
     "style": "full-color",
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 25
+    "id": 15
   },
   {
     "name": "Talentonboard",
     "family": "Dynamics_365",
     "filename": "TalentOnboard_scalable.svg",
-    "path": "Dynamics_365/Talent_Onboard/TalentOnboard_scalable.svg",
+    "path": "Dynamics_365/Human_Resources/Talent/Talent_Onboard/TalentOnboard_scalable.svg",
     "style": "full-color",
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 31
+    "id": 16
   },
   {
     "name": "Voiceassistant",
@@ -7632,7 +7698,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 50
+    "id": 56
   },
   {
     "name": "Azure Ad",
@@ -7643,7 +7709,7 @@ const logoData = [
     "year": "2013-2023",
     "size": "",
     "format": "PNG",
-    "id": 2026
+    "id": 2032
   },
   {
     "name": "Azure Ad",
@@ -7654,7 +7720,7 @@ const logoData = [
     "year": "2013-2023",
     "size": "256x256",
     "format": "PNG",
-    "id": 2025
+    "id": 2031
   },
   {
     "name": "Azure Ad Black & White",
@@ -7665,7 +7731,7 @@ const logoData = [
     "year": "2013-2023",
     "size": "",
     "format": "PNG",
-    "id": 2024
+    "id": 2030
   },
   {
     "name": "Microsoft Entra Bw Icon (product Family)",
@@ -7676,7 +7742,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2027
+    "id": 2033
   },
   {
     "name": "Microsoft Entra Id Bw Icon",
@@ -7687,7 +7753,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2020
+    "id": 2026
   },
   {
     "name": "Microsoft Entra Id Color Icon",
@@ -7698,7 +7764,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 2023
+    "id": 2029
   },
   {
     "name": "Microsoft Entra Id Color Icon",
@@ -7709,7 +7775,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2021
+    "id": 2027
   },
   {
     "name": "Microsoft Entra Id Filled Bw Icon",
@@ -7720,7 +7786,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2022
+    "id": 2028
   },
   {
     "name": "Microsoft Entra Id Governance Bw Icon",
@@ -7731,7 +7797,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2017
+    "id": 2023
   },
   {
     "name": "Microsoft Entra Id Governance Color Icon",
@@ -7742,7 +7808,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2016
+    "id": 2022
   },
   {
     "name": "Microsoft Entra Product Family",
@@ -7753,7 +7819,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2028
+    "id": 2034
   },
   {
     "name": "Microsoft Entra Verified Id Bw Icon",
@@ -7764,7 +7830,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2019
+    "id": 2025
   },
   {
     "name": "Microsoft Entra Verified Id Color Icon",
@@ -7775,7 +7841,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2018
+    "id": 2024
   },
   {
     "name": "Apps",
@@ -7786,7 +7852,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 300
+    "id": 306
   },
   {
     "name": "Azure Sql",
@@ -7797,7 +7863,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 325
+    "id": 331
   },
   {
     "name": "Azure Synapse Link",
@@ -7808,7 +7874,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 320
+    "id": 326
   },
   {
     "name": "Dashboard",
@@ -7819,7 +7885,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 321
+    "id": 327
   },
   {
     "name": "Data Activator 48 Color",
@@ -7830,7 +7896,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 283
+    "id": 289
   },
   {
     "name": "Data Activator 512 Color",
@@ -7841,7 +7907,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 292
+    "id": 298
   },
   {
     "name": "Data Factory 48 Color",
@@ -7852,7 +7918,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 285
+    "id": 291
   },
   {
     "name": "Data Factory 512 Color",
@@ -7863,7 +7929,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 284
+    "id": 290
   },
   {
     "name": "Data Warehouse",
@@ -7874,7 +7940,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 314
+    "id": 320
   },
   {
     "name": "Data Warehouse (legacy)",
@@ -7885,7 +7951,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 322
+    "id": 328
   },
   {
     "name": "Dataflow",
@@ -7896,7 +7962,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 313
+    "id": 319
   },
   {
     "name": "Datamart",
@@ -7907,7 +7973,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 301
+    "id": 307
   },
   {
     "name": "Dataset",
@@ -7918,7 +7984,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 315
+    "id": 321
   },
   {
     "name": "Dataverse",
@@ -7929,7 +7995,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 324
+    "id": 330
   },
   {
     "name": "Experiments",
@@ -7940,7 +8006,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 308
+    "id": 314
   },
   {
     "name": "External Dataflow",
@@ -7951,7 +8017,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 306
+    "id": 312
   },
   {
     "name": "External Datamart",
@@ -7962,7 +8028,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 309
+    "id": 315
   },
   {
     "name": "External Dataset",
@@ -7973,7 +8039,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 328
+    "id": 334
   },
   {
     "name": "Fabric 256",
@@ -7984,7 +8050,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 290
+    "id": 296
   },
   {
     "name": "Fabric 256",
@@ -7995,7 +8061,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 293
+    "id": 299
   },
   {
     "name": "Fabric 256 Padded",
@@ -8006,7 +8072,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 291
+    "id": 297
   },
   {
     "name": "Kql Database",
@@ -8017,7 +8083,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 304
+    "id": 310
   },
   {
     "name": "Kql Queryset",
@@ -8028,7 +8094,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 310
+    "id": 316
   },
   {
     "name": "Lakehouse",
@@ -8039,7 +8105,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 330
+    "id": 336
   },
   {
     "name": "Links",
@@ -8050,7 +8116,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 323
+    "id": 329
   },
   {
     "name": "Models",
@@ -8061,7 +8127,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 326
+    "id": 332
   },
   {
     "name": "No Access Dataset",
@@ -8072,7 +8138,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 311
+    "id": 317
   },
   {
     "name": "Notebook",
@@ -8083,7 +8149,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 299
+    "id": 305
   },
   {
     "name": "Onelake 48 Color",
@@ -8094,7 +8160,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 286
+    "id": 292
   },
   {
     "name": "Onelake 512 Color",
@@ -8105,7 +8171,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 287
+    "id": 293
   },
   {
     "name": "Paginated Reports",
@@ -8116,7 +8182,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 302
+    "id": 308
   },
   {
     "name": "Pipelines",
@@ -8127,7 +8193,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 298
+    "id": 304
   },
   {
     "name": "Purview",
@@ -8138,7 +8204,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 312
+    "id": 318
   },
   {
     "name": "Real Time Dashboard",
@@ -8149,7 +8215,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 307
+    "id": 313
   },
   {
     "name": "Report",
@@ -8160,7 +8226,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 317
+    "id": 323
   },
   {
     "name": "Scorecard",
@@ -8171,7 +8237,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 305
+    "id": 311
   },
   {
     "name": "Shared Dataset",
@@ -8182,7 +8248,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 329
+    "id": 335
   },
   {
     "name": "Spark Job",
@@ -8193,7 +8259,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 303
+    "id": 309
   },
   {
     "name": "Streaming Dataflow",
@@ -8204,7 +8270,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 318
+    "id": 324
   },
   {
     "name": "Streaming Dataset",
@@ -8215,7 +8281,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 316
+    "id": 322
   },
   {
     "name": "Synapse Data Engineering 48 Color",
@@ -8226,7 +8292,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 297
+    "id": 303
   },
   {
     "name": "Synapse Data Engineering 512 Color",
@@ -8237,7 +8303,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 296
+    "id": 302
   },
   {
     "name": "Synapse Data Science 48 Color",
@@ -8248,7 +8314,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 289
+    "id": 295
   },
   {
     "name": "Synapse Data Science 512 Color",
@@ -8259,7 +8325,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 288
+    "id": 294
   },
   {
     "name": "Synapse Data Warehouse 48 Color",
@@ -8270,7 +8336,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 295
+    "id": 301
   },
   {
     "name": "Synapse Data Warehouse 512 Color",
@@ -8281,7 +8347,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 294
+    "id": 300
   },
   {
     "name": "Synapse Real Time Analytics 48 Color",
@@ -8292,7 +8358,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 331
+    "id": 337
   },
   {
     "name": "Synapse Real Time Analytics 512 Color",
@@ -8303,7 +8369,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 332
+    "id": 338
   },
   {
     "name": "Workbook",
@@ -8314,7 +8380,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 319
+    "id": 325
   },
   {
     "name": "Workspace",
@@ -8325,7 +8391,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 327
+    "id": 333
   },
   {
     "name": "Access",
@@ -8336,7 +8402,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 691
+    "id": 697
   },
   {
     "name": "Access",
@@ -8347,7 +8413,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 692
+    "id": 698
   },
   {
     "name": "Access",
@@ -8358,7 +8424,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 693
+    "id": 699
   },
   {
     "name": "Access",
@@ -8369,7 +8435,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 690
+    "id": 696
   },
   {
     "name": "Access",
@@ -8380,7 +8446,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 689
+    "id": 695
   },
   {
     "name": "Access",
@@ -8391,7 +8457,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 681
+    "id": 687
   },
   {
     "name": "Access",
@@ -8402,7 +8468,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 682
+    "id": 688
   },
   {
     "name": "Access",
@@ -8413,7 +8479,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 683
+    "id": 689
   },
   {
     "name": "Access",
@@ -8424,7 +8490,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 680
+    "id": 686
   },
   {
     "name": "Access",
@@ -8435,7 +8501,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 679
+    "id": 685
   },
   {
     "name": "Access",
@@ -8446,7 +8512,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 676
+    "id": 682
   },
   {
     "name": "Access",
@@ -8457,7 +8523,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 677
+    "id": 683
   },
   {
     "name": "Access",
@@ -8468,7 +8534,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 678
+    "id": 684
   },
   {
     "name": "Access",
@@ -8479,7 +8545,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 675
+    "id": 681
   },
   {
     "name": "Access",
@@ -8490,7 +8556,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 674
+    "id": 680
   },
   {
     "name": "Access",
@@ -8501,7 +8567,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 686
+    "id": 692
   },
   {
     "name": "Access",
@@ -8512,7 +8578,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 687
+    "id": 693
   },
   {
     "name": "Access",
@@ -8523,7 +8589,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 688
+    "id": 694
   },
   {
     "name": "Access",
@@ -8534,7 +8600,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 685
+    "id": 691
   },
   {
     "name": "Access",
@@ -8545,7 +8611,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 684
+    "id": 690
   },
   {
     "name": "Access",
@@ -8556,7 +8622,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 671
+    "id": 677
   },
   {
     "name": "Access",
@@ -8567,7 +8633,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 672
+    "id": 678
   },
   {
     "name": "Access",
@@ -8578,7 +8644,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 673
+    "id": 679
   },
   {
     "name": "Access",
@@ -8589,7 +8655,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 670
+    "id": 676
   },
   {
     "name": "Access",
@@ -8600,7 +8666,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 669
+    "id": 675
   },
   {
     "name": "Access 512",
@@ -8611,7 +8677,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 668
+    "id": 674
   },
   {
     "name": "Access 512 Padded",
@@ -8622,7 +8688,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 667
+    "id": 673
   },
   {
     "name": "Agent 365",
@@ -8633,7 +8699,7 @@ const logoData = [
     "year": "current",
     "size": "300x300",
     "format": "PNG",
-    "id": 978
+    "id": 984
   },
   {
     "name": "Agent 365",
@@ -8644,7 +8710,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 979
+    "id": 985
   },
   {
     "name": "Bookings",
@@ -8655,7 +8721,7 @@ const logoData = [
     "year": "2016-2024",
     "size": "128x128",
     "format": "PNG",
-    "id": 338
+    "id": 344
   },
   {
     "name": "Bookings",
@@ -8666,7 +8732,7 @@ const logoData = [
     "year": "2016-2024",
     "size": "256x256",
     "format": "PNG",
-    "id": 340
+    "id": 346
   },
   {
     "name": "Bookings",
@@ -8677,7 +8743,7 @@ const logoData = [
     "year": "2016-2024",
     "size": "48x48",
     "format": "PNG",
-    "id": 341
+    "id": 347
   },
   {
     "name": "Bookings",
@@ -8688,7 +8754,7 @@ const logoData = [
     "year": "2016-2024",
     "size": "64x64",
     "format": "PNG",
-    "id": 337
+    "id": 343
   },
   {
     "name": "Bookings",
@@ -8699,7 +8765,7 @@ const logoData = [
     "year": "2016-2024",
     "size": "128x128",
     "format": "PNG",
-    "id": 343
+    "id": 349
   },
   {
     "name": "Bookings",
@@ -8710,7 +8776,7 @@ const logoData = [
     "year": "2016-2024",
     "size": "256x256",
     "format": "PNG",
-    "id": 345
+    "id": 351
   },
   {
     "name": "Bookings",
@@ -8721,7 +8787,7 @@ const logoData = [
     "year": "2016-2024",
     "size": "48x48",
     "format": "PNG",
-    "id": 346
+    "id": 352
   },
   {
     "name": "Bookings",
@@ -8732,7 +8798,7 @@ const logoData = [
     "year": "2016-2024",
     "size": "64x64",
     "format": "PNG",
-    "id": 342
+    "id": 348
   },
   {
     "name": "Bookings",
@@ -8743,7 +8809,7 @@ const logoData = [
     "year": "2016-2024",
     "size": "96x96",
     "format": "PNG",
-    "id": 344
+    "id": 350
   },
   {
     "name": "Bookings 96x96.",
@@ -8754,7 +8820,7 @@ const logoData = [
     "year": "2016-2024",
     "size": "96x96",
     "format": "PNG",
-    "id": 339
+    "id": 345
   },
   {
     "name": "Bookings Monochromatic",
@@ -8765,7 +8831,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 336
+    "id": 342
   },
   {
     "name": "Clipchamp",
@@ -8776,7 +8842,7 @@ const logoData = [
     "year": "2022-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 665
+    "id": 671
   },
   {
     "name": "Clipchamp 512",
@@ -8787,7 +8853,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 664
+    "id": 670
   },
   {
     "name": "Clipchamp 512 Padded",
@@ -8798,7 +8864,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 663
+    "id": 669
   },
   {
     "name": "Clipchamp Logo",
@@ -8809,7 +8875,7 @@ const logoData = [
     "year": "2022-2025",
     "size": "",
     "format": "PNG",
-    "id": 666
+    "id": 672
   },
   {
     "name": "Copilot In Excel",
@@ -8820,7 +8886,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 937
+    "id": 943
   },
   {
     "name": "Copilot In Loop",
@@ -8831,7 +8897,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 941
+    "id": 947
   },
   {
     "name": "Copilot In Outlook",
@@ -8842,7 +8908,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 949
+    "id": 955
   },
   {
     "name": "Copilot In Powerpoint",
@@ -8853,7 +8919,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 939
+    "id": 945
   },
   {
     "name": "Copilot In Teams",
@@ -8864,7 +8930,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 943
+    "id": 949
   },
   {
     "name": "Copilot In Word",
@@ -8875,7 +8941,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 940
+    "id": 946
   },
   {
     "name": "Delve",
@@ -8886,7 +8952,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 469
+    "id": 475
   },
   {
     "name": "Delve",
@@ -8897,7 +8963,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 466
+    "id": 472
   },
   {
     "name": "Delve",
@@ -8908,7 +8974,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 467
+    "id": 473
   },
   {
     "name": "Delve",
@@ -8919,7 +8985,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 465
+    "id": 471
   },
   {
     "name": "Delve",
@@ -8930,7 +8996,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 458
+    "id": 464
   },
   {
     "name": "Delve",
@@ -8941,7 +9007,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 456
+    "id": 462
   },
   {
     "name": "Delve",
@@ -8952,7 +9018,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 457
+    "id": 463
   },
   {
     "name": "Delve",
@@ -8963,7 +9029,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 455
+    "id": 461
   },
   {
     "name": "Delve",
@@ -8974,7 +9040,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 454
+    "id": 460
   },
   {
     "name": "Delve",
@@ -8985,7 +9051,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 453
+    "id": 459
   },
   {
     "name": "Delve",
@@ -8996,7 +9062,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 450
+    "id": 456
   },
   {
     "name": "Delve",
@@ -9007,7 +9073,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 451
+    "id": 457
   },
   {
     "name": "Delve",
@@ -9018,7 +9084,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 449
+    "id": 455
   },
   {
     "name": "Delve",
@@ -9029,7 +9095,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "85x85",
     "format": "PNG",
-    "id": 452
+    "id": 458
   },
   {
     "name": "Delve",
@@ -9040,7 +9106,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 448
+    "id": 454
   },
   {
     "name": "Delve",
@@ -9051,7 +9117,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 464
+    "id": 470
   },
   {
     "name": "Delve",
@@ -9062,7 +9128,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 461
+    "id": 467
   },
   {
     "name": "Delve",
@@ -9073,7 +9139,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 462
+    "id": 468
   },
   {
     "name": "Delve",
@@ -9084,7 +9150,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 460
+    "id": 466
   },
   {
     "name": "Delve",
@@ -9095,7 +9161,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "85x85",
     "format": "PNG",
-    "id": 463
+    "id": 469
   },
   {
     "name": "Delve",
@@ -9106,7 +9172,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 459
+    "id": 465
   },
   {
     "name": "Delve",
@@ -9117,7 +9183,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 447
+    "id": 453
   },
   {
     "name": "Delve",
@@ -9128,7 +9194,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 444
+    "id": 450
   },
   {
     "name": "Delve",
@@ -9139,7 +9205,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 445
+    "id": 451
   },
   {
     "name": "Delve",
@@ -9150,7 +9216,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 443
+    "id": 449
   },
   {
     "name": "Delve",
@@ -9161,7 +9227,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "85x85",
     "format": "PNG",
-    "id": 446
+    "id": 452
   },
   {
     "name": "Delve",
@@ -9172,7 +9238,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 442
+    "id": 448
   },
   {
     "name": "Delve 96x96.",
@@ -9183,7 +9249,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 468
+    "id": 474
   },
   {
     "name": "Excel",
@@ -9194,7 +9260,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 587
+    "id": 593
   },
   {
     "name": "Excel",
@@ -9205,7 +9271,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 584
+    "id": 590
   },
   {
     "name": "Excel",
@@ -9216,7 +9282,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 586
+    "id": 592
   },
   {
     "name": "Excel",
@@ -9227,7 +9293,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 585
+    "id": 591
   },
   {
     "name": "Excel",
@@ -9238,7 +9304,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 583
+    "id": 589
   },
   {
     "name": "Excel",
@@ -9249,7 +9315,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 577
+    "id": 583
   },
   {
     "name": "Excel",
@@ -9260,7 +9326,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 574
+    "id": 580
   },
   {
     "name": "Excel",
@@ -9271,7 +9337,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 576
+    "id": 582
   },
   {
     "name": "Excel",
@@ -9282,7 +9348,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 575
+    "id": 581
   },
   {
     "name": "Excel",
@@ -9293,7 +9359,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 573
+    "id": 579
   },
   {
     "name": "Excel",
@@ -9304,7 +9370,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 572
+    "id": 578
   },
   {
     "name": "Excel",
@@ -9315,7 +9381,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 569
+    "id": 575
   },
   {
     "name": "Excel",
@@ -9326,7 +9392,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 571
+    "id": 577
   },
   {
     "name": "Excel",
@@ -9337,7 +9403,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 570
+    "id": 576
   },
   {
     "name": "Excel",
@@ -9348,7 +9414,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 568
+    "id": 574
   },
   {
     "name": "Excel",
@@ -9359,7 +9425,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 582
+    "id": 588
   },
   {
     "name": "Excel",
@@ -9370,7 +9436,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 579
+    "id": 585
   },
   {
     "name": "Excel",
@@ -9381,7 +9447,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 581
+    "id": 587
   },
   {
     "name": "Excel",
@@ -9392,7 +9458,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 580
+    "id": 586
   },
   {
     "name": "Excel",
@@ -9403,7 +9469,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 578
+    "id": 584
   },
   {
     "name": "Excel",
@@ -9414,7 +9480,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 567
+    "id": 573
   },
   {
     "name": "Excel",
@@ -9425,7 +9491,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 564
+    "id": 570
   },
   {
     "name": "Excel",
@@ -9436,7 +9502,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 566
+    "id": 572
   },
   {
     "name": "Excel",
@@ -9447,7 +9513,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 565
+    "id": 571
   },
   {
     "name": "Excel",
@@ -9458,7 +9524,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 563
+    "id": 569
   },
   {
     "name": "Excel 1024x1024 (2025 Unofficial)",
@@ -9469,7 +9535,7 @@ const logoData = [
     "year": "current",
     "size": "1024x1024",
     "format": "PNG",
-    "id": 562
+    "id": 568
   },
   {
     "name": "Excel 512",
@@ -9480,7 +9546,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 561
+    "id": 567
   },
   {
     "name": "Excel 512 Padded",
@@ -9491,7 +9557,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 560
+    "id": 566
   },
   {
     "name": "Exchange",
@@ -9502,7 +9568,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 555
+    "id": 561
   },
   {
     "name": "Exchange",
@@ -9513,7 +9579,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 556
+    "id": 562
   },
   {
     "name": "Exchange",
@@ -9524,7 +9590,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 558
+    "id": 564
   },
   {
     "name": "Exchange",
@@ -9535,7 +9601,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 559
+    "id": 565
   },
   {
     "name": "Exchange",
@@ -9546,7 +9612,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 557
+    "id": 563
   },
   {
     "name": "Exchange",
@@ -9557,7 +9623,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 540
+    "id": 546
   },
   {
     "name": "Exchange",
@@ -9568,7 +9634,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 541
+    "id": 547
   },
   {
     "name": "Exchange",
@@ -9579,7 +9645,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 543
+    "id": 549
   },
   {
     "name": "Exchange",
@@ -9590,7 +9656,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 544
+    "id": 550
   },
   {
     "name": "Exchange",
@@ -9601,7 +9667,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 542
+    "id": 548
   },
   {
     "name": "Exchange",
@@ -9612,7 +9678,7 @@ const logoData = [
     "year": "2019-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 550
+    "id": 556
   },
   {
     "name": "Exchange",
@@ -9623,7 +9689,7 @@ const logoData = [
     "year": "2019-current",
     "size": "256x256",
     "format": "PNG",
-    "id": 551
+    "id": 557
   },
   {
     "name": "Exchange",
@@ -9634,7 +9700,7 @@ const logoData = [
     "year": "2019-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 553
+    "id": 559
   },
   {
     "name": "Exchange",
@@ -9645,7 +9711,7 @@ const logoData = [
     "year": "2019-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 554
+    "id": 560
   },
   {
     "name": "Exchange",
@@ -9656,7 +9722,7 @@ const logoData = [
     "year": "2019-current",
     "size": "96x96",
     "format": "PNG",
-    "id": 552
+    "id": 558
   },
   {
     "name": "Exchange",
@@ -9667,7 +9733,7 @@ const logoData = [
     "year": "2019-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 545
+    "id": 551
   },
   {
     "name": "Exchange",
@@ -9678,7 +9744,7 @@ const logoData = [
     "year": "2019-current",
     "size": "256x256",
     "format": "PNG",
-    "id": 546
+    "id": 552
   },
   {
     "name": "Exchange",
@@ -9689,7 +9755,7 @@ const logoData = [
     "year": "2019-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 548
+    "id": 554
   },
   {
     "name": "Exchange",
@@ -9700,7 +9766,7 @@ const logoData = [
     "year": "2019-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 549
+    "id": 555
   },
   {
     "name": "Exchange",
@@ -9711,7 +9777,7 @@ const logoData = [
     "year": "2019-current",
     "size": "96x96",
     "format": "PNG",
-    "id": 547
+    "id": 553
   },
   {
     "name": "Exchange",
@@ -9722,7 +9788,7 @@ const logoData = [
     "year": "2019-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 535
+    "id": 541
   },
   {
     "name": "Exchange",
@@ -9733,7 +9799,7 @@ const logoData = [
     "year": "2019-current",
     "size": "256x256",
     "format": "PNG",
-    "id": 536
+    "id": 542
   },
   {
     "name": "Exchange",
@@ -9744,7 +9810,7 @@ const logoData = [
     "year": "2019-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 538
+    "id": 544
   },
   {
     "name": "Exchange",
@@ -9755,7 +9821,7 @@ const logoData = [
     "year": "2019-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 539
+    "id": 545
   },
   {
     "name": "Exchange",
@@ -9766,7 +9832,7 @@ const logoData = [
     "year": "2019-current",
     "size": "96x96",
     "format": "PNG",
-    "id": 537
+    "id": 543
   },
   {
     "name": "Forms",
@@ -9777,7 +9843,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 1034
+    "id": 1040
   },
   {
     "name": "Forms",
@@ -9788,7 +9854,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 1035
+    "id": 1041
   },
   {
     "name": "Forms",
@@ -9799,7 +9865,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 1033
+    "id": 1039
   },
   {
     "name": "Forms",
@@ -9810,7 +9876,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 1036
+    "id": 1042
   },
   {
     "name": "Forms",
@@ -9821,7 +9887,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 1032
+    "id": 1038
   },
   {
     "name": "Forms",
@@ -9832,7 +9898,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 1013
+    "id": 1019
   },
   {
     "name": "Forms",
@@ -9843,7 +9909,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 1014
+    "id": 1020
   },
   {
     "name": "Forms",
@@ -9854,7 +9920,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 1012
+    "id": 1018
   },
   {
     "name": "Forms",
@@ -9865,7 +9931,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 1015
+    "id": 1021
   },
   {
     "name": "Forms",
@@ -9876,7 +9942,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 1011
+    "id": 1017
   },
   {
     "name": "Forms",
@@ -9887,7 +9953,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1023
+    "id": 1029
   },
   {
     "name": "Forms",
@@ -9898,7 +9964,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1024
+    "id": 1030
   },
   {
     "name": "Forms",
@@ -9909,7 +9975,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1022
+    "id": 1028
   },
   {
     "name": "Forms",
@@ -9920,7 +9986,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1025
+    "id": 1031
   },
   {
     "name": "Forms",
@@ -9931,7 +9997,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1021
+    "id": 1027
   },
   {
     "name": "Forms",
@@ -9942,7 +10008,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1029
+    "id": 1035
   },
   {
     "name": "Forms",
@@ -9953,7 +10019,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1030
+    "id": 1036
   },
   {
     "name": "Forms",
@@ -9964,7 +10030,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1028
+    "id": 1034
   },
   {
     "name": "Forms",
@@ -9975,7 +10041,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1031
+    "id": 1037
   },
   {
     "name": "Forms",
@@ -9986,7 +10052,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1027
+    "id": 1033
   },
   {
     "name": "Forms",
@@ -9997,7 +10063,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1018
+    "id": 1024
   },
   {
     "name": "Forms",
@@ -10008,7 +10074,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1019
+    "id": 1025
   },
   {
     "name": "Forms",
@@ -10019,7 +10085,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1017
+    "id": 1023
   },
   {
     "name": "Forms",
@@ -10030,7 +10096,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1020
+    "id": 1026
   },
   {
     "name": "Forms",
@@ -10041,7 +10107,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1016
+    "id": 1022
   },
   {
     "name": "Forms 256x256 (no Padding)",
@@ -10052,7 +10118,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1026
+    "id": 1032
   },
   {
     "name": "Forms 512",
@@ -10063,7 +10129,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 1010
+    "id": 1016
   },
   {
     "name": "Forms 512 Padded",
@@ -10074,7 +10140,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 1009
+    "id": 1015
   },
   {
     "name": "Infopath",
@@ -10085,7 +10151,7 @@ const logoData = [
     "year": "2013-2015",
     "size": "48x48",
     "format": "PNG",
-    "id": 424
+    "id": 430
   },
   {
     "name": "Infopath",
@@ -10096,7 +10162,7 @@ const logoData = [
     "year": "2013-2015",
     "size": "128x128",
     "format": "PNG",
-    "id": 422
+    "id": 428
   },
   {
     "name": "Infopath",
@@ -10107,7 +10173,7 @@ const logoData = [
     "year": "2013-2015",
     "size": "256x256",
     "format": "PNG",
-    "id": 423
+    "id": 429
   },
   {
     "name": "Infopath",
@@ -10118,7 +10184,7 @@ const logoData = [
     "year": "2013-2015",
     "size": "64x64",
     "format": "PNG",
-    "id": 420
+    "id": 426
   },
   {
     "name": "Infopath",
@@ -10129,7 +10195,7 @@ const logoData = [
     "year": "2013-2015",
     "size": "96x96",
     "format": "PNG",
-    "id": 421
+    "id": 427
   },
   {
     "name": "Infopath",
@@ -10140,7 +10206,7 @@ const logoData = [
     "year": "2013-2015",
     "size": "128x128",
     "format": "PNG",
-    "id": 415
+    "id": 421
   },
   {
     "name": "Infopath",
@@ -10151,7 +10217,7 @@ const logoData = [
     "year": "2013-2015",
     "size": "256x256",
     "format": "PNG",
-    "id": 416
+    "id": 422
   },
   {
     "name": "Infopath",
@@ -10162,7 +10228,7 @@ const logoData = [
     "year": "2013-2015",
     "size": "48x48",
     "format": "PNG",
-    "id": 418
+    "id": 424
   },
   {
     "name": "Infopath",
@@ -10173,7 +10239,7 @@ const logoData = [
     "year": "2013-2015",
     "size": "64x64",
     "format": "PNG",
-    "id": 417
+    "id": 423
   },
   {
     "name": "Infopath",
@@ -10184,7 +10250,7 @@ const logoData = [
     "year": "2013-2015",
     "size": "96x96",
     "format": "PNG",
-    "id": 414
+    "id": 420
   },
   {
     "name": "Infopath 2007 Logo",
@@ -10195,7 +10261,7 @@ const logoData = [
     "year": "2007-2010",
     "size": "",
     "format": "SVG",
-    "id": 419
+    "id": 425
   },
   {
     "name": "Infopath Gray",
@@ -10206,7 +10272,7 @@ const logoData = [
     "year": "2010-2013",
     "size": "",
     "format": "PNG",
-    "id": 426
+    "id": 432
   },
   {
     "name": "Invoicing",
@@ -10217,7 +10283,7 @@ const logoData = [
     "year": "2017-2020",
     "size": "128x128",
     "format": "PNG",
-    "id": 375
+    "id": 381
   },
   {
     "name": "Invoicing",
@@ -10228,7 +10294,7 @@ const logoData = [
     "year": "2017-2020",
     "size": "256x256",
     "format": "PNG",
-    "id": 376
+    "id": 382
   },
   {
     "name": "Invoicing",
@@ -10239,7 +10305,7 @@ const logoData = [
     "year": "2017-2020",
     "size": "48x48",
     "format": "PNG",
-    "id": 374
+    "id": 380
   },
   {
     "name": "Invoicing",
@@ -10250,7 +10316,7 @@ const logoData = [
     "year": "2017-2020",
     "size": "64x64",
     "format": "PNG",
-    "id": 377
+    "id": 383
   },
   {
     "name": "Invoicing",
@@ -10261,7 +10327,7 @@ const logoData = [
     "year": "2017-2020",
     "size": "96x96",
     "format": "PNG",
-    "id": 378
+    "id": 384
   },
   {
     "name": "Invoicing",
@@ -10272,7 +10338,7 @@ const logoData = [
     "year": "2017-2020",
     "size": "128x128",
     "format": "PNG",
-    "id": 380
+    "id": 386
   },
   {
     "name": "Invoicing",
@@ -10283,7 +10349,7 @@ const logoData = [
     "year": "2017-2020",
     "size": "256x256",
     "format": "PNG",
-    "id": 381
+    "id": 387
   },
   {
     "name": "Invoicing",
@@ -10294,7 +10360,7 @@ const logoData = [
     "year": "2017-2020",
     "size": "48x48",
     "format": "PNG",
-    "id": 379
+    "id": 385
   },
   {
     "name": "Invoicing",
@@ -10305,7 +10371,7 @@ const logoData = [
     "year": "2017-2020",
     "size": "64x64",
     "format": "PNG",
-    "id": 382
+    "id": 388
   },
   {
     "name": "Invoicing",
@@ -10316,7 +10382,7 @@ const logoData = [
     "year": "2017-2020",
     "size": "96x96",
     "format": "PNG",
-    "id": 383
+    "id": 389
   },
   {
     "name": "Kaizala",
@@ -10327,7 +10393,7 @@ const logoData = [
     "year": "2017-2023",
     "size": "128x128",
     "format": "PNG",
-    "id": 435
+    "id": 441
   },
   {
     "name": "Kaizala",
@@ -10338,7 +10404,7 @@ const logoData = [
     "year": "2017-2023",
     "size": "256x256",
     "format": "PNG",
-    "id": 433
+    "id": 439
   },
   {
     "name": "Kaizala",
@@ -10349,7 +10415,7 @@ const logoData = [
     "year": "2017-2023",
     "size": "48x48",
     "format": "PNG",
-    "id": 436
+    "id": 442
   },
   {
     "name": "Kaizala",
@@ -10360,7 +10426,7 @@ const logoData = [
     "year": "2017-2023",
     "size": "64x64",
     "format": "PNG",
-    "id": 434
+    "id": 440
   },
   {
     "name": "Kaizala",
@@ -10371,7 +10437,7 @@ const logoData = [
     "year": "2017-2023",
     "size": "96x96",
     "format": "PNG",
-    "id": 432
+    "id": 438
   },
   {
     "name": "Kaizala",
@@ -10382,7 +10448,7 @@ const logoData = [
     "year": "2017-2023",
     "size": "128x128",
     "format": "PNG",
-    "id": 430
+    "id": 436
   },
   {
     "name": "Kaizala",
@@ -10393,7 +10459,7 @@ const logoData = [
     "year": "2017-2023",
     "size": "256x256",
     "format": "PNG",
-    "id": 428
+    "id": 434
   },
   {
     "name": "Kaizala",
@@ -10404,7 +10470,7 @@ const logoData = [
     "year": "2017-2023",
     "size": "48x48",
     "format": "PNG",
-    "id": 431
+    "id": 437
   },
   {
     "name": "Kaizala",
@@ -10415,7 +10481,7 @@ const logoData = [
     "year": "2017-2023",
     "size": "64x64",
     "format": "PNG",
-    "id": 429
+    "id": 435
   },
   {
     "name": "Kaizala",
@@ -10426,7 +10492,7 @@ const logoData = [
     "year": "2017-2023",
     "size": "96x96",
     "format": "PNG",
-    "id": 427
+    "id": 433
   },
   {
     "name": "Kaizala",
@@ -10437,7 +10503,7 @@ const logoData = [
     "year": "2017-2023",
     "size": "128x128",
     "format": "PNG",
-    "id": 440
+    "id": 446
   },
   {
     "name": "Kaizala",
@@ -10448,7 +10514,7 @@ const logoData = [
     "year": "2017-2023",
     "size": "256x256",
     "format": "PNG",
-    "id": 438
+    "id": 444
   },
   {
     "name": "Kaizala",
@@ -10459,7 +10525,7 @@ const logoData = [
     "year": "2017-2023",
     "size": "48x48",
     "format": "PNG",
-    "id": 441
+    "id": 447
   },
   {
     "name": "Kaizala",
@@ -10470,7 +10536,7 @@ const logoData = [
     "year": "2017-2023",
     "size": "64x64",
     "format": "PNG",
-    "id": 439
+    "id": 445
   },
   {
     "name": "Kaizala",
@@ -10481,7 +10547,7 @@ const logoData = [
     "year": "2017-2023",
     "size": "96x96",
     "format": "PNG",
-    "id": 437
+    "id": 443
   },
   {
     "name": "Loop Icon",
@@ -10492,7 +10558,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 661
+    "id": 667
   },
   {
     "name": "M365 Copilot 256x256 Padded",
@@ -10503,7 +10569,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 944
+    "id": 950
   },
   {
     "name": "M365 Copilot 600",
@@ -10514,7 +10580,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 942
+    "id": 948
   },
   {
     "name": "M365 Icon",
@@ -10525,7 +10591,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 948
+    "id": 954
   },
   {
     "name": "Microsoft 365",
@@ -10536,7 +10602,7 @@ const logoData = [
     "year": "current",
     "size": "117x79",
     "format": "PNG",
-    "id": 834
+    "id": 840
   },
   {
     "name": "Microsoft 365",
@@ -10547,7 +10613,7 @@ const logoData = [
     "year": "current",
     "size": "620x420",
     "format": "PNG",
-    "id": 839
+    "id": 845
   },
   {
     "name": "Microsoft 365",
@@ -10558,7 +10624,7 @@ const logoData = [
     "year": "current",
     "size": "620x620",
     "format": "PNG",
-    "id": 843
+    "id": 849
   },
   {
     "name": "Microsoft 365",
@@ -10569,7 +10635,7 @@ const logoData = [
     "year": "current",
     "size": "800x800",
     "format": "PNG",
-    "id": 838
+    "id": 844
   },
   {
     "name": "Microsoft 365 117x79 (white Background)",
@@ -10580,7 +10646,7 @@ const logoData = [
     "year": "current",
     "size": "117x79",
     "format": "PNG",
-    "id": 833
+    "id": 839
   },
   {
     "name": "Microsoft 365 155x105 (white Background)",
@@ -10591,7 +10657,7 @@ const logoData = [
     "year": "current",
     "size": "155x105",
     "format": "PNG",
-    "id": 841
+    "id": 847
   },
   {
     "name": "Microsoft 365 620x420 (white Background)",
@@ -10602,7 +10668,7 @@ const logoData = [
     "year": "current",
     "size": "620x420",
     "format": "PNG",
-    "id": 844
+    "id": 850
   },
   {
     "name": "Microsoft 365 620x620 (white Background)",
@@ -10613,7 +10679,7 @@ const logoData = [
     "year": "current",
     "size": "620x620",
     "format": "PNG",
-    "id": 840
+    "id": 846
   },
   {
     "name": "Microsoft 365 Admin",
@@ -10624,7 +10690,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 936
+    "id": 942
   },
   {
     "name": "Microsoft 365 Apps Logo",
@@ -10635,7 +10701,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 909
+    "id": 915
   },
   {
     "name": "Microsoft 365 Apps Logo 256x256 Padded",
@@ -10646,7 +10712,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 910
+    "id": 916
   },
   {
     "name": "Microsoft 365 Copilot",
@@ -10657,7 +10723,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 938
+    "id": 944
   },
   {
     "name": "Microsoft 365 Copilot Badge",
@@ -10668,7 +10734,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 945
+    "id": 951
   },
   {
     "name": "Microsoft 365 Copilot Icon.svg",
@@ -10679,7 +10745,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 946
+    "id": 952
   },
   {
     "name": "Microsoft 365 Copilot Pages",
@@ -10690,7 +10756,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 947
+    "id": 953
   },
   {
     "name": "Microsoft Infopath 2010",
@@ -10701,7 +10767,7 @@ const logoData = [
     "year": "2010-2013",
     "size": "",
     "format": "SVG",
-    "id": 425
+    "id": 431
   },
   {
     "name": "Microsoft Lists",
@@ -10712,7 +10778,7 @@ const logoData = [
     "year": "2020-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 352
+    "id": 358
   },
   {
     "name": "Microsoft Lists",
@@ -10723,7 +10789,7 @@ const logoData = [
     "year": "2020-current",
     "size": "256x256",
     "format": "PNG",
-    "id": 347
+    "id": 353
   },
   {
     "name": "Microsoft Lists",
@@ -10734,7 +10800,7 @@ const logoData = [
     "year": "2020-current",
     "size": "265x265",
     "format": "PNG",
-    "id": 351
+    "id": 357
   },
   {
     "name": "Microsoft Lists",
@@ -10745,7 +10811,7 @@ const logoData = [
     "year": "2020-current",
     "size": "40x40",
     "format": "PNG",
-    "id": 353
+    "id": 359
   },
   {
     "name": "Microsoft Lists",
@@ -10756,7 +10822,7 @@ const logoData = [
     "year": "2020-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 349
+    "id": 355
   },
   {
     "name": "Microsoft Lists",
@@ -10767,7 +10833,7 @@ const logoData = [
     "year": "2020-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 350
+    "id": 356
   },
   {
     "name": "Microsoft Lists",
@@ -10778,7 +10844,7 @@ const logoData = [
     "year": "2020-current",
     "size": "85x85",
     "format": "PNG",
-    "id": 348
+    "id": 354
   },
   {
     "name": "Microsoft Lists",
@@ -10789,7 +10855,7 @@ const logoData = [
     "year": "2020-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 358
+    "id": 364
   },
   {
     "name": "Microsoft Lists",
@@ -10800,7 +10866,7 @@ const logoData = [
     "year": "2020-current",
     "size": "265x265",
     "format": "PNG",
-    "id": 357
+    "id": 363
   },
   {
     "name": "Microsoft Lists",
@@ -10811,7 +10877,7 @@ const logoData = [
     "year": "2020-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 355
+    "id": 361
   },
   {
     "name": "Microsoft Lists",
@@ -10822,7 +10888,7 @@ const logoData = [
     "year": "2020-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 356
+    "id": 362
   },
   {
     "name": "Microsoft Lists",
@@ -10833,7 +10899,7 @@ const logoData = [
     "year": "2020-current",
     "size": "96x96",
     "format": "PNG",
-    "id": 354
+    "id": 360
   },
   {
     "name": "Microsoft Lists",
@@ -10844,7 +10910,7 @@ const logoData = [
     "year": "2020-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 363
+    "id": 369
   },
   {
     "name": "Microsoft Lists",
@@ -10855,7 +10921,7 @@ const logoData = [
     "year": "2020-current",
     "size": "265x265",
     "format": "PNG",
-    "id": 362
+    "id": 368
   },
   {
     "name": "Microsoft Lists",
@@ -10866,7 +10932,7 @@ const logoData = [
     "year": "2020-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 360
+    "id": 366
   },
   {
     "name": "Microsoft Lists",
@@ -10877,7 +10943,7 @@ const logoData = [
     "year": "2020-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 361
+    "id": 367
   },
   {
     "name": "Microsoft Lists",
@@ -10888,7 +10954,7 @@ const logoData = [
     "year": "2020-current",
     "size": "96x96",
     "format": "PNG",
-    "id": 359
+    "id": 365
   },
   {
     "name": "Microsoft Loop Logo",
@@ -10899,7 +10965,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 662
+    "id": 668
   },
   {
     "name": "Microsoft Loop Logo 256x256 Padded",
@@ -10910,7 +10976,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 660
+    "id": 666
   },
   {
     "name": "Microsoft Places",
@@ -10921,7 +10987,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 871
+    "id": 877
   },
   {
     "name": "Microsoft Places",
@@ -10932,7 +10998,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 872
+    "id": 878
   },
   {
     "name": "Microsoft Places",
@@ -10943,7 +11009,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 870
+    "id": 876
   },
   {
     "name": "Microsoft Stream",
@@ -10954,7 +11020,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 717
+    "id": 723
   },
   {
     "name": "Microsoft Stream",
@@ -10965,7 +11031,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 719
+    "id": 725
   },
   {
     "name": "Microsoft Stream",
@@ -10976,7 +11042,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 718
+    "id": 724
   },
   {
     "name": "Microsoft Stream",
@@ -10987,7 +11053,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 715
+    "id": 721
   },
   {
     "name": "Microsoft Stream",
@@ -10998,7 +11064,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 716
+    "id": 722
   },
   {
     "name": "Microsoft Stream",
@@ -11009,7 +11075,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 707
+    "id": 713
   },
   {
     "name": "Microsoft Stream",
@@ -11020,7 +11086,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 709
+    "id": 715
   },
   {
     "name": "Microsoft Stream",
@@ -11031,7 +11097,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 708
+    "id": 714
   },
   {
     "name": "Microsoft Stream",
@@ -11042,7 +11108,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 705
+    "id": 711
   },
   {
     "name": "Microsoft Stream",
@@ -11053,7 +11119,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 706
+    "id": 712
   },
   {
     "name": "Microsoft Stream",
@@ -11064,7 +11130,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 702
+    "id": 708
   },
   {
     "name": "Microsoft Stream",
@@ -11075,7 +11141,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 704
+    "id": 710
   },
   {
     "name": "Microsoft Stream",
@@ -11086,7 +11152,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 703
+    "id": 709
   },
   {
     "name": "Microsoft Stream",
@@ -11097,7 +11163,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 700
+    "id": 706
   },
   {
     "name": "Microsoft Stream",
@@ -11108,7 +11174,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 701
+    "id": 707
   },
   {
     "name": "Microsoft Stream",
@@ -11119,7 +11185,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 712
+    "id": 718
   },
   {
     "name": "Microsoft Stream",
@@ -11130,7 +11196,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 714
+    "id": 720
   },
   {
     "name": "Microsoft Stream",
@@ -11141,7 +11207,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 713
+    "id": 719
   },
   {
     "name": "Microsoft Stream",
@@ -11152,7 +11218,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 710
+    "id": 716
   },
   {
     "name": "Microsoft Stream",
@@ -11163,7 +11229,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 711
+    "id": 717
   },
   {
     "name": "Microsoft Stream",
@@ -11174,7 +11240,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 697
+    "id": 703
   },
   {
     "name": "Microsoft Stream",
@@ -11185,7 +11251,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 699
+    "id": 705
   },
   {
     "name": "Microsoft Stream",
@@ -11196,7 +11262,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 698
+    "id": 704
   },
   {
     "name": "Microsoft Stream",
@@ -11207,7 +11273,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 695
+    "id": 701
   },
   {
     "name": "Microsoft Stream",
@@ -11218,7 +11284,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 696
+    "id": 702
   },
   {
     "name": "Microsoft Stream",
@@ -11229,7 +11295,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 694
+    "id": 700
   },
   {
     "name": "Microsoft Teams",
@@ -11240,7 +11306,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 1004
+    "id": 1010
   },
   {
     "name": "Microsoft Teams",
@@ -11251,7 +11317,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 1007
+    "id": 1013
   },
   {
     "name": "Microsoft Teams",
@@ -11262,7 +11328,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 1008
+    "id": 1014
   },
   {
     "name": "Microsoft Teams",
@@ -11273,7 +11339,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 1005
+    "id": 1011
   },
   {
     "name": "Microsoft Teams",
@@ -11284,7 +11350,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 1006
+    "id": 1012
   },
   {
     "name": "Microsoft Teams",
@@ -11295,7 +11361,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 983
+    "id": 989
   },
   {
     "name": "Microsoft Teams",
@@ -11306,7 +11372,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 986
+    "id": 992
   },
   {
     "name": "Microsoft Teams",
@@ -11317,7 +11383,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 987
+    "id": 993
   },
   {
     "name": "Microsoft Teams",
@@ -11328,7 +11394,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 984
+    "id": 990
   },
   {
     "name": "Microsoft Teams",
@@ -11339,7 +11405,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 985
+    "id": 991
   },
   {
     "name": "Microsoft Teams",
@@ -11350,7 +11416,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 994
+    "id": 1000
   },
   {
     "name": "Microsoft Teams",
@@ -11361,7 +11427,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 997
+    "id": 1003
   },
   {
     "name": "Microsoft Teams",
@@ -11372,7 +11438,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 995
+    "id": 1001
   },
   {
     "name": "Microsoft Teams",
@@ -11383,7 +11449,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 993
+    "id": 999
   },
   {
     "name": "Microsoft Teams",
@@ -11394,7 +11460,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 996
+    "id": 1002
   },
   {
     "name": "Microsoft Teams",
@@ -11405,7 +11471,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 999
+    "id": 1005
   },
   {
     "name": "Microsoft Teams",
@@ -11416,7 +11482,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1003
+    "id": 1009
   },
   {
     "name": "Microsoft Teams",
@@ -11427,7 +11493,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1000
+    "id": 1006
   },
   {
     "name": "Microsoft Teams",
@@ -11438,7 +11504,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 998
+    "id": 1004
   },
   {
     "name": "Microsoft Teams",
@@ -11449,7 +11515,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1002
+    "id": 1008
   },
   {
     "name": "Microsoft Teams",
@@ -11460,7 +11526,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 989
+    "id": 995
   },
   {
     "name": "Microsoft Teams",
@@ -11471,7 +11537,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 992
+    "id": 998
   },
   {
     "name": "Microsoft Teams",
@@ -11482,7 +11548,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 990
+    "id": 996
   },
   {
     "name": "Microsoft Teams",
@@ -11493,7 +11559,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 988
+    "id": 994
   },
   {
     "name": "Microsoft Teams",
@@ -11504,7 +11570,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 991
+    "id": 997
   },
   {
     "name": "Microsoft Teams 48x48 No Padding",
@@ -11515,7 +11581,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1001
+    "id": 1007
   },
   {
     "name": "Microsoft To Do",
@@ -11526,7 +11592,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 622
+    "id": 628
   },
   {
     "name": "Microsoft To Do",
@@ -11537,7 +11603,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 620
+    "id": 626
   },
   {
     "name": "Microsoft To Do",
@@ -11548,7 +11614,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 621
+    "id": 627
   },
   {
     "name": "Microsoft To Do",
@@ -11559,7 +11625,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 619
+    "id": 625
   },
   {
     "name": "Microsoft To Do",
@@ -11570,7 +11636,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 618
+    "id": 624
   },
   {
     "name": "Microsoft To Do",
@@ -11581,7 +11647,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 627
+    "id": 633
   },
   {
     "name": "Microsoft To Do",
@@ -11592,7 +11658,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 625
+    "id": 631
   },
   {
     "name": "Microsoft To Do",
@@ -11603,7 +11669,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 626
+    "id": 632
   },
   {
     "name": "Microsoft To Do",
@@ -11614,7 +11680,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 624
+    "id": 630
   },
   {
     "name": "Microsoft To Do",
@@ -11625,7 +11691,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 623
+    "id": 629
   },
   {
     "name": "Microsoft To Do",
@@ -11636,7 +11702,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 632
+    "id": 638
   },
   {
     "name": "Microsoft To Do",
@@ -11647,7 +11713,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 630
+    "id": 636
   },
   {
     "name": "Microsoft To Do",
@@ -11658,7 +11724,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 631
+    "id": 637
   },
   {
     "name": "Microsoft To Do",
@@ -11669,7 +11735,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 629
+    "id": 635
   },
   {
     "name": "Microsoft To Do",
@@ -11680,7 +11746,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 628
+    "id": 634
   },
   {
     "name": "Microsoft Whiteboard Logo",
@@ -11691,7 +11757,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "JPG",
-    "id": 906
+    "id": 912
   },
   {
     "name": "Microsoft365 Logo Horiz Black Rgb",
@@ -11702,7 +11768,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 842
+    "id": 848
   },
   {
     "name": "Microsoft365 Logo Horiz C Gray Rgb",
@@ -11713,7 +11779,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 837
+    "id": 843
   },
   {
     "name": "Microsoft365 Logo Horiz C White Rgb",
@@ -11724,7 +11790,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 835
+    "id": 841
   },
   {
     "name": "Microsoft365 Logo Horiz White Rgb",
@@ -11735,7 +11801,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 836
+    "id": 842
   },
   {
     "name": "Mileiq",
@@ -11746,7 +11812,7 @@ const logoData = [
     "year": "2015-2021",
     "size": "128x128",
     "format": "PNG",
-    "id": 384
+    "id": 390
   },
   {
     "name": "Mileiq",
@@ -11757,7 +11823,7 @@ const logoData = [
     "year": "2015-2021",
     "size": "256x256",
     "format": "PNG",
-    "id": 386
+    "id": 392
   },
   {
     "name": "Mileiq",
@@ -11768,7 +11834,7 @@ const logoData = [
     "year": "2015-2021",
     "size": "48x48",
     "format": "PNG",
-    "id": 385
+    "id": 391
   },
   {
     "name": "Mileiq",
@@ -11779,7 +11845,7 @@ const logoData = [
     "year": "2015-2021",
     "size": "64x64",
     "format": "PNG",
-    "id": 388
+    "id": 394
   },
   {
     "name": "Mileiq",
@@ -11790,7 +11856,7 @@ const logoData = [
     "year": "2015-2021",
     "size": "96x96",
     "format": "PNG",
-    "id": 387
+    "id": 393
   },
   {
     "name": "Mileiq",
@@ -11801,7 +11867,7 @@ const logoData = [
     "year": "2015-2021",
     "size": "128x128",
     "format": "PNG",
-    "id": 389
+    "id": 395
   },
   {
     "name": "Mileiq",
@@ -11812,7 +11878,7 @@ const logoData = [
     "year": "2015-2021",
     "size": "48x48",
     "format": "PNG",
-    "id": 390
+    "id": 396
   },
   {
     "name": "Mileiq",
@@ -11823,7 +11889,7 @@ const logoData = [
     "year": "2015-2021",
     "size": "64x64",
     "format": "PNG",
-    "id": 393
+    "id": 399
   },
   {
     "name": "Mileiq",
@@ -11834,7 +11900,7 @@ const logoData = [
     "year": "2015-2021",
     "size": "96x96",
     "format": "PNG",
-    "id": 391
+    "id": 397
   },
   {
     "name": "Mileiq",
@@ -11845,7 +11911,7 @@ const logoData = [
     "year": "2015-2021",
     "size": "256x256",
     "format": "PNG",
-    "id": 392
+    "id": 398
   },
   {
     "name": "New Bookings",
@@ -11856,7 +11922,7 @@ const logoData = [
     "year": "current",
     "size": "2048x1839",
     "format": "PNG",
-    "id": 334
+    "id": 340
   },
   {
     "name": "New Bookings",
@@ -11867,7 +11933,7 @@ const logoData = [
     "year": "current",
     "size": "56x50",
     "format": "PNG",
-    "id": 333
+    "id": 339
   },
   {
     "name": "New Bookings",
@@ -11878,7 +11944,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 335
+    "id": 341
   },
   {
     "name": "Office",
@@ -11889,7 +11955,7 @@ const logoData = [
     "year": "2012-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 917
+    "id": 923
   },
   {
     "name": "Office",
@@ -11900,7 +11966,7 @@ const logoData = [
     "year": "2012-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 920
+    "id": 926
   },
   {
     "name": "Office",
@@ -11911,7 +11977,7 @@ const logoData = [
     "year": "2012-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 916
+    "id": 922
   },
   {
     "name": "Office",
@@ -11922,7 +11988,7 @@ const logoData = [
     "year": "2012-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 919
+    "id": 925
   },
   {
     "name": "Office",
@@ -11933,7 +11999,7 @@ const logoData = [
     "year": "2012-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 918
+    "id": 924
   },
   {
     "name": "Office",
@@ -11944,7 +12010,7 @@ const logoData = [
     "year": "2012-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 913
+    "id": 919
   },
   {
     "name": "Office",
@@ -11955,7 +12021,7 @@ const logoData = [
     "year": "2012-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 915
+    "id": 921
   },
   {
     "name": "Office",
@@ -11966,7 +12032,7 @@ const logoData = [
     "year": "2012-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 911
+    "id": 917
   },
   {
     "name": "Office",
@@ -11977,7 +12043,7 @@ const logoData = [
     "year": "2012-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 914
+    "id": 920
   },
   {
     "name": "Office",
@@ -11988,7 +12054,7 @@ const logoData = [
     "year": "2012-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 912
+    "id": 918
   },
   {
     "name": "Office",
@@ -11999,7 +12065,7 @@ const logoData = [
     "year": "2019-2022",
     "size": "128x128",
     "format": "PNG",
-    "id": 927
+    "id": 933
   },
   {
     "name": "Office",
@@ -12010,7 +12076,7 @@ const logoData = [
     "year": "2019-2022",
     "size": "256x256",
     "format": "PNG",
-    "id": 930
+    "id": 936
   },
   {
     "name": "Office",
@@ -12021,7 +12087,7 @@ const logoData = [
     "year": "2019-2022",
     "size": "48x48",
     "format": "PNG",
-    "id": 926
+    "id": 932
   },
   {
     "name": "Office",
@@ -12032,7 +12098,7 @@ const logoData = [
     "year": "2019-2022",
     "size": "64x64",
     "format": "PNG",
-    "id": 929
+    "id": 935
   },
   {
     "name": "Office",
@@ -12043,7 +12109,7 @@ const logoData = [
     "year": "2019-2022",
     "size": "96x96",
     "format": "PNG",
-    "id": 928
+    "id": 934
   },
   {
     "name": "Office",
@@ -12054,7 +12120,7 @@ const logoData = [
     "year": "2019-2022",
     "size": "128x128",
     "format": "PNG",
-    "id": 922
+    "id": 928
   },
   {
     "name": "Office",
@@ -12065,7 +12131,7 @@ const logoData = [
     "year": "2019-2022",
     "size": "256x256",
     "format": "PNG",
-    "id": 925
+    "id": 931
   },
   {
     "name": "Office",
@@ -12076,7 +12142,7 @@ const logoData = [
     "year": "2019-2022",
     "size": "48x48",
     "format": "PNG",
-    "id": 921
+    "id": 927
   },
   {
     "name": "Office",
@@ -12087,7 +12153,7 @@ const logoData = [
     "year": "2019-2022",
     "size": "64x64",
     "format": "PNG",
-    "id": 924
+    "id": 930
   },
   {
     "name": "Office",
@@ -12098,7 +12164,7 @@ const logoData = [
     "year": "2019-2022",
     "size": "96x96",
     "format": "PNG",
-    "id": 923
+    "id": 929
   },
   {
     "name": "Office",
@@ -12109,7 +12175,7 @@ const logoData = [
     "year": "2019-2022",
     "size": "128x128",
     "format": "PNG",
-    "id": 932
+    "id": 938
   },
   {
     "name": "Office",
@@ -12120,7 +12186,7 @@ const logoData = [
     "year": "2019-2022",
     "size": "256x256",
     "format": "PNG",
-    "id": 935
+    "id": 941
   },
   {
     "name": "Office",
@@ -12131,7 +12197,7 @@ const logoData = [
     "year": "2019-2022",
     "size": "48x48",
     "format": "PNG",
-    "id": 931
+    "id": 937
   },
   {
     "name": "Office",
@@ -12142,7 +12208,7 @@ const logoData = [
     "year": "2019-2022",
     "size": "64x64",
     "format": "PNG",
-    "id": 934
+    "id": 940
   },
   {
     "name": "Office",
@@ -12153,7 +12219,7 @@ const logoData = [
     "year": "2019-2022",
     "size": "96x96",
     "format": "PNG",
-    "id": 933
+    "id": 939
   },
   {
     "name": "Onedrive",
@@ -12164,7 +12230,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 976
+    "id": 982
   },
   {
     "name": "Onedrive",
@@ -12175,7 +12241,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 973
+    "id": 979
   },
   {
     "name": "Onedrive",
@@ -12186,7 +12252,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 977
+    "id": 983
   },
   {
     "name": "Onedrive",
@@ -12197,7 +12263,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 974
+    "id": 980
   },
   {
     "name": "Onedrive",
@@ -12208,7 +12274,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 975
+    "id": 981
   },
   {
     "name": "Onedrive",
@@ -12219,7 +12285,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 966
+    "id": 972
   },
   {
     "name": "Onedrive",
@@ -12230,7 +12296,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 963
+    "id": 969
   },
   {
     "name": "Onedrive",
@@ -12241,7 +12307,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 967
+    "id": 973
   },
   {
     "name": "Onedrive",
@@ -12252,7 +12318,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 964
+    "id": 970
   },
   {
     "name": "Onedrive",
@@ -12263,7 +12329,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 965
+    "id": 971
   },
   {
     "name": "Onedrive",
@@ -12274,7 +12340,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 961
+    "id": 967
   },
   {
     "name": "Onedrive",
@@ -12285,7 +12351,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 958
+    "id": 964
   },
   {
     "name": "Onedrive",
@@ -12296,7 +12362,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 962
+    "id": 968
   },
   {
     "name": "Onedrive",
@@ -12307,7 +12373,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 959
+    "id": 965
   },
   {
     "name": "Onedrive",
@@ -12318,7 +12384,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 960
+    "id": 966
   },
   {
     "name": "Onedrive",
@@ -12329,7 +12395,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 971
+    "id": 977
   },
   {
     "name": "Onedrive",
@@ -12340,7 +12406,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 968
+    "id": 974
   },
   {
     "name": "Onedrive",
@@ -12351,7 +12417,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 972
+    "id": 978
   },
   {
     "name": "Onedrive",
@@ -12362,7 +12428,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 969
+    "id": 975
   },
   {
     "name": "Onedrive",
@@ -12373,7 +12439,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 970
+    "id": 976
   },
   {
     "name": "Onedrive",
@@ -12384,7 +12450,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 956
+    "id": 962
   },
   {
     "name": "Onedrive",
@@ -12395,7 +12461,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 953
+    "id": 959
   },
   {
     "name": "Onedrive",
@@ -12406,7 +12472,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 957
+    "id": 963
   },
   {
     "name": "Onedrive",
@@ -12417,7 +12483,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 954
+    "id": 960
   },
   {
     "name": "Onedrive",
@@ -12428,7 +12494,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 955
+    "id": 961
   },
   {
     "name": "Onedrive 1024x1024 (2025 Unofficial)",
@@ -12439,7 +12505,7 @@ const logoData = [
     "year": "current",
     "size": "1024x1024",
     "format": "PNG",
-    "id": 951
+    "id": 957
   },
   {
     "name": "Onedrive 512",
@@ -12450,7 +12516,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 952
+    "id": 958
   },
   {
     "name": "Onedrive 512 Padded",
@@ -12461,7 +12527,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 950
+    "id": 956
   },
   {
     "name": "Onenote",
@@ -12472,7 +12538,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 803
+    "id": 809
   },
   {
     "name": "Onenote",
@@ -12483,7 +12549,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 801
+    "id": 807
   },
   {
     "name": "Onenote",
@@ -12494,7 +12560,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 802
+    "id": 808
   },
   {
     "name": "Onenote",
@@ -12505,7 +12571,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 800
+    "id": 806
   },
   {
     "name": "Onenote",
@@ -12516,7 +12582,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 804
+    "id": 810
   },
   {
     "name": "Onenote",
@@ -12527,7 +12593,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 793
+    "id": 799
   },
   {
     "name": "Onenote",
@@ -12538,7 +12604,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 791
+    "id": 797
   },
   {
     "name": "Onenote",
@@ -12549,7 +12615,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 792
+    "id": 798
   },
   {
     "name": "Onenote",
@@ -12560,7 +12626,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 790
+    "id": 796
   },
   {
     "name": "Onenote",
@@ -12571,7 +12637,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 794
+    "id": 800
   },
   {
     "name": "Onenote",
@@ -12582,7 +12648,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 788
+    "id": 794
   },
   {
     "name": "Onenote",
@@ -12593,7 +12659,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 786
+    "id": 792
   },
   {
     "name": "Onenote",
@@ -12604,7 +12670,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 787
+    "id": 793
   },
   {
     "name": "Onenote",
@@ -12615,7 +12681,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 785
+    "id": 791
   },
   {
     "name": "Onenote",
@@ -12626,7 +12692,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 789
+    "id": 795
   },
   {
     "name": "Onenote",
@@ -12637,7 +12703,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 798
+    "id": 804
   },
   {
     "name": "Onenote",
@@ -12648,7 +12714,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 796
+    "id": 802
   },
   {
     "name": "Onenote",
@@ -12659,7 +12725,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 797
+    "id": 803
   },
   {
     "name": "Onenote",
@@ -12670,7 +12736,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 795
+    "id": 801
   },
   {
     "name": "Onenote",
@@ -12681,7 +12747,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 799
+    "id": 805
   },
   {
     "name": "Onenote",
@@ -12692,7 +12758,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 783
+    "id": 789
   },
   {
     "name": "Onenote",
@@ -12703,7 +12769,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 781
+    "id": 787
   },
   {
     "name": "Onenote",
@@ -12714,7 +12780,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 782
+    "id": 788
   },
   {
     "name": "Onenote",
@@ -12725,7 +12791,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 780
+    "id": 786
   },
   {
     "name": "Onenote",
@@ -12736,7 +12802,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 784
+    "id": 790
   },
   {
     "name": "Onenote 1024x1024 (2025 Unofficial)",
@@ -12747,7 +12813,7 @@ const logoData = [
     "year": "current",
     "size": "1024x1024",
     "format": "PNG",
-    "id": 779
+    "id": 785
   },
   {
     "name": "Onenote 512",
@@ -12758,7 +12824,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 778
+    "id": 784
   },
   {
     "name": "Onenote 512 Padded",
@@ -12769,7 +12835,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 777
+    "id": 783
   },
   {
     "name": "Outlook",
@@ -12780,7 +12846,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 832
+    "id": 838
   },
   {
     "name": "Outlook",
@@ -12791,7 +12857,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 829
+    "id": 835
   },
   {
     "name": "Outlook",
@@ -12802,7 +12868,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 830
+    "id": 836
   },
   {
     "name": "Outlook",
@@ -12813,7 +12879,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 828
+    "id": 834
   },
   {
     "name": "Outlook",
@@ -12824,7 +12890,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 831
+    "id": 837
   },
   {
     "name": "Outlook",
@@ -12835,7 +12901,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 822
+    "id": 828
   },
   {
     "name": "Outlook",
@@ -12846,7 +12912,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 819
+    "id": 825
   },
   {
     "name": "Outlook",
@@ -12857,7 +12923,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 820
+    "id": 826
   },
   {
     "name": "Outlook",
@@ -12868,7 +12934,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 818
+    "id": 824
   },
   {
     "name": "Outlook",
@@ -12879,7 +12945,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 821
+    "id": 827
   },
   {
     "name": "Outlook",
@@ -12890,7 +12956,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 817
+    "id": 823
   },
   {
     "name": "Outlook",
@@ -12901,7 +12967,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 814
+    "id": 820
   },
   {
     "name": "Outlook",
@@ -12912,7 +12978,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 815
+    "id": 821
   },
   {
     "name": "Outlook",
@@ -12923,7 +12989,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 813
+    "id": 819
   },
   {
     "name": "Outlook",
@@ -12934,7 +13000,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 816
+    "id": 822
   },
   {
     "name": "Outlook",
@@ -12945,7 +13011,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 827
+    "id": 833
   },
   {
     "name": "Outlook",
@@ -12956,7 +13022,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 824
+    "id": 830
   },
   {
     "name": "Outlook",
@@ -12967,7 +13033,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 825
+    "id": 831
   },
   {
     "name": "Outlook",
@@ -12978,7 +13044,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 823
+    "id": 829
   },
   {
     "name": "Outlook",
@@ -12989,7 +13055,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 826
+    "id": 832
   },
   {
     "name": "Outlook",
@@ -13000,7 +13066,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 812
+    "id": 818
   },
   {
     "name": "Outlook",
@@ -13011,7 +13077,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 809
+    "id": 815
   },
   {
     "name": "Outlook",
@@ -13022,7 +13088,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 810
+    "id": 816
   },
   {
     "name": "Outlook",
@@ -13033,7 +13099,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 808
+    "id": 814
   },
   {
     "name": "Outlook",
@@ -13044,7 +13110,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 811
+    "id": 817
   },
   {
     "name": "Outlook 1024x1024 (2025 Unofficial)",
@@ -13055,7 +13121,7 @@ const logoData = [
     "year": "current",
     "size": "1024x1024",
     "format": "PNG",
-    "id": 806
+    "id": 812
   },
   {
     "name": "Outlook 512",
@@ -13066,7 +13132,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 805
+    "id": 811
   },
   {
     "name": "Outlook 512 Padded",
@@ -13077,7 +13143,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 807
+    "id": 813
   },
   {
     "name": "Outlook Calendar",
@@ -13088,7 +13154,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 373
+    "id": 379
   },
   {
     "name": "Outlook Calendar",
@@ -13099,7 +13165,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 372
+    "id": 378
   },
   {
     "name": "Outlook Calendar",
@@ -13110,7 +13176,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 369
+    "id": 375
   },
   {
     "name": "Outlook Calendar",
@@ -13121,7 +13187,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 370
+    "id": 376
   },
   {
     "name": "Outlook Calendar",
@@ -13132,7 +13198,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 371
+    "id": 377
   },
   {
     "name": "Outlook Customer Manager",
@@ -13143,7 +13209,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "128x128",
     "format": "PNG",
-    "id": 471
+    "id": 477
   },
   {
     "name": "Outlook Customer Manager",
@@ -13154,7 +13220,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "256x256",
     "format": "PNG",
-    "id": 474
+    "id": 480
   },
   {
     "name": "Outlook Customer Manager",
@@ -13165,7 +13231,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "48x48",
     "format": "PNG",
-    "id": 473
+    "id": 479
   },
   {
     "name": "Outlook Customer Manager",
@@ -13176,7 +13242,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "64x64",
     "format": "PNG",
-    "id": 472
+    "id": 478
   },
   {
     "name": "Outlook Customer Manager",
@@ -13187,7 +13253,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "96x96",
     "format": "PNG",
-    "id": 470
+    "id": 476
   },
   {
     "name": "Outlook Customer Manager",
@@ -13198,7 +13264,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "128x128",
     "format": "PNG",
-    "id": 476
+    "id": 482
   },
   {
     "name": "Outlook Customer Manager",
@@ -13209,7 +13275,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "256x256",
     "format": "PNG",
-    "id": 479
+    "id": 485
   },
   {
     "name": "Outlook Customer Manager",
@@ -13220,7 +13286,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "48x48",
     "format": "PNG",
-    "id": 478
+    "id": 484
   },
   {
     "name": "Outlook Customer Manager",
@@ -13231,7 +13297,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "64x64",
     "format": "PNG",
-    "id": 477
+    "id": 483
   },
   {
     "name": "Outlook Customer Manager",
@@ -13242,7 +13308,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "96x96",
     "format": "PNG",
-    "id": 475
+    "id": 481
   },
   {
     "name": "Outlookcalendar",
@@ -13253,7 +13319,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 364
+    "id": 370
   },
   {
     "name": "Outlookcalendar",
@@ -13264,7 +13330,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 365
+    "id": 371
   },
   {
     "name": "Outlookcalendar",
@@ -13275,7 +13341,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 366
+    "id": 372
   },
   {
     "name": "Outlookcalendar",
@@ -13286,7 +13352,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 368
+    "id": 374
   },
   {
     "name": "Outlookcalendar",
@@ -13297,7 +13363,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 367
+    "id": 373
   },
   {
     "name": "Planner",
@@ -13308,7 +13374,7 @@ const logoData = [
     "year": "2013-2016",
     "size": "128x128",
     "format": "PNG",
-    "id": 658
+    "id": 664
   },
   {
     "name": "Planner",
@@ -13319,7 +13385,7 @@ const logoData = [
     "year": "2013-2016",
     "size": "256x256",
     "format": "PNG",
-    "id": 655
+    "id": 661
   },
   {
     "name": "Planner",
@@ -13330,7 +13396,7 @@ const logoData = [
     "year": "2013-2016",
     "size": "48x48",
     "format": "PNG",
-    "id": 656
+    "id": 662
   },
   {
     "name": "Planner",
@@ -13341,7 +13407,7 @@ const logoData = [
     "year": "2013-2016",
     "size": "64x64",
     "format": "PNG",
-    "id": 659
+    "id": 665
   },
   {
     "name": "Planner",
@@ -13352,7 +13418,7 @@ const logoData = [
     "year": "2013-2016",
     "size": "96x96",
     "format": "PNG",
-    "id": 657
+    "id": 663
   },
   {
     "name": "Planner",
@@ -13363,7 +13429,7 @@ const logoData = [
     "year": "2013-2016",
     "size": "128x128",
     "format": "PNG",
-    "id": 644
+    "id": 650
   },
   {
     "name": "Planner",
@@ -13374,7 +13440,7 @@ const logoData = [
     "year": "2013-2016",
     "size": "256x256",
     "format": "PNG",
-    "id": 641
+    "id": 647
   },
   {
     "name": "Planner",
@@ -13385,7 +13451,7 @@ const logoData = [
     "year": "2013-2016",
     "size": "48x48",
     "format": "PNG",
-    "id": 642
+    "id": 648
   },
   {
     "name": "Planner",
@@ -13396,7 +13462,7 @@ const logoData = [
     "year": "2013-2016",
     "size": "96x96",
     "format": "PNG",
-    "id": 643
+    "id": 649
   },
   {
     "name": "Planner",
@@ -13407,7 +13473,7 @@ const logoData = [
     "year": "2013-2016",
     "size": "64x64",
     "format": "PNG",
-    "id": 640
+    "id": 646
   },
   {
     "name": "Planner",
@@ -13418,7 +13484,7 @@ const logoData = [
     "year": "2019-2024",
     "size": "128x128",
     "format": "PNG",
-    "id": 638
+    "id": 644
   },
   {
     "name": "Planner",
@@ -13429,7 +13495,7 @@ const logoData = [
     "year": "2019-2024",
     "size": "256x256",
     "format": "PNG",
-    "id": 635
+    "id": 641
   },
   {
     "name": "Planner",
@@ -13440,7 +13506,7 @@ const logoData = [
     "year": "2019-2024",
     "size": "48x48",
     "format": "PNG",
-    "id": 636
+    "id": 642
   },
   {
     "name": "Planner",
@@ -13451,7 +13517,7 @@ const logoData = [
     "year": "2019-2024",
     "size": "64x64",
     "format": "PNG",
-    "id": 639
+    "id": 645
   },
   {
     "name": "Planner",
@@ -13462,7 +13528,7 @@ const logoData = [
     "year": "2019-2024",
     "size": "96x96",
     "format": "PNG",
-    "id": 637
+    "id": 643
   },
   {
     "name": "Planner",
@@ -13473,7 +13539,7 @@ const logoData = [
     "year": "2019-2024",
     "size": "128x128",
     "format": "PNG",
-    "id": 653
+    "id": 659
   },
   {
     "name": "Planner",
@@ -13484,7 +13550,7 @@ const logoData = [
     "year": "2019-2024",
     "size": "256x256",
     "format": "PNG",
-    "id": 650
+    "id": 656
   },
   {
     "name": "Planner",
@@ -13495,7 +13561,7 @@ const logoData = [
     "year": "2019-2024",
     "size": "48x48",
     "format": "PNG",
-    "id": 651
+    "id": 657
   },
   {
     "name": "Planner",
@@ -13506,7 +13572,7 @@ const logoData = [
     "year": "2019-2024",
     "size": "64x64",
     "format": "PNG",
-    "id": 654
+    "id": 660
   },
   {
     "name": "Planner",
@@ -13517,7 +13583,7 @@ const logoData = [
     "year": "2019-2024",
     "size": "96x96",
     "format": "PNG",
-    "id": 652
+    "id": 658
   },
   {
     "name": "Planner",
@@ -13528,7 +13594,7 @@ const logoData = [
     "year": "2019-2024",
     "size": "128x128",
     "format": "PNG",
-    "id": 648
+    "id": 654
   },
   {
     "name": "Planner",
@@ -13539,7 +13605,7 @@ const logoData = [
     "year": "2019-2024",
     "size": "256x256",
     "format": "PNG",
-    "id": 645
+    "id": 651
   },
   {
     "name": "Planner",
@@ -13550,7 +13616,7 @@ const logoData = [
     "year": "2019-2024",
     "size": "48x48",
     "format": "PNG",
-    "id": 646
+    "id": 652
   },
   {
     "name": "Planner",
@@ -13561,7 +13627,7 @@ const logoData = [
     "year": "2019-2024",
     "size": "64x64",
     "format": "PNG",
-    "id": 649
+    "id": 655
   },
   {
     "name": "Planner",
@@ -13572,7 +13638,7 @@ const logoData = [
     "year": "2019-2024",
     "size": "96x96",
     "format": "PNG",
-    "id": 647
+    "id": 653
   },
   {
     "name": "Planner",
@@ -13583,7 +13649,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 633
+    "id": 639
   },
   {
     "name": "Planner 256x256 Padded",
@@ -13594,7 +13660,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 634
+    "id": 640
   },
   {
     "name": "Powerpoint",
@@ -13605,7 +13671,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 611
+    "id": 617
   },
   {
     "name": "Powerpoint",
@@ -13616,7 +13682,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 615
+    "id": 621
   },
   {
     "name": "Powerpoint",
@@ -13627,7 +13693,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 613
+    "id": 619
   },
   {
     "name": "Powerpoint",
@@ -13638,7 +13704,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 612
+    "id": 618
   },
   {
     "name": "Powerpoint",
@@ -13649,7 +13715,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 614
+    "id": 620
   },
   {
     "name": "Powerpoint",
@@ -13660,7 +13726,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 601
+    "id": 607
   },
   {
     "name": "Powerpoint",
@@ -13671,7 +13737,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 605
+    "id": 611
   },
   {
     "name": "Powerpoint",
@@ -13682,7 +13748,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 603
+    "id": 609
   },
   {
     "name": "Powerpoint",
@@ -13693,7 +13759,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 602
+    "id": 608
   },
   {
     "name": "Powerpoint",
@@ -13704,7 +13770,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 604
+    "id": 610
   },
   {
     "name": "Powerpoint",
@@ -13715,7 +13781,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 596
+    "id": 602
   },
   {
     "name": "Powerpoint",
@@ -13726,7 +13792,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 600
+    "id": 606
   },
   {
     "name": "Powerpoint",
@@ -13737,7 +13803,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 598
+    "id": 604
   },
   {
     "name": "Powerpoint",
@@ -13748,7 +13814,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 597
+    "id": 603
   },
   {
     "name": "Powerpoint",
@@ -13759,7 +13825,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 599
+    "id": 605
   },
   {
     "name": "Powerpoint",
@@ -13770,7 +13836,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 606
+    "id": 612
   },
   {
     "name": "Powerpoint",
@@ -13781,7 +13847,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 610
+    "id": 616
   },
   {
     "name": "Powerpoint",
@@ -13792,7 +13858,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 608
+    "id": 614
   },
   {
     "name": "Powerpoint",
@@ -13803,7 +13869,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 607
+    "id": 613
   },
   {
     "name": "Powerpoint",
@@ -13814,7 +13880,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 609
+    "id": 615
   },
   {
     "name": "Powerpoint",
@@ -13825,7 +13891,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 591
+    "id": 597
   },
   {
     "name": "Powerpoint",
@@ -13836,7 +13902,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 595
+    "id": 601
   },
   {
     "name": "Powerpoint",
@@ -13847,7 +13913,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 593
+    "id": 599
   },
   {
     "name": "Powerpoint",
@@ -13858,7 +13924,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 592
+    "id": 598
   },
   {
     "name": "Powerpoint",
@@ -13869,7 +13935,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 594
+    "id": 600
   },
   {
     "name": "Powerpoint 1024x1024 (2025 Unofficial)",
@@ -13880,7 +13946,7 @@ const logoData = [
     "year": "current",
     "size": "1024x1024",
     "format": "PNG",
-    "id": 589
+    "id": 595
   },
   {
     "name": "Powerpoint 512",
@@ -13891,7 +13957,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 590
+    "id": 596
   },
   {
     "name": "Powerpoint 512 Padded",
@@ -13902,7 +13968,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 588
+    "id": 594
   },
   {
     "name": "Project",
@@ -13913,7 +13979,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 505
+    "id": 511
   },
   {
     "name": "Project",
@@ -13924,7 +13990,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 507
+    "id": 513
   },
   {
     "name": "Project",
@@ -13935,7 +14001,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 506
+    "id": 512
   },
   {
     "name": "Project",
@@ -13946,7 +14012,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 509
+    "id": 515
   },
   {
     "name": "Project",
@@ -13957,7 +14023,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 508
+    "id": 514
   },
   {
     "name": "Project",
@@ -13968,7 +14034,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 480
+    "id": 486
   },
   {
     "name": "Project",
@@ -13979,7 +14045,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 482
+    "id": 488
   },
   {
     "name": "Project",
@@ -13990,7 +14056,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 481
+    "id": 487
   },
   {
     "name": "Project",
@@ -14001,7 +14067,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 484
+    "id": 490
   },
   {
     "name": "Project",
@@ -14012,7 +14078,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 483
+    "id": 489
   },
   {
     "name": "Project",
@@ -14023,7 +14089,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "128x128",
     "format": "PNG",
-    "id": 485
+    "id": 491
   },
   {
     "name": "Project",
@@ -14034,7 +14100,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "256x256",
     "format": "PNG",
-    "id": 487
+    "id": 493
   },
   {
     "name": "Project",
@@ -14045,7 +14111,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "48x48",
     "format": "PNG",
-    "id": 486
+    "id": 492
   },
   {
     "name": "Project",
@@ -14056,7 +14122,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "64x64",
     "format": "PNG",
-    "id": 492
+    "id": 498
   },
   {
     "name": "Project",
@@ -14067,7 +14133,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "85x85",
     "format": "PNG",
-    "id": 489
+    "id": 495
   },
   {
     "name": "Project",
@@ -14078,7 +14144,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "96x96",
     "format": "PNG",
-    "id": 491
+    "id": 497
   },
   {
     "name": "Project",
@@ -14089,7 +14155,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "128x128",
     "format": "PNG",
-    "id": 493
+    "id": 499
   },
   {
     "name": "Project",
@@ -14100,7 +14166,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "256x256",
     "format": "PNG",
-    "id": 495
+    "id": 501
   },
   {
     "name": "Project",
@@ -14111,7 +14177,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "48x48",
     "format": "PNG",
-    "id": 494
+    "id": 500
   },
   {
     "name": "Project",
@@ -14122,7 +14188,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "64x64",
     "format": "PNG",
-    "id": 498
+    "id": 504
   },
   {
     "name": "Project",
@@ -14133,7 +14199,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "85x85",
     "format": "PNG",
-    "id": 496
+    "id": 502
   },
   {
     "name": "Project",
@@ -14144,7 +14210,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "96x96",
     "format": "PNG",
-    "id": 497
+    "id": 503
   },
   {
     "name": "Project",
@@ -14155,7 +14221,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "128x128",
     "format": "PNG",
-    "id": 499
+    "id": 505
   },
   {
     "name": "Project",
@@ -14166,7 +14232,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "256x256",
     "format": "PNG",
-    "id": 501
+    "id": 507
   },
   {
     "name": "Project",
@@ -14177,7 +14243,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "48x48",
     "format": "PNG",
-    "id": 500
+    "id": 506
   },
   {
     "name": "Project",
@@ -14188,7 +14254,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "64x64",
     "format": "PNG",
-    "id": 504
+    "id": 510
   },
   {
     "name": "Project",
@@ -14199,7 +14265,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "85x85",
     "format": "PNG",
-    "id": 502
+    "id": 508
   },
   {
     "name": "Project",
@@ -14210,7 +14276,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "96x96",
     "format": "PNG",
-    "id": 503
+    "id": 509
   },
   {
     "name": "Project 40x",
@@ -14221,7 +14287,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "",
     "format": "SVG",
-    "id": 488
+    "id": 494
   },
   {
     "name": "Project 64x",
@@ -14232,7 +14298,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "",
     "format": "SVG",
-    "id": 490
+    "id": 496
   },
   {
     "name": "Publisher",
@@ -14243,7 +14309,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 531
+    "id": 537
   },
   {
     "name": "Publisher",
@@ -14254,7 +14320,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 533
+    "id": 539
   },
   {
     "name": "Publisher",
@@ -14265,7 +14331,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 530
+    "id": 536
   },
   {
     "name": "Publisher",
@@ -14276,7 +14342,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 532
+    "id": 538
   },
   {
     "name": "Publisher",
@@ -14287,7 +14353,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 534
+    "id": 540
   },
   {
     "name": "Publisher",
@@ -14298,7 +14364,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 511
+    "id": 517
   },
   {
     "name": "Publisher",
@@ -14309,7 +14375,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 513
+    "id": 519
   },
   {
     "name": "Publisher",
@@ -14320,7 +14386,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 510
+    "id": 516
   },
   {
     "name": "Publisher",
@@ -14331,7 +14397,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 512
+    "id": 518
   },
   {
     "name": "Publisher",
@@ -14342,7 +14408,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 514
+    "id": 520
   },
   {
     "name": "Publisher",
@@ -14353,7 +14419,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "128x128",
     "format": "PNG",
-    "id": 516
+    "id": 522
   },
   {
     "name": "Publisher",
@@ -14364,7 +14430,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "256x256",
     "format": "PNG",
-    "id": 518
+    "id": 524
   },
   {
     "name": "Publisher",
@@ -14375,7 +14441,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "48x48",
     "format": "PNG",
-    "id": 515
+    "id": 521
   },
   {
     "name": "Publisher",
@@ -14386,7 +14452,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "64x64",
     "format": "PNG",
-    "id": 517
+    "id": 523
   },
   {
     "name": "Publisher",
@@ -14397,7 +14463,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "96x96",
     "format": "PNG",
-    "id": 519
+    "id": 525
   },
   {
     "name": "Publisher",
@@ -14408,7 +14474,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "128x128",
     "format": "PNG",
-    "id": 521
+    "id": 527
   },
   {
     "name": "Publisher",
@@ -14419,7 +14485,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "256x256",
     "format": "PNG",
-    "id": 523
+    "id": 529
   },
   {
     "name": "Publisher",
@@ -14430,7 +14496,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "48x48",
     "format": "PNG",
-    "id": 520
+    "id": 526
   },
   {
     "name": "Publisher",
@@ -14441,7 +14507,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "64x64",
     "format": "PNG",
-    "id": 522
+    "id": 528
   },
   {
     "name": "Publisher",
@@ -14452,7 +14518,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "96x96",
     "format": "PNG",
-    "id": 524
+    "id": 530
   },
   {
     "name": "Publisher",
@@ -14463,7 +14529,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "128x128",
     "format": "PNG",
-    "id": 526
+    "id": 532
   },
   {
     "name": "Publisher",
@@ -14474,7 +14540,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "256x256",
     "format": "PNG",
-    "id": 528
+    "id": 534
   },
   {
     "name": "Publisher",
@@ -14485,7 +14551,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "48x48",
     "format": "PNG",
-    "id": 525
+    "id": 531
   },
   {
     "name": "Publisher",
@@ -14496,7 +14562,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "64x64",
     "format": "PNG",
-    "id": 527
+    "id": 533
   },
   {
     "name": "Publisher",
@@ -14507,7 +14573,7 @@ const logoData = [
     "year": "2019-2026",
     "size": "96x96",
     "format": "PNG",
-    "id": 529
+    "id": 535
   },
   {
     "name": "Sharepoint",
@@ -14518,7 +14584,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 774
+    "id": 780
   },
   {
     "name": "Sharepoint",
@@ -14529,7 +14595,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 776
+    "id": 782
   },
   {
     "name": "Sharepoint",
@@ -14540,7 +14606,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 773
+    "id": 779
   },
   {
     "name": "Sharepoint",
@@ -14551,7 +14617,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 772
+    "id": 778
   },
   {
     "name": "Sharepoint",
@@ -14562,7 +14628,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 775
+    "id": 781
   },
   {
     "name": "Sharepoint",
@@ -14573,7 +14639,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 753
+    "id": 759
   },
   {
     "name": "Sharepoint",
@@ -14584,7 +14650,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 755
+    "id": 761
   },
   {
     "name": "Sharepoint",
@@ -14595,7 +14661,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 752
+    "id": 758
   },
   {
     "name": "Sharepoint",
@@ -14606,7 +14672,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 751
+    "id": 757
   },
   {
     "name": "Sharepoint",
@@ -14617,7 +14683,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 754
+    "id": 760
   },
   {
     "name": "Sharepoint",
@@ -14628,7 +14694,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 764
+    "id": 770
   },
   {
     "name": "Sharepoint",
@@ -14639,7 +14705,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 766
+    "id": 772
   },
   {
     "name": "Sharepoint",
@@ -14650,7 +14716,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 763
+    "id": 769
   },
   {
     "name": "Sharepoint",
@@ -14661,7 +14727,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 762
+    "id": 768
   },
   {
     "name": "Sharepoint",
@@ -14672,7 +14738,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 765
+    "id": 771
   },
   {
     "name": "Sharepoint",
@@ -14683,7 +14749,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 769
+    "id": 775
   },
   {
     "name": "Sharepoint",
@@ -14694,7 +14760,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 771
+    "id": 777
   },
   {
     "name": "Sharepoint",
@@ -14705,7 +14771,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 768
+    "id": 774
   },
   {
     "name": "Sharepoint",
@@ -14716,7 +14782,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 767
+    "id": 773
   },
   {
     "name": "Sharepoint",
@@ -14727,7 +14793,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 770
+    "id": 776
   },
   {
     "name": "Sharepoint",
@@ -14738,7 +14804,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 758
+    "id": 764
   },
   {
     "name": "Sharepoint",
@@ -14749,7 +14815,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 760
+    "id": 766
   },
   {
     "name": "Sharepoint",
@@ -14760,7 +14826,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 757
+    "id": 763
   },
   {
     "name": "Sharepoint",
@@ -14771,7 +14837,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 756
+    "id": 762
   },
   {
     "name": "Sharepoint",
@@ -14782,7 +14848,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 759
+    "id": 765
   },
   {
     "name": "Sharepoint 1024x1024 (2025 Unofficial)",
@@ -14793,7 +14859,7 @@ const logoData = [
     "year": "current",
     "size": "1024x1024",
     "format": "PNG",
-    "id": 749
+    "id": 755
   },
   {
     "name": "Sharepoint 256x256 Uncropped",
@@ -14804,7 +14870,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 761
+    "id": 767
   },
   {
     "name": "Sharepoint 512",
@@ -14815,7 +14881,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 748
+    "id": 754
   },
   {
     "name": "Sharepoint 512 Padded",
@@ -14826,7 +14892,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 750
+    "id": 756
   },
   {
     "name": "Skype for Business",
@@ -14837,7 +14903,7 @@ const logoData = [
     "year": "2015-2021",
     "size": "128x128",
     "format": "PNG",
-    "id": 408
+    "id": 414
   },
   {
     "name": "Skype for Business",
@@ -14848,7 +14914,7 @@ const logoData = [
     "year": "2015-2021",
     "size": "256x256",
     "format": "PNG",
-    "id": 407
+    "id": 413
   },
   {
     "name": "Skype for Business",
@@ -14859,7 +14925,7 @@ const logoData = [
     "year": "2015-2021",
     "size": "48x48",
     "format": "PNG",
-    "id": 405
+    "id": 411
   },
   {
     "name": "Skype for Business",
@@ -14870,7 +14936,7 @@ const logoData = [
     "year": "2015-2021",
     "size": "64x64",
     "format": "PNG",
-    "id": 404
+    "id": 410
   },
   {
     "name": "Skype for Business",
@@ -14881,7 +14947,7 @@ const logoData = [
     "year": "2015-2021",
     "size": "96x96",
     "format": "PNG",
-    "id": 406
+    "id": 412
   },
   {
     "name": "Skype for Business",
@@ -14892,7 +14958,7 @@ const logoData = [
     "year": "2015-2021",
     "size": "128x128",
     "format": "PNG",
-    "id": 413
+    "id": 419
   },
   {
     "name": "Skype for Business",
@@ -14903,7 +14969,7 @@ const logoData = [
     "year": "2015-2021",
     "size": "256x256",
     "format": "PNG",
-    "id": 412
+    "id": 418
   },
   {
     "name": "Skype for Business",
@@ -14914,7 +14980,7 @@ const logoData = [
     "year": "2015-2021",
     "size": "48x48",
     "format": "PNG",
-    "id": 410
+    "id": 416
   },
   {
     "name": "Skype for Business",
@@ -14925,7 +14991,7 @@ const logoData = [
     "year": "2015-2021",
     "size": "64x64",
     "format": "PNG",
-    "id": 409
+    "id": 415
   },
   {
     "name": "Skype for Business",
@@ -14936,7 +15002,7 @@ const logoData = [
     "year": "2015-2021",
     "size": "96x96",
     "format": "PNG",
-    "id": 411
+    "id": 417
   },
   {
     "name": "Staffhub",
@@ -14947,7 +15013,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 400
+    "id": 406
   },
   {
     "name": "Staffhub",
@@ -14958,7 +15024,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 401
+    "id": 407
   },
   {
     "name": "Staffhub",
@@ -14969,7 +15035,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 402
+    "id": 408
   },
   {
     "name": "Staffhub",
@@ -14980,7 +15046,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 399
+    "id": 405
   },
   {
     "name": "Staffhub",
@@ -14991,7 +15057,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 403
+    "id": 409
   },
   {
     "name": "Staffhub",
@@ -15002,7 +15068,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 395
+    "id": 401
   },
   {
     "name": "Staffhub",
@@ -15013,7 +15079,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 396
+    "id": 402
   },
   {
     "name": "Staffhub",
@@ -15024,7 +15090,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 397
+    "id": 403
   },
   {
     "name": "Staffhub",
@@ -15035,7 +15101,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 394
+    "id": 400
   },
   {
     "name": "Staffhub",
@@ -15046,7 +15112,7 @@ const logoData = [
     "year": "2017-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 398
+    "id": 404
   },
   {
     "name": "Sway",
@@ -15057,7 +15123,7 @@ const logoData = [
     "year": "2015-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 879
+    "id": 885
   },
   {
     "name": "Sway",
@@ -15068,7 +15134,7 @@ const logoData = [
     "year": "2015-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 881
+    "id": 887
   },
   {
     "name": "Sway",
@@ -15079,7 +15145,7 @@ const logoData = [
     "year": "2015-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 882
+    "id": 888
   },
   {
     "name": "Sway",
@@ -15090,7 +15156,7 @@ const logoData = [
     "year": "2015-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 880
+    "id": 886
   },
   {
     "name": "Sway",
@@ -15101,7 +15167,7 @@ const logoData = [
     "year": "2015-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 878
+    "id": 884
   },
   {
     "name": "Sway",
@@ -15112,7 +15178,7 @@ const logoData = [
     "year": "2015-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 889
+    "id": 895
   },
   {
     "name": "Sway",
@@ -15123,7 +15189,7 @@ const logoData = [
     "year": "2015-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 891
+    "id": 897
   },
   {
     "name": "Sway",
@@ -15134,7 +15200,7 @@ const logoData = [
     "year": "2015-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 892
+    "id": 898
   },
   {
     "name": "Sway",
@@ -15145,7 +15211,7 @@ const logoData = [
     "year": "2015-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 890
+    "id": 896
   },
   {
     "name": "Sway",
@@ -15156,7 +15222,7 @@ const logoData = [
     "year": "2015-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 888
+    "id": 894
   },
   {
     "name": "Sway",
@@ -15167,7 +15233,7 @@ const logoData = [
     "year": "2019-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 895
+    "id": 901
   },
   {
     "name": "Sway",
@@ -15178,7 +15244,7 @@ const logoData = [
     "year": "2019-current",
     "size": "256x256",
     "format": "PNG",
-    "id": 898
+    "id": 904
   },
   {
     "name": "Sway",
@@ -15189,7 +15255,7 @@ const logoData = [
     "year": "2019-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 899
+    "id": 905
   },
   {
     "name": "Sway",
@@ -15200,7 +15266,7 @@ const logoData = [
     "year": "2019-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 896
+    "id": 902
   },
   {
     "name": "Sway",
@@ -15211,7 +15277,7 @@ const logoData = [
     "year": "2019-current",
     "size": "75x75",
     "format": "PNG",
-    "id": 897
+    "id": 903
   },
   {
     "name": "Sway",
@@ -15222,7 +15288,7 @@ const logoData = [
     "year": "2019-current",
     "size": "85x85",
     "format": "PNG",
-    "id": 894
+    "id": 900
   },
   {
     "name": "Sway",
@@ -15233,7 +15299,7 @@ const logoData = [
     "year": "2019-current",
     "size": "96x96",
     "format": "PNG",
-    "id": 893
+    "id": 899
   },
   {
     "name": "Sway",
@@ -15244,7 +15310,7 @@ const logoData = [
     "year": "2019-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 884
+    "id": 890
   },
   {
     "name": "Sway",
@@ -15255,7 +15321,7 @@ const logoData = [
     "year": "2019-current",
     "size": "256x256",
     "format": "PNG",
-    "id": 886
+    "id": 892
   },
   {
     "name": "Sway",
@@ -15266,7 +15332,7 @@ const logoData = [
     "year": "2019-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 887
+    "id": 893
   },
   {
     "name": "Sway",
@@ -15277,7 +15343,7 @@ const logoData = [
     "year": "2019-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 885
+    "id": 891
   },
   {
     "name": "Sway",
@@ -15288,7 +15354,7 @@ const logoData = [
     "year": "2019-current",
     "size": "96x96",
     "format": "PNG",
-    "id": 883
+    "id": 889
   },
   {
     "name": "Sway",
@@ -15299,7 +15365,7 @@ const logoData = [
     "year": "2019-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 874
+    "id": 880
   },
   {
     "name": "Sway",
@@ -15310,7 +15376,7 @@ const logoData = [
     "year": "2019-current",
     "size": "256x256",
     "format": "PNG",
-    "id": 876
+    "id": 882
   },
   {
     "name": "Sway",
@@ -15321,7 +15387,7 @@ const logoData = [
     "year": "2019-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 877
+    "id": 883
   },
   {
     "name": "Sway",
@@ -15332,7 +15398,7 @@ const logoData = [
     "year": "2019-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 875
+    "id": 881
   },
   {
     "name": "Sway",
@@ -15343,7 +15409,7 @@ const logoData = [
     "year": "2019-current",
     "size": "96x96",
     "format": "PNG",
-    "id": 873
+    "id": 879
   },
   {
     "name": "Teams 1024x1024 (2025 Unofficial)",
@@ -15354,7 +15420,7 @@ const logoData = [
     "year": "current",
     "size": "1024x1024",
     "format": "PNG",
-    "id": 982
+    "id": 988
   },
   {
     "name": "Teams 512",
@@ -15365,7 +15431,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 981
+    "id": 987
   },
   {
     "name": "Teams 512 Padded",
@@ -15376,7 +15442,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 980
+    "id": 986
   },
   {
     "name": "To Do",
@@ -15387,7 +15453,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 617
+    "id": 623
   },
   {
     "name": "To Do",
@@ -15398,7 +15464,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 616
+    "id": 622
   },
   {
     "name": "Visio",
@@ -15409,7 +15475,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 865
+    "id": 871
   },
   {
     "name": "Visio",
@@ -15420,7 +15486,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 868
+    "id": 874
   },
   {
     "name": "Visio",
@@ -15431,7 +15497,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 867
+    "id": 873
   },
   {
     "name": "Visio",
@@ -15442,7 +15508,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 869
+    "id": 875
   },
   {
     "name": "Visio",
@@ -15453,7 +15519,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 866
+    "id": 872
   },
   {
     "name": "Visio",
@@ -15464,7 +15530,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 850
+    "id": 856
   },
   {
     "name": "Visio",
@@ -15475,7 +15541,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 853
+    "id": 859
   },
   {
     "name": "Visio",
@@ -15486,7 +15552,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 852
+    "id": 858
   },
   {
     "name": "Visio",
@@ -15497,7 +15563,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 854
+    "id": 860
   },
   {
     "name": "Visio",
@@ -15508,7 +15574,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 851
+    "id": 857
   },
   {
     "name": "Visio",
@@ -15519,7 +15585,7 @@ const logoData = [
     "year": "2019-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 860
+    "id": 866
   },
   {
     "name": "Visio",
@@ -15530,7 +15596,7 @@ const logoData = [
     "year": "2019-current",
     "size": "256x256",
     "format": "PNG",
-    "id": 863
+    "id": 869
   },
   {
     "name": "Visio",
@@ -15541,7 +15607,7 @@ const logoData = [
     "year": "2019-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 862
+    "id": 868
   },
   {
     "name": "Visio",
@@ -15552,7 +15618,7 @@ const logoData = [
     "year": "2019-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 864
+    "id": 870
   },
   {
     "name": "Visio",
@@ -15563,7 +15629,7 @@ const logoData = [
     "year": "2019-current",
     "size": "96x96",
     "format": "PNG",
-    "id": 861
+    "id": 867
   },
   {
     "name": "Visio",
@@ -15574,7 +15640,7 @@ const logoData = [
     "year": "2019-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 855
+    "id": 861
   },
   {
     "name": "Visio",
@@ -15585,7 +15651,7 @@ const logoData = [
     "year": "2019-current",
     "size": "256x256",
     "format": "PNG",
-    "id": 858
+    "id": 864
   },
   {
     "name": "Visio",
@@ -15596,7 +15662,7 @@ const logoData = [
     "year": "2019-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 857
+    "id": 863
   },
   {
     "name": "Visio",
@@ -15607,7 +15673,7 @@ const logoData = [
     "year": "2019-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 859
+    "id": 865
   },
   {
     "name": "Visio",
@@ -15618,7 +15684,7 @@ const logoData = [
     "year": "2019-current",
     "size": "96x96",
     "format": "PNG",
-    "id": 856
+    "id": 862
   },
   {
     "name": "Visio",
@@ -15629,7 +15695,7 @@ const logoData = [
     "year": "2019-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 845
+    "id": 851
   },
   {
     "name": "Visio",
@@ -15640,7 +15706,7 @@ const logoData = [
     "year": "2019-current",
     "size": "256x256",
     "format": "PNG",
-    "id": 848
+    "id": 854
   },
   {
     "name": "Visio",
@@ -15651,7 +15717,7 @@ const logoData = [
     "year": "2019-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 847
+    "id": 853
   },
   {
     "name": "Visio",
@@ -15662,7 +15728,7 @@ const logoData = [
     "year": "2019-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 849
+    "id": 855
   },
   {
     "name": "Visio",
@@ -15673,7 +15739,7 @@ const logoData = [
     "year": "2019-current",
     "size": "96x96",
     "format": "PNG",
-    "id": 846
+    "id": 852
   },
   {
     "name": "Whiteboard",
@@ -15684,7 +15750,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 900
+    "id": 906
   },
   {
     "name": "Whiteboard",
@@ -15695,7 +15761,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 902
+    "id": 908
   },
   {
     "name": "Whiteboard",
@@ -15706,7 +15772,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 904
+    "id": 910
   },
   {
     "name": "Whiteboard",
@@ -15717,7 +15783,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 908
+    "id": 914
   },
   {
     "name": "Whiteboard",
@@ -15728,7 +15794,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 903
+    "id": 909
   },
   {
     "name": "Whiteboard 256x256 (padded)",
@@ -15739,7 +15805,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 907
+    "id": 913
   },
   {
     "name": "Whiteboard Transparent",
@@ -15750,7 +15816,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 905
+    "id": 911
   },
   {
     "name": "Whiteboard Transparent",
@@ -15761,7 +15827,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 901
+    "id": 907
   },
   {
     "name": "Word",
@@ -15772,7 +15838,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 747
+    "id": 753
   },
   {
     "name": "Word",
@@ -15783,7 +15849,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 746
+    "id": 752
   },
   {
     "name": "Word",
@@ -15794,7 +15860,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 743
+    "id": 749
   },
   {
     "name": "Word",
@@ -15805,7 +15871,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 744
+    "id": 750
   },
   {
     "name": "Word",
@@ -15816,7 +15882,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 745
+    "id": 751
   },
   {
     "name": "Word",
@@ -15827,7 +15893,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 737
+    "id": 743
   },
   {
     "name": "Word",
@@ -15838,7 +15904,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 736
+    "id": 742
   },
   {
     "name": "Word",
@@ -15849,7 +15915,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 733
+    "id": 739
   },
   {
     "name": "Word",
@@ -15860,7 +15926,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 734
+    "id": 740
   },
   {
     "name": "Word",
@@ -15871,7 +15937,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 735
+    "id": 741
   },
   {
     "name": "Word",
@@ -15882,7 +15948,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 732
+    "id": 738
   },
   {
     "name": "Word",
@@ -15893,7 +15959,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 731
+    "id": 737
   },
   {
     "name": "Word",
@@ -15904,7 +15970,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 728
+    "id": 734
   },
   {
     "name": "Word",
@@ -15915,7 +15981,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 729
+    "id": 735
   },
   {
     "name": "Word",
@@ -15926,7 +15992,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 730
+    "id": 736
   },
   {
     "name": "Word",
@@ -15937,7 +16003,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 742
+    "id": 748
   },
   {
     "name": "Word",
@@ -15948,7 +16014,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 741
+    "id": 747
   },
   {
     "name": "Word",
@@ -15959,7 +16025,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 738
+    "id": 744
   },
   {
     "name": "Word",
@@ -15970,7 +16036,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 739
+    "id": 745
   },
   {
     "name": "Word",
@@ -15981,7 +16047,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 740
+    "id": 746
   },
   {
     "name": "Word",
@@ -15992,7 +16058,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 727
+    "id": 733
   },
   {
     "name": "Word",
@@ -16003,7 +16069,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 726
+    "id": 732
   },
   {
     "name": "Word",
@@ -16014,7 +16080,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 723
+    "id": 729
   },
   {
     "name": "Word",
@@ -16025,7 +16091,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 724
+    "id": 730
   },
   {
     "name": "Word",
@@ -16036,7 +16102,7 @@ const logoData = [
     "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 725
+    "id": 731
   },
   {
     "name": "Word 1024x1024 (2025 Unofficial)",
@@ -16047,7 +16113,7 @@ const logoData = [
     "year": "current",
     "size": "1024x1024",
     "format": "PNG",
-    "id": 721
+    "id": 727
   },
   {
     "name": "Word 512",
@@ -16058,7 +16124,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 722
+    "id": 728
   },
   {
     "name": "Word 512 Padded",
@@ -16069,7 +16135,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 720
+    "id": 726
   },
   {
     "name": "Ai Builder",
@@ -16080,7 +16146,7 @@ const logoData = [
     "year": "current",
     "size": "300x300",
     "format": "PNG",
-    "id": 1105
+    "id": 1111
   },
   {
     "name": "Aibuilder",
@@ -16091,7 +16157,7 @@ const logoData = [
     "year": "2024-2025",
     "size": "",
     "format": "SVG",
-    "id": 1107
+    "id": 1113
   },
   {
     "name": "Aibuilder",
@@ -16102,7 +16168,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1106
+    "id": 1112
   },
   {
     "name": "Common Data Service",
@@ -16113,7 +16179,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "",
     "format": "JPG",
-    "id": 1110
+    "id": 1116
   },
   {
     "name": "Copilot Studio",
@@ -16124,7 +16190,7 @@ const logoData = [
     "year": "2024-2025",
     "size": "",
     "format": "PNG",
-    "id": 1193
+    "id": 1199
   },
   {
     "name": "Copilot Studio",
@@ -16135,7 +16201,7 @@ const logoData = [
     "year": "current",
     "size": "300x300",
     "format": "PNG",
-    "id": 1190
+    "id": 1196
   },
   {
     "name": "Copilot Studio 256x256 Padded",
@@ -16146,7 +16212,7 @@ const logoData = [
     "year": "2024-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1192
+    "id": 1198
   },
   {
     "name": "Copilotstudio",
@@ -16157,7 +16223,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1191
+    "id": 1197
   },
   {
     "name": "Dataverse",
@@ -16168,7 +16234,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "",
     "format": "SVG",
-    "id": 1111
+    "id": 1117
   },
   {
     "name": "Dataverse",
@@ -16179,7 +16245,7 @@ const logoData = [
     "year": "current",
     "size": "300x300",
     "format": "PNG",
-    "id": 1108
+    "id": 1114
   },
   {
     "name": "Dataverse",
@@ -16190,7 +16256,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1109
+    "id": 1115
   },
   {
     "name": "Flow",
@@ -16201,7 +16267,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "128x128",
     "format": "PNG",
-    "id": 1303
+    "id": 1309
   },
   {
     "name": "Flow",
@@ -16212,7 +16278,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "256x256",
     "format": "PNG",
-    "id": 1304
+    "id": 1310
   },
   {
     "name": "Flow",
@@ -16223,7 +16289,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "48x48",
     "format": "PNG",
-    "id": 1302
+    "id": 1308
   },
   {
     "name": "Flow",
@@ -16234,7 +16300,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "64x64",
     "format": "PNG",
-    "id": 1301
+    "id": 1307
   },
   {
     "name": "Flow",
@@ -16245,7 +16311,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "96x96",
     "format": "PNG",
-    "id": 1300
+    "id": 1306
   },
   {
     "name": "Flow",
@@ -16256,7 +16322,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "128x128",
     "format": "PNG",
-    "id": 1326
+    "id": 1332
   },
   {
     "name": "Flow",
@@ -16267,7 +16333,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "256x256",
     "format": "PNG",
-    "id": 1327
+    "id": 1333
   },
   {
     "name": "Flow",
@@ -16278,7 +16344,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "48x48",
     "format": "PNG",
-    "id": 1325
+    "id": 1331
   },
   {
     "name": "Flow",
@@ -16289,7 +16355,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "64x64",
     "format": "PNG",
-    "id": 1324
+    "id": 1330
   },
   {
     "name": "Flow",
@@ -16300,7 +16366,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "96x96",
     "format": "PNG",
-    "id": 1323
+    "id": 1329
   },
   {
     "name": "Power Apps",
@@ -16311,7 +16377,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "",
     "format": "ICO",
-    "id": 1141
+    "id": 1147
   },
   {
     "name": "Power Apps",
@@ -16322,7 +16388,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1156
+    "id": 1162
   },
   {
     "name": "Power Apps",
@@ -16333,7 +16399,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "16x16",
     "format": "PNG",
-    "id": 1150
+    "id": 1156
   },
   {
     "name": "Power Apps",
@@ -16344,7 +16410,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "192x192",
     "format": "PNG",
-    "id": 1138
+    "id": 1144
   },
   {
     "name": "Power Apps",
@@ -16355,7 +16421,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "20x20",
     "format": "PNG",
-    "id": 1144
+    "id": 1150
   },
   {
     "name": "Power Apps",
@@ -16366,7 +16432,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "24x24",
     "format": "PNG",
-    "id": 1146
+    "id": 1152
   },
   {
     "name": "Power Apps",
@@ -16377,7 +16443,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1154
+    "id": 1160
   },
   {
     "name": "Power Apps",
@@ -16388,7 +16454,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "30x30",
     "format": "PNG",
-    "id": 1145
+    "id": 1151
   },
   {
     "name": "Power Apps",
@@ -16399,7 +16465,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "32x32",
     "format": "PNG",
-    "id": 1135
+    "id": 1141
   },
   {
     "name": "Power Apps",
@@ -16410,7 +16476,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "36x36",
     "format": "PNG",
-    "id": 1151
+    "id": 1157
   },
   {
     "name": "Power Apps",
@@ -16421,7 +16487,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "40x40",
     "format": "PNG",
-    "id": 1143
+    "id": 1149
   },
   {
     "name": "Power Apps",
@@ -16432,7 +16498,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "42x42",
     "format": "PNG",
-    "id": 1140
+    "id": 1146
   },
   {
     "name": "Power Apps",
@@ -16443,7 +16509,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1136
+    "id": 1142
   },
   {
     "name": "Power Apps",
@@ -16454,7 +16520,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "512x512",
     "format": "PNG",
-    "id": 1147
+    "id": 1153
   },
   {
     "name": "Power Apps",
@@ -16465,7 +16531,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "54x54",
     "format": "PNG",
-    "id": 1148
+    "id": 1154
   },
   {
     "name": "Power Apps",
@@ -16476,7 +16542,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "60x60",
     "format": "PNG",
-    "id": 1142
+    "id": 1148
   },
   {
     "name": "Power Apps",
@@ -16487,7 +16553,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1153
+    "id": 1159
   },
   {
     "name": "Power Apps",
@@ -16498,7 +16564,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "72x72",
     "format": "PNG",
-    "id": 1139
+    "id": 1145
   },
   {
     "name": "Power Apps",
@@ -16509,7 +16575,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "80x80",
     "format": "PNG",
-    "id": 1155
+    "id": 1161
   },
   {
     "name": "Power Apps",
@@ -16520,7 +16586,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1137
+    "id": 1143
   },
   {
     "name": "Power Apps",
@@ -16531,7 +16597,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "",
     "format": "SVG",
-    "id": 1152
+    "id": 1158
   },
   {
     "name": "Power Apps",
@@ -16542,7 +16608,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "",
     "format": "ICO",
-    "id": 1121
+    "id": 1127
   },
   {
     "name": "Power Apps",
@@ -16553,7 +16619,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1134
+    "id": 1140
   },
   {
     "name": "Power Apps",
@@ -16564,7 +16630,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "16x16",
     "format": "PNG",
-    "id": 1129
+    "id": 1135
   },
   {
     "name": "Power Apps",
@@ -16575,7 +16641,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "192x192",
     "format": "PNG",
-    "id": 1118
+    "id": 1124
   },
   {
     "name": "Power Apps",
@@ -16586,7 +16652,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "20x20",
     "format": "PNG",
-    "id": 1124
+    "id": 1130
   },
   {
     "name": "Power Apps",
@@ -16597,7 +16663,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "24x24",
     "format": "PNG",
-    "id": 1126
+    "id": 1132
   },
   {
     "name": "Power Apps",
@@ -16608,7 +16674,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1132
+    "id": 1138
   },
   {
     "name": "Power Apps",
@@ -16619,7 +16685,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "30x30",
     "format": "PNG",
-    "id": 1125
+    "id": 1131
   },
   {
     "name": "Power Apps",
@@ -16630,7 +16696,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "32x32",
     "format": "PNG",
-    "id": 1115
+    "id": 1121
   },
   {
     "name": "Power Apps",
@@ -16641,7 +16707,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "36x36",
     "format": "PNG",
-    "id": 1130
+    "id": 1136
   },
   {
     "name": "Power Apps",
@@ -16652,7 +16718,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "40x40",
     "format": "PNG",
-    "id": 1123
+    "id": 1129
   },
   {
     "name": "Power Apps",
@@ -16663,7 +16729,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "42x42",
     "format": "PNG",
-    "id": 1120
+    "id": 1126
   },
   {
     "name": "Power Apps",
@@ -16674,7 +16740,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1116
+    "id": 1122
   },
   {
     "name": "Power Apps",
@@ -16685,7 +16751,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "512x512",
     "format": "PNG",
-    "id": 1127
+    "id": 1133
   },
   {
     "name": "Power Apps",
@@ -16696,7 +16762,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "54x54",
     "format": "PNG",
-    "id": 1128
+    "id": 1134
   },
   {
     "name": "Power Apps",
@@ -16707,7 +16773,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "60x60",
     "format": "PNG",
-    "id": 1122
+    "id": 1128
   },
   {
     "name": "Power Apps",
@@ -16718,7 +16784,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1131
+    "id": 1137
   },
   {
     "name": "Power Apps",
@@ -16729,7 +16795,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "72x72",
     "format": "PNG",
-    "id": 1119
+    "id": 1125
   },
   {
     "name": "Power Apps",
@@ -16740,7 +16806,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "80x80",
     "format": "PNG",
-    "id": 1133
+    "id": 1139
   },
   {
     "name": "Power Apps",
@@ -16751,7 +16817,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1117
+    "id": 1123
   },
   {
     "name": "Power Apps",
@@ -16762,7 +16828,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "",
     "format": "ICO",
-    "id": 1168
+    "id": 1174
   },
   {
     "name": "Power Apps",
@@ -16773,7 +16839,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1181
+    "id": 1187
   },
   {
     "name": "Power Apps",
@@ -16784,7 +16850,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "16x16",
     "format": "PNG",
-    "id": 1176
+    "id": 1182
   },
   {
     "name": "Power Apps",
@@ -16795,7 +16861,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "192x192",
     "format": "PNG",
-    "id": 1165
+    "id": 1171
   },
   {
     "name": "Power Apps",
@@ -16806,7 +16872,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "20x20",
     "format": "PNG",
-    "id": 1171
+    "id": 1177
   },
   {
     "name": "Power Apps",
@@ -16817,7 +16883,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "24x24",
     "format": "PNG",
-    "id": 1173
+    "id": 1179
   },
   {
     "name": "Power Apps",
@@ -16828,7 +16894,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1179
+    "id": 1185
   },
   {
     "name": "Power Apps",
@@ -16839,7 +16905,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "30x30",
     "format": "PNG",
-    "id": 1172
+    "id": 1178
   },
   {
     "name": "Power Apps",
@@ -16850,7 +16916,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "32x32",
     "format": "PNG",
-    "id": 1162
+    "id": 1168
   },
   {
     "name": "Power Apps",
@@ -16861,7 +16927,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "36x36",
     "format": "PNG",
-    "id": 1177
+    "id": 1183
   },
   {
     "name": "Power Apps",
@@ -16872,7 +16938,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "40x40",
     "format": "PNG",
-    "id": 1170
+    "id": 1176
   },
   {
     "name": "Power Apps",
@@ -16883,7 +16949,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "42x42",
     "format": "PNG",
-    "id": 1167
+    "id": 1173
   },
   {
     "name": "Power Apps",
@@ -16894,7 +16960,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1163
+    "id": 1169
   },
   {
     "name": "Power Apps",
@@ -16905,7 +16971,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "512x512",
     "format": "PNG",
-    "id": 1174
+    "id": 1180
   },
   {
     "name": "Power Apps",
@@ -16916,7 +16982,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "54x54",
     "format": "PNG",
-    "id": 1175
+    "id": 1181
   },
   {
     "name": "Power Apps",
@@ -16927,7 +16993,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "60x60",
     "format": "PNG",
-    "id": 1169
+    "id": 1175
   },
   {
     "name": "Power Apps",
@@ -16938,7 +17004,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1178
+    "id": 1184
   },
   {
     "name": "Power Apps",
@@ -16949,7 +17015,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "72x72",
     "format": "PNG",
-    "id": 1166
+    "id": 1172
   },
   {
     "name": "Power Apps",
@@ -16960,7 +17026,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "80x80",
     "format": "PNG",
-    "id": 1180
+    "id": 1186
   },
   {
     "name": "Power Apps",
@@ -16971,7 +17037,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1164
+    "id": 1170
   },
   {
     "name": "Power Apps",
@@ -16982,7 +17048,7 @@ const logoData = [
     "year": "current",
     "size": "300x300",
     "format": "PNG",
-    "id": 1114
+    "id": 1120
   },
   {
     "name": "Power Apps 256x256 Padded",
@@ -16993,7 +17059,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1149
+    "id": 1155
   },
   {
     "name": "Power Automate",
@@ -17004,7 +17070,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "",
     "format": "ICO",
-    "id": 1288
+    "id": 1294
   },
   {
     "name": "Power Automate",
@@ -17015,7 +17081,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1289
+    "id": 1295
   },
   {
     "name": "Power Automate",
@@ -17026,7 +17092,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "16x16",
     "format": "PNG",
-    "id": 1294
+    "id": 1300
   },
   {
     "name": "Power Automate",
@@ -17037,7 +17103,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "180x180",
     "format": "PNG",
-    "id": 1291
+    "id": 1297
   },
   {
     "name": "Power Automate",
@@ -17048,7 +17114,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "192x192",
     "format": "PNG",
-    "id": 1287
+    "id": 1293
   },
   {
     "name": "Power Automate",
@@ -17059,7 +17125,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "20x20",
     "format": "PNG",
-    "id": 1299
+    "id": 1305
   },
   {
     "name": "Power Automate",
@@ -17070,7 +17136,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "24x24",
     "format": "PNG",
-    "id": 1290
+    "id": 1296
   },
   {
     "name": "Power Automate",
@@ -17081,7 +17147,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1292
+    "id": 1298
   },
   {
     "name": "Power Automate",
@@ -17092,7 +17158,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "32x32",
     "format": "PNG",
-    "id": 1286
+    "id": 1292
   },
   {
     "name": "Power Automate",
@@ -17103,7 +17169,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "36x36",
     "format": "PNG",
-    "id": 1281
+    "id": 1287
   },
   {
     "name": "Power Automate",
@@ -17114,7 +17180,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "40x40",
     "format": "PNG",
-    "id": 1282
+    "id": 1288
   },
   {
     "name": "Power Automate",
@@ -17125,7 +17191,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1283
+    "id": 1289
   },
   {
     "name": "Power Automate",
@@ -17136,7 +17202,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "512x512",
     "format": "PNG",
-    "id": 1280
+    "id": 1286
   },
   {
     "name": "Power Automate",
@@ -17147,7 +17213,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "54x54",
     "format": "PNG",
-    "id": 1295
+    "id": 1301
   },
   {
     "name": "Power Automate",
@@ -17158,7 +17224,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "60x60",
     "format": "PNG",
-    "id": 1279
+    "id": 1285
   },
   {
     "name": "Power Automate",
@@ -17169,7 +17235,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1297
+    "id": 1303
   },
   {
     "name": "Power Automate",
@@ -17180,7 +17246,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "72x72",
     "format": "PNG",
-    "id": 1293
+    "id": 1299
   },
   {
     "name": "Power Automate",
@@ -17191,7 +17257,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "80x80",
     "format": "PNG",
-    "id": 1298
+    "id": 1304
   },
   {
     "name": "Power Automate",
@@ -17202,7 +17268,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1296
+    "id": 1302
   },
   {
     "name": "Power Automate",
@@ -17213,7 +17279,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "",
     "format": "SVG",
-    "id": 1285
+    "id": 1291
   },
   {
     "name": "Power Automate",
@@ -17224,7 +17290,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1268
+    "id": 1274
   },
   {
     "name": "Power Automate",
@@ -17235,7 +17301,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "16x16",
     "format": "PNG",
-    "id": 1272
+    "id": 1278
   },
   {
     "name": "Power Automate",
@@ -17246,7 +17312,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "192x192",
     "format": "PNG",
-    "id": 1267
+    "id": 1273
   },
   {
     "name": "Power Automate",
@@ -17257,7 +17323,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "20x20",
     "format": "PNG",
-    "id": 1278
+    "id": 1284
   },
   {
     "name": "Power Automate",
@@ -17268,7 +17334,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "24x24",
     "format": "PNG",
-    "id": 1269
+    "id": 1275
   },
   {
     "name": "Power Automate",
@@ -17279,7 +17345,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1270
+    "id": 1276
   },
   {
     "name": "Power Automate",
@@ -17290,7 +17356,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "32x32",
     "format": "PNG",
-    "id": 1266
+    "id": 1272
   },
   {
     "name": "Power Automate",
@@ -17301,7 +17367,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "36x36",
     "format": "PNG",
-    "id": 1263
+    "id": 1269
   },
   {
     "name": "Power Automate",
@@ -17312,7 +17378,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "40x40",
     "format": "PNG",
-    "id": 1264
+    "id": 1270
   },
   {
     "name": "Power Automate",
@@ -17323,7 +17389,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1265
+    "id": 1271
   },
   {
     "name": "Power Automate",
@@ -17334,7 +17400,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "512x512",
     "format": "PNG",
-    "id": 1262
+    "id": 1268
   },
   {
     "name": "Power Automate",
@@ -17345,7 +17411,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "54x54",
     "format": "PNG",
-    "id": 1274
+    "id": 1280
   },
   {
     "name": "Power Automate",
@@ -17356,7 +17422,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "60x60",
     "format": "PNG",
-    "id": 1261
+    "id": 1267
   },
   {
     "name": "Power Automate",
@@ -17367,7 +17433,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1276
+    "id": 1282
   },
   {
     "name": "Power Automate",
@@ -17378,7 +17444,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "72x72",
     "format": "PNG",
-    "id": 1271
+    "id": 1277
   },
   {
     "name": "Power Automate",
@@ -17389,7 +17455,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "80x80",
     "format": "PNG",
-    "id": 1277
+    "id": 1283
   },
   {
     "name": "Power Automate",
@@ -17400,7 +17466,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1275
+    "id": 1281
   },
   {
     "name": "Power Automate",
@@ -17411,7 +17477,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "",
     "format": "ICO",
-    "id": 1312
+    "id": 1318
   },
   {
     "name": "Power Automate",
@@ -17422,7 +17488,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1313
+    "id": 1319
   },
   {
     "name": "Power Automate",
@@ -17433,7 +17499,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "16x16",
     "format": "PNG",
-    "id": 1317
+    "id": 1323
   },
   {
     "name": "Power Automate",
@@ -17444,7 +17510,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "192x192",
     "format": "PNG",
-    "id": 1311
+    "id": 1317
   },
   {
     "name": "Power Automate",
@@ -17455,7 +17521,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "20x20",
     "format": "PNG",
-    "id": 1322
+    "id": 1328
   },
   {
     "name": "Power Automate",
@@ -17466,7 +17532,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "24x24",
     "format": "PNG",
-    "id": 1314
+    "id": 1320
   },
   {
     "name": "Power Automate",
@@ -17477,7 +17543,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1315
+    "id": 1321
   },
   {
     "name": "Power Automate",
@@ -17488,7 +17554,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "32x32",
     "format": "PNG",
-    "id": 1310
+    "id": 1316
   },
   {
     "name": "Power Automate",
@@ -17499,7 +17565,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "36x36",
     "format": "PNG",
-    "id": 1307
+    "id": 1313
   },
   {
     "name": "Power Automate",
@@ -17510,7 +17576,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "40x40",
     "format": "PNG",
-    "id": 1308
+    "id": 1314
   },
   {
     "name": "Power Automate",
@@ -17521,7 +17587,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1309
+    "id": 1315
   },
   {
     "name": "Power Automate",
@@ -17532,7 +17598,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "512x512",
     "format": "PNG",
-    "id": 1306
+    "id": 1312
   },
   {
     "name": "Power Automate",
@@ -17543,7 +17609,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "54x54",
     "format": "PNG",
-    "id": 1318
+    "id": 1324
   },
   {
     "name": "Power Automate",
@@ -17554,7 +17620,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "60x60",
     "format": "PNG",
-    "id": 1305
+    "id": 1311
   },
   {
     "name": "Power Automate",
@@ -17565,7 +17631,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1320
+    "id": 1326
   },
   {
     "name": "Power Automate",
@@ -17576,7 +17642,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "72x72",
     "format": "PNG",
-    "id": 1316
+    "id": 1322
   },
   {
     "name": "Power Automate",
@@ -17587,7 +17653,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "80x80",
     "format": "PNG",
-    "id": 1321
+    "id": 1327
   },
   {
     "name": "Power Automate",
@@ -17598,7 +17664,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1319
+    "id": 1325
   },
   {
     "name": "Power Automate",
@@ -17609,7 +17675,7 @@ const logoData = [
     "year": "current",
     "size": "300x300",
     "format": "PNG",
-    "id": 1259
+    "id": 1265
   },
   {
     "name": "Power Automate 256x256 Padded",
@@ -17620,7 +17686,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1284
+    "id": 1290
   },
   {
     "name": "Power Bi",
@@ -17631,7 +17697,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "128x128",
     "format": "PNG",
-    "id": 1081
+    "id": 1087
   },
   {
     "name": "Power Bi",
@@ -17642,7 +17708,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "256x256",
     "format": "PNG",
-    "id": 1080
+    "id": 1086
   },
   {
     "name": "Power Bi",
@@ -17653,7 +17719,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "48x48",
     "format": "PNG",
-    "id": 1077
+    "id": 1083
   },
   {
     "name": "Power Bi",
@@ -17664,7 +17730,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "64x64",
     "format": "PNG",
-    "id": 1078
+    "id": 1084
   },
   {
     "name": "Power Bi",
@@ -17675,7 +17741,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "96x96",
     "format": "PNG",
-    "id": 1079
+    "id": 1085
   },
   {
     "name": "Power Bi",
@@ -17686,7 +17752,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "128x128",
     "format": "PNG",
-    "id": 1104
+    "id": 1110
   },
   {
     "name": "Power Bi",
@@ -17697,7 +17763,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "256x256",
     "format": "PNG",
-    "id": 1103
+    "id": 1109
   },
   {
     "name": "Power Bi",
@@ -17708,7 +17774,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "48x48",
     "format": "PNG",
-    "id": 1100
+    "id": 1106
   },
   {
     "name": "Power Bi",
@@ -17719,7 +17785,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "64x64",
     "format": "PNG",
-    "id": 1101
+    "id": 1107
   },
   {
     "name": "Power Bi",
@@ -17730,7 +17796,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "96x96",
     "format": "PNG",
-    "id": 1102
+    "id": 1108
   },
   {
     "name": "Power Bi",
@@ -17741,7 +17807,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1073
+    "id": 1079
   },
   {
     "name": "Power Bi",
@@ -17752,7 +17818,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "16x16",
     "format": "PNG",
-    "id": 1076
+    "id": 1082
   },
   {
     "name": "Power Bi",
@@ -17763,7 +17829,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "192x192",
     "format": "PNG",
-    "id": 1067
+    "id": 1073
   },
   {
     "name": "Power Bi",
@@ -17774,7 +17840,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "20x20",
     "format": "PNG",
-    "id": 1068
+    "id": 1074
   },
   {
     "name": "Power Bi",
@@ -17785,7 +17851,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "24x24",
     "format": "PNG",
-    "id": 1075
+    "id": 1081
   },
   {
     "name": "Power Bi",
@@ -17796,7 +17862,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1072
+    "id": 1078
   },
   {
     "name": "Power Bi",
@@ -17807,7 +17873,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "32x32",
     "format": "PNG",
-    "id": 1064
+    "id": 1070
   },
   {
     "name": "Power Bi",
@@ -17818,7 +17884,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "36x36",
     "format": "PNG",
-    "id": 1070
+    "id": 1076
   },
   {
     "name": "Power Bi",
@@ -17829,7 +17895,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "40x40",
     "format": "PNG",
-    "id": 1060
+    "id": 1066
   },
   {
     "name": "Power Bi",
@@ -17840,7 +17906,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1057
+    "id": 1063
   },
   {
     "name": "Power Bi",
@@ -17851,7 +17917,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "512x512",
     "format": "PNG",
-    "id": 1069
+    "id": 1075
   },
   {
     "name": "Power Bi",
@@ -17862,7 +17928,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "54x54",
     "format": "PNG",
-    "id": 1059
+    "id": 1065
   },
   {
     "name": "Power Bi",
@@ -17873,7 +17939,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "60x60",
     "format": "PNG",
-    "id": 1062
+    "id": 1068
   },
   {
     "name": "Power Bi",
@@ -17884,7 +17950,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1066
+    "id": 1072
   },
   {
     "name": "Power Bi",
@@ -17895,7 +17961,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "72x72",
     "format": "PNG",
-    "id": 1074
+    "id": 1080
   },
   {
     "name": "Power Bi",
@@ -17906,7 +17972,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "80x80",
     "format": "PNG",
-    "id": 1058
+    "id": 1064
   },
   {
     "name": "Power Bi",
@@ -17917,7 +17983,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1071
+    "id": 1077
   },
   {
     "name": "Power Bi",
@@ -17928,7 +17994,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "",
     "format": "SVG",
-    "id": 1065
+    "id": 1071
   },
   {
     "name": "Power Bi",
@@ -17939,7 +18005,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1053
+    "id": 1059
   },
   {
     "name": "Power Bi",
@@ -17950,7 +18016,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "16x16",
     "format": "PNG",
-    "id": 1056
+    "id": 1062
   },
   {
     "name": "Power Bi",
@@ -17961,7 +18027,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "192x192",
     "format": "PNG",
-    "id": 1047
+    "id": 1053
   },
   {
     "name": "Power Bi",
@@ -17972,7 +18038,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "20x20",
     "format": "PNG",
-    "id": 1048
+    "id": 1054
   },
   {
     "name": "Power Bi",
@@ -17983,7 +18049,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "24x24",
     "format": "PNG",
-    "id": 1055
+    "id": 1061
   },
   {
     "name": "Power Bi",
@@ -17994,7 +18060,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1052
+    "id": 1058
   },
   {
     "name": "Power Bi",
@@ -18005,7 +18071,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "32x32",
     "format": "PNG",
-    "id": 1045
+    "id": 1051
   },
   {
     "name": "Power Bi",
@@ -18016,7 +18082,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "36x36",
     "format": "PNG",
-    "id": 1050
+    "id": 1056
   },
   {
     "name": "Power Bi",
@@ -18027,7 +18093,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "40x40",
     "format": "PNG",
-    "id": 1042
+    "id": 1048
   },
   {
     "name": "Power Bi",
@@ -18038,7 +18104,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1039
+    "id": 1045
   },
   {
     "name": "Power Bi",
@@ -18049,7 +18115,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "512x512",
     "format": "PNG",
-    "id": 1049
+    "id": 1055
   },
   {
     "name": "Power Bi",
@@ -18060,7 +18126,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "54x54",
     "format": "PNG",
-    "id": 1041
+    "id": 1047
   },
   {
     "name": "Power Bi",
@@ -18071,7 +18137,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "60x60",
     "format": "PNG",
-    "id": 1044
+    "id": 1050
   },
   {
     "name": "Power Bi",
@@ -18082,7 +18148,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1046
+    "id": 1052
   },
   {
     "name": "Power Bi",
@@ -18093,7 +18159,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "72x72",
     "format": "PNG",
-    "id": 1054
+    "id": 1060
   },
   {
     "name": "Power Bi",
@@ -18104,7 +18170,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "80x80",
     "format": "PNG",
-    "id": 1040
+    "id": 1046
   },
   {
     "name": "Power Bi",
@@ -18115,7 +18181,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1051
+    "id": 1057
   },
   {
     "name": "Power Bi",
@@ -18126,7 +18192,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1096
+    "id": 1102
   },
   {
     "name": "Power Bi",
@@ -18137,7 +18203,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "16x16",
     "format": "PNG",
-    "id": 1099
+    "id": 1105
   },
   {
     "name": "Power Bi",
@@ -18148,7 +18214,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "192x192",
     "format": "PNG",
-    "id": 1090
+    "id": 1096
   },
   {
     "name": "Power Bi",
@@ -18159,7 +18225,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "20x20",
     "format": "PNG",
-    "id": 1091
+    "id": 1097
   },
   {
     "name": "Power Bi",
@@ -18170,7 +18236,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "24x24",
     "format": "PNG",
-    "id": 1098
+    "id": 1104
   },
   {
     "name": "Power Bi",
@@ -18181,7 +18247,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1095
+    "id": 1101
   },
   {
     "name": "Power Bi",
@@ -18192,7 +18258,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "32x32",
     "format": "PNG",
-    "id": 1088
+    "id": 1094
   },
   {
     "name": "Power Bi",
@@ -18203,7 +18269,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "36x36",
     "format": "PNG",
-    "id": 1093
+    "id": 1099
   },
   {
     "name": "Power Bi",
@@ -18214,7 +18280,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "40x40",
     "format": "PNG",
-    "id": 1085
+    "id": 1091
   },
   {
     "name": "Power Bi",
@@ -18225,7 +18291,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1082
+    "id": 1088
   },
   {
     "name": "Power Bi",
@@ -18236,7 +18302,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "512x512",
     "format": "PNG",
-    "id": 1092
+    "id": 1098
   },
   {
     "name": "Power Bi",
@@ -18247,7 +18313,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "54x54",
     "format": "PNG",
-    "id": 1084
+    "id": 1090
   },
   {
     "name": "Power Bi",
@@ -18258,7 +18324,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "60x60",
     "format": "PNG",
-    "id": 1087
+    "id": 1093
   },
   {
     "name": "Power Bi",
@@ -18269,7 +18335,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1089
+    "id": 1095
   },
   {
     "name": "Power Bi",
@@ -18280,7 +18346,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "72x72",
     "format": "PNG",
-    "id": 1097
+    "id": 1103
   },
   {
     "name": "Power Bi",
@@ -18291,7 +18357,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "80x80",
     "format": "PNG",
-    "id": 1083
+    "id": 1089
   },
   {
     "name": "Power Bi",
@@ -18302,7 +18368,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1094
+    "id": 1100
   },
   {
     "name": "Power Bi",
@@ -18313,7 +18379,7 @@ const logoData = [
     "year": "current",
     "size": "300x300",
     "format": "PNG",
-    "id": 1037
+    "id": 1043
   },
   {
     "name": "Power Bi 256x256 Padded",
@@ -18324,7 +18390,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1063
+    "id": 1069
   },
   {
     "name": "Power Bi Ico",
@@ -18335,7 +18401,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "",
     "format": "ICO",
-    "id": 1061
+    "id": 1067
   },
   {
     "name": "Power Bi Ico",
@@ -18346,7 +18412,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "",
     "format": "ICO",
-    "id": 1043
+    "id": 1049
   },
   {
     "name": "Power Bi Ico",
@@ -18357,7 +18423,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "",
     "format": "ICO",
-    "id": 1086
+    "id": 1092
   },
   {
     "name": "Power Fx",
@@ -18368,7 +18434,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1250
+    "id": 1256
   },
   {
     "name": "Power Pages",
@@ -18379,7 +18445,7 @@ const logoData = [
     "year": "current",
     "size": "300x300",
     "format": "PNG",
-    "id": 1187
+    "id": 1193
   },
   {
     "name": "Power Platform Monochrome",
@@ -18390,7 +18456,7 @@ const logoData = [
     "year": "2024-2025",
     "size": "",
     "format": "PNG",
-    "id": 1256
+    "id": 1262
   },
   {
     "name": "Power Virtual Agents",
@@ -18401,7 +18467,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "",
     "format": "ICO",
-    "id": 1197
+    "id": 1203
   },
   {
     "name": "Power Virtual Agents",
@@ -18412,7 +18478,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "128x128",
     "format": "PNG",
-    "id": 1209
+    "id": 1215
   },
   {
     "name": "Power Virtual Agents",
@@ -18423,7 +18489,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "16x16",
     "format": "PNG",
-    "id": 1196
+    "id": 1202
   },
   {
     "name": "Power Virtual Agents",
@@ -18434,7 +18500,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "192x192",
     "format": "PNG",
-    "id": 1211
+    "id": 1217
   },
   {
     "name": "Power Virtual Agents",
@@ -18445,7 +18511,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "20x20",
     "format": "PNG",
-    "id": 1195
+    "id": 1201
   },
   {
     "name": "Power Virtual Agents",
@@ -18456,7 +18522,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "24x24",
     "format": "PNG",
-    "id": 1205
+    "id": 1211
   },
   {
     "name": "Power Virtual Agents",
@@ -18467,7 +18533,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "256x256",
     "format": "PNG",
-    "id": 1212
+    "id": 1218
   },
   {
     "name": "Power Virtual Agents",
@@ -18478,7 +18544,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "32x32",
     "format": "PNG",
-    "id": 1199
+    "id": 1205
   },
   {
     "name": "Power Virtual Agents",
@@ -18489,7 +18555,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "36x36",
     "format": "PNG",
-    "id": 1210
+    "id": 1216
   },
   {
     "name": "Power Virtual Agents",
@@ -18500,7 +18566,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "40x40",
     "format": "PNG",
-    "id": 1198
+    "id": 1204
   },
   {
     "name": "Power Virtual Agents",
@@ -18511,7 +18577,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "48x48",
     "format": "PNG",
-    "id": 1207
+    "id": 1213
   },
   {
     "name": "Power Virtual Agents",
@@ -18522,7 +18588,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "512x512",
     "format": "PNG",
-    "id": 1202
+    "id": 1208
   },
   {
     "name": "Power Virtual Agents",
@@ -18533,7 +18599,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "54x54",
     "format": "PNG",
-    "id": 1206
+    "id": 1212
   },
   {
     "name": "Power Virtual Agents",
@@ -18544,7 +18610,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "60x60",
     "format": "PNG",
-    "id": 1203
+    "id": 1209
   },
   {
     "name": "Power Virtual Agents",
@@ -18555,7 +18621,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "64x64",
     "format": "PNG",
-    "id": 1204
+    "id": 1210
   },
   {
     "name": "Power Virtual Agents",
@@ -18566,7 +18632,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "72x72",
     "format": "PNG",
-    "id": 1201
+    "id": 1207
   },
   {
     "name": "Power Virtual Agents",
@@ -18577,7 +18643,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "80x80",
     "format": "PNG",
-    "id": 1213
+    "id": 1219
   },
   {
     "name": "Power Virtual Agents",
@@ -18588,7 +18654,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "96x96",
     "format": "PNG",
-    "id": 1208
+    "id": 1214
   },
   {
     "name": "Power Virtual Agents",
@@ -18599,7 +18665,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "",
     "format": "SVG",
-    "id": 1200
+    "id": 1206
   },
   {
     "name": "Power Virtual Agents",
@@ -18610,7 +18676,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "",
     "format": "ICO",
-    "id": 1216
+    "id": 1222
   },
   {
     "name": "Power Virtual Agents",
@@ -18621,7 +18687,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "128x128",
     "format": "PNG",
-    "id": 1227
+    "id": 1233
   },
   {
     "name": "Power Virtual Agents",
@@ -18632,7 +18698,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "16x16",
     "format": "PNG",
-    "id": 1215
+    "id": 1221
   },
   {
     "name": "Power Virtual Agents",
@@ -18643,7 +18709,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "192x192",
     "format": "PNG",
-    "id": 1229
+    "id": 1235
   },
   {
     "name": "Power Virtual Agents",
@@ -18654,7 +18720,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "20x20",
     "format": "PNG",
-    "id": 1214
+    "id": 1220
   },
   {
     "name": "Power Virtual Agents",
@@ -18665,7 +18731,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "24x24",
     "format": "PNG",
-    "id": 1223
+    "id": 1229
   },
   {
     "name": "Power Virtual Agents",
@@ -18676,7 +18742,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "256x256",
     "format": "PNG",
-    "id": 1230
+    "id": 1236
   },
   {
     "name": "Power Virtual Agents",
@@ -18687,7 +18753,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "32x32",
     "format": "PNG",
-    "id": 1218
+    "id": 1224
   },
   {
     "name": "Power Virtual Agents",
@@ -18698,7 +18764,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "36x36",
     "format": "PNG",
-    "id": 1228
+    "id": 1234
   },
   {
     "name": "Power Virtual Agents",
@@ -18709,7 +18775,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "40x40",
     "format": "PNG",
-    "id": 1217
+    "id": 1223
   },
   {
     "name": "Power Virtual Agents",
@@ -18720,7 +18786,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "48x48",
     "format": "PNG",
-    "id": 1225
+    "id": 1231
   },
   {
     "name": "Power Virtual Agents",
@@ -18731,7 +18797,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "512x512",
     "format": "PNG",
-    "id": 1220
+    "id": 1226
   },
   {
     "name": "Power Virtual Agents",
@@ -18742,7 +18808,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "54x54",
     "format": "PNG",
-    "id": 1224
+    "id": 1230
   },
   {
     "name": "Power Virtual Agents",
@@ -18753,7 +18819,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "60x60",
     "format": "PNG",
-    "id": 1221
+    "id": 1227
   },
   {
     "name": "Power Virtual Agents",
@@ -18764,7 +18830,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "64x64",
     "format": "PNG",
-    "id": 1222
+    "id": 1228
   },
   {
     "name": "Power Virtual Agents",
@@ -18775,7 +18841,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "72x72",
     "format": "PNG",
-    "id": 1219
+    "id": 1225
   },
   {
     "name": "Power Virtual Agents",
@@ -18786,7 +18852,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "80x80",
     "format": "PNG",
-    "id": 1231
+    "id": 1237
   },
   {
     "name": "Power Virtual Agents",
@@ -18797,7 +18863,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "96x96",
     "format": "PNG",
-    "id": 1226
+    "id": 1232
   },
   {
     "name": "Power Virtual Agents",
@@ -18808,7 +18874,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "",
     "format": "ICO",
-    "id": 1234
+    "id": 1240
   },
   {
     "name": "Power Virtual Agents",
@@ -18819,7 +18885,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "128x128",
     "format": "PNG",
-    "id": 1245
+    "id": 1251
   },
   {
     "name": "Power Virtual Agents",
@@ -18830,7 +18896,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "16x16",
     "format": "PNG",
-    "id": 1233
+    "id": 1239
   },
   {
     "name": "Power Virtual Agents",
@@ -18841,7 +18907,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "192x192",
     "format": "PNG",
-    "id": 1247
+    "id": 1253
   },
   {
     "name": "Power Virtual Agents",
@@ -18852,7 +18918,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "20x20",
     "format": "PNG",
-    "id": 1232
+    "id": 1238
   },
   {
     "name": "Power Virtual Agents",
@@ -18863,7 +18929,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "24x24",
     "format": "PNG",
-    "id": 1241
+    "id": 1247
   },
   {
     "name": "Power Virtual Agents",
@@ -18874,7 +18940,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "256x256",
     "format": "PNG",
-    "id": 1248
+    "id": 1254
   },
   {
     "name": "Power Virtual Agents",
@@ -18885,7 +18951,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "32x32",
     "format": "PNG",
-    "id": 1236
+    "id": 1242
   },
   {
     "name": "Power Virtual Agents",
@@ -18896,7 +18962,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "36x36",
     "format": "PNG",
-    "id": 1246
+    "id": 1252
   },
   {
     "name": "Power Virtual Agents",
@@ -18907,7 +18973,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "40x40",
     "format": "PNG",
-    "id": 1235
+    "id": 1241
   },
   {
     "name": "Power Virtual Agents",
@@ -18918,7 +18984,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "48x48",
     "format": "PNG",
-    "id": 1243
+    "id": 1249
   },
   {
     "name": "Power Virtual Agents",
@@ -18929,7 +18995,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "512x512",
     "format": "PNG",
-    "id": 1238
+    "id": 1244
   },
   {
     "name": "Power Virtual Agents",
@@ -18940,7 +19006,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "54x54",
     "format": "PNG",
-    "id": 1242
+    "id": 1248
   },
   {
     "name": "Power Virtual Agents",
@@ -18951,7 +19017,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "60x60",
     "format": "PNG",
-    "id": 1239
+    "id": 1245
   },
   {
     "name": "Power Virtual Agents",
@@ -18962,7 +19028,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "64x64",
     "format": "PNG",
-    "id": 1240
+    "id": 1246
   },
   {
     "name": "Power Virtual Agents",
@@ -18973,7 +19039,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "72x72",
     "format": "PNG",
-    "id": 1237
+    "id": 1243
   },
   {
     "name": "Power Virtual Agents",
@@ -18984,7 +19050,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "80x80",
     "format": "PNG",
-    "id": 1249
+    "id": 1255
   },
   {
     "name": "Power Virtual Agents",
@@ -18995,7 +19061,7 @@ const logoData = [
     "year": "2020-2024",
     "size": "96x96",
     "format": "PNG",
-    "id": 1244
+    "id": 1250
   },
   {
     "name": "Powerapps",
@@ -19006,7 +19072,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "128x128",
     "format": "PNG",
-    "id": 1161
+    "id": 1167
   },
   {
     "name": "Powerapps",
@@ -19017,7 +19083,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "256x256",
     "format": "PNG",
-    "id": 1158
+    "id": 1164
   },
   {
     "name": "Powerapps",
@@ -19028,7 +19094,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "48x48",
     "format": "PNG",
-    "id": 1160
+    "id": 1166
   },
   {
     "name": "Powerapps",
@@ -19039,7 +19105,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "64x64",
     "format": "PNG",
-    "id": 1157
+    "id": 1163
   },
   {
     "name": "Powerapps",
@@ -19050,7 +19116,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "96x96",
     "format": "PNG",
-    "id": 1159
+    "id": 1165
   },
   {
     "name": "Powerapps",
@@ -19061,7 +19127,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "128x128",
     "format": "PNG",
-    "id": 1186
+    "id": 1192
   },
   {
     "name": "Powerapps",
@@ -19072,7 +19138,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "256x256",
     "format": "PNG",
-    "id": 1183
+    "id": 1189
   },
   {
     "name": "Powerapps",
@@ -19083,7 +19149,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "48x48",
     "format": "PNG",
-    "id": 1185
+    "id": 1191
   },
   {
     "name": "Powerapps",
@@ -19094,7 +19160,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "64x64",
     "format": "PNG",
-    "id": 1182
+    "id": 1188
   },
   {
     "name": "Powerapps",
@@ -19105,7 +19171,7 @@ const logoData = [
     "year": "2016-2020",
     "size": "96x96",
     "format": "PNG",
-    "id": 1184
+    "id": 1190
   },
   {
     "name": "Powerapps",
@@ -19116,7 +19182,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1112
+    "id": 1118
   },
   {
     "name": "Powerapps",
@@ -19127,7 +19193,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1113
+    "id": 1119
   },
   {
     "name": "Powerautomate",
@@ -19138,7 +19204,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1258
+    "id": 1264
   },
   {
     "name": "Powerautomate",
@@ -19149,7 +19215,7 @@ const logoData = [
     "year": "2020-2025",
     "size": "",
     "format": "ICO",
-    "id": 1273
+    "id": 1279
   },
   {
     "name": "Powerautomate",
@@ -19160,7 +19226,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1260
+    "id": 1266
   },
   {
     "name": "Powerbi",
@@ -19171,7 +19237,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1038
+    "id": 1044
   },
   {
     "name": "Powerpages",
@@ -19182,7 +19248,7 @@ const logoData = [
     "year": "2024-2025",
     "size": "",
     "format": "SVG",
-    "id": 1189
+    "id": 1195
   },
   {
     "name": "Powerpages",
@@ -19193,7 +19259,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1188
+    "id": 1194
   },
   {
     "name": "Powerplatform",
@@ -19204,7 +19270,7 @@ const logoData = [
     "year": "2024-2025",
     "size": "",
     "format": "PNG",
-    "id": 1255
+    "id": 1261
   },
   {
     "name": "Powerplatform",
@@ -19215,7 +19281,7 @@ const logoData = [
     "year": "2024-2025",
     "size": "",
     "format": "SVG",
-    "id": 1257
+    "id": 1263
   },
   {
     "name": "Powerplatform",
@@ -19226,7 +19292,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 1252
+    "id": 1258
   },
   {
     "name": "Powerplatform",
@@ -19237,7 +19303,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1254
+    "id": 1260
   },
   {
     "name": "Powerplatform Connectors",
@@ -19248,7 +19314,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1253
+    "id": 1259
   },
   {
     "name": "Powervirtualagents",
@@ -19259,7 +19325,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1194
+    "id": 1200
   },
   {
     "name": "Vibe",
@@ -19270,7 +19336,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1251
+    "id": 1257
   },
   {
     "name": "Amplify 128",
@@ -19281,7 +19347,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 130
+    "id": 136
   },
   {
     "name": "Amplify 16",
@@ -19292,7 +19358,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 131
+    "id": 137
   },
   {
     "name": "Amplify 192",
@@ -19303,7 +19369,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 138
+    "id": 144
   },
   {
     "name": "Amplify 256",
@@ -19314,7 +19380,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 134
+    "id": 140
   },
   {
     "name": "Amplify 32",
@@ -19325,7 +19391,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 132
+    "id": 138
   },
   {
     "name": "Amplify 512",
@@ -19336,7 +19402,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 137
+    "id": 143
   },
   {
     "name": "Amplify 64",
@@ -19347,7 +19413,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 135
+    "id": 141
   },
   {
     "name": "Amply 256x256 Padded",
@@ -19358,7 +19424,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 133
+    "id": 139
   },
   {
     "name": "Connections Launch C 128 1x",
@@ -19369,7 +19435,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 151
+    "id": 157
   },
   {
     "name": "Connections Launch C 16 1x",
@@ -19380,7 +19446,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 167
+    "id": 173
   },
   {
     "name": "Connections Launch C 192 1x",
@@ -19391,7 +19457,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 152
+    "id": 158
   },
   {
     "name": "Connections Launch C 20 1x",
@@ -19402,7 +19468,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 156
+    "id": 162
   },
   {
     "name": "Connections Launch C 24 1x",
@@ -19413,7 +19479,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 153
+    "id": 159
   },
   {
     "name": "Connections Launch C 256 1x",
@@ -19424,7 +19490,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 162
+    "id": 168
   },
   {
     "name": "Connections Launch C 256 1x Padded",
@@ -19435,7 +19501,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 158
+    "id": 164
   },
   {
     "name": "Connections Launch C 32 1x",
@@ -19446,7 +19512,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 165
+    "id": 171
   },
   {
     "name": "Connections Launch C 36 1x",
@@ -19457,7 +19523,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 150
+    "id": 156
   },
   {
     "name": "Connections Launch C 40 1x",
@@ -19468,7 +19534,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 160
+    "id": 166
   },
   {
     "name": "Connections Launch C 48 1x",
@@ -19479,7 +19545,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 168
+    "id": 174
   },
   {
     "name": "Connections Launch C 512 1x",
@@ -19490,7 +19556,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 159
+    "id": 165
   },
   {
     "name": "Connections Launch C 54 1x",
@@ -19501,7 +19567,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 161
+    "id": 167
   },
   {
     "name": "Connections Launch C 60 1x",
@@ -19512,7 +19578,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 163
+    "id": 169
   },
   {
     "name": "Connections Launch C 64 1x",
@@ -19523,7 +19589,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 154
+    "id": 160
   },
   {
     "name": "Connections Launch C 72 1x",
@@ -19534,7 +19600,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 166
+    "id": 172
   },
   {
     "name": "Connections Launch C 80 1x",
@@ -19545,7 +19611,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 164
+    "id": 170
   },
   {
     "name": "Connections Launch C 96 1x",
@@ -19556,7 +19622,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 155
+    "id": 161
   },
   {
     "name": "Glint",
@@ -19567,7 +19633,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 90
+    "id": 96
   },
   {
     "name": "Glint",
@@ -19578,7 +19644,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 88
+    "id": 94
   },
   {
     "name": "Glint 256x256 Padded",
@@ -19589,7 +19655,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 89
+    "id": 95
   },
   {
     "name": "Goals 128",
@@ -19600,7 +19666,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 77
+    "id": 83
   },
   {
     "name": "Goals 16",
@@ -19611,7 +19677,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 78
+    "id": 84
   },
   {
     "name": "Goals 256",
@@ -19622,7 +19688,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 87
+    "id": 93
   },
   {
     "name": "Goals 256 Padded",
@@ -19633,7 +19699,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 81
+    "id": 87
   },
   {
     "name": "Goals 32",
@@ -19644,7 +19710,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 86
+    "id": 92
   },
   {
     "name": "Goals 48",
@@ -19655,7 +19721,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 79
+    "id": 85
   },
   {
     "name": "Goals 512",
@@ -19666,7 +19732,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 83
+    "id": 89
   },
   {
     "name": "Goals 64",
@@ -19677,7 +19743,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 85
+    "id": 91
   },
   {
     "name": "Goals 85",
@@ -19688,7 +19754,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 80
+    "id": 86
   },
   {
     "name": "Goals 96",
@@ -19699,7 +19765,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 84
+    "id": 90
   },
   {
     "name": "Insights Launch C 128 1x",
@@ -19710,7 +19776,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 97
+    "id": 103
   },
   {
     "name": "Insights Launch C 16 1x",
@@ -19721,7 +19787,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 102
+    "id": 108
   },
   {
     "name": "Insights Launch C 192 1x",
@@ -19732,7 +19798,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 98
+    "id": 104
   },
   {
     "name": "Insights Launch C 20 1x",
@@ -19743,7 +19809,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 95
+    "id": 101
   },
   {
     "name": "Insights Launch C 24 1x",
@@ -19754,7 +19820,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 108
+    "id": 114
   },
   {
     "name": "Insights Launch C 256 1x",
@@ -19765,7 +19831,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 105
+    "id": 111
   },
   {
     "name": "Insights Launch C 256 1x Padded",
@@ -19776,7 +19842,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 101
+    "id": 107
   },
   {
     "name": "Insights Launch C 32 1x",
@@ -19787,7 +19853,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 107
+    "id": 113
   },
   {
     "name": "Insights Launch C 36 1x",
@@ -19798,7 +19864,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 104
+    "id": 110
   },
   {
     "name": "Insights Launch C 40 1x",
@@ -19809,7 +19875,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 91
+    "id": 97
   },
   {
     "name": "Insights Launch C 48 1x",
@@ -19820,7 +19886,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 94
+    "id": 100
   },
   {
     "name": "Insights Launch C 512 1x",
@@ -19831,7 +19897,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 106
+    "id": 112
   },
   {
     "name": "Insights Launch C 54 1x",
@@ -19842,7 +19908,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 92
+    "id": 98
   },
   {
     "name": "Insights Launch C 60 1x",
@@ -19853,7 +19919,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 103
+    "id": 109
   },
   {
     "name": "Insights Launch C 64 1x",
@@ -19864,7 +19930,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 96
+    "id": 102
   },
   {
     "name": "Insights Launch C 72 1x",
@@ -19875,7 +19941,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 93
+    "id": 99
   },
   {
     "name": "Insights Launch C 80 1x",
@@ -19886,7 +19952,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 100
+    "id": 106
   },
   {
     "name": "Insights Launch C 96 1x",
@@ -19897,7 +19963,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 99
+    "id": 105
   },
   {
     "name": "Learning Launch C 128 1x",
@@ -19908,7 +19974,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 217
+    "id": 223
   },
   {
     "name": "Learning Launch C 16 1x",
@@ -19919,7 +19985,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 220
+    "id": 226
   },
   {
     "name": "Learning Launch C 192 1x",
@@ -19930,7 +19996,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 216
+    "id": 222
   },
   {
     "name": "Learning Launch C 20 1x",
@@ -19941,7 +20007,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 222
+    "id": 228
   },
   {
     "name": "Learning Launch C 24 1x",
@@ -19952,7 +20018,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 223
+    "id": 229
   },
   {
     "name": "Learning Launch C 256 1x",
@@ -19963,7 +20029,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 221
+    "id": 227
   },
   {
     "name": "Learning Launch C 32 1x",
@@ -19974,7 +20040,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 224
+    "id": 230
   },
   {
     "name": "Learning Launch C 36 1x",
@@ -19985,7 +20051,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 210
+    "id": 216
   },
   {
     "name": "Learning Launch C 40 1x",
@@ -19996,7 +20062,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 215
+    "id": 221
   },
   {
     "name": "Learning Launch C 48 1x",
@@ -20007,7 +20073,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 218
+    "id": 224
   },
   {
     "name": "Learning Launch C 512 1x",
@@ -20018,7 +20084,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 209
+    "id": 215
   },
   {
     "name": "Learning Launch C 54 1x",
@@ -20029,7 +20095,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 211
+    "id": 217
   },
   {
     "name": "Learning Launch C 60 1x",
@@ -20040,7 +20106,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 213
+    "id": 219
   },
   {
     "name": "Learning Launch C 64 1x",
@@ -20051,7 +20117,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 214
+    "id": 220
   },
   {
     "name": "Learning Launch C 72 1x",
@@ -20062,7 +20128,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 212
+    "id": 218
   },
   {
     "name": "Learning Launch C 80 1x",
@@ -20073,7 +20139,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 226
+    "id": 232
   },
   {
     "name": "Learning Launch C 96 1x",
@@ -20084,7 +20150,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 225
+    "id": 231
   },
   {
     "name": "Myanalytics",
@@ -20095,7 +20161,7 @@ const logoData = [
     "year": "2016-2022",
     "size": "128x128",
     "format": "PNG",
-    "id": 124
+    "id": 130
   },
   {
     "name": "Myanalytics",
@@ -20106,7 +20172,7 @@ const logoData = [
     "year": "2016-2022",
     "size": "256x256",
     "format": "PNG",
-    "id": 120
+    "id": 126
   },
   {
     "name": "Myanalytics",
@@ -20117,7 +20183,7 @@ const logoData = [
     "year": "2016-2022",
     "size": "48x48",
     "format": "PNG",
-    "id": 123
+    "id": 129
   },
   {
     "name": "Myanalytics",
@@ -20128,7 +20194,7 @@ const logoData = [
     "year": "2016-2022",
     "size": "64x64",
     "format": "PNG",
-    "id": 121
+    "id": 127
   },
   {
     "name": "Myanalytics",
@@ -20139,7 +20205,7 @@ const logoData = [
     "year": "2016-2022",
     "size": "96x96",
     "format": "PNG",
-    "id": 122
+    "id": 128
   },
   {
     "name": "Myanalytics",
@@ -20150,7 +20216,7 @@ const logoData = [
     "year": "2016-2022",
     "size": "128x128",
     "format": "PNG",
-    "id": 129
+    "id": 135
   },
   {
     "name": "Myanalytics",
@@ -20161,7 +20227,7 @@ const logoData = [
     "year": "2016-2022",
     "size": "256x256",
     "format": "PNG",
-    "id": 125
+    "id": 131
   },
   {
     "name": "Myanalytics",
@@ -20172,7 +20238,7 @@ const logoData = [
     "year": "2016-2022",
     "size": "48x48",
     "format": "PNG",
-    "id": 128
+    "id": 134
   },
   {
     "name": "Myanalytics",
@@ -20183,7 +20249,7 @@ const logoData = [
     "year": "2016-2022",
     "size": "64x64",
     "format": "PNG",
-    "id": 126
+    "id": 132
   },
   {
     "name": "Myanalytics",
@@ -20194,7 +20260,7 @@ const logoData = [
     "year": "2016-2022",
     "size": "96x96",
     "format": "PNG",
-    "id": 127
+    "id": 133
   },
   {
     "name": "Pulse 128",
@@ -20205,7 +20271,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 141
+    "id": 147
   },
   {
     "name": "Pulse 16",
@@ -20216,7 +20282,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 147
+    "id": 153
   },
   {
     "name": "Pulse 256",
@@ -20227,7 +20293,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 149
+    "id": 155
   },
   {
     "name": "Pulse 256x256 Padded",
@@ -20238,7 +20304,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 142
+    "id": 148
   },
   {
     "name": "Pulse 32",
@@ -20249,7 +20315,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 144
+    "id": 150
   },
   {
     "name": "Pulse 48",
@@ -20260,7 +20326,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 139
+    "id": 145
   },
   {
     "name": "Pulse 512",
@@ -20271,7 +20337,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 143
+    "id": 149
   },
   {
     "name": "Pulse 64",
@@ -20282,7 +20348,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 148
+    "id": 154
   },
   {
     "name": "Pulse 85",
@@ -20293,7 +20359,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 140
+    "id": 146
   },
   {
     "name": "Pulse 96",
@@ -20304,7 +20370,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 145
+    "id": 151
   },
   {
     "name": "Topics Launch C 128 1x",
@@ -20315,7 +20381,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 68
+    "id": 74
   },
   {
     "name": "Topics Launch C 16 1x",
@@ -20326,7 +20392,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 61
+    "id": 67
   },
   {
     "name": "Topics Launch C 192 1x",
@@ -20337,7 +20403,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 58
+    "id": 64
   },
   {
     "name": "Topics Launch C 20 1x",
@@ -20348,7 +20414,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 66
+    "id": 72
   },
   {
     "name": "Topics Launch C 24 1x",
@@ -20359,7 +20425,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 64
+    "id": 70
   },
   {
     "name": "Topics Launch C 256 1x",
@@ -20370,7 +20436,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 67
+    "id": 73
   },
   {
     "name": "Topics Launch C 256 1x Padded",
@@ -20381,7 +20447,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 57
+    "id": 63
   },
   {
     "name": "Topics Launch C 32 1x",
@@ -20392,7 +20458,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 62
+    "id": 68
   },
   {
     "name": "Topics Launch C 36 1x",
@@ -20403,7 +20469,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 72
+    "id": 78
   },
   {
     "name": "Topics Launch C 40 1x",
@@ -20414,7 +20480,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 73
+    "id": 79
   },
   {
     "name": "Topics Launch C 48 1x",
@@ -20425,7 +20491,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 74
+    "id": 80
   },
   {
     "name": "Topics Launch C 512 1x",
@@ -20436,7 +20502,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 60
+    "id": 66
   },
   {
     "name": "Topics Launch C 54 1x",
@@ -20447,7 +20513,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 69
+    "id": 75
   },
   {
     "name": "Topics Launch C 60 1x",
@@ -20458,7 +20524,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 59
+    "id": 65
   },
   {
     "name": "Topics Launch C 64 1x",
@@ -20469,7 +20535,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 75
+    "id": 81
   },
   {
     "name": "Topics Launch C 72 1x",
@@ -20480,7 +20546,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 71
+    "id": 77
   },
   {
     "name": "Topics Launch C 80 1x",
@@ -20491,7 +20557,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 70
+    "id": 76
   },
   {
     "name": "Topics Launch C 96 1x",
@@ -20502,7 +20568,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "PNG",
-    "id": 65
+    "id": 71
   },
   {
     "name": "Viva Amplify",
@@ -20513,7 +20579,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 136
+    "id": 142
   },
   {
     "name": "Viva Connections",
@@ -20524,7 +20590,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 157
+    "id": 163
   },
   {
     "name": "Viva Engage",
@@ -20535,7 +20601,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 175
+    "id": 181
   },
   {
     "name": "Viva Engage",
@@ -20546,7 +20612,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 178
+    "id": 184
   },
   {
     "name": "Viva Engage",
@@ -20557,7 +20623,7 @@ const logoData = [
     "year": "current",
     "size": "1500x1500",
     "format": "PNG",
-    "id": 179
+    "id": 185
   },
   {
     "name": "Viva Engage",
@@ -20568,7 +20634,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 174
+    "id": 180
   },
   {
     "name": "Viva Engage",
@@ -20579,7 +20645,7 @@ const logoData = [
     "year": "current",
     "size": "32x32",
     "format": "PNG",
-    "id": 172
+    "id": 178
   },
   {
     "name": "Viva Engage",
@@ -20590,7 +20656,7 @@ const logoData = [
     "year": "current",
     "size": "375x375",
     "format": "PNG",
-    "id": 170
+    "id": 176
   },
   {
     "name": "Viva Engage",
@@ -20601,7 +20667,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 173
+    "id": 179
   },
   {
     "name": "Viva Engage",
@@ -20612,7 +20678,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 169
+    "id": 175
   },
   {
     "name": "Viva Engage",
@@ -20623,7 +20689,7 @@ const logoData = [
     "year": "current",
     "size": "85x85",
     "format": "PNG",
-    "id": 180
+    "id": 186
   },
   {
     "name": "Viva Engage",
@@ -20634,7 +20700,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 176
+    "id": 182
   },
   {
     "name": "Viva Engage 256x256 Padded",
@@ -20645,7 +20711,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 171
+    "id": 177
   },
   {
     "name": "Viva Engage Outline",
@@ -20656,7 +20722,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 177
+    "id": 183
   },
   {
     "name": "Viva Goals",
@@ -20667,7 +20733,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "SVG",
-    "id": 82
+    "id": 88
   },
   {
     "name": "Viva Insights",
@@ -20678,7 +20744,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 109
+    "id": 115
   },
   {
     "name": "Viva Learning",
@@ -20689,7 +20755,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 219
+    "id": 225
   },
   {
     "name": "Viva Pulse",
@@ -20700,7 +20766,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 146
+    "id": 152
   },
   {
     "name": "Viva Sales",
@@ -20711,7 +20777,7 @@ const logoData = [
     "year": "2022-2023",
     "size": "",
     "format": "SVG",
-    "id": 76
+    "id": 82
   },
   {
     "name": "Viva Suite",
@@ -20722,7 +20788,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "JPG",
-    "id": 207
+    "id": 213
   },
   {
     "name": "Viva Suite",
@@ -20733,7 +20799,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 208
+    "id": 214
   },
   {
     "name": "Viva Suite 256x256 Padded",
@@ -20744,7 +20810,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 206
+    "id": 212
   },
   {
     "name": "Viva Topics",
@@ -20755,7 +20821,7 @@ const logoData = [
     "year": "2021-2025",
     "size": "",
     "format": "SVG",
-    "id": 63
+    "id": 69
   },
   {
     "name": "Workplace Analytics",
@@ -20766,7 +20832,7 @@ const logoData = [
     "year": "2017-2022",
     "size": "128x128",
     "format": "PNG",
-    "id": 113
+    "id": 119
   },
   {
     "name": "Workplace Analytics",
@@ -20777,7 +20843,7 @@ const logoData = [
     "year": "2017-2022",
     "size": "256x256",
     "format": "PNG",
-    "id": 114
+    "id": 120
   },
   {
     "name": "Workplace Analytics",
@@ -20788,7 +20854,7 @@ const logoData = [
     "year": "2017-2022",
     "size": "48x48",
     "format": "PNG",
-    "id": 110
+    "id": 116
   },
   {
     "name": "Workplace Analytics",
@@ -20799,7 +20865,7 @@ const logoData = [
     "year": "2017-2022",
     "size": "64x64",
     "format": "PNG",
-    "id": 111
+    "id": 117
   },
   {
     "name": "Workplace Analytics",
@@ -20810,7 +20876,7 @@ const logoData = [
     "year": "2017-2022",
     "size": "96x96",
     "format": "PNG",
-    "id": 112
+    "id": 118
   },
   {
     "name": "Workplace Analytics",
@@ -20821,7 +20887,7 @@ const logoData = [
     "year": "2017-2022",
     "size": "128x128",
     "format": "PNG",
-    "id": 118
+    "id": 124
   },
   {
     "name": "Workplace Analytics",
@@ -20832,7 +20898,7 @@ const logoData = [
     "year": "2017-2022",
     "size": "256x256",
     "format": "PNG",
-    "id": 119
+    "id": 125
   },
   {
     "name": "Workplace Analytics",
@@ -20843,7 +20909,7 @@ const logoData = [
     "year": "2017-2022",
     "size": "48x48",
     "format": "PNG",
-    "id": 115
+    "id": 121
   },
   {
     "name": "Workplace Analytics",
@@ -20854,7 +20920,7 @@ const logoData = [
     "year": "2017-2022",
     "size": "64x64",
     "format": "PNG",
-    "id": 116
+    "id": 122
   },
   {
     "name": "Workplace Analytics",
@@ -20865,7 +20931,7 @@ const logoData = [
     "year": "2017-2022",
     "size": "96x96",
     "format": "PNG",
-    "id": 117
+    "id": 123
   },
   {
     "name": "Yammer",
@@ -20876,7 +20942,7 @@ const logoData = [
     "year": "2012-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 198
+    "id": 204
   },
   {
     "name": "Yammer",
@@ -20887,7 +20953,7 @@ const logoData = [
     "year": "2012-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 200
+    "id": 206
   },
   {
     "name": "Yammer",
@@ -20898,7 +20964,7 @@ const logoData = [
     "year": "2012-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 199
+    "id": 205
   },
   {
     "name": "Yammer",
@@ -20909,7 +20975,7 @@ const logoData = [
     "year": "2012-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 196
+    "id": 202
   },
   {
     "name": "Yammer",
@@ -20920,7 +20986,7 @@ const logoData = [
     "year": "2012-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 197
+    "id": 203
   },
   {
     "name": "Yammer",
@@ -20931,7 +20997,7 @@ const logoData = [
     "year": "2012-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 193
+    "id": 199
   },
   {
     "name": "Yammer",
@@ -20942,7 +21008,7 @@ const logoData = [
     "year": "2012-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 191
+    "id": 197
   },
   {
     "name": "Yammer",
@@ -20953,7 +21019,7 @@ const logoData = [
     "year": "2012-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 192
+    "id": 198
   },
   {
     "name": "Yammer",
@@ -20964,7 +21030,7 @@ const logoData = [
     "year": "2012-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 194
+    "id": 200
   },
   {
     "name": "Yammer",
@@ -20975,7 +21041,7 @@ const logoData = [
     "year": "2012-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 195
+    "id": 201
   },
   {
     "name": "Yammer",
@@ -20986,7 +21052,7 @@ const logoData = [
     "year": "2019-2023",
     "size": "128x128",
     "format": "PNG",
-    "id": 188
+    "id": 194
   },
   {
     "name": "Yammer",
@@ -20997,7 +21063,7 @@ const logoData = [
     "year": "2019-2023",
     "size": "256x256",
     "format": "PNG",
-    "id": 190
+    "id": 196
   },
   {
     "name": "Yammer",
@@ -21008,7 +21074,7 @@ const logoData = [
     "year": "2019-2023",
     "size": "48x48",
     "format": "PNG",
-    "id": 189
+    "id": 195
   },
   {
     "name": "Yammer",
@@ -21019,7 +21085,7 @@ const logoData = [
     "year": "2019-2023",
     "size": "64x64",
     "format": "PNG",
-    "id": 186
+    "id": 192
   },
   {
     "name": "Yammer",
@@ -21030,7 +21096,7 @@ const logoData = [
     "year": "2019-2023",
     "size": "96x96",
     "format": "PNG",
-    "id": 187
+    "id": 193
   },
   {
     "name": "Yammer",
@@ -21041,7 +21107,7 @@ const logoData = [
     "year": "2019-2023",
     "size": "128x128",
     "format": "PNG",
-    "id": 183
+    "id": 189
   },
   {
     "name": "Yammer",
@@ -21052,7 +21118,7 @@ const logoData = [
     "year": "2019-2023",
     "size": "256x256",
     "format": "PNG",
-    "id": 185
+    "id": 191
   },
   {
     "name": "Yammer",
@@ -21063,7 +21129,7 @@ const logoData = [
     "year": "2019-2023",
     "size": "48x48",
     "format": "PNG",
-    "id": 184
+    "id": 190
   },
   {
     "name": "Yammer",
@@ -21074,7 +21140,7 @@ const logoData = [
     "year": "2019-2023",
     "size": "64x64",
     "format": "PNG",
-    "id": 181
+    "id": 187
   },
   {
     "name": "Yammer",
@@ -21085,7 +21151,7 @@ const logoData = [
     "year": "2019-2023",
     "size": "96x96",
     "format": "PNG",
-    "id": 182
+    "id": 188
   },
   {
     "name": "Yammer",
@@ -21096,7 +21162,7 @@ const logoData = [
     "year": "2019-2023",
     "size": "128x128",
     "format": "PNG",
-    "id": 203
+    "id": 209
   },
   {
     "name": "Yammer",
@@ -21107,7 +21173,7 @@ const logoData = [
     "year": "2019-2023",
     "size": "256x256",
     "format": "PNG",
-    "id": 205
+    "id": 211
   },
   {
     "name": "Yammer",
@@ -21118,7 +21184,7 @@ const logoData = [
     "year": "2019-2023",
     "size": "48x48",
     "format": "PNG",
-    "id": 204
+    "id": 210
   },
   {
     "name": "Yammer",
@@ -21129,7 +21195,7 @@ const logoData = [
     "year": "2019-2023",
     "size": "64x64",
     "format": "PNG",
-    "id": 201
+    "id": 207
   },
   {
     "name": "Yammer",
@@ -21140,7 +21206,7 @@ const logoData = [
     "year": "2019-2023",
     "size": "96x96",
     "format": "PNG",
-    "id": 202
+    "id": 208
   },
   {
     "name": "Bing 256x256 Padded",
@@ -21151,7 +21217,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 252
+    "id": 258
   },
   {
     "name": "Bing Emblem",
@@ -21162,7 +21228,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 253
+    "id": 259
   },
   {
     "name": "Bing Icon",
@@ -21173,7 +21239,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 251
+    "id": 257
   },
   {
     "name": "Defender 512",
@@ -21184,7 +21250,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 238
+    "id": 244
   },
   {
     "name": "Defender 512 Padded",
@@ -21195,7 +21261,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 239
+    "id": 245
   },
   {
     "name": "Designer Icon",
@@ -21206,7 +21272,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 237
+    "id": 243
   },
   {
     "name": "Editor",
@@ -21217,7 +21283,7 @@ const logoData = [
     "year": "2016-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 258
+    "id": 264
   },
   {
     "name": "Editor",
@@ -21228,7 +21294,7 @@ const logoData = [
     "year": "2016-current",
     "size": "256x256",
     "format": "PNG",
-    "id": 256
+    "id": 262
   },
   {
     "name": "Editor",
@@ -21239,7 +21305,7 @@ const logoData = [
     "year": "2016-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 254
+    "id": 260
   },
   {
     "name": "Editor",
@@ -21250,7 +21316,7 @@ const logoData = [
     "year": "2016-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 257
+    "id": 263
   },
   {
     "name": "Editor",
@@ -21261,7 +21327,7 @@ const logoData = [
     "year": "2016-current",
     "size": "96x96",
     "format": "PNG",
-    "id": 255
+    "id": 261
   },
   {
     "name": "Editor",
@@ -21272,7 +21338,7 @@ const logoData = [
     "year": "2016-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 263
+    "id": 269
   },
   {
     "name": "Editor",
@@ -21283,7 +21349,7 @@ const logoData = [
     "year": "2016-current",
     "size": "256x256",
     "format": "PNG",
-    "id": 261
+    "id": 267
   },
   {
     "name": "Editor",
@@ -21294,7 +21360,7 @@ const logoData = [
     "year": "2016-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 259
+    "id": 265
   },
   {
     "name": "Editor",
@@ -21305,7 +21371,7 @@ const logoData = [
     "year": "2016-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 262
+    "id": 268
   },
   {
     "name": "Editor",
@@ -21316,7 +21382,7 @@ const logoData = [
     "year": "2016-current",
     "size": "96x96",
     "format": "PNG",
-    "id": 260
+    "id": 266
   },
   {
     "name": "Editor",
@@ -21327,7 +21393,7 @@ const logoData = [
     "year": "2016-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 268
+    "id": 274
   },
   {
     "name": "Editor",
@@ -21338,7 +21404,7 @@ const logoData = [
     "year": "2016-current",
     "size": "256x256",
     "format": "PNG",
-    "id": 266
+    "id": 272
   },
   {
     "name": "Editor",
@@ -21349,7 +21415,7 @@ const logoData = [
     "year": "2016-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 264
+    "id": 270
   },
   {
     "name": "Editor",
@@ -21360,7 +21426,7 @@ const logoData = [
     "year": "2016-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 267
+    "id": 273
   },
   {
     "name": "Editor",
@@ -21371,7 +21437,7 @@ const logoData = [
     "year": "2016-current",
     "size": "96x96",
     "format": "PNG",
-    "id": 265
+    "id": 271
   },
   {
     "name": "Intune",
@@ -21382,7 +21448,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 231
+    "id": 237
   },
   {
     "name": "Intune Company Portal",
@@ -21393,7 +21459,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 232
+    "id": 238
   },
   {
     "name": "Microsoft Edge",
@@ -21404,7 +21470,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 229
+    "id": 235
   },
   {
     "name": "Microsoft Edge 256x256 Padded",
@@ -21415,7 +21481,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 230
+    "id": 236
   },
   {
     "name": "Microsoft Family Safety 256",
@@ -21426,7 +21492,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 246
+    "id": 252
   },
   {
     "name": "Microsoft Family Safety 256",
@@ -21437,7 +21503,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 247
+    "id": 253
   },
   {
     "name": "Microsoft Family Safety 256",
@@ -21448,7 +21514,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 249
+    "id": 255
   },
   {
     "name": "Microsoft Family Safety 256",
@@ -21459,7 +21525,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 250
+    "id": 256
   },
   {
     "name": "Microsoft Family Safety 256",
@@ -21470,7 +21536,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 248
+    "id": 254
   },
   {
     "name": "Microsoft Foundry",
@@ -21481,7 +21547,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 240
+    "id": 246
   },
   {
     "name": "Microsoft Graph",
@@ -21492,7 +21558,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 245
+    "id": 251
   },
   {
     "name": "Microsoft Graph Icon 1 Large",
@@ -21503,7 +21569,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 244
+    "id": 250
   },
   {
     "name": "Microsoft Graph Icon 1 Small",
@@ -21514,7 +21580,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 242
+    "id": 248
   },
   {
     "name": "Microsoft Graph Icon 2 Large",
@@ -21525,7 +21591,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 241
+    "id": 247
   },
   {
     "name": "Microsoft Graph Icon 2 Small",
@@ -21536,7 +21602,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 243
+    "id": 249
   },
   {
     "name": "Microsoft Logo",
@@ -21547,7 +21613,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 236
+    "id": 242
   },
   {
     "name": "Microsoft Logo 256x256 Padded",
@@ -21558,7 +21624,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 234
+    "id": 240
   },
   {
     "name": "Microsoft Logo and Name",
@@ -21569,7 +21635,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "JPG",
-    "id": 235
+    "id": 241
   },
   {
     "name": "Microsoft Logo and Name",
@@ -21580,7 +21646,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 233
+    "id": 239
   },
   {
     "name": "Windows",
@@ -21591,7 +21657,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "JPG",
-    "id": 227
+    "id": 233
   },
   {
     "name": "Windows365 Logo",
@@ -21602,7 +21668,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 228
+    "id": 234
   },
   {
     "name": "Cortana",
@@ -21613,7 +21679,7 @@ const logoData = [
     "year": "2014-2023",
     "size": "128x128",
     "format": "PNG",
-    "id": 1375
+    "id": 1381
   },
   {
     "name": "Cortana",
@@ -21624,7 +21690,7 @@ const logoData = [
     "year": "2014-2023",
     "size": "256x256",
     "format": "PNG",
-    "id": 1376
+    "id": 1382
   },
   {
     "name": "Cortana",
@@ -21635,7 +21701,7 @@ const logoData = [
     "year": "2014-2023",
     "size": "48x48",
     "format": "PNG",
-    "id": 1374
+    "id": 1380
   },
   {
     "name": "Cortana",
@@ -21646,7 +21712,7 @@ const logoData = [
     "year": "2014-2023",
     "size": "64x64",
     "format": "PNG",
-    "id": 1373
+    "id": 1379
   },
   {
     "name": "Cortana",
@@ -21657,7 +21723,7 @@ const logoData = [
     "year": "2014-2023",
     "size": "85x85",
     "format": "PNG",
-    "id": 1377
+    "id": 1383
   },
   {
     "name": "Cortana",
@@ -21668,7 +21734,7 @@ const logoData = [
     "year": "2014-2023",
     "size": "96x96",
     "format": "PNG",
-    "id": 1372
+    "id": 1378
   },
   {
     "name": "Cortana 128x128 Monochrome Negative",
@@ -21679,7 +21745,7 @@ const logoData = [
     "year": "2014-2023",
     "size": "128x128",
     "format": "PNG",
-    "id": 1367
+    "id": 1373
   },
   {
     "name": "Cortana 128x128 Monochrome Positive",
@@ -21690,7 +21756,7 @@ const logoData = [
     "year": "2014-2023",
     "size": "128x128",
     "format": "PNG",
-    "id": 1378
+    "id": 1384
   },
   {
     "name": "Cortana 256x256 Monochrome Negative",
@@ -21701,7 +21767,7 @@ const logoData = [
     "year": "2014-2023",
     "size": "256x256",
     "format": "PNG",
-    "id": 1370
+    "id": 1376
   },
   {
     "name": "Cortana 256x256 Monochrome Positive",
@@ -21712,7 +21778,7 @@ const logoData = [
     "year": "2014-2023",
     "size": "256x256",
     "format": "PNG",
-    "id": 1379
+    "id": 1385
   },
   {
     "name": "Cortana 48x48 Monochrome Negative",
@@ -21723,7 +21789,7 @@ const logoData = [
     "year": "2014-2023",
     "size": "48x48",
     "format": "PNG",
-    "id": 1368
+    "id": 1374
   },
   {
     "name": "Cortana 48x48 Monochrome Positive",
@@ -21734,7 +21800,7 @@ const logoData = [
     "year": "2014-2023",
     "size": "48x48",
     "format": "PNG",
-    "id": 1381
+    "id": 1387
   },
   {
     "name": "Cortana 64x64 Monochrome Negative",
@@ -21745,7 +21811,7 @@ const logoData = [
     "year": "2014-2023",
     "size": "64x64",
     "format": "PNG",
-    "id": 1371
+    "id": 1377
   },
   {
     "name": "Cortana 64x64 Monochrome Positive",
@@ -21756,7 +21822,7 @@ const logoData = [
     "year": "2014-2023",
     "size": "64x64",
     "format": "PNG",
-    "id": 1382
+    "id": 1388
   },
   {
     "name": "Cortana 96x96 Monochrome Negative",
@@ -21767,7 +21833,7 @@ const logoData = [
     "year": "2014-2023",
     "size": "96x96",
     "format": "PNG",
-    "id": 1369
+    "id": 1375
   },
   {
     "name": "Cortana 96x96 Monochrome Positive",
@@ -21778,7 +21844,7 @@ const logoData = [
     "year": "2014-2023",
     "size": "96x96",
     "format": "PNG",
-    "id": 1380
+    "id": 1386
   },
   {
     "name": "Groupme",
@@ -21789,7 +21855,7 @@ const logoData = [
     "year": "2012-2022",
     "size": "128x128",
     "format": "PNG",
-    "id": 1360
+    "id": 1366
   },
   {
     "name": "Groupme",
@@ -21800,7 +21866,7 @@ const logoData = [
     "year": "2012-2022",
     "size": "256x256",
     "format": "PNG",
-    "id": 1361
+    "id": 1367
   },
   {
     "name": "Groupme",
@@ -21811,7 +21877,7 @@ const logoData = [
     "year": "2012-2022",
     "size": "48x48",
     "format": "PNG",
-    "id": 1358
+    "id": 1364
   },
   {
     "name": "Groupme",
@@ -21822,7 +21888,7 @@ const logoData = [
     "year": "2012-2022",
     "size": "64x64",
     "format": "PNG",
-    "id": 1357
+    "id": 1363
   },
   {
     "name": "Groupme",
@@ -21833,7 +21899,7 @@ const logoData = [
     "year": "2012-2022",
     "size": "96x96",
     "format": "PNG",
-    "id": 1359
+    "id": 1365
   },
   {
     "name": "Groupme",
@@ -21844,7 +21910,7 @@ const logoData = [
     "year": "2012-2022",
     "size": "128x128",
     "format": "PNG",
-    "id": 1365
+    "id": 1371
   },
   {
     "name": "Groupme",
@@ -21855,7 +21921,7 @@ const logoData = [
     "year": "2012-2022",
     "size": "256x256",
     "format": "PNG",
-    "id": 1366
+    "id": 1372
   },
   {
     "name": "Groupme",
@@ -21866,7 +21932,7 @@ const logoData = [
     "year": "2012-2022",
     "size": "48x48",
     "format": "PNG",
-    "id": 1363
+    "id": 1369
   },
   {
     "name": "Groupme",
@@ -21877,7 +21943,7 @@ const logoData = [
     "year": "2012-2022",
     "size": "64x64",
     "format": "PNG",
-    "id": 1362
+    "id": 1368
   },
   {
     "name": "Groupme",
@@ -21888,7 +21954,7 @@ const logoData = [
     "year": "2012-2022",
     "size": "96x96",
     "format": "PNG",
-    "id": 1364
+    "id": 1370
   },
   {
     "name": "Lens",
@@ -21899,7 +21965,7 @@ const logoData = [
     "year": "2014-2021",
     "size": "128x128",
     "format": "PNG",
-    "id": 1351
+    "id": 1357
   },
   {
     "name": "Lens",
@@ -21910,7 +21976,7 @@ const logoData = [
     "year": "2014-2021",
     "size": "256x256",
     "format": "PNG",
-    "id": 1349
+    "id": 1355
   },
   {
     "name": "Lens",
@@ -21921,7 +21987,7 @@ const logoData = [
     "year": "2014-2021",
     "size": "48x48",
     "format": "PNG",
-    "id": 1348
+    "id": 1354
   },
   {
     "name": "Lens",
@@ -21932,7 +21998,7 @@ const logoData = [
     "year": "2014-2021",
     "size": "64x64",
     "format": "PNG",
-    "id": 1347
+    "id": 1353
   },
   {
     "name": "Lens",
@@ -21943,7 +22009,7 @@ const logoData = [
     "year": "2014-2021",
     "size": "96x96",
     "format": "PNG",
-    "id": 1350
+    "id": 1356
   },
   {
     "name": "Lens",
@@ -21954,7 +22020,7 @@ const logoData = [
     "year": "2014-2021",
     "size": "128x128",
     "format": "PNG",
-    "id": 1356
+    "id": 1362
   },
   {
     "name": "Lens",
@@ -21965,7 +22031,7 @@ const logoData = [
     "year": "2014-2021",
     "size": "256x256",
     "format": "PNG",
-    "id": 1354
+    "id": 1360
   },
   {
     "name": "Lens",
@@ -21976,7 +22042,7 @@ const logoData = [
     "year": "2014-2021",
     "size": "48x48",
     "format": "PNG",
-    "id": 1353
+    "id": 1359
   },
   {
     "name": "Lens",
@@ -21987,7 +22053,7 @@ const logoData = [
     "year": "2014-2021",
     "size": "64x64",
     "format": "PNG",
-    "id": 1352
+    "id": 1358
   },
   {
     "name": "Lens",
@@ -21998,7 +22064,7 @@ const logoData = [
     "year": "2014-2021",
     "size": "96x96",
     "format": "PNG",
-    "id": 1355
+    "id": 1361
   },
   {
     "name": "Lens",
@@ -22009,7 +22075,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1346
+    "id": 1352
   },
   {
     "name": "Remote",
@@ -22020,7 +22086,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 1390
+    "id": 1396
   },
   {
     "name": "Remote",
@@ -22031,7 +22097,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 1392
+    "id": 1398
   },
   {
     "name": "Remote",
@@ -22042,7 +22108,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 1391
+    "id": 1397
   },
   {
     "name": "Remote",
@@ -22053,7 +22119,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 1389
+    "id": 1395
   },
   {
     "name": "Remote",
@@ -22064,7 +22130,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 1388
+    "id": 1394
   },
   {
     "name": "Remote",
@@ -22075,7 +22141,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 1385
+    "id": 1391
   },
   {
     "name": "Remote",
@@ -22086,7 +22152,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 1387
+    "id": 1393
   },
   {
     "name": "Remote",
@@ -22097,7 +22163,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 1386
+    "id": 1392
   },
   {
     "name": "Remote",
@@ -22108,7 +22174,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 1384
+    "id": 1390
   },
   {
     "name": "Remote",
@@ -22119,7 +22185,7 @@ const logoData = [
     "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 1383
+    "id": 1389
   },
   {
     "name": "Skype",
@@ -22130,7 +22196,7 @@ const logoData = [
     "year": "2019-2015",
     "size": "128x128",
     "format": "PNG",
-    "id": 1341
+    "id": 1347
   },
   {
     "name": "Skype",
@@ -22141,7 +22207,7 @@ const logoData = [
     "year": "2019-2015",
     "size": "1500x1500",
     "format": "PNG",
-    "id": 1338
+    "id": 1344
   },
   {
     "name": "Skype",
@@ -22152,7 +22218,7 @@ const logoData = [
     "year": "2019-2015",
     "size": "256x256",
     "format": "PNG",
-    "id": 1343
+    "id": 1349
   },
   {
     "name": "Skype",
@@ -22163,7 +22229,7 @@ const logoData = [
     "year": "2019-2015",
     "size": "375x375",
     "format": "PNG",
-    "id": 1345
+    "id": 1351
   },
   {
     "name": "Skype",
@@ -22174,7 +22240,7 @@ const logoData = [
     "year": "2019-2015",
     "size": "48x48",
     "format": "PNG",
-    "id": 1344
+    "id": 1350
   },
   {
     "name": "Skype",
@@ -22185,7 +22251,7 @@ const logoData = [
     "year": "2019-2015",
     "size": "64x64",
     "format": "PNG",
-    "id": 1340
+    "id": 1346
   },
   {
     "name": "Skype",
@@ -22196,7 +22262,7 @@ const logoData = [
     "year": "2019-2015",
     "size": "85x85",
     "format": "PNG",
-    "id": 1342
+    "id": 1348
   },
   {
     "name": "Skype",
@@ -22207,7 +22273,7 @@ const logoData = [
     "year": "2019-2015",
     "size": "96x96",
     "format": "PNG",
-    "id": 1339
+    "id": 1345
   },
   {
     "name": "Skype",
@@ -22218,7 +22284,7 @@ const logoData = [
     "year": "2019-2015",
     "size": "128x128",
     "format": "PNG",
-    "id": 1335
+    "id": 1341
   },
   {
     "name": "Skype",
@@ -22229,7 +22295,7 @@ const logoData = [
     "year": "2019-2015",
     "size": "256x256",
     "format": "PNG",
-    "id": 1336
+    "id": 1342
   },
   {
     "name": "Skype",
@@ -22240,7 +22306,7 @@ const logoData = [
     "year": "2019-2015",
     "size": "48x48",
     "format": "PNG",
-    "id": 1337
+    "id": 1343
   },
   {
     "name": "Skype",
@@ -22251,7 +22317,7 @@ const logoData = [
     "year": "2019-2015",
     "size": "64x64",
     "format": "PNG",
-    "id": 1334
+    "id": 1340
   },
   {
     "name": "Skype",
@@ -22262,7 +22328,7 @@ const logoData = [
     "year": "2019-2015",
     "size": "96x96",
     "format": "PNG",
-    "id": 1333
+    "id": 1339
   },
   {
     "name": "Skype",
@@ -22273,7 +22339,7 @@ const logoData = [
     "year": "2019-2015",
     "size": "128x128",
     "format": "PNG",
-    "id": 1330
+    "id": 1336
   },
   {
     "name": "Skype",
@@ -22284,7 +22350,7 @@ const logoData = [
     "year": "2019-2015",
     "size": "256x256",
     "format": "PNG",
-    "id": 1331
+    "id": 1337
   },
   {
     "name": "Skype",
@@ -22295,7 +22361,7 @@ const logoData = [
     "year": "2019-2015",
     "size": "48x48",
     "format": "PNG",
-    "id": 1332
+    "id": 1338
   },
   {
     "name": "Skype",
@@ -22306,7 +22372,7 @@ const logoData = [
     "year": "2019-2015",
     "size": "64x64",
     "format": "PNG",
-    "id": 1329
+    "id": 1335
   },
   {
     "name": "Skype",
@@ -22317,7 +22383,7 @@ const logoData = [
     "year": "2019-2015",
     "size": "96x96",
     "format": "PNG",
-    "id": 1328
+    "id": 1334
   }
 ];
 
@@ -22334,6 +22400,66 @@ const recentAdditions = [
     "date": "2026-04-12 19:40:23 +1000",
     "author": "Loryan Strant",
     "sha": "6f8998451399fca255a412cb7847f4c738548c26"
+  },
+  {
+    "path": "Dynamics_365/Finance/Finance_&_Operations/FinanceOperations_scalable_fluid.svg",
+    "date": "2026-04-12 13:20:45 -0700",
+    "author": "Vivian Voss",
+    "sha": "e768fcb2ccd6b488b35e994a3f435d8dc13d10af"
+  },
+  {
+    "path": "Dynamics_365/Finance/Finance_&_Operations/Finance+Operations_scalable.svg",
+    "date": "2026-04-12 13:20:07 -0700",
+    "author": "Vivian Voss",
+    "sha": "2a6f936be1398d6f9c37879a5fda8bd776f6dec6"
+  },
+  {
+    "path": "Dynamics_365/Human_Resources/Talent/Talent_Onboard/TalentOnboard_scalable.svg",
+    "date": "2026-04-12 12:57:21 -0700",
+    "author": "Vivian Voss",
+    "sha": "a09eadfd5c7897adc175e42caf1921c21f008519"
+  },
+  {
+    "path": "Dynamics_365/Human_Resources/Talent/Talent_Attract/TalentAttract_scalable.svg",
+    "date": "2026-04-12 12:53:57 -0700",
+    "author": "Vivian Voss",
+    "sha": "4d19ebb586e1d5d6fa649469da9e67868e3615bc"
+  },
+  {
+    "path": "Dynamics_365/Human_Resources/Core_HR/CoreHR_scalable.svg",
+    "date": "2026-04-12 12:47:48 -0700",
+    "author": "Vivian Voss",
+    "sha": "5e58f83f822f22afd8b8ccd4c1b148bca49cf15d"
+  },
+  {
+    "path": "Dynamics_365/Human_Resources/Talent/Talent_scalable.svg",
+    "date": "2026-04-12 12:46:41 -0700",
+    "author": "Vivian Voss",
+    "sha": "98e2fbb46199e1e1d77cb76fd9f8c9904a44511f"
+  },
+  {
+    "path": "Dynamics_365/Human_Resources/Core_HR/CoreHR_scalable.svg",
+    "date": "2026-04-12 12:42:04 -0700",
+    "author": "Vivian Voss",
+    "sha": "872dd3a0d93a01c1f7e2d8bb05a553fb91027e45"
+  },
+  {
+    "path": "Dynamics_365/Human_Resources/HumanResources_scalable.svg",
+    "date": "2026-04-12 12:41:06 -0700",
+    "author": "Vivian Voss",
+    "sha": "196bcc03a01b4819cc1b9dcecf58b24f13da9dc4"
+  },
+  {
+    "path": "Dynamics_365/Customer_Insights/Marketing/Marketing_scalable.svg",
+    "date": "2026-04-12 12:00:24 -0700",
+    "author": "Vivian Voss",
+    "sha": "975075eeca2abc10d390240d588a896974e0ca2f"
+  },
+  {
+    "path": "Dynamics_365/Customer_Insights/2023-2025 scalable/CustomerInsights_scalable.svg",
+    "date": "2026-04-12 11:56:24 -0700",
+    "author": "Vivian Voss",
+    "sha": "2552b3198d82850d3716a9dad80aabed2be95e3a"
   },
   {
     "path": "Microsoft_365/Whiteboard/Whiteboard_256x256_(padded).png",
@@ -22562,66 +22688,6 @@ const recentAdditions = [
     "date": "2024-10-14 23:09:13 +1100",
     "author": "Loryan Strant",
     "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
-  },
-  {
-    "path": "Azure/storage/10100-icon-service-Import-Export-Jobs.svg",
-    "date": "2024-10-14 23:09:13 +1100",
-    "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
-  },
-  {
-    "path": "Azure/storage/10400-icon-service-Azure-Fileshares.svg",
-    "date": "2024-10-14 23:09:13 +1100",
-    "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
-  },
-  {
-    "path": "Azure/web/00046-icon-service-App-Service-Plans.svg",
-    "date": "2024-10-14 23:09:13 +1100",
-    "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
-  },
-  {
-    "path": "Azure/web/00049-icon-service-App-Service-Certificates.svg",
-    "date": "2024-10-14 23:09:13 +1100",
-    "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
-  },
-  {
-    "path": "Azure/web/00050-icon-service-App-Service-Domains.svg",
-    "date": "2024-10-14 23:09:13 +1100",
-    "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
-  },
-  {
-    "path": "Azure/web/01007-icon-service-Static-Apps.svg",
-    "date": "2024-10-14 23:09:13 +1100",
-    "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
-  },
-  {
-    "path": "Azure/web/03335-icon-service-Power-Platform.svg",
-    "date": "2024-10-14 23:09:13 +1100",
-    "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
-  },
-  {
-    "path": "Azure/web/10035-icon-service-App-Services.svg",
-    "date": "2024-10-14 23:09:13 +1100",
-    "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
-  },
-  {
-    "path": "Azure/web/10042-icon-service-API-Management-Services.svg",
-    "date": "2024-10-14 23:09:13 +1100",
-    "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
-  },
-  {
-    "path": "Azure/web/10044-icon-service-Cognitive-Search.svg",
-    "date": "2024-10-14 23:09:13 +1100",
-    "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
   }
 ];
 
@@ -22630,12 +22696,12 @@ const contributors = [
   {
     "name": "Loryan Strant",
     "github_username": "loryanstrant",
-    "contributions": 128
+    "contributions": 129
   },
   {
     "name": "Vivian Voss",
     "github_username": "VivianVoss",
-    "contributions": 22
+    "contributions": 60
   },
   {
     "name": "paulineko",
