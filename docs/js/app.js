@@ -52,11 +52,16 @@
             family: '',
             style: '',
             year: '',
-            format: ''
+            format: '',
+            minWidth: 0,
+            minHeight: 0
         },
         sortBy: 'name-asc',
         currentFolder: '',
-        charts: {}
+        charts: {},
+        // Sorted arrays of distinct width/height values from logo data
+        distinctWidths: [],
+        distinctHeights: []
     };
 
     // DOM Elements
@@ -100,7 +105,11 @@
         folderGrid: document.getElementById('folder-grid'),
         referenceTableBody: document.getElementById('reference-table-body'),
         recentUpdatesList: document.getElementById('recent-updates-list'),
-        contributorsList: document.getElementById('contributors-list')
+        contributorsList: document.getElementById('contributors-list'),
+        widthSlider: document.getElementById('width-slider'),
+        widthSliderValue: document.getElementById('width-slider-value'),
+        heightSlider: document.getElementById('height-slider'),
+        heightSliderValue: document.getElementById('height-slider-value')
     };
 
     /**
@@ -127,6 +136,7 @@
         // Populate filter dropdowns
         populateFamilyFilter();
         populateYearFilter();
+        initSizeSliders();
 
         // Initialize gallery
         state.filteredLogos = [...logoData];
@@ -319,36 +329,79 @@
     }
 
     /**
-     * Populate the year filter dropdown with available years
+     * Populate the year filter dropdown with individual years extracted from year ranges
      */
     function populateYearFilter() {
+        const currentYear = new Date().getFullYear();
+        const yearSet = new Set();
+
+        logoData.forEach(logo => {
+            const y = logo.year;
+            if (!y || y === YEAR_VALUES.CURRENT) return;
+
+            // Parse range like "2019-2025" or "2019-current"
+            const parts = y.split('-');
+            if (parts.length === 2) {
+                const start = parseInt(parts[0], 10);
+                const end = parts[1] === 'current' ? currentYear : parseInt(parts[1], 10);
+                if (!isNaN(start) && !isNaN(end)) {
+                    for (let yr = start; yr <= end; yr++) {
+                        yearSet.add(yr);
+                    }
+                }
+            } else {
+                // Single year value
+                const yr = parseInt(y, 10);
+                if (!isNaN(yr)) yearSet.add(yr);
+            }
+        });
+
+        // Sort years ascending
+        const years = [...yearSet].sort((a, b) => a - b);
+
         // Add "Current" at the top
         const currentOption = document.createElement('option');
         currentOption.value = YEAR_VALUES.CURRENT;
         currentOption.textContent = 'Current';
         elements.yearFilter.appendChild(currentOption);
 
-        // Collect all year-range values (e.g. "2019-2023"), sorted descending by start year
-        const years = [...new Set(logoData.map(l => l.year))].filter(y => y !== YEAR_VALUES.CURRENT);
-        years.sort((a, b) => {
-            const aStart = parseInt(a.split('-')[0], 10);
-            const bStart = parseInt(b.split('-')[0], 10);
-            if (aStart !== bStart) return aStart - bStart;
-            // Equal start years: compare end years numerically ('current' sorts highest)
-            const aEnd = a.split('-')[1];
-            const bEnd = b.split('-')[1];
-            const aEndNum = aEnd === 'current' ? Infinity : parseInt(aEnd, 10);
-            const bEndNum = bEnd === 'current' ? Infinity : parseInt(bEnd, 10);
-            return aEndNum - bEndNum;
-        });
-        years.reverse();
-
-        years.forEach(year => {
+        years.forEach(yr => {
             const option = document.createElement('option');
-            option.value = year;
-            option.textContent = year;
+            option.value = String(yr);
+            option.textContent = String(yr);
             elements.yearFilter.appendChild(option);
         });
+    }
+
+    /**
+     * Initialize size sliders with distinct width/height values from logo data
+     */
+    function initSizeSliders() {
+        const widthSet = new Set();
+        const heightSet = new Set();
+
+        logoData.forEach(logo => {
+            if (!logo.size) return;
+            const parts = logo.size.split('x');
+            if (parts.length === 2) {
+                const w = parseInt(parts[0], 10);
+                const h = parseInt(parts[1], 10);
+                if (!isNaN(w)) widthSet.add(w);
+                if (!isNaN(h)) heightSet.add(h);
+            }
+        });
+
+        state.distinctWidths = [0, ...[...widthSet].sort((a, b) => a - b)];
+        state.distinctHeights = [0, ...[...heightSet].sort((a, b) => a - b)];
+
+        if (elements.widthSlider) {
+            elements.widthSlider.max = state.distinctWidths.length - 1;
+            elements.widthSlider.value = 0;
+        }
+        if (elements.heightSlider) {
+            elements.heightSlider.max = state.distinctHeights.length - 1;
+            elements.heightSlider.value = 0;
+        }
     }
 
     /**
@@ -393,6 +446,27 @@
             state.currentFilters.format = e.target.value;
             applyFilters();
         });
+
+        // Size sliders
+        if (elements.widthSlider) {
+            elements.widthSlider.addEventListener('input', (e) => {
+                const idx = parseInt(e.target.value, 10);
+                const val = state.distinctWidths[idx] || 0;
+                state.currentFilters.minWidth = val;
+                elements.widthSliderValue.textContent = val > 0 ? `${val}px` : 'Any';
+                applyFilters();
+            });
+        }
+
+        if (elements.heightSlider) {
+            elements.heightSlider.addEventListener('input', (e) => {
+                const idx = parseInt(e.target.value, 10);
+                const val = state.distinctHeights[idx] || 0;
+                state.currentFilters.minHeight = val;
+                elements.heightSliderValue.textContent = val > 0 ? `${val}px` : 'Any';
+                applyFilters();
+            });
+        }
 
         // Sort dropdown
         elements.sortSelect.addEventListener('change', (e) => {
@@ -446,6 +520,8 @@
      * Apply all filters to the logo data
      */
     function applyFilters() {
+        const currentYear = new Date().getFullYear();
+
         state.filteredLogos = logoData.filter(logo => {
             // Search filter
             if (state.currentFilters.search) {
@@ -472,14 +548,50 @@
                 }
             }
 
-            // Year filter
-            if (state.currentFilters.year && logo.year !== state.currentFilters.year) {
-                return false;
+            // Year filter - selected value is an individual year or "current"
+            if (state.currentFilters.year) {
+                const filterYear = state.currentFilters.year;
+                const logoYear = logo.year;
+
+                if (filterYear === YEAR_VALUES.CURRENT) {
+                    // Only show logos marked as current
+                    if (logoYear !== YEAR_VALUES.CURRENT) return false;
+                } else {
+                    const selectedYr = parseInt(filterYear, 10);
+                    if (logoYear === YEAR_VALUES.CURRENT) {
+                        // "current" logos don't belong to historical years
+                        return false;
+                    }
+                    // Check if the selected year falls within the logo's year range
+                    const parts = logoYear.split('-');
+                    if (parts.length === 2) {
+                        const start = parseInt(parts[0], 10);
+                        const end = parts[1] === 'current' ? currentYear : parseInt(parts[1], 10);
+                        if (isNaN(start) || isNaN(end) || selectedYr < start || selectedYr > end) {
+                            return false;
+                        }
+                    } else {
+                        const yr = parseInt(logoYear, 10);
+                        if (isNaN(yr) || yr !== selectedYr) return false;
+                    }
+                }
             }
 
             // Format filter
             if (state.currentFilters.format && logo.format !== state.currentFilters.format) {
                 return false;
+            }
+
+            // Size filters - only apply when a minimum has been set
+            if (state.currentFilters.minWidth > 0 || state.currentFilters.minHeight > 0) {
+                if (!logo.size) return false;
+                const sizeParts = logo.size.split('x');
+                if (sizeParts.length !== 2) return false;
+                const w = parseInt(sizeParts[0], 10);
+                const h = parseInt(sizeParts[1], 10);
+                if (isNaN(w) || isNaN(h)) return false;
+                if (state.currentFilters.minWidth > 0 && w < state.currentFilters.minWidth) return false;
+                if (state.currentFilters.minHeight > 0 && h < state.currentFilters.minHeight) return false;
             }
 
             return true;
@@ -527,7 +639,9 @@
             family: '',
             style: '',
             year: '',
-            format: ''
+            format: '',
+            minWidth: 0,
+            minHeight: 0
         };
 
         elements.searchInput.value = '';
@@ -535,6 +649,15 @@
         elements.styleFilter.value = '';
         elements.yearFilter.value = '';
         elements.formatFilter.value = '';
+
+        if (elements.widthSlider) {
+            elements.widthSlider.value = 0;
+            elements.widthSliderValue.textContent = 'Any';
+        }
+        if (elements.heightSlider) {
+            elements.heightSlider.value = 0;
+            elements.heightSliderValue.textContent = 'Any';
+        }
 
         applyFilters();
     }
