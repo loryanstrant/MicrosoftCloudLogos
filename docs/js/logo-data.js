@@ -9,7 +9,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1900
+    "id": 1731
   },
   {
     "name": "Aad Licenses",
@@ -20,7 +20,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1715
+    "id": 1546
   },
   {
     "name": "Abs Member",
@@ -31,7 +31,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1594
+    "id": 1425
   },
   {
     "name": "Active Directory Connect Health",
@@ -42,7 +42,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1890
+    "id": 1721
   },
   {
     "name": "Activity Log",
@@ -53,7 +53,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2032
+    "id": 1863
   },
   {
     "name": "Activity Log",
@@ -64,7 +64,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1784
+    "id": 1615
   },
   {
     "name": "Administrative Units",
@@ -75,7 +75,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1913
+    "id": 1744
   },
   {
     "name": "Advisor",
@@ -86,7 +86,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2031
+    "id": 1862
   },
   {
     "name": "Alerts",
@@ -97,7 +97,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2045
+    "id": 1876
   },
   {
     "name": "All Resources",
@@ -108,7 +108,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1934
+    "id": 1765
   },
   {
     "name": "Analysis Services",
@@ -119,7 +119,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2176
+    "id": 2007
   },
   {
     "name": "Anomaly Detector",
@@ -130,7 +130,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1807
+    "id": 1638
   },
   {
     "name": "Api Connections",
@@ -141,7 +141,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2137
+    "id": 1968
   },
   {
     "name": "Api Connections",
@@ -152,7 +152,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1841
+    "id": 1672
   },
   {
     "name": "Api Connections",
@@ -163,7 +163,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2079
+    "id": 1910
   },
   {
     "name": "Api Management Services",
@@ -174,7 +174,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2136
+    "id": 1967
   },
   {
     "name": "Api Management Services",
@@ -185,7 +185,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1839
+    "id": 1670
   },
   {
     "name": "Api Management Services",
@@ -196,7 +196,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2078
+    "id": 1909
   },
   {
     "name": "Api Proxy",
@@ -207,7 +207,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1906
+    "id": 1737
   },
   {
     "name": "App Compliance Automation",
@@ -218,7 +218,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1700
+    "id": 1531
   },
   {
     "name": "App Configuration",
@@ -229,7 +229,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1850
+    "id": 1681
   },
   {
     "name": "App Registrations",
@@ -240,7 +240,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1911
+    "id": 1742
   },
   {
     "name": "App Registrations",
@@ -251,7 +251,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1774
+    "id": 1605
   },
   {
     "name": "App Service Certificates",
@@ -262,7 +262,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2013
+    "id": 1844
   },
   {
     "name": "App Service Certificates",
@@ -273,7 +273,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2087
+    "id": 1918
   },
   {
     "name": "App Service Domains",
@@ -284,7 +284,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2009
+    "id": 1840
   },
   {
     "name": "App Service Domains",
@@ -295,7 +295,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2077
+    "id": 1908
   },
   {
     "name": "App Service Environments",
@@ -306,7 +306,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2016
+    "id": 1847
   },
   {
     "name": "App Service Environments",
@@ -317,7 +317,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2090
+    "id": 1921
   },
   {
     "name": "App Service Plans",
@@ -328,7 +328,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2015
+    "id": 1846
   },
   {
     "name": "App Service Plans",
@@ -339,7 +339,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2089
+    "id": 1920
   },
   {
     "name": "App Services",
@@ -350,7 +350,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2011
+    "id": 1842
   },
   {
     "name": "App Services",
@@ -361,7 +361,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1617
+    "id": 1448
   },
   {
     "name": "App Services",
@@ -372,7 +372,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1675
+    "id": 1506
   },
   {
     "name": "App Services",
@@ -383,7 +383,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2166
+    "id": 1997
   },
   {
     "name": "App Services",
@@ -394,7 +394,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2084
+    "id": 1915
   },
   {
     "name": "Applens",
@@ -405,7 +405,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1793
+    "id": 1624
   },
   {
     "name": "Application Gateways",
@@ -416,7 +416,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2104
+    "id": 1935
   },
   {
     "name": "Application Group",
@@ -427,7 +427,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1635
+    "id": 1466
   },
   {
     "name": "Application Insights",
@@ -438,7 +438,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2140
+    "id": 1971
   },
   {
     "name": "Application Insights",
@@ -449,7 +449,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2039
+    "id": 1870
   },
   {
     "name": "Application Insights",
@@ -460,7 +460,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1786
+    "id": 1617
   },
   {
     "name": "Application Security Groups",
@@ -471,7 +471,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2153
+    "id": 1984
   },
   {
     "name": "Aquila",
@@ -482,7 +482,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2053
+    "id": 1884
   },
   {
     "name": "Arc Data Services",
@@ -493,7 +493,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1721
+    "id": 1552
   },
   {
     "name": "Arc Kubernetes",
@@ -504,7 +504,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1720
+    "id": 1551
   },
   {
     "name": "Arc Machines",
@@ -515,7 +515,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2023
+    "id": 1854
   },
   {
     "name": "Arc Postgresql",
@@ -526,7 +526,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1749
+    "id": 1580
   },
   {
     "name": "Arc Sql Managed Instance",
@@ -537,7 +537,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1706
+    "id": 1537
   },
   {
     "name": "Arc Sql Server",
@@ -548,7 +548,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1693
+    "id": 1524
   },
   {
     "name": "Auto Scale",
@@ -559,7 +559,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1788
+    "id": 1619
   },
   {
     "name": "Automanaged Vm",
@@ -570,7 +570,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1603
+    "id": 1434
   },
   {
     "name": "Automation Accounts",
@@ -581,7 +581,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2030
+    "id": 1861
   },
   {
     "name": "Availability Sets",
@@ -592,7 +592,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1610
+    "id": 1441
   },
   {
     "name": "Avs Vm",
@@ -603,7 +603,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2054
+    "id": 1885
   },
   {
     "name": "Azure",
@@ -614,7 +614,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 1563
+    "id": 1394
   },
   {
     "name": "Azure 256x256 Padded",
@@ -625,7 +625,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 1562
+    "id": 1393
   },
   {
     "name": "Azure A",
@@ -636,7 +636,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1758
+    "id": 1589
   },
   {
     "name": "Azure Active Directory",
@@ -647,7 +647,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1898
+    "id": 1729
   },
   {
     "name": "Azure Ad Authentication Methods",
@@ -658,7 +658,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2151
+    "id": 1982
   },
   {
     "name": "Azure Ad B2c",
@@ -669,7 +669,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1903
+    "id": 1734
   },
   {
     "name": "Azure Ad Domain Services",
@@ -680,7 +680,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1908
+    "id": 1739
   },
   {
     "name": "Azure Ad Identity Protection",
@@ -691,7 +691,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1907
+    "id": 1738
   },
   {
     "name": "Azure Ad Identity Protection",
@@ -702,7 +702,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2161
+    "id": 1992
   },
   {
     "name": "Azure Ad Privilege Identity Management",
@@ -713,7 +713,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1893
+    "id": 1724
   },
   {
     "name": "Azure Ad Privleged Identity Management",
@@ -724,7 +724,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1912
+    "id": 1743
   },
   {
     "name": "Azure Ad Privleged Identity Management",
@@ -735,7 +735,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2162
+    "id": 1993
   },
   {
     "name": "Azure Ad Risky Signins",
@@ -746,7 +746,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2164
+    "id": 1995
   },
   {
     "name": "Azure Ad Risky Users",
@@ -757,7 +757,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2147
+    "id": 1978
   },
   {
     "name": "Azure Ad Roles and Administrators",
@@ -768,7 +768,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1901
+    "id": 1732
   },
   {
     "name": "Azure Ad Roles and Administrators",
@@ -779,7 +779,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1657
+    "id": 1488
   },
   {
     "name": "Azure Ai Studio Logo",
@@ -790,7 +790,7 @@ const logoData = [
     "year": "current",
     "size": "315x315",
     "format": "PNG",
-    "id": 1564
+    "id": 1395
   },
   {
     "name": "Azure Api for Fhir",
@@ -801,7 +801,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1843
+    "id": 1674
   },
   {
     "name": "Azure Applied Ai Services",
@@ -812,7 +812,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1828
+    "id": 1659
   },
   {
     "name": "Azure Arc",
@@ -823,7 +823,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2044
+    "id": 1875
   },
   {
     "name": "Azure Backup Center",
@@ -834,7 +834,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1761
+    "id": 1592
   },
   {
     "name": "Azure Blockchain Service",
@@ -845,7 +845,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1596
+    "id": 1427
   },
   {
     "name": "Azure Center for Sap",
@@ -856,7 +856,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1762
+    "id": 1593
   },
   {
     "name": "Azure Chaos Studio",
@@ -867,7 +867,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1764
+    "id": 1595
   },
   {
     "name": "Azure Cloud Shell",
@@ -878,7 +878,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1711
+    "id": 1542
   },
   {
     "name": "Azure Communication Services",
@@ -889,7 +889,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1705
+    "id": 1536
   },
   {
     "name": "Azure Compute Galleries",
@@ -900,7 +900,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1613
+    "id": 1444
   },
   {
     "name": "Azure Compute Galleries",
@@ -911,7 +911,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1707
+    "id": 1538
   },
   {
     "name": "Azure Cosmos Db",
@@ -922,7 +922,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1578
+    "id": 1409
   },
   {
     "name": "Azure Cosmos Db",
@@ -933,7 +933,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1876
+    "id": 1707
   },
   {
     "name": "Azure Data Catalog",
@@ -944,7 +944,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1861
+    "id": 1692
   },
   {
     "name": "Azure Data Explorer Clusters",
@@ -955,7 +955,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2168
+    "id": 1999
   },
   {
     "name": "Azure Data Explorer Clusters",
@@ -966,7 +966,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1565
+    "id": 1396
   },
   {
     "name": "Azure Database Mariadb Server",
@@ -977,7 +977,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1566
+    "id": 1397
   },
   {
     "name": "Azure Database Migration Services",
@@ -988,7 +988,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1585
+    "id": 1416
   },
   {
     "name": "Azure Database Migration Services",
@@ -999,7 +999,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2091
+    "id": 1922
   },
   {
     "name": "Azure Database Mysql Server",
@@ -1010,7 +1010,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1571
+    "id": 1402
   },
   {
     "name": "Azure Database Postgresql Server",
@@ -1021,7 +1021,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1573
+    "id": 1404
   },
   {
     "name": "Azure Database Postgresql Server Group",
@@ -1032,7 +1032,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1568
+    "id": 1399
   },
   {
     "name": "Azure Databox Gateway",
@@ -1043,7 +1043,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1837
+    "id": 1668
   },
   {
     "name": "Azure Databox Gateway",
@@ -1054,7 +1054,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1864
+    "id": 1695
   },
   {
     "name": "Azure Databox Gateway",
@@ -1065,7 +1065,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1831
+    "id": 1662
   },
   {
     "name": "Azure Databox Gateway",
@@ -1076,7 +1076,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1638
+    "id": 1469
   },
   {
     "name": "Azure Databricks",
@@ -1087,7 +1087,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2182
+    "id": 2013
   },
   {
     "name": "Azure Deployment Environments",
@@ -1098,7 +1098,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1684
+    "id": 1515
   },
   {
     "name": "Azure Devops",
@@ -1109,7 +1109,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2139
+    "id": 1970
   },
   {
     "name": "Azure Edge Hardware Center",
@@ -1120,7 +1120,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1694
+    "id": 1525
   },
   {
     "name": "Azure Experimentation Studio",
@@ -1131,7 +1131,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1826
+    "id": 1657
   },
   {
     "name": "Azure Fileshares",
@@ -1142,7 +1142,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1640
+    "id": 1471
   },
   {
     "name": "Azure Firewall Manager",
@@ -1153,7 +1153,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2111
+    "id": 1942
   },
   {
     "name": "Azure Firewall Policy",
@@ -1164,7 +1164,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2092
+    "id": 1923
   },
   {
     "name": "Azure Hcp Cache",
@@ -1175,7 +1175,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1641
+    "id": 1472
   },
   {
     "name": "Azure Hpc Workbenches",
@@ -1186,7 +1186,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1723
+    "id": 1554
   },
   {
     "name": "Azure Hybrid Center",
@@ -1197,7 +1197,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1791
+    "id": 1622
   },
   {
     "name": "Azure Information Protection",
@@ -1208,7 +1208,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1897
+    "id": 1728
   },
   {
     "name": "Azure Information Protection",
@@ -1219,7 +1219,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2152
+    "id": 1983
   },
   {
     "name": "Azure Lighthouse",
@@ -1230,7 +1230,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2027
+    "id": 1858
   },
   {
     "name": "Azure Load Testing",
@@ -1241,7 +1241,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1726
+    "id": 1557
   },
   {
     "name": "Azure Managed Grafana",
@@ -1252,7 +1252,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1745
+    "id": 1576
   },
   {
     "name": "Azure Maps Accounts",
@@ -1263,7 +1263,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1870
+    "id": 1701
   },
   {
     "name": "Azure Media Service",
@@ -1274,7 +1274,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2076
+    "id": 1907
   },
   {
     "name": "Azure Migrate",
@@ -1285,7 +1285,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1834
+    "id": 1665
   },
   {
     "name": "Azure Monitor Dashboard",
@@ -1296,7 +1296,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1724
+    "id": 1555
   },
   {
     "name": "Azure Monitors for Sap Solutions",
@@ -1307,7 +1307,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1790
+    "id": 1621
   },
   {
     "name": "Azure Netapp Files",
@@ -1318,7 +1318,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1644
+    "id": 1475
   },
   {
     "name": "Azure Network Function Manager",
@@ -1329,7 +1329,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1754
+    "id": 1585
   },
   {
     "name": "Azure Network Function Manager Functions",
@@ -1340,7 +1340,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1704
+    "id": 1535
   },
   {
     "name": "Azure Object Understanding",
@@ -1351,7 +1351,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1822
+    "id": 1653
   },
   {
     "name": "Azure Orbital",
@@ -1362,7 +1362,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1765
+    "id": 1596
   },
   {
     "name": "Azure Purview Accounts",
@@ -1373,7 +1373,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1576
+    "id": 1407
   },
   {
     "name": "Azure Quotas",
@@ -1384,7 +1384,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1703
+    "id": 1534
   },
   {
     "name": "Azure Red Hat Openshift",
@@ -1395,7 +1395,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1673
+    "id": 1504
   },
   {
     "name": "Azure Sentinel",
@@ -1406,7 +1406,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2156
+    "id": 1987
   },
   {
     "name": "Azure Service Bus",
@@ -1417,7 +1417,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1838
+    "id": 1669
   },
   {
     "name": "Azure Sphere",
@@ -1428,7 +1428,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2067
+    "id": 1898
   },
   {
     "name": "Azure Spring Apps",
@@ -1439,7 +1439,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1611
+    "id": 1442
   },
   {
     "name": "Azure Spring Apps",
@@ -1450,7 +1450,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2083
+    "id": 1914
   },
   {
     "name": "Azure Sql",
@@ -1461,7 +1461,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1581
+    "id": 1412
   },
   {
     "name": "Azure Sql Edge",
@@ -1472,7 +1472,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1579
+    "id": 1410
   },
   {
     "name": "Azure Sql Server Stretch Databases",
@@ -1483,7 +1483,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1577
+    "id": 1408
   },
   {
     "name": "Azure Sql Server Stretch Databases",
@@ -1494,7 +1494,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1848
+    "id": 1679
   },
   {
     "name": "Azure Sql Vm",
@@ -1505,7 +1505,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1590
+    "id": 1421
   },
   {
     "name": "Azure Stack",
@@ -1516,7 +1516,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1869
+    "id": 1700
   },
   {
     "name": "Azure Stack Edge",
@@ -1527,7 +1527,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1860
+    "id": 1691
   },
   {
     "name": "Azure Stack Edge",
@@ -1538,7 +1538,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1835
+    "id": 1666
   },
   {
     "name": "Azure Stack Edge",
@@ -1549,7 +1549,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1649
+    "id": 1480
   },
   {
     "name": "Azure Storage Mover",
@@ -1560,7 +1560,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1698
+    "id": 1529
   },
   {
     "name": "Azure Support Center Blue",
@@ -1571,7 +1571,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2071
+    "id": 1902
   },
   {
     "name": "Azure Synapse Analytics",
@@ -1582,7 +1582,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2184
+    "id": 2015
   },
   {
     "name": "Azure Synapse Analytics",
@@ -1593,7 +1593,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1591
+    "id": 1422
   },
   {
     "name": "Azure Token Service",
@@ -1604,7 +1604,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1597
+    "id": 1428
   },
   {
     "name": "Azure Video Indexer",
@@ -1615,7 +1615,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1752
+    "id": 1583
   },
   {
     "name": "Azure Virtual Desktop",
@@ -1626,7 +1626,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1742
+    "id": 1573
   },
   {
     "name": "Azure Vmware Solution",
@@ -1637,7 +1637,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1736
+    "id": 1567
   },
   {
     "name": "Azure Workbooks",
@@ -1648,7 +1648,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2170
+    "id": 2001
   },
   {
     "name": "Azure Workbooks",
@@ -1659,7 +1659,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1780
+    "id": 1611
   },
   {
     "name": "Azureattestation",
@@ -1670,7 +1670,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2050
+    "id": 1881
   },
   {
     "name": "Azurite",
@@ -1681,7 +1681,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2049
+    "id": 1880
   },
   {
     "name": "Backlog",
@@ -1692,7 +1692,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1929
+    "id": 1760
   },
   {
     "name": "Backup Vault",
@@ -1703,7 +1703,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1735
+    "id": 1566
   },
   {
     "name": "Bare Metal Infrastructure",
@@ -1714,7 +1714,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1702
+    "id": 1533
   },
   {
     "name": "Bastions",
@@ -1725,7 +1725,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2106
+    "id": 1937
   },
   {
     "name": "Batch Accounts",
@@ -1736,7 +1736,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1633
+    "id": 1464
   },
   {
     "name": "Batch Accounts",
@@ -1747,7 +1747,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1677
+    "id": 1508
   },
   {
     "name": "Batch Ai",
@@ -1758,7 +1758,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1812
+    "id": 1643
   },
   {
     "name": "Biz Talk",
@@ -1769,7 +1769,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2005
+    "id": 1836
   },
   {
     "name": "Blob Block",
@@ -1780,7 +1780,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1927
+    "id": 1758
   },
   {
     "name": "Blob Page",
@@ -1791,7 +1791,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1940
+    "id": 1771
   },
   {
     "name": "Blockchain Applications",
@@ -1802,7 +1802,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1593
+    "id": 1424
   },
   {
     "name": "Blueprints",
@@ -1813,7 +1813,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2026
+    "id": 1857
   },
   {
     "name": "Bonsai",
@@ -1824,7 +1824,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1823
+    "id": 1654
   },
   {
     "name": "Bot Services",
@@ -1835,7 +1835,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1819
+    "id": 1650
   },
   {
     "name": "Branch",
@@ -1846,7 +1846,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1915
+    "id": 1746
   },
   {
     "name": "Browser",
@@ -1857,7 +1857,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1990
+    "id": 1821
   },
   {
     "name": "Bug",
@@ -1868,7 +1868,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1982
+    "id": 1813
   },
   {
     "name": "Builds",
@@ -1879,7 +1879,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1973
+    "id": 1804
   },
   {
     "name": "Cache",
@@ -1890,7 +1890,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1933
+    "id": 1764
   },
   {
     "name": "Cache Redis",
@@ -1901,7 +1901,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1574
+    "id": 1405
   },
   {
     "name": "Capacity",
@@ -1912,7 +1912,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1799
+    "id": 1630
   },
   {
     "name": "Capacity Reservation Groups",
@@ -1923,7 +1923,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1687
+    "id": 1518
   },
   {
     "name": "Cdn Profiles",
@@ -1934,7 +1934,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2010
+    "id": 1841
   },
   {
     "name": "Cdn Profiles",
@@ -1945,7 +1945,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2107
+    "id": 1938
   },
   {
     "name": "Central Service Instance For Sap",
@@ -1956,7 +1956,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1777
+    "id": 1608
   },
   {
     "name": "Ceres",
@@ -1967,7 +1967,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2057
+    "id": 1888
   },
   {
     "name": "Change Analysis",
@@ -1978,7 +1978,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2144
+    "id": 1975
   },
   {
     "name": "Change Analysis",
@@ -1989,7 +1989,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1787
+    "id": 1618
   },
   {
     "name": "Client Apps",
@@ -2000,7 +2000,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1663
+    "id": 1494
   },
   {
     "name": "Cloud Services (classic)",
@@ -2011,7 +2011,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1604
+    "id": 1435
   },
   {
     "name": "Cloud Services (extended Support)",
@@ -2022,7 +2022,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1686
+    "id": 1517
   },
   {
     "name": "Cloudtest",
@@ -2033,7 +2033,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2146
+    "id": 1977
   },
   {
     "name": "Code",
@@ -2044,7 +2044,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1999
+    "id": 1830
   },
   {
     "name": "Cognitive Search",
@@ -2055,7 +2055,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1811
+    "id": 1642
   },
   {
     "name": "Cognitive Search",
@@ -2066,7 +2066,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2012
+    "id": 1843
   },
   {
     "name": "Cognitive Search",
@@ -2077,7 +2077,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2085
+    "id": 1916
   },
   {
     "name": "Cognitive Services",
@@ -2088,7 +2088,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1801
+    "id": 1632
   },
   {
     "name": "Cognitive Services",
@@ -2099,7 +2099,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2075
+    "id": 1906
   },
   {
     "name": "Collaborative Service",
@@ -2110,7 +2110,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1792
+    "id": 1623
   },
   {
     "name": "Commit",
@@ -2121,7 +2121,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1989
+    "id": 1820
   },
   {
     "name": "Community Images",
@@ -2132,7 +2132,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1744
+    "id": 1575
   },
   {
     "name": "Compliance",
@@ -2143,7 +2143,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2042
+    "id": 1873
   },
   {
     "name": "Compliance Center",
@@ -2154,7 +2154,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2058
+    "id": 1889
   },
   {
     "name": "Computer Vision",
@@ -2165,7 +2165,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1803
+    "id": 1634
   },
   {
     "name": "Conditional Access",
@@ -2176,7 +2176,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2157
+    "id": 1988
   },
   {
     "name": "Confidential Ledgers",
@@ -2187,7 +2187,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1737
+    "id": 1568
   },
   {
     "name": "Connected Cache",
@@ -2198,7 +2198,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2059
+    "id": 1890
   },
   {
     "name": "Connected Vehicle Platform",
@@ -2209,7 +2209,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2073
+    "id": 1904
   },
   {
     "name": "Connections",
@@ -2220,7 +2220,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2125
+    "id": 1956
   },
   {
     "name": "Consortium",
@@ -2231,7 +2231,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1592
+    "id": 1423
   },
   {
     "name": "Container Apps Environments",
@@ -2242,7 +2242,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1750
+    "id": 1581
   },
   {
     "name": "Container Instances",
@@ -2253,7 +2253,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1608
+    "id": 1439
   },
   {
     "name": "Container Instances",
@@ -2264,7 +2264,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1674
+    "id": 1505
   },
   {
     "name": "Container Registries",
@@ -2275,7 +2275,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1676
+    "id": 1507
   },
   {
     "name": "Container Services (deprecated)",
@@ -2286,7 +2286,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1605
+    "id": 1436
   },
   {
     "name": "Content Moderators",
@@ -2297,7 +2297,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1824
+    "id": 1655
   },
   {
     "name": "Controls",
@@ -2308,7 +2308,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1957
+    "id": 1788
   },
   {
     "name": "Controls Horizontal",
@@ -2319,7 +2319,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1993
+    "id": 1824
   },
   {
     "name": "Cost Alerts",
@@ -2330,7 +2330,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1925
+    "id": 1756
   },
   {
     "name": "Cost Analysis",
@@ -2341,7 +2341,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1923
+    "id": 1754
   },
   {
     "name": "Cost Budgets",
@@ -2352,7 +2352,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1943
+    "id": 1774
   },
   {
     "name": "Cost Export",
@@ -2363,7 +2363,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1730
+    "id": 1561
   },
   {
     "name": "Cost Management",
@@ -2374,7 +2374,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1966
+    "id": 1797
   },
   {
     "name": "Cost Management and Billing",
@@ -2385,7 +2385,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1962
+    "id": 1793
   },
   {
     "name": "Cost Management and Billing",
@@ -2396,7 +2396,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2035
+    "id": 1866
   },
   {
     "name": "Cost Management and Billing",
@@ -2407,7 +2407,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1833
+    "id": 1664
   },
   {
     "name": "Counter",
@@ -2418,7 +2418,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1971
+    "id": 1802
   },
   {
     "name": "Cubes",
@@ -2429,7 +2429,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1977
+    "id": 1808
   },
   {
     "name": "Custom Azure Ad Roles",
@@ -2440,7 +2440,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1891
+    "id": 1722
   },
   {
     "name": "Custom Ip Prefix",
@@ -2451,7 +2451,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1771
+    "id": 1602
   },
   {
     "name": "Custom Vision",
@@ -2462,7 +2462,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1808
+    "id": 1639
   },
   {
     "name": "Customer Lockbox for Microsoft Azure",
@@ -2473,7 +2473,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2029
+    "id": 1860
   },
   {
     "name": "Dashboard",
@@ -2484,7 +2484,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1914
+    "id": 1745
   },
   {
     "name": "Dashboard Hub",
@@ -2495,7 +2495,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2074
+    "id": 1905
   },
   {
     "name": "Data Box",
@@ -2506,7 +2506,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1836
+    "id": 1667
   },
   {
     "name": "Data Box",
@@ -2517,7 +2517,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1652
+    "id": 1483
   },
   {
     "name": "Data Collection Rules",
@@ -2528,7 +2528,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2069
+    "id": 1900
   },
   {
     "name": "Data Factories",
@@ -2539,7 +2539,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2181
+    "id": 2012
   },
   {
     "name": "Data Factories",
@@ -2550,7 +2550,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1584
+    "id": 1415
   },
   {
     "name": "Data Factories",
@@ -2561,7 +2561,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1855
+    "id": 1686
   },
   {
     "name": "Data Lake Analytics",
@@ -2572,7 +2572,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2179
+    "id": 2010
   },
   {
     "name": "Data Lake Storage Gen1",
@@ -2583,7 +2583,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1651
+    "id": 1482
   },
   {
     "name": "Data Lake Store Gen1",
@@ -2594,7 +2594,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2169
+    "id": 2000
   },
   {
     "name": "Data Share Invitations",
@@ -2605,7 +2605,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1643
+    "id": 1474
   },
   {
     "name": "Data Shares",
@@ -2616,7 +2616,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1650
+    "id": 1481
   },
   {
     "name": "Database Instance For Sap",
@@ -2627,7 +2627,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1708
+    "id": 1539
   },
   {
     "name": "Ddos Protection Plans",
@@ -2638,7 +2638,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2116
+    "id": 1947
   },
   {
     "name": "Dedicated Hsm",
@@ -2649,7 +2649,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2070
+    "id": 1901
   },
   {
     "name": "Defender Cm Local Manager",
@@ -2660,7 +2660,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1778
+    "id": 1609
   },
   {
     "name": "Defender Dcs Controller",
@@ -2671,7 +2671,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1701
+    "id": 1532
   },
   {
     "name": "Defender Distributer Control System",
@@ -2682,7 +2682,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1760
+    "id": 1591
   },
   {
     "name": "Defender Engineering Station",
@@ -2693,7 +2693,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1776
+    "id": 1607
   },
   {
     "name": "Defender External Management",
@@ -2704,7 +2704,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1741
+    "id": 1572
   },
   {
     "name": "Defender Freezer Monitor",
@@ -2715,7 +2715,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1682
+    "id": 1513
   },
   {
     "name": "Defender Historian",
@@ -2726,7 +2726,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1759
+    "id": 1590
   },
   {
     "name": "Defender Hmi",
@@ -2737,7 +2737,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1768
+    "id": 1599
   },
   {
     "name": "Defender Industrial Packaging System",
@@ -2748,7 +2748,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1692
+    "id": 1523
   },
   {
     "name": "Defender Industrial Printer",
@@ -2759,7 +2759,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1743
+    "id": 1574
   },
   {
     "name": "Defender Industrial Robot",
@@ -2770,7 +2770,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1679
+    "id": 1510
   },
   {
     "name": "Defender Industrial Scale System",
@@ -2781,7 +2781,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1767
+    "id": 1598
   },
   {
     "name": "Defender Marquee",
@@ -2792,7 +2792,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1757
+    "id": 1588
   },
   {
     "name": "Defender Meter",
@@ -2803,7 +2803,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1740
+    "id": 1571
   },
   {
     "name": "Defender Plc",
@@ -2814,7 +2814,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1755
+    "id": 1586
   },
   {
     "name": "Defender Pneumatic Device",
@@ -2825,7 +2825,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1685
+    "id": 1516
   },
   {
     "name": "Defender Programable Board",
@@ -2836,7 +2836,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1769
+    "id": 1600
   },
   {
     "name": "Defender Relay",
@@ -2847,7 +2847,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1727
+    "id": 1558
   },
   {
     "name": "Defender Robot Controller",
@@ -2858,7 +2858,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1683
+    "id": 1514
   },
   {
     "name": "Defender Rtu",
@@ -2869,7 +2869,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1718
+    "id": 1549
   },
   {
     "name": "Defender Sensor",
@@ -2880,7 +2880,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1766
+    "id": 1597
   },
   {
     "name": "Defender Slot",
@@ -2891,7 +2891,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1722
+    "id": 1553
   },
   {
     "name": "Defender Web Guiding System",
@@ -2902,7 +2902,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1733
+    "id": 1564
   },
   {
     "name": "Detonation",
@@ -2913,7 +2913,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2154
+    "id": 1985
   },
   {
     "name": "Dev Console",
@@ -2924,7 +2924,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1968
+    "id": 1799
   },
   {
     "name": "Device Compliance",
@@ -2935,7 +2935,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1665
+    "id": 1496
   },
   {
     "name": "Device Configuration",
@@ -2946,7 +2946,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1666
+    "id": 1497
   },
   {
     "name": "Device Enrollment",
@@ -2957,7 +2957,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1661
+    "id": 1492
   },
   {
     "name": "Device Provisioning Services",
@@ -2968,7 +2968,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1872
+    "id": 1703
   },
   {
     "name": "Device Security Apple",
@@ -2979,7 +2979,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1669
+    "id": 1500
   },
   {
     "name": "Device Security Google",
@@ -2990,7 +2990,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1655
+    "id": 1486
   },
   {
     "name": "Device Security Windows",
@@ -3001,7 +3001,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1660
+    "id": 1491
   },
   {
     "name": "Device Update Iot Hub",
@@ -3012,7 +3012,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1697
+    "id": 1528
   },
   {
     "name": "Devices",
@@ -3023,7 +3023,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1654
+    "id": 1485
   },
   {
     "name": "Devops Starter",
@@ -3034,7 +3034,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2141
+    "id": 1972
   },
   {
     "name": "Devtest Labs",
@@ -3045,7 +3045,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2143
+    "id": 1974
   },
   {
     "name": "Diagnostics Settings",
@@ -3056,7 +3056,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2021
+    "id": 1852
   },
   {
     "name": "Diagnostics Settings",
@@ -3067,7 +3067,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1781
+    "id": 1612
   },
   {
     "name": "Digital Twins",
@@ -3078,7 +3078,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1867
+    "id": 1698
   },
   {
     "name": "Disk Encryption Sets",
@@ -3089,7 +3089,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1623
+    "id": 1454
   },
   {
     "name": "Disk Pool",
@@ -3100,7 +3100,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1717
+    "id": 1548
   },
   {
     "name": "Disks",
@@ -3111,7 +3111,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1606
+    "id": 1437
   },
   {
     "name": "Disks (classic)",
@@ -3122,7 +3122,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1629
+    "id": 1460
   },
   {
     "name": "Disks Snapshots",
@@ -3133,7 +3133,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1599
+    "id": 1430
   },
   {
     "name": "Dns Private Resolver",
@@ -3144,7 +3144,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2117
+    "id": 1948
   },
   {
     "name": "Dns Zones",
@@ -3155,7 +3155,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2101
+    "id": 1932
   },
   {
     "name": "Download",
@@ -3166,7 +3166,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1918
+    "id": 1749
   },
   {
     "name": "Ebooks",
@@ -3177,7 +3177,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1667
+    "id": 1498
   },
   {
     "name": "Edge Management",
@@ -3188,7 +3188,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2055
+    "id": 1886
   },
   {
     "name": "Education",
@@ -3199,7 +3199,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2018
+    "id": 1849
   },
   {
     "name": "Elastic Job Agents",
@@ -3210,7 +3210,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1580
+    "id": 1411
   },
   {
     "name": "Elastic San",
@@ -3221,7 +3221,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1775
+    "id": 1606
   },
   {
     "name": "Endpoint Analytics",
@@ -3232,7 +3232,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2172
+    "id": 2003
   },
   {
     "name": "Enterprise Applications",
@@ -3243,7 +3243,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1899
+    "id": 1730
   },
   {
     "name": "Error",
@@ -3254,7 +3254,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1976
+    "id": 1807
   },
   {
     "name": "Event Grid Domains",
@@ -3265,7 +3265,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1853
+    "id": 1684
   },
   {
     "name": "Event Grid Subscriptions",
@@ -3276,7 +3276,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1852
+    "id": 1683
   },
   {
     "name": "Event Grid Subscriptions",
@@ -3287,7 +3287,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1877
+    "id": 1708
   },
   {
     "name": "Event Grid Topics",
@@ -3298,7 +3298,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1844
+    "id": 1675
   },
   {
     "name": "Event Hub Clusters",
@@ -3309,7 +3309,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2173
+    "id": 2004
   },
   {
     "name": "Event Hub Clusters",
@@ -3320,7 +3320,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1871
+    "id": 1702
   },
   {
     "name": "Event Hubs",
@@ -3331,7 +3331,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2178
+    "id": 2009
   },
   {
     "name": "Event Hubs",
@@ -3342,7 +3342,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1878
+    "id": 1709
   },
   {
     "name": "Exchange Access",
@@ -3353,7 +3353,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1656
+    "id": 1487
   },
   {
     "name": "Exchange On Premises Access",
@@ -3364,7 +3364,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2062
+    "id": 1893
   },
   {
     "name": "Express Route Traffic Collector",
@@ -3375,7 +3375,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1695
+    "id": 1526
   },
   {
     "name": "Expressroute Circuits",
@@ -3386,7 +3386,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2132
+    "id": 1963
   },
   {
     "name": "Expressroute Direct",
@@ -3397,7 +3397,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1731
+    "id": 1562
   },
   {
     "name": "Extendedsecurityupdates",
@@ -3408,7 +3408,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2158
+    "id": 1989
   },
   {
     "name": "Extensions",
@@ -3419,7 +3419,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1978
+    "id": 1809
   },
   {
     "name": "External Identities",
@@ -3430,7 +3430,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1895
+    "id": 1726
   },
   {
     "name": "Face Apis",
@@ -3441,7 +3441,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1810
+    "id": 1641
   },
   {
     "name": "Feature Previews",
@@ -3452,7 +3452,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1987
+    "id": 1818
   },
   {
     "name": "Fhir Service",
@@ -3463,7 +3463,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1716
+    "id": 1547
   },
   {
     "name": "Fiji",
@@ -3474,7 +3474,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2056
+    "id": 1887
   },
   {
     "name": "File",
@@ -3485,7 +3485,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1922
+    "id": 1753
   },
   {
     "name": "Files",
@@ -3496,7 +3496,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2002
+    "id": 1833
   },
   {
     "name": "Firewalls",
@@ -3507,7 +3507,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2110
+    "id": 1941
   },
   {
     "name": "Folder Blank",
@@ -3518,7 +3518,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1948
+    "id": 1779
   },
   {
     "name": "Folder Website",
@@ -3529,7 +3529,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1949
+    "id": 1780
   },
   {
     "name": "Form Recognizers",
@@ -3540,7 +3540,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1815
+    "id": 1646
   },
   {
     "name": "Free Services",
@@ -3551,7 +3551,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1959
+    "id": 1790
   },
   {
     "name": "Front Door and Cdn Profiles",
@@ -3562,7 +3562,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2098
+    "id": 1929
   },
   {
     "name": "Front Door and Cdn Profiles",
@@ -3573,7 +3573,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2080
+    "id": 1911
   },
   {
     "name": "Ftp",
@@ -3584,7 +3584,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1986
+    "id": 1817
   },
   {
     "name": "Function Apps",
@@ -3595,7 +3595,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1624
+    "id": 1455
   },
   {
     "name": "Function Apps",
@@ -3606,7 +3606,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1882
+    "id": 1713
   },
   {
     "name": "Gear",
@@ -3617,7 +3617,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1953
+    "id": 1784
   },
   {
     "name": "Genomics",
@@ -3628,7 +3628,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1806
+    "id": 1637
   },
   {
     "name": "Genomics Accounts",
@@ -3639,7 +3639,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1825
+    "id": 1656
   },
   {
     "name": "Globe Error",
@@ -3650,7 +3650,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1996
+    "id": 1827
   },
   {
     "name": "Globe Success",
@@ -3661,7 +3661,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1917
+    "id": 1748
   },
   {
     "name": "Globe Warning",
@@ -3672,7 +3672,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2000
+    "id": 1831
   },
   {
     "name": "Groups",
@@ -3683,7 +3683,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1892
+    "id": 1723
   },
   {
     "name": "Guide",
@@ -3694,7 +3694,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1945
+    "id": 1776
   },
   {
     "name": "Hd Insight Clusters",
@@ -3705,7 +3705,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2183
+    "id": 2014
   },
   {
     "name": "Heart",
@@ -3716,7 +3716,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1932
+    "id": 1763
   },
   {
     "name": "Help and Support",
@@ -3727,7 +3727,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1956
+    "id": 1787
   },
   {
     "name": "Host Groups",
@@ -3738,7 +3738,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1618
+    "id": 1449
   },
   {
     "name": "Host Pools",
@@ -3749,7 +3749,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1625
+    "id": 1456
   },
   {
     "name": "Hosts",
@@ -3760,7 +3760,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1598
+    "id": 1429
   },
   {
     "name": "Identity Governance",
@@ -3771,7 +3771,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1894
+    "id": 1725
   },
   {
     "name": "Identity Secure Score",
@@ -3782,7 +3782,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2159
+    "id": 1990
   },
   {
     "name": "Image",
@@ -3793,7 +3793,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1939
+    "id": 1770
   },
   {
     "name": "Image Definitions",
@@ -3804,7 +3804,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1628
+    "id": 1459
   },
   {
     "name": "Image Templates",
@@ -3815,7 +3815,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1614
+    "id": 1445
   },
   {
     "name": "Image Versions",
@@ -3826,7 +3826,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1630
+    "id": 1461
   },
   {
     "name": "Images",
@@ -3837,7 +3837,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1631
+    "id": 1462
   },
   {
     "name": "Immersive Readers",
@@ -3848,7 +3848,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1813
+    "id": 1644
   },
   {
     "name": "Import Export Jobs",
@@ -3859,7 +3859,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1645
+    "id": 1476
   },
   {
     "name": "Industrial Iot",
@@ -3870,7 +3870,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1889
+    "id": 1720
   },
   {
     "name": "Information",
@@ -3881,7 +3881,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1963
+    "id": 1794
   },
   {
     "name": "Infrastructure Backup",
@@ -3892,7 +3892,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1797
+    "id": 1628
   },
   {
     "name": "Input Output",
@@ -3903,7 +3903,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1938
+    "id": 1769
   },
   {
     "name": "Instance Pools",
@@ -3914,7 +3914,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1589
+    "id": 1420
   },
   {
     "name": "Instance Pools",
@@ -3925,7 +3925,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1773
+    "id": 1604
   },
   {
     "name": "Integration Accounts",
@@ -3936,7 +3936,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1847
+    "id": 1678
   },
   {
     "name": "Integration Service Environments",
@@ -3947,7 +3947,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1854
+    "id": 1685
   },
   {
     "name": "Internet Analyzer Profiles",
@@ -3958,7 +3958,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1747
+    "id": 1578
   },
   {
     "name": "Intune",
@@ -3969,7 +3969,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1658
+    "id": 1489
   },
   {
     "name": "Intune App Protection",
@@ -3980,7 +3980,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1670
+    "id": 1501
   },
   {
     "name": "Intune For Education",
@@ -3991,7 +3991,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1653
+    "id": 1484
   },
   {
     "name": "Intune Trends",
@@ -4002,7 +4002,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2060
+    "id": 1891
   },
   {
     "name": "Iot Central Applications",
@@ -4013,7 +4013,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1874
+    "id": 1705
   },
   {
     "name": "Iot Edge",
@@ -4024,7 +4024,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1873
+    "id": 1704
   },
   {
     "name": "Iot Hub",
@@ -4035,7 +4035,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1866
+    "id": 1697
   },
   {
     "name": "Ip Groups",
@@ -4046,7 +4046,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2134
+    "id": 1965
   },
   {
     "name": "Journey Hub",
@@ -4057,7 +4057,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1950
+    "id": 1781
   },
   {
     "name": "Key Vaults",
@@ -4068,7 +4068,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2148
+    "id": 1979
   },
   {
     "name": "Keys",
@@ -4079,7 +4079,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1678
+    "id": 1509
   },
   {
     "name": "Kubernetes Fleet Manager",
@@ -4090,7 +4090,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1772
+    "id": 1603
   },
   {
     "name": "Kubernetes Services",
@@ -4101,7 +4101,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1602
+    "id": 1433
   },
   {
     "name": "Kubernetes Services",
@@ -4112,7 +4112,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1672
+    "id": 1503
   },
   {
     "name": "Lab Accounts",
@@ -4123,7 +4123,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2145
+    "id": 1976
   },
   {
     "name": "Lab Services",
@@ -4134,7 +4134,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2138
+    "id": 1969
   },
   {
     "name": "Language",
@@ -4145,7 +4145,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1821
+    "id": 1652
   },
   {
     "name": "Language Understanding",
@@ -4156,7 +4156,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1802
+    "id": 1633
   },
   {
     "name": "Launch Portal",
@@ -4167,7 +4167,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1981
+    "id": 1812
   },
   {
     "name": "Learn",
@@ -4178,7 +4178,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1961
+    "id": 1792
   },
   {
     "name": "Load Balancer Hub",
@@ -4189,7 +4189,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2135
+    "id": 1966
   },
   {
     "name": "Load Balancers",
@@ -4200,7 +4200,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2102
+    "id": 1933
   },
   {
     "name": "Load Test",
@@ -4211,7 +4211,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1975
+    "id": 1806
   },
   {
     "name": "Load Testing",
@@ -4222,7 +4222,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2142
+    "id": 1973
   },
   {
     "name": "Local Network Gateways",
@@ -4233,7 +4233,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2108
+    "id": 1939
   },
   {
     "name": "Local Network Gateways",
@@ -4244,7 +4244,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1713
+    "id": 1544
   },
   {
     "name": "Location",
@@ -4255,7 +4255,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1954
+    "id": 1785
   },
   {
     "name": "Log Analytics Query Pack",
@@ -4266,7 +4266,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1710
+    "id": 1541
   },
   {
     "name": "Log Analytics Workspaces",
@@ -4277,7 +4277,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2175
+    "id": 2006
   },
   {
     "name": "Log Analytics Workspaces",
@@ -4288,7 +4288,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2033
+    "id": 1864
   },
   {
     "name": "Log Analytics Workspaces",
@@ -4299,7 +4299,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1785
+    "id": 1616
   },
   {
     "name": "Log Streaming",
@@ -4310,7 +4310,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1980
+    "id": 1811
   },
   {
     "name": "Logic Apps",
@@ -4321,7 +4321,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1840
+    "id": 1671
   },
   {
     "name": "Logic Apps",
@@ -4332,7 +4332,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1865
+    "id": 1696
   },
   {
     "name": "Logic Apps Custom Connector",
@@ -4343,7 +4343,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1862
+    "id": 1693
   },
   {
     "name": "Machine Learning",
@@ -4354,7 +4354,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1804
+    "id": 1635
   },
   {
     "name": "Machine Learning Studio (classic) Web Services",
@@ -4365,7 +4365,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1818
+    "id": 1649
   },
   {
     "name": "Machine Learning Studio (classic) Web Services",
@@ -4376,7 +4376,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1883
+    "id": 1714
   },
   {
     "name": "Machine Learning Studio Web Service Plans",
@@ -4387,7 +4387,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1816
+    "id": 1647
   },
   {
     "name": "Machine Learning Studio Web Service Plans",
@@ -4398,7 +4398,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1881
+    "id": 1712
   },
   {
     "name": "Machine Learning Studio Workspaces",
@@ -4409,7 +4409,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1820
+    "id": 1651
   },
   {
     "name": "Machine Learning Studio Workspaces",
@@ -4420,7 +4420,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1884
+    "id": 1715
   },
   {
     "name": "Machinesazurearc",
@@ -4431,7 +4431,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2047
+    "id": 1878
   },
   {
     "name": "Maintenance Configuration",
@@ -4442,7 +4442,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1612
+    "id": 1443
   },
   {
     "name": "Managed Applications Center",
@@ -4453,7 +4453,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2036
+    "id": 1867
   },
   {
     "name": "Managed Database",
@@ -4464,7 +4464,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1567
+    "id": 1398
   },
   {
     "name": "Managed Desktop",
@@ -4475,7 +4475,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2037
+    "id": 1868
   },
   {
     "name": "Managed Identities",
@@ -4486,7 +4486,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1909
+    "id": 1740
   },
   {
     "name": "Managed Instance Apache Cassandra",
@@ -4497,7 +4497,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1748
+    "id": 1579
   },
   {
     "name": "Managed Service Fabric",
@@ -4508,7 +4508,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1615
+    "id": 1446
   },
   {
     "name": "Management Groups",
@@ -4519,7 +4519,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1998
+    "id": 1829
   },
   {
     "name": "Management Portal",
@@ -4530,7 +4530,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1944
+    "id": 1775
   },
   {
     "name": "Marketplace",
@@ -4541,7 +4541,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1995
+    "id": 1826
   },
   {
     "name": "Marketplace Management",
@@ -4552,7 +4552,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2052
+    "id": 1883
   },
   {
     "name": "Media",
@@ -4563,7 +4563,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1946
+    "id": 1777
   },
   {
     "name": "Media File",
@@ -4574,7 +4574,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1967
+    "id": 1798
   },
   {
     "name": "Medtech Service",
@@ -4585,7 +4585,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1709
+    "id": 1540
   },
   {
     "name": "Mesh Applications",
@@ -4596,7 +4596,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1634
+    "id": 1465
   },
   {
     "name": "Metrics",
@@ -4607,7 +4607,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2022
+    "id": 1853
   },
   {
     "name": "Metrics",
@@ -4618,7 +4618,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1782
+    "id": 1613
   },
   {
     "name": "Metrics Advisor",
@@ -4629,7 +4629,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1805
+    "id": 1636
   },
   {
     "name": "Metrics Advisor",
@@ -4640,7 +4640,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1609
+    "id": 1440
   },
   {
     "name": "Microsoft Defender Easm",
@@ -4651,7 +4651,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2163
+    "id": 1994
   },
   {
     "name": "Microsoft Defender for Iot",
@@ -4662,7 +4662,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2160
+    "id": 1991
   },
   {
     "name": "Microsoft Dev Box",
@@ -4673,7 +4673,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1732
+    "id": 1563
   },
   {
     "name": "Microsoft Sql Server 2025 Icon",
@@ -4684,7 +4684,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1575
+    "id": 1406
   },
   {
     "name": "Mindaro",
@@ -4695,7 +4695,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1668
+    "id": 1499
   },
   {
     "name": "Mission Landing Zone",
@@ -4706,7 +4706,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2072
+    "id": 1903
   },
   {
     "name": "Mobile",
@@ -4717,7 +4717,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1952
+    "id": 1783
   },
   {
     "name": "Mobile Engagement",
@@ -4728,7 +4728,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1991
+    "id": 1822
   },
   {
     "name": "Mobile Networks",
@@ -4739,7 +4739,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1696
+    "id": 1527
   },
   {
     "name": "Modular Data Center",
@@ -4750,7 +4750,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2065
+    "id": 1896
   },
   {
     "name": "Module",
@@ -4761,7 +4761,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1965
+    "id": 1796
   },
   {
     "name": "Monitor",
@@ -4772,7 +4772,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2028
+    "id": 1859
   },
   {
     "name": "Monitor",
@@ -4783,7 +4783,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1783
+    "id": 1614
   },
   {
     "name": "Multi Tenancy",
@@ -4794,7 +4794,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1796
+    "id": 1627
   },
   {
     "name": "Multifactor Authentication",
@@ -4805,7 +4805,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2155
+    "id": 1986
   },
   {
     "name": "My Customers",
@@ -4816,7 +4816,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2041
+    "id": 1872
   },
   {
     "name": "Nat",
@@ -4827,7 +4827,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2127
+    "id": 1958
   },
   {
     "name": "Network Interfaces",
@@ -4838,7 +4838,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2124
+    "id": 1955
   },
   {
     "name": "Network Managers",
@@ -4849,7 +4849,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1680
+    "id": 1511
   },
   {
     "name": "Network Security Groups",
@@ -4860,7 +4860,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2114
+    "id": 1945
   },
   {
     "name": "Network Security Perimeters",
@@ -4871,7 +4871,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1719
+    "id": 1550
   },
   {
     "name": "Network Watcher",
@@ -4882,7 +4882,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1789
+    "id": 1620
   },
   {
     "name": "Network Watcher",
@@ -4893,7 +4893,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2130
+    "id": 1961
   },
   {
     "name": "Notification Hub Namespaces",
@@ -4904,7 +4904,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1880
+    "id": 1711
   },
   {
     "name": "Notification Hub Namespaces",
@@ -4915,7 +4915,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2086
+    "id": 1917
   },
   {
     "name": "Notification Hubs",
@@ -4926,7 +4926,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2014
+    "id": 1845
   },
   {
     "name": "Notification Hubs",
@@ -4937,7 +4937,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1886
+    "id": 1717
   },
   {
     "name": "Notification Hubs",
@@ -4948,7 +4948,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2167
+    "id": 1998
   },
   {
     "name": "Offers",
@@ -4959,7 +4959,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1794
+    "id": 1625
   },
   {
     "name": "On Premises Data Gateways",
@@ -4970,7 +4970,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2109
+    "id": 1940
   },
   {
     "name": "Open Supply Chain Platform",
@@ -4981,7 +4981,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1725
+    "id": 1556
   },
   {
     "name": "Operation Log (classic)",
@@ -4992,7 +4992,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2034
+    "id": 1865
   },
   {
     "name": "Os Images (classic)",
@@ -5003,7 +5003,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1600
+    "id": 1431
   },
   {
     "name": "Outbound Connection",
@@ -5014,7 +5014,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1595
+    "id": 1426
   },
   {
     "name": "Partner Namespace",
@@ -5025,7 +5025,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1856
+    "id": 1687
   },
   {
     "name": "Partner Registration",
@@ -5036,7 +5036,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1863
+    "id": 1694
   },
   {
     "name": "Partner Topic",
@@ -5047,7 +5047,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1849
+    "id": 1680
   },
   {
     "name": "Peering Service",
@@ -5058,7 +5058,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1751
+    "id": 1582
   },
   {
     "name": "Peerings",
@@ -5069,7 +5069,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1714
+    "id": 1545
   },
   {
     "name": "Personalizers",
@@ -5080,7 +5080,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1817
+    "id": 1648
   },
   {
     "name": "Plans",
@@ -5091,7 +5091,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1798
+    "id": 1629
   },
   {
     "name": "Policy",
@@ -5102,7 +5102,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2046
+    "id": 1877
   },
   {
     "name": "Power",
@@ -5113,7 +5113,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1947
+    "id": 1778
   },
   {
     "name": "Power Bi Embedded",
@@ -5124,7 +5124,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2174
+    "id": 2005
   },
   {
     "name": "Power Platform",
@@ -5135,7 +5135,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2171
+    "id": 2002
   },
   {
     "name": "Power Platform",
@@ -5146,7 +5146,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1842
+    "id": 1673
   },
   {
     "name": "Power Platform",
@@ -5157,7 +5157,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2165
+    "id": 1996
   },
   {
     "name": "Power Platform",
@@ -5168,7 +5168,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2081
+    "id": 1912
   },
   {
     "name": "Power Up",
@@ -5179,7 +5179,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1964
+    "id": 1795
   },
   {
     "name": "Powershell",
@@ -5190,7 +5190,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1926
+    "id": 1757
   },
   {
     "name": "Preview Features",
@@ -5201,7 +5201,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1937
+    "id": 1768
   },
   {
     "name": "Private Endpoints",
@@ -5212,7 +5212,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1689
+    "id": 1520
   },
   {
     "name": "Private Link",
@@ -5223,7 +5223,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2122
+    "id": 1953
   },
   {
     "name": "Private Link Service",
@@ -5234,7 +5234,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2112
+    "id": 1943
   },
   {
     "name": "Private Link Services",
@@ -5245,7 +5245,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2177
+    "id": 2008
   },
   {
     "name": "Private Link Services",
@@ -5256,7 +5256,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2119
+    "id": 1950
   },
   {
     "name": "Process Explorer",
@@ -5267,7 +5267,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1942
+    "id": 1773
   },
   {
     "name": "Production Ready Database",
@@ -5278,7 +5278,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1994
+    "id": 1825
   },
   {
     "name": "Proximity Placement Groups",
@@ -5289,7 +5289,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2096
+    "id": 1927
   },
   {
     "name": "Public Ip Addresses",
@@ -5300,7 +5300,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2100
+    "id": 1931
   },
   {
     "name": "Public Ip Addresses (classic)",
@@ -5311,7 +5311,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2133
+    "id": 1964
   },
   {
     "name": "Public Ip Prefixes",
@@ -5322,7 +5322,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2093
+    "id": 1924
   },
   {
     "name": "Qna Makers",
@@ -5333,7 +5333,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1809
+    "id": 1640
   },
   {
     "name": "Quickstart Center",
@@ -5344,7 +5344,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2006
+    "id": 1837
   },
   {
     "name": "Recent",
@@ -5355,7 +5355,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1992
+    "id": 1823
   },
   {
     "name": "Recovery Services Vaults",
@@ -5366,7 +5366,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2019
+    "id": 1850
   },
   {
     "name": "Recovery Services Vaults",
@@ -5377,7 +5377,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1832
+    "id": 1663
   },
   {
     "name": "Recovery Services Vaults",
@@ -5388,7 +5388,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1639
+    "id": 1470
   },
   {
     "name": "Region Management",
@@ -5399,7 +5399,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1988
+    "id": 1819
   },
   {
     "name": "Relays",
@@ -5410,7 +5410,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1859
+    "id": 1690
   },
   {
     "name": "Remote Rendering",
@@ -5421,7 +5421,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1829
+    "id": 1660
   },
   {
     "name": "Reservations",
@@ -5432,7 +5432,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1921
+    "id": 1752
   },
   {
     "name": "Reserved Capacity",
@@ -5443,7 +5443,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2068
+    "id": 1899
   },
   {
     "name": "Reserved Ip Addresses (classic)",
@@ -5454,7 +5454,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2099
+    "id": 1930
   },
   {
     "name": "Resource Explorer",
@@ -5465,7 +5465,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2003
+    "id": 1834
   },
   {
     "name": "Resource Graph Explorer",
@@ -5476,7 +5476,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2024
+    "id": 1855
   },
   {
     "name": "Resource Group List",
@@ -5487,7 +5487,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1951
+    "id": 1782
   },
   {
     "name": "Resource Groups",
@@ -5498,7 +5498,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1997
+    "id": 1828
   },
   {
     "name": "Resource Guard",
@@ -5509,7 +5509,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1753
+    "id": 1584
   },
   {
     "name": "Resource Linked",
@@ -5520,7 +5520,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1920
+    "id": 1751
   },
   {
     "name": "Resource Management Private Link",
@@ -5531,7 +5531,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2131
+    "id": 1962
   },
   {
     "name": "Resource Mover",
@@ -5542,7 +5542,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1739
+    "id": 1570
   },
   {
     "name": "Restore Points",
@@ -5553,7 +5553,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1616
+    "id": 1447
   },
   {
     "name": "Restore Points Collections",
@@ -5564,7 +5564,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1632
+    "id": 1463
   },
   {
     "name": "Route Filters",
@@ -5575,7 +5575,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2105
+    "id": 1936
   },
   {
     "name": "Route Tables",
@@ -5586,7 +5586,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2128
+    "id": 1959
   },
   {
     "name": "Rtos",
@@ -5597,7 +5597,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1691
+    "id": 1522
   },
   {
     "name": "Savings Plans",
@@ -5608,7 +5608,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1756
+    "id": 1587
   },
   {
     "name": "Scheduler",
@@ -5619,7 +5619,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1974
+    "id": 1805
   },
   {
     "name": "Scheduler Job Collections",
@@ -5630,7 +5630,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2043
+    "id": 1874
   },
   {
     "name": "Scvmm Management Servers",
@@ -5641,7 +5641,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1729
+    "id": 1560
   },
   {
     "name": "Search",
@@ -5652,7 +5652,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1983
+    "id": 1814
   },
   {
     "name": "Search Grid",
@@ -5663,7 +5663,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1984
+    "id": 1815
   },
   {
     "name": "Security",
@@ -5674,7 +5674,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1902
+    "id": 1733
   },
   {
     "name": "Security Baselines",
@@ -5685,7 +5685,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1659
+    "id": 1490
   },
   {
     "name": "Security Center",
@@ -5696,7 +5696,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2149
+    "id": 1980
   },
   {
     "name": "Sendgrid Accounts",
@@ -5707,7 +5707,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1846
+    "id": 1677
   },
   {
     "name": "Server Farm",
@@ -5718,7 +5718,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1985
+    "id": 1816
   },
   {
     "name": "Service Catalog Mad",
@@ -5729,7 +5729,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2025
+    "id": 1856
   },
   {
     "name": "Service Endpoint Policies",
@@ -5740,7 +5740,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2094
+    "id": 1925
   },
   {
     "name": "Service Fabric Clusters",
@@ -5751,7 +5751,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1601
+    "id": 1432
   },
   {
     "name": "Service Fabric Clusters",
@@ -5762,7 +5762,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1671
+    "id": 1502
   },
   {
     "name": "Service Health",
@@ -5773,7 +5773,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1969
+    "id": 1800
   },
   {
     "name": "Service Providers",
@@ -5784,7 +5784,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2040
+    "id": 1871
   },
   {
     "name": "Shared Image Galleries",
@@ -5795,7 +5795,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1607
+    "id": 1438
   },
   {
     "name": "Signalr",
@@ -5806,7 +5806,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2082
+    "id": 1913
   },
   {
     "name": "Software As A Service",
@@ -5817,7 +5817,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1851
+    "id": 1682
   },
   {
     "name": "Software Updates",
@@ -5828,7 +5828,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1664
+    "id": 1495
   },
   {
     "name": "Solutions",
@@ -5839,7 +5839,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2020
+    "id": 1851
   },
   {
     "name": "Sonic Dash",
@@ -5850,7 +5850,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2048
+    "id": 1879
   },
   {
     "name": "Spatial Anchor Accounts",
@@ -5861,7 +5861,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1830
+    "id": 1661
   },
   {
     "name": "Speech Services",
@@ -5872,7 +5872,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1814
+    "id": 1645
   },
   {
     "name": "Spot Vm",
@@ -5883,7 +5883,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2113
+    "id": 1944
   },
   {
     "name": "Spot Vmss",
@@ -5894,7 +5894,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2120
+    "id": 1951
   },
   {
     "name": "Sql Data Warehouses",
@@ -5905,7 +5905,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1586
+    "id": 1417
   },
   {
     "name": "Sql Data Warehouses",
@@ -5916,7 +5916,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1858
+    "id": 1689
   },
   {
     "name": "Sql Database",
@@ -5927,7 +5927,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1572
+    "id": 1403
   },
   {
     "name": "Sql Elastic Pools",
@@ -5938,7 +5938,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1583
+    "id": 1414
   },
   {
     "name": "Sql Managed Instance",
@@ -5949,7 +5949,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1570
+    "id": 1401
   },
   {
     "name": "Sql Server",
@@ -5960,7 +5960,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1587
+    "id": 1418
   },
   {
     "name": "Sql Server Registries",
@@ -5971,7 +5971,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1588
+    "id": 1419
   },
   {
     "name": "Ssd",
@@ -5982,7 +5982,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1928
+    "id": 1759
   },
   {
     "name": "Ssh Keys",
@@ -5993,7 +5993,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1712
+    "id": 1543
   },
   {
     "name": "Ssis Lift And Shift Ir",
@@ -6004,7 +6004,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1569
+    "id": 1400
   },
   {
     "name": "Static Apps",
@@ -6015,7 +6015,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2088
+    "id": 1919
   },
   {
     "name": "Storage Accounts",
@@ -6026,7 +6026,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1637
+    "id": 1468
   },
   {
     "name": "Storage Accounts (classic)",
@@ -6037,7 +6037,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1648
+    "id": 1479
   },
   {
     "name": "Storage Azure Files",
@@ -6048,7 +6048,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1924
+    "id": 1755
   },
   {
     "name": "Storage Container",
@@ -6059,7 +6059,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1960
+    "id": 1791
   },
   {
     "name": "Storage Explorer",
@@ -6070,7 +6070,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1636
+    "id": 1467
   },
   {
     "name": "Storage Queue",
@@ -6081,7 +6081,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1930
+    "id": 1761
   },
   {
     "name": "Storage Sync Services",
@@ -6092,7 +6092,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1642
+    "id": 1473
   },
   {
     "name": "Storage Tasks",
@@ -6103,7 +6103,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2064
+    "id": 1895
   },
   {
     "name": "Storsimple Data Managers",
@@ -6114,7 +6114,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1646
+    "id": 1477
   },
   {
     "name": "Storsimple Device Managers",
@@ -6125,7 +6125,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1857
+    "id": 1688
   },
   {
     "name": "Storsimple Device Managers",
@@ -6136,7 +6136,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1647
+    "id": 1478
   },
   {
     "name": "Stream Analytics Jobs",
@@ -6147,7 +6147,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2180
+    "id": 2011
   },
   {
     "name": "Stream Analytics Jobs",
@@ -6158,7 +6158,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1879
+    "id": 1710
   },
   {
     "name": "Subnet",
@@ -6169,7 +6169,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2121
+    "id": 1952
   },
   {
     "name": "Subscriptions",
@@ -6180,7 +6180,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1958
+    "id": 1789
   },
   {
     "name": "System Topic",
@@ -6191,7 +6191,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1845
+    "id": 1676
   },
   {
     "name": "Table",
@@ -6202,7 +6202,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1972
+    "id": 1803
   },
   {
     "name": "Tag",
@@ -6213,7 +6213,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1919
+    "id": 1750
   },
   {
     "name": "Tags",
@@ -6224,7 +6224,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1955
+    "id": 1786
   },
   {
     "name": "Targets Management",
@@ -6235,7 +6235,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1681
+    "id": 1512
   },
   {
     "name": "Template Specs",
@@ -6246,7 +6246,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1690
+    "id": 1521
   },
   {
     "name": "Templates",
@@ -6257,7 +6257,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1941
+    "id": 1772
   },
   {
     "name": "Tenant Properties",
@@ -6268,7 +6268,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1910
+    "id": 1741
   },
   {
     "name": "Tenant Status",
@@ -6279,7 +6279,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1662
+    "id": 1493
   },
   {
     "name": "Test Base",
@@ -6290,7 +6290,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1770
+    "id": 1601
   },
   {
     "name": "Tfs Vc Repository",
@@ -6301,7 +6301,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1935
+    "id": 1766
   },
   {
     "name": "Time Series Data Sets",
@@ -6312,7 +6312,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1888
+    "id": 1719
   },
   {
     "name": "Time Series Insights Access Policies",
@@ -6323,7 +6323,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1875
+    "id": 1706
   },
   {
     "name": "Time Series Insights Environments",
@@ -6334,7 +6334,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1885
+    "id": 1716
   },
   {
     "name": "Time Series Insights Event Sources",
@@ -6345,7 +6345,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1868
+    "id": 1699
   },
   {
     "name": "Toolbox",
@@ -6356,7 +6356,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1931
+    "id": 1762
   },
   {
     "name": "Traffic Manager Profiles",
@@ -6367,7 +6367,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2123
+    "id": 1954
   },
   {
     "name": "Translator Text",
@@ -6378,7 +6378,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1827
+    "id": 1658
   },
   {
     "name": "Troubleshoot",
@@ -6389,7 +6389,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1916
+    "id": 1747
   },
   {
     "name": "Universal Print",
@@ -6400,7 +6400,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2017
+    "id": 1848
   },
   {
     "name": "Update Management Center",
@@ -6411,7 +6411,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1728
+    "id": 1559
   },
   {
     "name": "Updates",
@@ -6422,7 +6422,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1795
+    "id": 1626
   },
   {
     "name": "User Privacy",
@@ -6433,7 +6433,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2038
+    "id": 1869
   },
   {
     "name": "User Settings",
@@ -6444,7 +6444,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1896
+    "id": 1727
   },
   {
     "name": "User Settings",
@@ -6455,7 +6455,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2150
+    "id": 1981
   },
   {
     "name": "User Subscriptions",
@@ -6466,7 +6466,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1800
+    "id": 1631
   },
   {
     "name": "Users",
@@ -6477,7 +6477,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1905
+    "id": 1736
   },
   {
     "name": "Verifiable Credentials",
@@ -6488,7 +6488,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1904
+    "id": 1735
   },
   {
     "name": "Versions",
@@ -6499,7 +6499,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1936
+    "id": 1767
   },
   {
     "name": "Video Analyzers",
@@ -6510,7 +6510,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1688
+    "id": 1519
   },
   {
     "name": "Virtual Clusters",
@@ -6521,7 +6521,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1582
+    "id": 1413
   },
   {
     "name": "Virtual Instance for Sap",
@@ -6532,7 +6532,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1738
+    "id": 1569
   },
   {
     "name": "Virtual Machine",
@@ -6543,7 +6543,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1626
+    "id": 1457
   },
   {
     "name": "Virtual Machines (classic)",
@@ -6554,7 +6554,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1622
+    "id": 1453
   },
   {
     "name": "Virtual Network Gateways",
@@ -6565,7 +6565,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2118
+    "id": 1949
   },
   {
     "name": "Virtual Networks",
@@ -6576,7 +6576,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2129
+    "id": 1960
   },
   {
     "name": "Virtual Networks (classic)",
@@ -6587,7 +6587,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2126
+    "id": 1957
   },
   {
     "name": "Virtual Router",
@@ -6598,7 +6598,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2097
+    "id": 1928
   },
   {
     "name": "Virtual Visits Builder",
@@ -6609,7 +6609,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1746
+    "id": 1577
   },
   {
     "name": "Virtual Wan Hub",
@@ -6620,7 +6620,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2103
+    "id": 1934
   },
   {
     "name": "Virtual Wans",
@@ -6631,7 +6631,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2095
+    "id": 1926
   },
   {
     "name": "Vm App Definitions",
@@ -6642,7 +6642,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1763
+    "id": 1594
   },
   {
     "name": "Vm App Versions",
@@ -6653,7 +6653,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1734
+    "id": 1565
   },
   {
     "name": "Vm Image Version",
@@ -6664,7 +6664,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1779
+    "id": 1610
   },
   {
     "name": "Vm Images (classic)",
@@ -6675,7 +6675,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1620
+    "id": 1451
   },
   {
     "name": "Vm Scale Sets",
@@ -6686,7 +6686,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1619
+    "id": 1450
   },
   {
     "name": "Wac",
@@ -6697,7 +6697,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1699
+    "id": 1530
   },
   {
     "name": "Web App + Database",
@@ -6708,7 +6708,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2063
+    "id": 1894
   },
   {
     "name": "Web Application Firewall Policies(waf)",
@@ -6719,7 +6719,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2115
+    "id": 1946
   },
   {
     "name": "Web Jobs",
@@ -6730,7 +6730,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2066
+    "id": 1897
   },
   {
     "name": "Web Slots",
@@ -6741,7 +6741,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2007
+    "id": 1838
   },
   {
     "name": "Web Test",
@@ -6752,7 +6752,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1979
+    "id": 1810
   },
   {
     "name": "Website Power",
@@ -6763,7 +6763,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1970
+    "id": 1801
   },
   {
     "name": "Website Staging",
@@ -6774,7 +6774,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2008
+    "id": 1839
   },
   {
     "name": "Windows Notification Services",
@@ -6785,7 +6785,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2051
+    "id": 1882
   },
   {
     "name": "Windows10 Core Services",
@@ -6796,7 +6796,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1887
+    "id": 1718
   },
   {
     "name": "Workbooks",
@@ -6807,7 +6807,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2004
+    "id": 1835
   },
   {
     "name": "Worker Container App",
@@ -6818,7 +6818,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2061
+    "id": 1892
   },
   {
     "name": "Workflow",
@@ -6829,7 +6829,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2001
+    "id": 1832
   },
   {
     "name": "Workspaces",
@@ -6840,7 +6840,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1621
+    "id": 1452
   },
   {
     "name": "Workspaces",
@@ -6851,7 +6851,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1627
+    "id": 1458
   },
   {
     "name": "Copilot (general)",
@@ -6862,7 +6862,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 295
+    "id": 279
   },
   {
     "name": "Copilot (general)",
@@ -6873,7 +6873,7 @@ const logoData = [
     "year": "current",
     "size": "250x250",
     "format": "PNG",
-    "id": 305
+    "id": 289
   },
   {
     "name": "Copilot (general)",
@@ -6884,7 +6884,7 @@ const logoData = [
     "year": "current",
     "size": "300x250",
     "format": "PNG",
-    "id": 300
+    "id": 284
   },
   {
     "name": "Copilot for Finance",
@@ -6895,7 +6895,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 307
+    "id": 291
   },
   {
     "name": "Copilot for Finance 256x256 Padded",
@@ -6906,7 +6906,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 299
+    "id": 283
   },
   {
     "name": "Copilot for Sales",
@@ -6917,7 +6917,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 301
+    "id": 285
   },
   {
     "name": "Copilot for Sales 256x256 Padded",
@@ -6928,7 +6928,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 294
+    "id": 278
   },
   {
     "name": "Copilot for Service",
@@ -6939,7 +6939,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 306
+    "id": 290
   },
   {
     "name": "Copilot for Service 256x256 Padded",
@@ -6950,7 +6950,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 304
+    "id": 288
   },
   {
     "name": "Dragon Copilot",
@@ -6961,7 +6961,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 297
+    "id": 281
   },
   {
     "name": "Dragon Copilot",
@@ -6972,7 +6972,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 298
+    "id": 282
   },
   {
     "name": "Github Copilot",
@@ -6983,7 +6983,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 302
+    "id": 286
   },
   {
     "name": "Github Copilot 256x256 Padded",
@@ -6994,7 +6994,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 303
+    "id": 287
   },
   {
     "name": "Github Copilot Monochrome",
@@ -7005,7 +7005,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 296
+    "id": 280
   },
   {
     "name": "Businesscentral",
@@ -7013,7 +7013,7 @@ const logoData = [
     "filename": "BusinessCentral_scalable.svg",
     "path": "Dynamics_365/Business_Central/2019-2025/BusinessCentral_scalable.svg",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2019-2025",
     "size": "",
     "format": "SVG",
     "id": 2
@@ -7101,7 +7101,7 @@ const logoData = [
     "filename": "CustomerInsights_scalable.svg",
     "path": "Dynamics_365/zzFORMER_PRODUCTS/Customer_Insights_and_Marketing/2019-2023/CustomerInsights_scalable.svg",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2019-2023",
     "size": "",
     "format": "SVG",
     "id": 3
@@ -7376,7 +7376,7 @@ const logoData = [
     "filename": "Marketing_scalable.svg",
     "path": "Dynamics_365/zzFORMER_PRODUCTS/Customer_Insights_and_Marketing/2019-2023/Marketing_scalable.svg",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2019-2023",
     "size": "",
     "format": "SVG",
     "id": 4
@@ -7643,7 +7643,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 2197
+    "id": 2028
   },
   {
     "name": "Azure Ad",
@@ -7654,7 +7654,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 2196
+    "id": 2027
   },
   {
     "name": "Azure Ad Black & White",
@@ -7665,7 +7665,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 2195
+    "id": 2026
   },
   {
     "name": "Microsoft Entra Bw Icon (product Family)",
@@ -7676,7 +7676,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2185
+    "id": 2016
   },
   {
     "name": "Microsoft Entra Id Bw Icon",
@@ -7687,7 +7687,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2188
+    "id": 2019
   },
   {
     "name": "Microsoft Entra Id Color Icon",
@@ -7698,7 +7698,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 2193
+    "id": 2024
   },
   {
     "name": "Microsoft Entra Id Color Icon",
@@ -7709,7 +7709,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2189
+    "id": 2020
   },
   {
     "name": "Microsoft Entra Id Filled Bw Icon",
@@ -7720,7 +7720,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2190
+    "id": 2021
   },
   {
     "name": "Microsoft Entra Id Governance Bw Icon",
@@ -7731,7 +7731,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2192
+    "id": 2023
   },
   {
     "name": "Microsoft Entra Id Governance Color Icon",
@@ -7742,7 +7742,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2186
+    "id": 2017
   },
   {
     "name": "Microsoft Entra Product Family",
@@ -7753,7 +7753,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2191
+    "id": 2022
   },
   {
     "name": "Microsoft Entra Verified Id Bw Icon",
@@ -7764,7 +7764,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2194
+    "id": 2025
   },
   {
     "name": "Microsoft Entra Verified Id Color Icon",
@@ -7775,7 +7775,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 2187
+    "id": 2018
   },
   {
     "name": "Apps",
@@ -7786,7 +7786,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 329
+    "id": 313
   },
   {
     "name": "Azure Sql",
@@ -7797,7 +7797,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 354
+    "id": 338
   },
   {
     "name": "Azure Synapse Link",
@@ -7808,7 +7808,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 349
+    "id": 333
   },
   {
     "name": "Dashboard",
@@ -7819,7 +7819,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 350
+    "id": 334
   },
   {
     "name": "Data Activator 48 Color",
@@ -7830,7 +7830,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 319
+    "id": 303
   },
   {
     "name": "Data Activator 512 Color",
@@ -7841,7 +7841,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 316
+    "id": 300
   },
   {
     "name": "Data Factory 48 Color",
@@ -7852,7 +7852,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 315
+    "id": 299
   },
   {
     "name": "Data Factory 512 Color",
@@ -7863,7 +7863,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 309
+    "id": 293
   },
   {
     "name": "Data Warehouse",
@@ -7874,7 +7874,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 343
+    "id": 327
   },
   {
     "name": "Data Warehouse (legacy)",
@@ -7882,10 +7882,10 @@ const logoData = [
     "filename": "Data_Warehouse_(legacy).svg",
     "path": "Fabric/Icons/Data_Warehouse_(legacy).svg",
     "style": "full-color",
-    "year": "legacy",
+    "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 351
+    "id": 335
   },
   {
     "name": "Dataflow",
@@ -7896,7 +7896,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 342
+    "id": 326
   },
   {
     "name": "Datamart",
@@ -7907,7 +7907,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 330
+    "id": 314
   },
   {
     "name": "Dataset",
@@ -7918,7 +7918,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 344
+    "id": 328
   },
   {
     "name": "Dataverse",
@@ -7929,7 +7929,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 353
+    "id": 337
   },
   {
     "name": "Experiments",
@@ -7940,7 +7940,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 337
+    "id": 321
   },
   {
     "name": "External Dataflow",
@@ -7951,7 +7951,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 335
+    "id": 319
   },
   {
     "name": "External Datamart",
@@ -7962,7 +7962,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 338
+    "id": 322
   },
   {
     "name": "External Dataset",
@@ -7973,7 +7973,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 357
+    "id": 341
   },
   {
     "name": "Fabric 256",
@@ -7984,7 +7984,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 310
+    "id": 294
   },
   {
     "name": "Fabric 256",
@@ -7995,7 +7995,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 320
+    "id": 304
   },
   {
     "name": "Fabric 256 Padded",
@@ -8006,7 +8006,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 314
+    "id": 298
   },
   {
     "name": "Kql Database",
@@ -8017,7 +8017,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 333
+    "id": 317
   },
   {
     "name": "Kql Queryset",
@@ -8028,7 +8028,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 339
+    "id": 323
   },
   {
     "name": "Lakehouse",
@@ -8039,7 +8039,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 359
+    "id": 343
   },
   {
     "name": "Links",
@@ -8050,7 +8050,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 352
+    "id": 336
   },
   {
     "name": "Models",
@@ -8061,7 +8061,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 355
+    "id": 339
   },
   {
     "name": "No Access Dataset",
@@ -8072,7 +8072,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 340
+    "id": 324
   },
   {
     "name": "Notebook",
@@ -8083,7 +8083,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 328
+    "id": 312
   },
   {
     "name": "Onelake 48 Color",
@@ -8094,7 +8094,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 312
+    "id": 296
   },
   {
     "name": "Onelake 512 Color",
@@ -8105,7 +8105,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 323
+    "id": 307
   },
   {
     "name": "Paginated Reports",
@@ -8116,7 +8116,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 331
+    "id": 315
   },
   {
     "name": "Pipelines",
@@ -8127,7 +8127,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 327
+    "id": 311
   },
   {
     "name": "Power Bi 48 Color",
@@ -8138,7 +8138,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 324
+    "id": 308
   },
   {
     "name": "Power Bi 512 Color",
@@ -8149,7 +8149,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 318
+    "id": 302
   },
   {
     "name": "Purview",
@@ -8160,7 +8160,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 341
+    "id": 325
   },
   {
     "name": "Real Time Dashboard",
@@ -8171,7 +8171,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 336
+    "id": 320
   },
   {
     "name": "Report",
@@ -8182,7 +8182,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 346
+    "id": 330
   },
   {
     "name": "Scorecard",
@@ -8193,7 +8193,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 334
+    "id": 318
   },
   {
     "name": "Shared Dataset",
@@ -8204,7 +8204,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 358
+    "id": 342
   },
   {
     "name": "Spark Job",
@@ -8215,7 +8215,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 332
+    "id": 316
   },
   {
     "name": "Streaming Dataflow",
@@ -8226,7 +8226,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 347
+    "id": 331
   },
   {
     "name": "Streaming Dataset",
@@ -8237,7 +8237,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 345
+    "id": 329
   },
   {
     "name": "Synapse Data Engineering 48 Color",
@@ -8248,7 +8248,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 325
+    "id": 309
   },
   {
     "name": "Synapse Data Engineering 512 Color",
@@ -8259,7 +8259,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 308
+    "id": 292
   },
   {
     "name": "Synapse Data Science 48 Color",
@@ -8270,7 +8270,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 322
+    "id": 306
   },
   {
     "name": "Synapse Data Science 512 Color",
@@ -8281,7 +8281,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 321
+    "id": 305
   },
   {
     "name": "Synapse Data Warehouse 48 Color",
@@ -8292,7 +8292,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 317
+    "id": 301
   },
   {
     "name": "Synapse Data Warehouse 512 Color",
@@ -8303,7 +8303,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 311
+    "id": 295
   },
   {
     "name": "Synapse Real Time Analytics 48 Color",
@@ -8314,7 +8314,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 313
+    "id": 297
   },
   {
     "name": "Synapse Real Time Analytics 512 Color",
@@ -8325,7 +8325,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 326
+    "id": 310
   },
   {
     "name": "Workbook",
@@ -8336,7 +8336,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 348
+    "id": 332
   },
   {
     "name": "Workspace",
@@ -8347,18 +8347,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 356
-  },
-  {
-    "name": "Access",
-    "family": "Microsoft_365",
-    "filename": "Access.pdf",
-    "path": "Microsoft_365/Access/2013-2019_negative-format/Access.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 763
+    "id": 340
   },
   {
     "name": "Access",
@@ -8366,10 +8355,10 @@ const logoData = [
     "filename": "Access_128x128.png",
     "path": "Microsoft_365/Access/2013-2019_negative-format/Access_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 760
+    "id": 684
   },
   {
     "name": "Access",
@@ -8377,10 +8366,10 @@ const logoData = [
     "filename": "Access_256x256.png",
     "path": "Microsoft_365/Access/2013-2019_negative-format/Access_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 761
+    "id": 685
   },
   {
     "name": "Access",
@@ -8388,10 +8377,10 @@ const logoData = [
     "filename": "Access_48x48.png",
     "path": "Microsoft_365/Access/2013-2019_negative-format/Access_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 762
+    "id": 686
   },
   {
     "name": "Access",
@@ -8399,10 +8388,10 @@ const logoData = [
     "filename": "Access_64x64.png",
     "path": "Microsoft_365/Access/2013-2019_negative-format/Access_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 759
+    "id": 683
   },
   {
     "name": "Access",
@@ -8410,21 +8399,10 @@ const logoData = [
     "filename": "Access_96x96.png",
     "path": "Microsoft_365/Access/2013-2019_negative-format/Access_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 758
-  },
-  {
-    "name": "Access",
-    "family": "Microsoft_365",
-    "filename": "Access.pdf",
-    "path": "Microsoft_365/Access/2013-2019_postive-format/Access.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 751
+    "id": 682
   },
   {
     "name": "Access",
@@ -8432,10 +8410,10 @@ const logoData = [
     "filename": "Access_128x128.png",
     "path": "Microsoft_365/Access/2013-2019_postive-format/Access_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 748
+    "id": 674
   },
   {
     "name": "Access",
@@ -8443,10 +8421,10 @@ const logoData = [
     "filename": "Access_256x256.png",
     "path": "Microsoft_365/Access/2013-2019_postive-format/Access_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 749
+    "id": 675
   },
   {
     "name": "Access",
@@ -8454,10 +8432,10 @@ const logoData = [
     "filename": "Access_48x48.png",
     "path": "Microsoft_365/Access/2013-2019_postive-format/Access_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 750
+    "id": 676
   },
   {
     "name": "Access",
@@ -8465,10 +8443,10 @@ const logoData = [
     "filename": "Access_64x64.png",
     "path": "Microsoft_365/Access/2013-2019_postive-format/Access_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 747
+    "id": 673
   },
   {
     "name": "Access",
@@ -8476,21 +8454,10 @@ const logoData = [
     "filename": "Access_96x96.png",
     "path": "Microsoft_365/Access/2013-2019_postive-format/Access_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 746
-  },
-  {
-    "name": "Access",
-    "family": "Microsoft_365",
-    "filename": "Access.pdf",
-    "path": "Microsoft_365/Access/2019-2025_full-color/Access.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 745
+    "id": 672
   },
   {
     "name": "Access",
@@ -8498,10 +8465,10 @@ const logoData = [
     "filename": "Access_128x128.png",
     "path": "Microsoft_365/Access/2019-2025_full-color/Access_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 742
+    "id": 669
   },
   {
     "name": "Access",
@@ -8509,10 +8476,10 @@ const logoData = [
     "filename": "Access_256x256.png",
     "path": "Microsoft_365/Access/2019-2025_full-color/Access_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 743
+    "id": 670
   },
   {
     "name": "Access",
@@ -8520,10 +8487,10 @@ const logoData = [
     "filename": "Access_48x48.png",
     "path": "Microsoft_365/Access/2019-2025_full-color/Access_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 744
+    "id": 671
   },
   {
     "name": "Access",
@@ -8531,10 +8498,10 @@ const logoData = [
     "filename": "Access_64x64.png",
     "path": "Microsoft_365/Access/2019-2025_full-color/Access_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 741
+    "id": 668
   },
   {
     "name": "Access",
@@ -8542,21 +8509,10 @@ const logoData = [
     "filename": "Access_96x96.png",
     "path": "Microsoft_365/Access/2019-2025_full-color/Access_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 740
-  },
-  {
-    "name": "Access",
-    "family": "Microsoft_365",
-    "filename": "Access.pdf",
-    "path": "Microsoft_365/Access/2019-2025_monochromatic-negative/Access.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 757
+    "id": 667
   },
   {
     "name": "Access",
@@ -8564,10 +8520,10 @@ const logoData = [
     "filename": "Access_128x128.png",
     "path": "Microsoft_365/Access/2019-2025_monochromatic-negative/Access_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 754
+    "id": 679
   },
   {
     "name": "Access",
@@ -8575,10 +8531,10 @@ const logoData = [
     "filename": "Access_256x256.png",
     "path": "Microsoft_365/Access/2019-2025_monochromatic-negative/Access_256x256.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 755
+    "id": 680
   },
   {
     "name": "Access",
@@ -8586,10 +8542,10 @@ const logoData = [
     "filename": "Access_48x48.png",
     "path": "Microsoft_365/Access/2019-2025_monochromatic-negative/Access_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 756
+    "id": 681
   },
   {
     "name": "Access",
@@ -8597,10 +8553,10 @@ const logoData = [
     "filename": "Access_64x64.png",
     "path": "Microsoft_365/Access/2019-2025_monochromatic-negative/Access_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 753
+    "id": 678
   },
   {
     "name": "Access",
@@ -8608,21 +8564,10 @@ const logoData = [
     "filename": "Access_96x96.png",
     "path": "Microsoft_365/Access/2019-2025_monochromatic-negative/Access_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 752
-  },
-  {
-    "name": "Access",
-    "family": "Microsoft_365",
-    "filename": "Access.pdf",
-    "path": "Microsoft_365/Access/2019-2025_monochromatic-positive/Access.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 739
+    "id": 677
   },
   {
     "name": "Access",
@@ -8630,10 +8575,10 @@ const logoData = [
     "filename": "Access_128x128.png",
     "path": "Microsoft_365/Access/2019-2025_monochromatic-positive/Access_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 736
+    "id": 664
   },
   {
     "name": "Access",
@@ -8641,10 +8586,10 @@ const logoData = [
     "filename": "Access_256x256.png",
     "path": "Microsoft_365/Access/2019-2025_monochromatic-positive/Access_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 737
+    "id": 665
   },
   {
     "name": "Access",
@@ -8652,10 +8597,10 @@ const logoData = [
     "filename": "Access_48x48.png",
     "path": "Microsoft_365/Access/2019-2025_monochromatic-positive/Access_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 738
+    "id": 666
   },
   {
     "name": "Access",
@@ -8663,10 +8608,10 @@ const logoData = [
     "filename": "Access_64x64.png",
     "path": "Microsoft_365/Access/2019-2025_monochromatic-positive/Access_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 735
+    "id": 663
   },
   {
     "name": "Access",
@@ -8674,10 +8619,10 @@ const logoData = [
     "filename": "Access_96x96.png",
     "path": "Microsoft_365/Access/2019-2025_monochromatic-positive/Access_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 734
+    "id": 662
   },
   {
     "name": "Access 512",
@@ -8688,7 +8633,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 733
+    "id": 661
   },
   {
     "name": "Access 512 Padded",
@@ -8699,18 +8644,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 732
-  },
-  {
-    "name": "Bookings",
-    "family": "Microsoft_365",
-    "filename": "Bookings.pdf",
-    "path": "Microsoft_365/Bookings/2016-2024_negative-format/Bookings.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 369
+    "id": 660
   },
   {
     "name": "Bookings",
@@ -8718,10 +8652,10 @@ const logoData = [
     "filename": "Bookings_128x128.png",
     "path": "Microsoft_365/Bookings/2016-2024_negative-format/Bookings_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2024",
     "size": "128x128",
     "format": "PNG",
-    "id": 367
+    "id": 351
   },
   {
     "name": "Bookings",
@@ -8729,10 +8663,10 @@ const logoData = [
     "filename": "Bookings_256x256.png",
     "path": "Microsoft_365/Bookings/2016-2024_negative-format/Bookings_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2024",
     "size": "256x256",
     "format": "PNG",
-    "id": 370
+    "id": 353
   },
   {
     "name": "Bookings",
@@ -8740,10 +8674,10 @@ const logoData = [
     "filename": "Bookings_48x48.png",
     "path": "Microsoft_365/Bookings/2016-2024_negative-format/Bookings_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2024",
     "size": "48x48",
     "format": "PNG",
-    "id": 371
+    "id": 354
   },
   {
     "name": "Bookings",
@@ -8751,21 +8685,10 @@ const logoData = [
     "filename": "Bookings_64x64.png",
     "path": "Microsoft_365/Bookings/2016-2024_negative-format/Bookings_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2024",
     "size": "64x64",
     "format": "PNG",
-    "id": 366
-  },
-  {
-    "name": "Bookings",
-    "family": "Microsoft_365",
-    "filename": "Bookings.pdf",
-    "path": "Microsoft_365/Bookings/2016-2024_postive-format/Bookings.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 374
+    "id": 350
   },
   {
     "name": "Bookings",
@@ -8773,10 +8696,10 @@ const logoData = [
     "filename": "Bookings_128x128.png",
     "path": "Microsoft_365/Bookings/2016-2024_postive-format/Bookings_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2024",
     "size": "128x128",
     "format": "PNG",
-    "id": 373
+    "id": 356
   },
   {
     "name": "Bookings",
@@ -8784,10 +8707,10 @@ const logoData = [
     "filename": "Bookings_256x256.png",
     "path": "Microsoft_365/Bookings/2016-2024_postive-format/Bookings_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2024",
     "size": "256x256",
     "format": "PNG",
-    "id": 376
+    "id": 358
   },
   {
     "name": "Bookings",
@@ -8795,10 +8718,10 @@ const logoData = [
     "filename": "Bookings_48x48.png",
     "path": "Microsoft_365/Bookings/2016-2024_postive-format/Bookings_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2024",
     "size": "48x48",
     "format": "PNG",
-    "id": 377
+    "id": 359
   },
   {
     "name": "Bookings",
@@ -8806,10 +8729,10 @@ const logoData = [
     "filename": "Bookings_64x64.png",
     "path": "Microsoft_365/Bookings/2016-2024_postive-format/Bookings_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2024",
     "size": "64x64",
     "format": "PNG",
-    "id": 372
+    "id": 355
   },
   {
     "name": "Bookings",
@@ -8817,10 +8740,10 @@ const logoData = [
     "filename": "Bookings_96x96.png",
     "path": "Microsoft_365/Bookings/2016-2024_postive-format/Bookings_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2024",
     "size": "96x96",
     "format": "PNG",
-    "id": 375
+    "id": 357
   },
   {
     "name": "Bookings 96x96.",
@@ -8828,10 +8751,10 @@ const logoData = [
     "filename": "Bookings_96x96..png",
     "path": "Microsoft_365/Bookings/2016-2024_negative-format/Bookings_96x96..png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2024",
     "size": "96x96",
     "format": "PNG",
-    "id": 368
+    "id": 352
   },
   {
     "name": "Bookings Monochromatic",
@@ -8842,7 +8765,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 365
+    "id": 349
   },
   {
     "name": "Clipchamp",
@@ -8850,10 +8773,10 @@ const logoData = [
     "filename": "Clipchamp_256x256.png",
     "path": "Microsoft_365/Clipchamp/2022-2025/Clipchamp_256x256.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2022-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 730
+    "id": 658
   },
   {
     "name": "Clipchamp 512",
@@ -8864,7 +8787,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 729
+    "id": 657
   },
   {
     "name": "Clipchamp 512 Padded",
@@ -8875,7 +8798,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 728
+    "id": 656
   },
   {
     "name": "Clipchamp Logo",
@@ -8883,10 +8806,10 @@ const logoData = [
     "filename": "Clipchamp_Logo.png",
     "path": "Microsoft_365/Clipchamp/2022-2025/Clipchamp_Logo.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2022-2025",
     "size": "",
     "format": "PNG",
-    "id": 731
+    "id": 659
   },
   {
     "name": "Copilot In Excel",
@@ -8897,7 +8820,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 1055
+    "id": 929
   },
   {
     "name": "Copilot In Loop",
@@ -8908,7 +8831,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 1059
+    "id": 933
   },
   {
     "name": "Copilot In Outlook",
@@ -8919,7 +8842,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 1066
+    "id": 940
   },
   {
     "name": "Copilot In Powerpoint",
@@ -8930,7 +8853,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 1057
+    "id": 931
   },
   {
     "name": "Copilot In Teams",
@@ -8941,7 +8864,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 1061
+    "id": 935
   },
   {
     "name": "Copilot In Word",
@@ -8952,18 +8875,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 1058
-  },
-  {
-    "name": "Delve",
-    "family": "Microsoft_365",
-    "filename": "Delve.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2013-2019_negative-format/Delve.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 497
+    "id": 932
   },
   {
     "name": "Delve",
@@ -8971,10 +8883,10 @@ const logoData = [
     "filename": "Delve_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2013-2019_negative-format/Delve_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 499
+    "id": 462
   },
   {
     "name": "Delve",
@@ -8982,10 +8894,10 @@ const logoData = [
     "filename": "Delve_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2013-2019_negative-format/Delve_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 495
+    "id": 459
   },
   {
     "name": "Delve",
@@ -8993,10 +8905,10 @@ const logoData = [
     "filename": "Delve_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2013-2019_negative-format/Delve_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 496
+    "id": 460
   },
   {
     "name": "Delve",
@@ -9004,21 +8916,10 @@ const logoData = [
     "filename": "Delve_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2013-2019_negative-format/Delve_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 494
-  },
-  {
-    "name": "Delve",
-    "family": "Microsoft_365",
-    "filename": "Delve.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2013-2019_postive-format/Delve.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 485
+    "id": 458
   },
   {
     "name": "Delve",
@@ -9026,10 +8927,10 @@ const logoData = [
     "filename": "Delve_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2013-2019_postive-format/Delve_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 486
+    "id": 451
   },
   {
     "name": "Delve",
@@ -9037,10 +8938,10 @@ const logoData = [
     "filename": "Delve_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2013-2019_postive-format/Delve_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 483
+    "id": 449
   },
   {
     "name": "Delve",
@@ -9048,10 +8949,10 @@ const logoData = [
     "filename": "Delve_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2013-2019_postive-format/Delve_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 484
+    "id": 450
   },
   {
     "name": "Delve",
@@ -9059,10 +8960,10 @@ const logoData = [
     "filename": "Delve_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2013-2019_postive-format/Delve_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 482
+    "id": 448
   },
   {
     "name": "Delve",
@@ -9070,21 +8971,10 @@ const logoData = [
     "filename": "Delve_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2013-2019_postive-format/Delve_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 481
-  },
-  {
-    "name": "Delve",
-    "family": "Microsoft_365",
-    "filename": "Delve.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2019-2025_full-color/Delve.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 479
+    "id": 447
   },
   {
     "name": "Delve",
@@ -9092,10 +8982,10 @@ const logoData = [
     "filename": "Delve_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2019-2025_full-color/Delve_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 480
+    "id": 446
   },
   {
     "name": "Delve",
@@ -9103,10 +8993,10 @@ const logoData = [
     "filename": "Delve_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2019-2025_full-color/Delve_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 476
+    "id": 443
   },
   {
     "name": "Delve",
@@ -9114,10 +9004,10 @@ const logoData = [
     "filename": "Delve_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2019-2025_full-color/Delve_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 477
+    "id": 444
   },
   {
     "name": "Delve",
@@ -9125,10 +9015,10 @@ const logoData = [
     "filename": "Delve_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2019-2025_full-color/Delve_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 475
+    "id": 442
   },
   {
     "name": "Delve",
@@ -9136,10 +9026,10 @@ const logoData = [
     "filename": "Delve_85x85.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2019-2025_full-color/Delve_85x85.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "85x85",
     "format": "PNG",
-    "id": 478
+    "id": 445
   },
   {
     "name": "Delve",
@@ -9147,21 +9037,10 @@ const logoData = [
     "filename": "Delve_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2019-2025_full-color/Delve_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 474
-  },
-  {
-    "name": "Delve",
-    "family": "Microsoft_365",
-    "filename": "Delve.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2019-2025_monochromatic-negative/Delve.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 492
+    "id": 441
   },
   {
     "name": "Delve",
@@ -9169,10 +9048,10 @@ const logoData = [
     "filename": "Delve_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2019-2025_monochromatic-negative/Delve_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 493
+    "id": 457
   },
   {
     "name": "Delve",
@@ -9180,10 +9059,10 @@ const logoData = [
     "filename": "Delve_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2019-2025_monochromatic-negative/Delve_256x256.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 489
+    "id": 454
   },
   {
     "name": "Delve",
@@ -9191,10 +9070,10 @@ const logoData = [
     "filename": "Delve_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2019-2025_monochromatic-negative/Delve_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 490
+    "id": 455
   },
   {
     "name": "Delve",
@@ -9202,10 +9081,10 @@ const logoData = [
     "filename": "Delve_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2019-2025_monochromatic-negative/Delve_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 488
+    "id": 453
   },
   {
     "name": "Delve",
@@ -9213,10 +9092,10 @@ const logoData = [
     "filename": "Delve_85x85.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2019-2025_monochromatic-negative/Delve_85x85.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "85x85",
     "format": "PNG",
-    "id": 491
+    "id": 456
   },
   {
     "name": "Delve",
@@ -9224,21 +9103,10 @@ const logoData = [
     "filename": "Delve_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2019-2025_monochromatic-negative/Delve_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 487
-  },
-  {
-    "name": "Delve",
-    "family": "Microsoft_365",
-    "filename": "Delve.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2019-2025_monochromatic-positive/Delve.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 472
+    "id": 452
   },
   {
     "name": "Delve",
@@ -9246,10 +9114,10 @@ const logoData = [
     "filename": "Delve_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2019-2025_monochromatic-positive/Delve_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 473
+    "id": 440
   },
   {
     "name": "Delve",
@@ -9257,10 +9125,10 @@ const logoData = [
     "filename": "Delve_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2019-2025_monochromatic-positive/Delve_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 469
+    "id": 437
   },
   {
     "name": "Delve",
@@ -9268,10 +9136,10 @@ const logoData = [
     "filename": "Delve_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2019-2025_monochromatic-positive/Delve_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 470
+    "id": 438
   },
   {
     "name": "Delve",
@@ -9279,10 +9147,10 @@ const logoData = [
     "filename": "Delve_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2019-2025_monochromatic-positive/Delve_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 468
+    "id": 436
   },
   {
     "name": "Delve",
@@ -9290,10 +9158,10 @@ const logoData = [
     "filename": "Delve_85x85.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2019-2025_monochromatic-positive/Delve_85x85.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "85x85",
     "format": "PNG",
-    "id": 471
+    "id": 439
   },
   {
     "name": "Delve",
@@ -9301,10 +9169,10 @@ const logoData = [
     "filename": "Delve_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2019-2025_monochromatic-positive/Delve_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 467
+    "id": 435
   },
   {
     "name": "Delve 96x96.",
@@ -9312,21 +9180,10 @@ const logoData = [
     "filename": "Delve_96x96..png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Delve/2013-2019_negative-format/Delve_96x96..png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 498
-  },
-  {
-    "name": "Excel",
-    "family": "Microsoft_365",
-    "filename": "Excel.pdf",
-    "path": "Microsoft_365/Excel/2013-2019_negative-format/Excel.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 639
+    "id": 461
   },
   {
     "name": "Excel",
@@ -9334,10 +9191,10 @@ const logoData = [
     "filename": "Excel_128x128.png",
     "path": "Microsoft_365/Excel/2013-2019_negative-format/Excel_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 638
+    "id": 580
   },
   {
     "name": "Excel",
@@ -9345,10 +9202,10 @@ const logoData = [
     "filename": "Excel_256x256.png",
     "path": "Microsoft_365/Excel/2013-2019_negative-format/Excel_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 635
+    "id": 577
   },
   {
     "name": "Excel",
@@ -9356,10 +9213,10 @@ const logoData = [
     "filename": "Excel_48x48.png",
     "path": "Microsoft_365/Excel/2013-2019_negative-format/Excel_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 637
+    "id": 579
   },
   {
     "name": "Excel",
@@ -9367,10 +9224,10 @@ const logoData = [
     "filename": "Excel_64x64.png",
     "path": "Microsoft_365/Excel/2013-2019_negative-format/Excel_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 636
+    "id": 578
   },
   {
     "name": "Excel",
@@ -9378,21 +9235,10 @@ const logoData = [
     "filename": "Excel_96x96.png",
     "path": "Microsoft_365/Excel/2013-2019_negative-format/Excel_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 634
-  },
-  {
-    "name": "Excel",
-    "family": "Microsoft_365",
-    "filename": "Excel.pdf",
-    "path": "Microsoft_365/Excel/2013-2019_postive-format/Excel.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 627
+    "id": 576
   },
   {
     "name": "Excel",
@@ -9400,10 +9246,10 @@ const logoData = [
     "filename": "Excel_128x128.png",
     "path": "Microsoft_365/Excel/2013-2019_postive-format/Excel_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 626
+    "id": 570
   },
   {
     "name": "Excel",
@@ -9411,10 +9257,10 @@ const logoData = [
     "filename": "Excel_256x256.png",
     "path": "Microsoft_365/Excel/2013-2019_postive-format/Excel_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 623
+    "id": 567
   },
   {
     "name": "Excel",
@@ -9422,10 +9268,10 @@ const logoData = [
     "filename": "Excel_48x48.png",
     "path": "Microsoft_365/Excel/2013-2019_postive-format/Excel_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 625
+    "id": 569
   },
   {
     "name": "Excel",
@@ -9433,10 +9279,10 @@ const logoData = [
     "filename": "Excel_64x64.png",
     "path": "Microsoft_365/Excel/2013-2019_postive-format/Excel_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 624
+    "id": 568
   },
   {
     "name": "Excel",
@@ -9444,21 +9290,10 @@ const logoData = [
     "filename": "Excel_96x96.png",
     "path": "Microsoft_365/Excel/2013-2019_postive-format/Excel_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 622
-  },
-  {
-    "name": "Excel",
-    "family": "Microsoft_365",
-    "filename": "Excel.pdf",
-    "path": "Microsoft_365/Excel/2019-2025_full-color/Excel.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 621
+    "id": 566
   },
   {
     "name": "Excel",
@@ -9466,10 +9301,10 @@ const logoData = [
     "filename": "Excel_128x128.png",
     "path": "Microsoft_365/Excel/2019-2025_full-color/Excel_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 620
+    "id": 565
   },
   {
     "name": "Excel",
@@ -9477,10 +9312,10 @@ const logoData = [
     "filename": "Excel_256x256.png",
     "path": "Microsoft_365/Excel/2019-2025_full-color/Excel_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 617
+    "id": 562
   },
   {
     "name": "Excel",
@@ -9488,10 +9323,10 @@ const logoData = [
     "filename": "Excel_48x48.png",
     "path": "Microsoft_365/Excel/2019-2025_full-color/Excel_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 619
+    "id": 564
   },
   {
     "name": "Excel",
@@ -9499,10 +9334,10 @@ const logoData = [
     "filename": "Excel_64x64.png",
     "path": "Microsoft_365/Excel/2019-2025_full-color/Excel_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 618
+    "id": 563
   },
   {
     "name": "Excel",
@@ -9510,21 +9345,10 @@ const logoData = [
     "filename": "Excel_96x96.png",
     "path": "Microsoft_365/Excel/2019-2025_full-color/Excel_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 616
-  },
-  {
-    "name": "Excel",
-    "family": "Microsoft_365",
-    "filename": "Excel.pdf",
-    "path": "Microsoft_365/Excel/2019-2025_monochromatic-negative/Excel.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 633
+    "id": 561
   },
   {
     "name": "Excel",
@@ -9532,10 +9356,10 @@ const logoData = [
     "filename": "Excel_128x128.png",
     "path": "Microsoft_365/Excel/2019-2025_monochromatic-negative/Excel_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 632
+    "id": 575
   },
   {
     "name": "Excel",
@@ -9543,10 +9367,10 @@ const logoData = [
     "filename": "Excel_256x256.png",
     "path": "Microsoft_365/Excel/2019-2025_monochromatic-negative/Excel_256x256.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 629
+    "id": 572
   },
   {
     "name": "Excel",
@@ -9554,10 +9378,10 @@ const logoData = [
     "filename": "Excel_48x48.png",
     "path": "Microsoft_365/Excel/2019-2025_monochromatic-negative/Excel_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 631
+    "id": 574
   },
   {
     "name": "Excel",
@@ -9565,10 +9389,10 @@ const logoData = [
     "filename": "Excel_64x64.png",
     "path": "Microsoft_365/Excel/2019-2025_monochromatic-negative/Excel_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 630
+    "id": 573
   },
   {
     "name": "Excel",
@@ -9576,21 +9400,10 @@ const logoData = [
     "filename": "Excel_96x96.png",
     "path": "Microsoft_365/Excel/2019-2025_monochromatic-negative/Excel_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 628
-  },
-  {
-    "name": "Excel",
-    "family": "Microsoft_365",
-    "filename": "Excel.pdf",
-    "path": "Microsoft_365/Excel/2019-2025_monochromatic-positive/Excel.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 615
+    "id": 571
   },
   {
     "name": "Excel",
@@ -9598,10 +9411,10 @@ const logoData = [
     "filename": "Excel_128x128.png",
     "path": "Microsoft_365/Excel/2019-2025_monochromatic-positive/Excel_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 614
+    "id": 560
   },
   {
     "name": "Excel",
@@ -9609,10 +9422,10 @@ const logoData = [
     "filename": "Excel_256x256.png",
     "path": "Microsoft_365/Excel/2019-2025_monochromatic-positive/Excel_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 611
+    "id": 557
   },
   {
     "name": "Excel",
@@ -9620,10 +9433,10 @@ const logoData = [
     "filename": "Excel_48x48.png",
     "path": "Microsoft_365/Excel/2019-2025_monochromatic-positive/Excel_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 613
+    "id": 559
   },
   {
     "name": "Excel",
@@ -9631,10 +9444,10 @@ const logoData = [
     "filename": "Excel_64x64.png",
     "path": "Microsoft_365/Excel/2019-2025_monochromatic-positive/Excel_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 612
+    "id": 558
   },
   {
     "name": "Excel",
@@ -9642,10 +9455,10 @@ const logoData = [
     "filename": "Excel_96x96.png",
     "path": "Microsoft_365/Excel/2019-2025_monochromatic-positive/Excel_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 610
+    "id": 556
   },
   {
     "name": "Excel 1024x1024 (2025 Unofficial)",
@@ -9656,7 +9469,7 @@ const logoData = [
     "year": "current",
     "size": "1024x1024",
     "format": "PNG",
-    "id": 609
+    "id": 555
   },
   {
     "name": "Excel 512",
@@ -9667,7 +9480,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 608
+    "id": 554
   },
   {
     "name": "Excel 512 Padded",
@@ -9678,18 +9491,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 607
-  },
-  {
-    "name": "Exchange",
-    "family": "Microsoft_365",
-    "filename": "Exchange.pdf",
-    "path": "Microsoft_365/Exchange/2013-2019_negative-format/Exchange.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 603
+    "id": 553
   },
   {
     "name": "Exchange",
@@ -9697,10 +9499,10 @@ const logoData = [
     "filename": "Exchange_128x128.png",
     "path": "Microsoft_365/Exchange/2013-2019_negative-format/Exchange_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 601
+    "id": 548
   },
   {
     "name": "Exchange",
@@ -9708,10 +9510,10 @@ const logoData = [
     "filename": "Exchange_256x256.png",
     "path": "Microsoft_365/Exchange/2013-2019_negative-format/Exchange_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 602
+    "id": 549
   },
   {
     "name": "Exchange",
@@ -9719,10 +9521,10 @@ const logoData = [
     "filename": "Exchange_48x48.png",
     "path": "Microsoft_365/Exchange/2013-2019_negative-format/Exchange_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 605
+    "id": 551
   },
   {
     "name": "Exchange",
@@ -9730,10 +9532,10 @@ const logoData = [
     "filename": "Exchange_64x64.png",
     "path": "Microsoft_365/Exchange/2013-2019_negative-format/Exchange_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 606
+    "id": 552
   },
   {
     "name": "Exchange",
@@ -9741,21 +9543,10 @@ const logoData = [
     "filename": "Exchange_96x96.png",
     "path": "Microsoft_365/Exchange/2013-2019_negative-format/Exchange_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 604
-  },
-  {
-    "name": "Exchange",
-    "family": "Microsoft_365",
-    "filename": "Exchange.pdf",
-    "path": "Microsoft_365/Exchange/2013-2019_postive-format/Exchange.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 585
+    "id": 550
   },
   {
     "name": "Exchange",
@@ -9763,10 +9554,10 @@ const logoData = [
     "filename": "Exchange_128x128.png",
     "path": "Microsoft_365/Exchange/2013-2019_postive-format/Exchange_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 583
+    "id": 533
   },
   {
     "name": "Exchange",
@@ -9774,10 +9565,10 @@ const logoData = [
     "filename": "Exchange_256x256.png",
     "path": "Microsoft_365/Exchange/2013-2019_postive-format/Exchange_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 584
+    "id": 534
   },
   {
     "name": "Exchange",
@@ -9785,10 +9576,10 @@ const logoData = [
     "filename": "Exchange_48x48.png",
     "path": "Microsoft_365/Exchange/2013-2019_postive-format/Exchange_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 587
+    "id": 536
   },
   {
     "name": "Exchange",
@@ -9796,10 +9587,10 @@ const logoData = [
     "filename": "Exchange_64x64.png",
     "path": "Microsoft_365/Exchange/2013-2019_postive-format/Exchange_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 588
+    "id": 537
   },
   {
     "name": "Exchange",
@@ -9807,21 +9598,10 @@ const logoData = [
     "filename": "Exchange_96x96.png",
     "path": "Microsoft_365/Exchange/2013-2019_postive-format/Exchange_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 586
-  },
-  {
-    "name": "Exchange",
-    "family": "Microsoft_365",
-    "filename": "Exchange.pdf",
-    "path": "Microsoft_365/Exchange/2019-current_full-color/Exchange.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 597
+    "id": 535
   },
   {
     "name": "Exchange",
@@ -9829,10 +9609,10 @@ const logoData = [
     "filename": "Exchange_128x128.png",
     "path": "Microsoft_365/Exchange/2019-current_full-color/Exchange_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 595
+    "id": 543
   },
   {
     "name": "Exchange",
@@ -9840,10 +9620,10 @@ const logoData = [
     "filename": "Exchange_256x256.png",
     "path": "Microsoft_365/Exchange/2019-current_full-color/Exchange_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-current",
     "size": "256x256",
     "format": "PNG",
-    "id": 596
+    "id": 544
   },
   {
     "name": "Exchange",
@@ -9851,10 +9631,10 @@ const logoData = [
     "filename": "Exchange_48x48.png",
     "path": "Microsoft_365/Exchange/2019-current_full-color/Exchange_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 599
+    "id": 546
   },
   {
     "name": "Exchange",
@@ -9862,10 +9642,10 @@ const logoData = [
     "filename": "Exchange_64x64.png",
     "path": "Microsoft_365/Exchange/2019-current_full-color/Exchange_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 600
+    "id": 547
   },
   {
     "name": "Exchange",
@@ -9873,21 +9653,10 @@ const logoData = [
     "filename": "Exchange_96x96.png",
     "path": "Microsoft_365/Exchange/2019-current_full-color/Exchange_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-current",
     "size": "96x96",
     "format": "PNG",
-    "id": 598
-  },
-  {
-    "name": "Exchange",
-    "family": "Microsoft_365",
-    "filename": "Exchange.pdf",
-    "path": "Microsoft_365/Exchange/2019-current_monochromatic-negative/Exchange.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 591
+    "id": 545
   },
   {
     "name": "Exchange",
@@ -9895,10 +9664,10 @@ const logoData = [
     "filename": "Exchange_128x128.png",
     "path": "Microsoft_365/Exchange/2019-current_monochromatic-negative/Exchange_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 589
+    "id": 538
   },
   {
     "name": "Exchange",
@@ -9906,10 +9675,10 @@ const logoData = [
     "filename": "Exchange_256x256.png",
     "path": "Microsoft_365/Exchange/2019-current_monochromatic-negative/Exchange_256x256.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-current",
     "size": "256x256",
     "format": "PNG",
-    "id": 590
+    "id": 539
   },
   {
     "name": "Exchange",
@@ -9917,10 +9686,10 @@ const logoData = [
     "filename": "Exchange_48x48.png",
     "path": "Microsoft_365/Exchange/2019-current_monochromatic-negative/Exchange_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 593
+    "id": 541
   },
   {
     "name": "Exchange",
@@ -9928,10 +9697,10 @@ const logoData = [
     "filename": "Exchange_64x64.png",
     "path": "Microsoft_365/Exchange/2019-current_monochromatic-negative/Exchange_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 594
+    "id": 542
   },
   {
     "name": "Exchange",
@@ -9939,21 +9708,10 @@ const logoData = [
     "filename": "Exchange_96x96.png",
     "path": "Microsoft_365/Exchange/2019-current_monochromatic-negative/Exchange_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-current",
     "size": "96x96",
     "format": "PNG",
-    "id": 592
-  },
-  {
-    "name": "Exchange",
-    "family": "Microsoft_365",
-    "filename": "Exchange.pdf",
-    "path": "Microsoft_365/Exchange/2019-current_monochromatic-positive/Exchange.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 579
+    "id": 540
   },
   {
     "name": "Exchange",
@@ -9961,10 +9719,10 @@ const logoData = [
     "filename": "Exchange_128x128.png",
     "path": "Microsoft_365/Exchange/2019-current_monochromatic-positive/Exchange_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 577
+    "id": 528
   },
   {
     "name": "Exchange",
@@ -9972,10 +9730,10 @@ const logoData = [
     "filename": "Exchange_256x256.png",
     "path": "Microsoft_365/Exchange/2019-current_monochromatic-positive/Exchange_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-current",
     "size": "256x256",
     "format": "PNG",
-    "id": 578
+    "id": 529
   },
   {
     "name": "Exchange",
@@ -9983,10 +9741,10 @@ const logoData = [
     "filename": "Exchange_48x48.png",
     "path": "Microsoft_365/Exchange/2019-current_monochromatic-positive/Exchange_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 581
+    "id": 531
   },
   {
     "name": "Exchange",
@@ -9994,10 +9752,10 @@ const logoData = [
     "filename": "Exchange_64x64.png",
     "path": "Microsoft_365/Exchange/2019-current_monochromatic-positive/Exchange_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 582
+    "id": 532
   },
   {
     "name": "Exchange",
@@ -10005,21 +9763,10 @@ const logoData = [
     "filename": "Exchange_96x96.png",
     "path": "Microsoft_365/Exchange/2019-current_monochromatic-positive/Exchange_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-current",
     "size": "96x96",
     "format": "PNG",
-    "id": 580
-  },
-  {
-    "name": "Forms",
-    "family": "Microsoft_365",
-    "filename": "Forms.pdf",
-    "path": "Microsoft_365/Forms/2013-2019_negative-format/Forms.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1166
+    "id": 530
   },
   {
     "name": "Forms",
@@ -10027,10 +9774,10 @@ const logoData = [
     "filename": "Forms_128x128.png",
     "path": "Microsoft_365/Forms/2013-2019_negative-format/Forms_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 1163
+    "id": 1023
   },
   {
     "name": "Forms",
@@ -10038,10 +9785,10 @@ const logoData = [
     "filename": "Forms_256x256.png",
     "path": "Microsoft_365/Forms/2013-2019_negative-format/Forms_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 1164
+    "id": 1024
   },
   {
     "name": "Forms",
@@ -10049,10 +9796,10 @@ const logoData = [
     "filename": "Forms_48x48.png",
     "path": "Microsoft_365/Forms/2013-2019_negative-format/Forms_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 1162
+    "id": 1022
   },
   {
     "name": "Forms",
@@ -10060,10 +9807,10 @@ const logoData = [
     "filename": "Forms_64x64.png",
     "path": "Microsoft_365/Forms/2013-2019_negative-format/Forms_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 1165
+    "id": 1025
   },
   {
     "name": "Forms",
@@ -10071,21 +9818,10 @@ const logoData = [
     "filename": "Forms_96x96.png",
     "path": "Microsoft_365/Forms/2013-2019_negative-format/Forms_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 1161
-  },
-  {
-    "name": "Forms",
-    "family": "Microsoft_365",
-    "filename": "Forms.pdf",
-    "path": "Microsoft_365/Forms/2013-2019_positive-format/Forms.pdf",
-    "style": "positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1141
+    "id": 1021
   },
   {
     "name": "Forms",
@@ -10093,10 +9829,10 @@ const logoData = [
     "filename": "Forms_128x128.png",
     "path": "Microsoft_365/Forms/2013-2019_positive-format/Forms_128x128.png",
     "style": "positive",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 1138
+    "id": 1002
   },
   {
     "name": "Forms",
@@ -10104,10 +9840,10 @@ const logoData = [
     "filename": "Forms_256x256.png",
     "path": "Microsoft_365/Forms/2013-2019_positive-format/Forms_256x256.png",
     "style": "positive",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 1139
+    "id": 1003
   },
   {
     "name": "Forms",
@@ -10115,10 +9851,10 @@ const logoData = [
     "filename": "Forms_48x48.png",
     "path": "Microsoft_365/Forms/2013-2019_positive-format/Forms_48x48.png",
     "style": "positive",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 1137
+    "id": 1001
   },
   {
     "name": "Forms",
@@ -10126,10 +9862,10 @@ const logoData = [
     "filename": "Forms_64x64.png",
     "path": "Microsoft_365/Forms/2013-2019_positive-format/Forms_64x64.png",
     "style": "positive",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 1140
+    "id": 1004
   },
   {
     "name": "Forms",
@@ -10137,21 +9873,10 @@ const logoData = [
     "filename": "Forms_96x96.png",
     "path": "Microsoft_365/Forms/2013-2019_positive-format/Forms_96x96.png",
     "style": "positive",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 1136
-  },
-  {
-    "name": "Forms",
-    "family": "Microsoft_365",
-    "filename": "Forms.pdf",
-    "path": "Microsoft_365/Forms/2019-2025_full-color/Forms.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1154
+    "id": 1000
   },
   {
     "name": "Forms",
@@ -10159,10 +9884,10 @@ const logoData = [
     "filename": "Forms_128x128.png",
     "path": "Microsoft_365/Forms/2019-2025_full-color/Forms_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1150
+    "id": 1012
   },
   {
     "name": "Forms",
@@ -10170,10 +9895,10 @@ const logoData = [
     "filename": "Forms_256x256.png",
     "path": "Microsoft_365/Forms/2019-2025_full-color/Forms_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1151
+    "id": 1013
   },
   {
     "name": "Forms",
@@ -10181,10 +9906,10 @@ const logoData = [
     "filename": "Forms_48x48.png",
     "path": "Microsoft_365/Forms/2019-2025_full-color/Forms_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1149
+    "id": 1011
   },
   {
     "name": "Forms",
@@ -10192,10 +9917,10 @@ const logoData = [
     "filename": "Forms_64x64.png",
     "path": "Microsoft_365/Forms/2019-2025_full-color/Forms_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1152
+    "id": 1014
   },
   {
     "name": "Forms",
@@ -10203,21 +9928,10 @@ const logoData = [
     "filename": "Forms_96x96.png",
     "path": "Microsoft_365/Forms/2019-2025_full-color/Forms_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1148
-  },
-  {
-    "name": "Forms",
-    "family": "Microsoft_365",
-    "filename": "Forms.pdf",
-    "path": "Microsoft_365/Forms/2019-2025_monochromatic-negative/Forms.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1160
+    "id": 1010
   },
   {
     "name": "Forms",
@@ -10225,10 +9939,10 @@ const logoData = [
     "filename": "Forms_128x128.png",
     "path": "Microsoft_365/Forms/2019-2025_monochromatic-negative/Forms_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1157
+    "id": 1018
   },
   {
     "name": "Forms",
@@ -10236,10 +9950,10 @@ const logoData = [
     "filename": "Forms_256x256.png",
     "path": "Microsoft_365/Forms/2019-2025_monochromatic-negative/Forms_256x256.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1158
+    "id": 1019
   },
   {
     "name": "Forms",
@@ -10247,10 +9961,10 @@ const logoData = [
     "filename": "Forms_48x48.png",
     "path": "Microsoft_365/Forms/2019-2025_monochromatic-negative/Forms_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1156
+    "id": 1017
   },
   {
     "name": "Forms",
@@ -10258,10 +9972,10 @@ const logoData = [
     "filename": "Forms_64x64.png",
     "path": "Microsoft_365/Forms/2019-2025_monochromatic-negative/Forms_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1159
+    "id": 1020
   },
   {
     "name": "Forms",
@@ -10269,21 +9983,10 @@ const logoData = [
     "filename": "Forms_96x96.png",
     "path": "Microsoft_365/Forms/2019-2025_monochromatic-negative/Forms_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1155
-  },
-  {
-    "name": "Forms",
-    "family": "Microsoft_365",
-    "filename": "Forms.pdf",
-    "path": "Microsoft_365/Forms/2019-2025_monochromatic-positive/Forms.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1147
+    "id": 1016
   },
   {
     "name": "Forms",
@@ -10291,10 +9994,10 @@ const logoData = [
     "filename": "Forms_128x128.png",
     "path": "Microsoft_365/Forms/2019-2025_monochromatic-positive/Forms_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1144
+    "id": 1007
   },
   {
     "name": "Forms",
@@ -10302,10 +10005,10 @@ const logoData = [
     "filename": "Forms_256x256.png",
     "path": "Microsoft_365/Forms/2019-2025_monochromatic-positive/Forms_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1145
+    "id": 1008
   },
   {
     "name": "Forms",
@@ -10313,10 +10016,10 @@ const logoData = [
     "filename": "Forms_48x48.png",
     "path": "Microsoft_365/Forms/2019-2025_monochromatic-positive/Forms_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1143
+    "id": 1006
   },
   {
     "name": "Forms",
@@ -10324,10 +10027,10 @@ const logoData = [
     "filename": "Forms_64x64.png",
     "path": "Microsoft_365/Forms/2019-2025_monochromatic-positive/Forms_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1146
+    "id": 1009
   },
   {
     "name": "Forms",
@@ -10335,10 +10038,10 @@ const logoData = [
     "filename": "Forms_96x96.png",
     "path": "Microsoft_365/Forms/2019-2025_monochromatic-positive/Forms_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1142
+    "id": 1005
   },
   {
     "name": "Forms 256x256 (no Padding)",
@@ -10346,10 +10049,10 @@ const logoData = [
     "filename": "Forms_256x256_(no_padding).png",
     "path": "Microsoft_365/Forms/2019-2025_full-color/Forms_256x256_(no_padding).png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1153
+    "id": 1015
   },
   {
     "name": "Forms 512",
@@ -10360,7 +10063,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 1135
+    "id": 999
   },
   {
     "name": "Forms 512 Padded",
@@ -10371,18 +10074,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 1134
-  },
-  {
-    "name": "Infopath",
-    "family": "Microsoft_365",
-    "filename": "InfoPath.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/InfoPath/2013-2015_icons-negative-format/InfoPath.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 442
+    "id": 998
   },
   {
     "name": "Infopath",
@@ -10390,10 +10082,10 @@ const logoData = [
     "filename": "InfoPath_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/InfoPath/2013-2015_icons-negative-format/InfoPath_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2015",
     "size": "48x48",
     "format": "PNG",
-    "id": 446
+    "id": 417
   },
   {
     "name": "Infopath",
@@ -10401,10 +10093,10 @@ const logoData = [
     "filename": "Infopath_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/InfoPath/2013-2015_icons-negative-format/Infopath_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2015",
     "size": "128x128",
     "format": "PNG",
-    "id": 444
+    "id": 415
   },
   {
     "name": "Infopath",
@@ -10412,10 +10104,10 @@ const logoData = [
     "filename": "Infopath_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/InfoPath/2013-2015_icons-negative-format/Infopath_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2015",
     "size": "256x256",
     "format": "PNG",
-    "id": 445
+    "id": 416
   },
   {
     "name": "Infopath",
@@ -10423,10 +10115,10 @@ const logoData = [
     "filename": "Infopath_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/InfoPath/2013-2015_icons-negative-format/Infopath_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2015",
     "size": "64x64",
     "format": "PNG",
-    "id": 441
+    "id": 413
   },
   {
     "name": "Infopath",
@@ -10434,21 +10126,10 @@ const logoData = [
     "filename": "Infopath_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/InfoPath/2013-2015_icons-negative-format/Infopath_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2015",
     "size": "96x96",
     "format": "PNG",
-    "id": 443
-  },
-  {
-    "name": "Infopath",
-    "family": "Microsoft_365",
-    "filename": "InfoPath.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/InfoPath/2013-2015_icons-postive-format/InfoPath.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 436
+    "id": 414
   },
   {
     "name": "Infopath",
@@ -10456,10 +10137,10 @@ const logoData = [
     "filename": "InfoPath_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/InfoPath/2013-2015_icons-postive-format/InfoPath_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2015",
     "size": "128x128",
     "format": "PNG",
-    "id": 435
+    "id": 408
   },
   {
     "name": "Infopath",
@@ -10467,10 +10148,10 @@ const logoData = [
     "filename": "InfoPath_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/InfoPath/2013-2015_icons-postive-format/InfoPath_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2015",
     "size": "256x256",
     "format": "PNG",
-    "id": 437
+    "id": 409
   },
   {
     "name": "Infopath",
@@ -10478,10 +10159,10 @@ const logoData = [
     "filename": "InfoPath_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/InfoPath/2013-2015_icons-postive-format/InfoPath_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2015",
     "size": "48x48",
     "format": "PNG",
-    "id": 439
+    "id": 411
   },
   {
     "name": "Infopath",
@@ -10489,10 +10170,10 @@ const logoData = [
     "filename": "InfoPath_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/InfoPath/2013-2015_icons-postive-format/InfoPath_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2015",
     "size": "64x64",
     "format": "PNG",
-    "id": 438
+    "id": 410
   },
   {
     "name": "Infopath",
@@ -10500,10 +10181,10 @@ const logoData = [
     "filename": "InfoPath_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/InfoPath/2013-2015_icons-postive-format/InfoPath_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2015",
     "size": "96x96",
     "format": "PNG",
-    "id": 434
+    "id": 407
   },
   {
     "name": "Infopath 2007 Logo",
@@ -10511,10 +10192,10 @@ const logoData = [
     "filename": "InfoPath_2007_logo.svg",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/InfoPath/2007-2010/InfoPath_2007_logo.svg",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2007-2010",
     "size": "",
     "format": "SVG",
-    "id": 440
+    "id": 412
   },
   {
     "name": "Infopath Gray",
@@ -10522,21 +10203,10 @@ const logoData = [
     "filename": "InfoPath_gray.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/InfoPath/2010-2013/InfoPath_gray.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2010-2013",
     "size": "",
     "format": "PNG",
-    "id": 448
-  },
-  {
-    "name": "Kaizala",
-    "family": "Microsoft_365",
-    "filename": "Kaizala.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Kaizala/2017-2023_full-color/Kaizala.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 458
+    "id": 419
   },
   {
     "name": "Kaizala",
@@ -10544,10 +10214,10 @@ const logoData = [
     "filename": "Kaizala_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Kaizala/2017-2023_full-color/Kaizala_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2017-2023",
     "size": "128x128",
     "format": "PNG",
-    "id": 459
+    "id": 428
   },
   {
     "name": "Kaizala",
@@ -10555,10 +10225,10 @@ const logoData = [
     "filename": "Kaizala_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Kaizala/2017-2023_full-color/Kaizala_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2017-2023",
     "size": "256x256",
     "format": "PNG",
-    "id": 456
+    "id": 426
   },
   {
     "name": "Kaizala",
@@ -10566,10 +10236,10 @@ const logoData = [
     "filename": "Kaizala_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Kaizala/2017-2023_full-color/Kaizala_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2017-2023",
     "size": "48x48",
     "format": "PNG",
-    "id": 460
+    "id": 429
   },
   {
     "name": "Kaizala",
@@ -10577,10 +10247,10 @@ const logoData = [
     "filename": "Kaizala_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Kaizala/2017-2023_full-color/Kaizala_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2017-2023",
     "size": "64x64",
     "format": "PNG",
-    "id": 457
+    "id": 427
   },
   {
     "name": "Kaizala",
@@ -10588,21 +10258,10 @@ const logoData = [
     "filename": "Kaizala_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Kaizala/2017-2023_full-color/Kaizala_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2017-2023",
     "size": "96x96",
     "format": "PNG",
-    "id": 455
-  },
-  {
-    "name": "Kaizala",
-    "family": "Microsoft_365",
-    "filename": "Kaizala.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Kaizala/2017-2023_monochromatic-negative/Kaizala.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 452
+    "id": 425
   },
   {
     "name": "Kaizala",
@@ -10610,10 +10269,10 @@ const logoData = [
     "filename": "Kaizala_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Kaizala/2017-2023_monochromatic-negative/Kaizala_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2017-2023",
     "size": "128x128",
     "format": "PNG",
-    "id": 453
+    "id": 423
   },
   {
     "name": "Kaizala",
@@ -10621,10 +10280,10 @@ const logoData = [
     "filename": "Kaizala_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Kaizala/2017-2023_monochromatic-negative/Kaizala_256x256.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2017-2023",
     "size": "256x256",
     "format": "PNG",
-    "id": 450
+    "id": 421
   },
   {
     "name": "Kaizala",
@@ -10632,10 +10291,10 @@ const logoData = [
     "filename": "Kaizala_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Kaizala/2017-2023_monochromatic-negative/Kaizala_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2017-2023",
     "size": "48x48",
     "format": "PNG",
-    "id": 454
+    "id": 424
   },
   {
     "name": "Kaizala",
@@ -10643,10 +10302,10 @@ const logoData = [
     "filename": "Kaizala_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Kaizala/2017-2023_monochromatic-negative/Kaizala_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2017-2023",
     "size": "64x64",
     "format": "PNG",
-    "id": 451
+    "id": 422
   },
   {
     "name": "Kaizala",
@@ -10654,21 +10313,10 @@ const logoData = [
     "filename": "Kaizala_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Kaizala/2017-2023_monochromatic-negative/Kaizala_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2017-2023",
     "size": "96x96",
     "format": "PNG",
-    "id": 449
-  },
-  {
-    "name": "Kaizala",
-    "family": "Microsoft_365",
-    "filename": "Kaizala.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Kaizala/2017-2023_monochromatic-positive/Kaizala.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 464
+    "id": 420
   },
   {
     "name": "Kaizala",
@@ -10676,10 +10324,10 @@ const logoData = [
     "filename": "Kaizala_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Kaizala/2017-2023_monochromatic-positive/Kaizala_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2017-2023",
     "size": "128x128",
     "format": "PNG",
-    "id": 465
+    "id": 433
   },
   {
     "name": "Kaizala",
@@ -10687,10 +10335,10 @@ const logoData = [
     "filename": "Kaizala_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Kaizala/2017-2023_monochromatic-positive/Kaizala_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2017-2023",
     "size": "256x256",
     "format": "PNG",
-    "id": 462
+    "id": 431
   },
   {
     "name": "Kaizala",
@@ -10698,10 +10346,10 @@ const logoData = [
     "filename": "Kaizala_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Kaizala/2017-2023_monochromatic-positive/Kaizala_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2017-2023",
     "size": "48x48",
     "format": "PNG",
-    "id": 466
+    "id": 434
   },
   {
     "name": "Kaizala",
@@ -10709,10 +10357,10 @@ const logoData = [
     "filename": "Kaizala_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Kaizala/2017-2023_monochromatic-positive/Kaizala_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2017-2023",
     "size": "64x64",
     "format": "PNG",
-    "id": 463
+    "id": 432
   },
   {
     "name": "Kaizala",
@@ -10720,10 +10368,10 @@ const logoData = [
     "filename": "Kaizala_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Kaizala/2017-2023_monochromatic-positive/Kaizala_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2017-2023",
     "size": "96x96",
     "format": "PNG",
-    "id": 461
+    "id": 430
   },
   {
     "name": "Loop Icon",
@@ -10734,7 +10382,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 726
+    "id": 654
   },
   {
     "name": "M365 Copilot 256x256 Padded",
@@ -10745,7 +10393,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 1062
+    "id": 936
   },
   {
     "name": "M365 Copilot 600",
@@ -10756,7 +10404,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 1060
+    "id": 934
   },
   {
     "name": "M365 Icon",
@@ -10767,7 +10415,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 1065
+    "id": 939
   },
   {
     "name": "Microsoft 365",
@@ -10778,7 +10426,7 @@ const logoData = [
     "year": "current",
     "size": "117x79",
     "format": "PNG",
-    "id": 931
+    "id": 827
   },
   {
     "name": "Microsoft 365",
@@ -10789,7 +10437,7 @@ const logoData = [
     "year": "current",
     "size": "620x420",
     "format": "PNG",
-    "id": 938
+    "id": 832
   },
   {
     "name": "Microsoft 365",
@@ -10800,7 +10448,7 @@ const logoData = [
     "year": "current",
     "size": "620x620",
     "format": "PNG",
-    "id": 946
+    "id": 836
   },
   {
     "name": "Microsoft 365",
@@ -10811,7 +10459,7 @@ const logoData = [
     "year": "current",
     "size": "800x800",
     "format": "PNG",
-    "id": 937
+    "id": 831
   },
   {
     "name": "Microsoft 365 117x79 (white Background)",
@@ -10822,7 +10470,7 @@ const logoData = [
     "year": "current",
     "size": "117x79",
     "format": "PNG",
-    "id": 929
+    "id": 826
   },
   {
     "name": "Microsoft 365 155x105 (white Background)",
@@ -10833,7 +10481,7 @@ const logoData = [
     "year": "current",
     "size": "155x105",
     "format": "PNG",
-    "id": 944
+    "id": 834
   },
   {
     "name": "Microsoft 365 620x420 (white Background)",
@@ -10844,7 +10492,7 @@ const logoData = [
     "year": "current",
     "size": "620x420",
     "format": "PNG",
-    "id": 947
+    "id": 837
   },
   {
     "name": "Microsoft 365 620x620 (white Background)",
@@ -10855,7 +10503,7 @@ const logoData = [
     "year": "current",
     "size": "620x620",
     "format": "PNG",
-    "id": 941
+    "id": 833
   },
   {
     "name": "Microsoft 365 Admin",
@@ -10866,7 +10514,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 360
+    "id": 344
   },
   {
     "name": "Microsoft 365 Apps Logo",
@@ -10877,7 +10525,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 1023
+    "id": 902
   },
   {
     "name": "Microsoft 365 Apps Logo 256x256 Padded",
@@ -10888,7 +10536,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 1024
+    "id": 903
   },
   {
     "name": "Microsoft 365 Copilot",
@@ -10899,7 +10547,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1056
+    "id": 930
   },
   {
     "name": "Microsoft 365 Copilot Badge",
@@ -10910,7 +10558,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1063
+    "id": 937
   },
   {
     "name": "Microsoft 365 Copilot Icon.svg",
@@ -10921,7 +10569,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 1064
+    "id": 938
   },
   {
     "name": "Microsoft Infopath 2010",
@@ -10929,21 +10577,10 @@ const logoData = [
     "filename": "Microsoft_InfoPath_-_2010.svg",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/InfoPath/2010-2013/Microsoft_InfoPath_-_2010.svg",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2010-2013",
     "size": "",
     "format": "SVG",
-    "id": 447
-  },
-  {
-    "name": "Microsoft Lists",
-    "family": "Microsoft_365",
-    "filename": "Microsoft_Lists.pdf",
-    "path": "Microsoft_365/Lists/2020-current_full-color/Microsoft_Lists.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 382
+    "id": 418
   },
   {
     "name": "Microsoft Lists",
@@ -10951,10 +10588,10 @@ const logoData = [
     "filename": "Microsoft_Lists_128x128.png",
     "path": "Microsoft_365/Lists/2020-current_full-color/Microsoft_Lists_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 384
+    "id": 365
   },
   {
     "name": "Microsoft Lists",
@@ -10962,10 +10599,10 @@ const logoData = [
     "filename": "Microsoft_Lists_256x256.png",
     "path": "Microsoft_365/Lists/2020-current_full-color/Microsoft_Lists_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-current",
     "size": "256x256",
     "format": "PNG",
-    "id": 378
+    "id": 360
   },
   {
     "name": "Microsoft Lists",
@@ -10973,10 +10610,10 @@ const logoData = [
     "filename": "Microsoft_Lists_265x265.png",
     "path": "Microsoft_365/Lists/2020-current_full-color/Microsoft_Lists_265x265.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-current",
     "size": "265x265",
     "format": "PNG",
-    "id": 383
+    "id": 364
   },
   {
     "name": "Microsoft Lists",
@@ -10984,10 +10621,10 @@ const logoData = [
     "filename": "Microsoft_Lists_40x40.png",
     "path": "Microsoft_365/Lists/2020-current_full-color/Microsoft_Lists_40x40.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-current",
     "size": "40x40",
     "format": "PNG",
-    "id": 385
+    "id": 366
   },
   {
     "name": "Microsoft Lists",
@@ -10995,10 +10632,10 @@ const logoData = [
     "filename": "Microsoft_Lists_48x48.png",
     "path": "Microsoft_365/Lists/2020-current_full-color/Microsoft_Lists_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 380
+    "id": 362
   },
   {
     "name": "Microsoft Lists",
@@ -11006,10 +10643,10 @@ const logoData = [
     "filename": "Microsoft_Lists_64x64.png",
     "path": "Microsoft_365/Lists/2020-current_full-color/Microsoft_Lists_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 381
+    "id": 363
   },
   {
     "name": "Microsoft Lists",
@@ -11017,21 +10654,10 @@ const logoData = [
     "filename": "Microsoft_Lists_85x85.png",
     "path": "Microsoft_365/Lists/2020-current_full-color/Microsoft_Lists_85x85.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-current",
     "size": "85x85",
     "format": "PNG",
-    "id": 379
-  },
-  {
-    "name": "Microsoft Lists",
-    "family": "Microsoft_365",
-    "filename": "Microsoft_Lists.pdf",
-    "path": "Microsoft_365/Lists/2020-current_monochromatic-negative/Microsoft_Lists.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 389
+    "id": 361
   },
   {
     "name": "Microsoft Lists",
@@ -11039,10 +10665,10 @@ const logoData = [
     "filename": "Microsoft_Lists_128x128.png",
     "path": "Microsoft_365/Lists/2020-current_monochromatic-negative/Microsoft_Lists_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 391
+    "id": 371
   },
   {
     "name": "Microsoft Lists",
@@ -11050,10 +10676,10 @@ const logoData = [
     "filename": "Microsoft_Lists_265x265.png",
     "path": "Microsoft_365/Lists/2020-current_monochromatic-negative/Microsoft_Lists_265x265.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-current",
     "size": "265x265",
     "format": "PNG",
-    "id": 390
+    "id": 370
   },
   {
     "name": "Microsoft Lists",
@@ -11061,10 +10687,10 @@ const logoData = [
     "filename": "Microsoft_Lists_48x48.png",
     "path": "Microsoft_365/Lists/2020-current_monochromatic-negative/Microsoft_Lists_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 387
+    "id": 368
   },
   {
     "name": "Microsoft Lists",
@@ -11072,10 +10698,10 @@ const logoData = [
     "filename": "Microsoft_Lists_64x64.png",
     "path": "Microsoft_365/Lists/2020-current_monochromatic-negative/Microsoft_Lists_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 388
+    "id": 369
   },
   {
     "name": "Microsoft Lists",
@@ -11083,21 +10709,10 @@ const logoData = [
     "filename": "Microsoft_Lists_96x96.png",
     "path": "Microsoft_365/Lists/2020-current_monochromatic-negative/Microsoft_Lists_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-current",
     "size": "96x96",
     "format": "PNG",
-    "id": 386
-  },
-  {
-    "name": "Microsoft Lists",
-    "family": "Microsoft_365",
-    "filename": "Microsoft_Lists.pdf",
-    "path": "Microsoft_365/Lists/2020-current_monochromatic-positive/Microsoft_Lists.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 395
+    "id": 367
   },
   {
     "name": "Microsoft Lists",
@@ -11105,10 +10720,10 @@ const logoData = [
     "filename": "Microsoft_Lists_128x128.png",
     "path": "Microsoft_365/Lists/2020-current_monochromatic-positive/Microsoft_Lists_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 397
+    "id": 376
   },
   {
     "name": "Microsoft Lists",
@@ -11116,10 +10731,10 @@ const logoData = [
     "filename": "Microsoft_Lists_265x265.png",
     "path": "Microsoft_365/Lists/2020-current_monochromatic-positive/Microsoft_Lists_265x265.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-current",
     "size": "265x265",
     "format": "PNG",
-    "id": 396
+    "id": 375
   },
   {
     "name": "Microsoft Lists",
@@ -11127,10 +10742,10 @@ const logoData = [
     "filename": "Microsoft_Lists_48x48.png",
     "path": "Microsoft_365/Lists/2020-current_monochromatic-positive/Microsoft_Lists_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 393
+    "id": 373
   },
   {
     "name": "Microsoft Lists",
@@ -11138,10 +10753,10 @@ const logoData = [
     "filename": "Microsoft_Lists_64x64.png",
     "path": "Microsoft_365/Lists/2020-current_monochromatic-positive/Microsoft_Lists_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 394
+    "id": 374
   },
   {
     "name": "Microsoft Lists",
@@ -11149,10 +10764,10 @@ const logoData = [
     "filename": "Microsoft_Lists_96x96.png",
     "path": "Microsoft_365/Lists/2020-current_monochromatic-positive/Microsoft_Lists_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-current",
     "size": "96x96",
     "format": "PNG",
-    "id": 392
+    "id": 372
   },
   {
     "name": "Microsoft Loop Logo",
@@ -11163,7 +10778,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 727
+    "id": 655
   },
   {
     "name": "Microsoft Loop Logo 256x256 Padded",
@@ -11174,7 +10789,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 725
+    "id": 653
   },
   {
     "name": "Microsoft Places",
@@ -11185,7 +10800,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 979
+    "id": 864
   },
   {
     "name": "Microsoft Places",
@@ -11196,7 +10811,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 980
+    "id": 865
   },
   {
     "name": "Microsoft Places",
@@ -11207,18 +10822,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 978
-  },
-  {
-    "name": "Microsoft Stream",
-    "family": "Microsoft_365",
-    "filename": "Microsoft-Stream.pdf",
-    "path": "Microsoft_365/Stream/2017-2019_negative-format/Microsoft-Stream.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 789
+    "id": 863
   },
   {
     "name": "Microsoft Stream",
@@ -11226,10 +10830,10 @@ const logoData = [
     "filename": "Microsoft-Stream_128x128.png",
     "path": "Microsoft_365/Stream/2017-2019_negative-format/Microsoft-Stream_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2017-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 792
+    "id": 710
   },
   {
     "name": "Microsoft Stream",
@@ -11237,10 +10841,10 @@ const logoData = [
     "filename": "Microsoft-Stream_256x256.png",
     "path": "Microsoft_365/Stream/2017-2019_negative-format/Microsoft-Stream_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2017-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 794
+    "id": 712
   },
   {
     "name": "Microsoft Stream",
@@ -11248,10 +10852,10 @@ const logoData = [
     "filename": "Microsoft-Stream_48x48.png",
     "path": "Microsoft_365/Stream/2017-2019_negative-format/Microsoft-Stream_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2017-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 793
+    "id": 711
   },
   {
     "name": "Microsoft Stream",
@@ -11259,10 +10863,10 @@ const logoData = [
     "filename": "Microsoft-Stream_64x64.png",
     "path": "Microsoft_365/Stream/2017-2019_negative-format/Microsoft-Stream_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2017-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 790
+    "id": 708
   },
   {
     "name": "Microsoft Stream",
@@ -11270,21 +10874,10 @@ const logoData = [
     "filename": "Microsoft-Stream_96x96.png",
     "path": "Microsoft_365/Stream/2017-2019_negative-format/Microsoft-Stream_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2017-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 791
-  },
-  {
-    "name": "Microsoft Stream",
-    "family": "Microsoft_365",
-    "filename": "Microsoft-Stream.pdf",
-    "path": "Microsoft_365/Stream/2017-2019_postive-format/Microsoft-Stream.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 777
+    "id": 709
   },
   {
     "name": "Microsoft Stream",
@@ -11292,10 +10885,10 @@ const logoData = [
     "filename": "Microsoft-Stream_128x128.png",
     "path": "Microsoft_365/Stream/2017-2019_postive-format/Microsoft-Stream_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2017-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 780
+    "id": 700
   },
   {
     "name": "Microsoft Stream",
@@ -11303,10 +10896,10 @@ const logoData = [
     "filename": "Microsoft-Stream_256x256.png",
     "path": "Microsoft_365/Stream/2017-2019_postive-format/Microsoft-Stream_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2017-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 782
+    "id": 702
   },
   {
     "name": "Microsoft Stream",
@@ -11314,10 +10907,10 @@ const logoData = [
     "filename": "Microsoft-Stream_48x48.png",
     "path": "Microsoft_365/Stream/2017-2019_postive-format/Microsoft-Stream_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2017-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 781
+    "id": 701
   },
   {
     "name": "Microsoft Stream",
@@ -11325,10 +10918,10 @@ const logoData = [
     "filename": "Microsoft-Stream_64x64.png",
     "path": "Microsoft_365/Stream/2017-2019_postive-format/Microsoft-Stream_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2017-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 778
+    "id": 698
   },
   {
     "name": "Microsoft Stream",
@@ -11336,21 +10929,10 @@ const logoData = [
     "filename": "Microsoft-Stream_96x96.png",
     "path": "Microsoft_365/Stream/2017-2019_postive-format/Microsoft-Stream_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2017-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 779
-  },
-  {
-    "name": "Microsoft Stream",
-    "family": "Microsoft_365",
-    "filename": "Microsoft-Stream.pdf",
-    "path": "Microsoft_365/Stream/2019-2025_full-color/Microsoft-Stream.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 771
+    "id": 699
   },
   {
     "name": "Microsoft Stream",
@@ -11358,10 +10940,10 @@ const logoData = [
     "filename": "Microsoft-Stream_128x128.png",
     "path": "Microsoft_365/Stream/2019-2025_full-color/Microsoft-Stream_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 774
+    "id": 695
   },
   {
     "name": "Microsoft Stream",
@@ -11369,10 +10951,10 @@ const logoData = [
     "filename": "Microsoft-Stream_256x256.png",
     "path": "Microsoft_365/Stream/2019-2025_full-color/Microsoft-Stream_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 776
+    "id": 697
   },
   {
     "name": "Microsoft Stream",
@@ -11380,10 +10962,10 @@ const logoData = [
     "filename": "Microsoft-Stream_48x48.png",
     "path": "Microsoft_365/Stream/2019-2025_full-color/Microsoft-Stream_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 775
+    "id": 696
   },
   {
     "name": "Microsoft Stream",
@@ -11391,10 +10973,10 @@ const logoData = [
     "filename": "Microsoft-Stream_64x64.png",
     "path": "Microsoft_365/Stream/2019-2025_full-color/Microsoft-Stream_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 772
+    "id": 693
   },
   {
     "name": "Microsoft Stream",
@@ -11402,21 +10984,10 @@ const logoData = [
     "filename": "Microsoft-Stream_96x96.png",
     "path": "Microsoft_365/Stream/2019-2025_full-color/Microsoft-Stream_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 773
-  },
-  {
-    "name": "Microsoft Stream",
-    "family": "Microsoft_365",
-    "filename": "Microsoft-Stream.pdf",
-    "path": "Microsoft_365/Stream/2019-2025_monochromatic-negative/Microsoft-Stream.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 783
+    "id": 694
   },
   {
     "name": "Microsoft Stream",
@@ -11424,10 +10995,10 @@ const logoData = [
     "filename": "Microsoft-Stream_128x128.png",
     "path": "Microsoft_365/Stream/2019-2025_monochromatic-negative/Microsoft-Stream_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 786
+    "id": 705
   },
   {
     "name": "Microsoft Stream",
@@ -11435,10 +11006,10 @@ const logoData = [
     "filename": "Microsoft-Stream_256x256.png",
     "path": "Microsoft_365/Stream/2019-2025_monochromatic-negative/Microsoft-Stream_256x256.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 788
+    "id": 707
   },
   {
     "name": "Microsoft Stream",
@@ -11446,10 +11017,10 @@ const logoData = [
     "filename": "Microsoft-Stream_48x48.png",
     "path": "Microsoft_365/Stream/2019-2025_monochromatic-negative/Microsoft-Stream_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 787
+    "id": 706
   },
   {
     "name": "Microsoft Stream",
@@ -11457,10 +11028,10 @@ const logoData = [
     "filename": "Microsoft-Stream_64x64.png",
     "path": "Microsoft_365/Stream/2019-2025_monochromatic-negative/Microsoft-Stream_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 784
+    "id": 703
   },
   {
     "name": "Microsoft Stream",
@@ -11468,21 +11039,10 @@ const logoData = [
     "filename": "Microsoft-Stream_96x96.png",
     "path": "Microsoft_365/Stream/2019-2025_monochromatic-negative/Microsoft-Stream_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 785
-  },
-  {
-    "name": "Microsoft Stream",
-    "family": "Microsoft_365",
-    "filename": "Microsoft-Stream.pdf",
-    "path": "Microsoft_365/Stream/2019-2025_monochromatic-positive/Microsoft-Stream.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 765
+    "id": 704
   },
   {
     "name": "Microsoft Stream",
@@ -11490,10 +11050,10 @@ const logoData = [
     "filename": "Microsoft-Stream_128x128.png",
     "path": "Microsoft_365/Stream/2019-2025_monochromatic-positive/Microsoft-Stream_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 768
+    "id": 690
   },
   {
     "name": "Microsoft Stream",
@@ -11501,10 +11061,10 @@ const logoData = [
     "filename": "Microsoft-Stream_256x256.png",
     "path": "Microsoft_365/Stream/2019-2025_monochromatic-positive/Microsoft-Stream_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 770
+    "id": 692
   },
   {
     "name": "Microsoft Stream",
@@ -11512,10 +11072,10 @@ const logoData = [
     "filename": "Microsoft-Stream_48x48.png",
     "path": "Microsoft_365/Stream/2019-2025_monochromatic-positive/Microsoft-Stream_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 769
+    "id": 691
   },
   {
     "name": "Microsoft Stream",
@@ -11523,10 +11083,10 @@ const logoData = [
     "filename": "Microsoft-Stream_64x64.png",
     "path": "Microsoft_365/Stream/2019-2025_monochromatic-positive/Microsoft-Stream_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 766
+    "id": 688
   },
   {
     "name": "Microsoft Stream",
@@ -11534,10 +11094,10 @@ const logoData = [
     "filename": "Microsoft-Stream_96x96.png",
     "path": "Microsoft_365/Stream/2019-2025_monochromatic-positive/Microsoft-Stream_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 767
+    "id": 689
   },
   {
     "name": "Microsoft Stream",
@@ -11548,18 +11108,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 764
-  },
-  {
-    "name": "Microsoft Teams",
-    "family": "Microsoft_365",
-    "filename": "Microsoft-Teams.pdf",
-    "path": "Microsoft_365/Teams/2013-2019_negative-format/Microsoft-Teams.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1129
+    "id": 687
   },
   {
     "name": "Microsoft Teams",
@@ -11567,10 +11116,10 @@ const logoData = [
     "filename": "Microsoft-Teams_128x128.png",
     "path": "Microsoft_365/Teams/2013-2019_negative-format/Microsoft-Teams_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 1128
+    "id": 993
   },
   {
     "name": "Microsoft Teams",
@@ -11578,10 +11127,10 @@ const logoData = [
     "filename": "Microsoft-Teams_256x256.png",
     "path": "Microsoft_365/Teams/2013-2019_negative-format/Microsoft-Teams_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 1132
+    "id": 996
   },
   {
     "name": "Microsoft Teams",
@@ -11589,10 +11138,10 @@ const logoData = [
     "filename": "Microsoft-Teams_48x48.png",
     "path": "Microsoft_365/Teams/2013-2019_negative-format/Microsoft-Teams_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 1133
+    "id": 997
   },
   {
     "name": "Microsoft Teams",
@@ -11600,10 +11149,10 @@ const logoData = [
     "filename": "Microsoft-Teams_64x64.png",
     "path": "Microsoft_365/Teams/2013-2019_negative-format/Microsoft-Teams_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 1130
+    "id": 994
   },
   {
     "name": "Microsoft Teams",
@@ -11611,21 +11160,10 @@ const logoData = [
     "filename": "Microsoft-Teams_96x96.png",
     "path": "Microsoft_365/Teams/2013-2019_negative-format/Microsoft-Teams_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 1131
-  },
-  {
-    "name": "Microsoft Teams",
-    "family": "Microsoft_365",
-    "filename": "Microsoft-Teams.pdf",
-    "path": "Microsoft_365/Teams/2013-2019_positive-format/Microsoft-Teams.pdf",
-    "style": "positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1104
+    "id": 995
   },
   {
     "name": "Microsoft Teams",
@@ -11633,10 +11171,10 @@ const logoData = [
     "filename": "Microsoft-Teams_128x128.png",
     "path": "Microsoft_365/Teams/2013-2019_positive-format/Microsoft-Teams_128x128.png",
     "style": "positive",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 1103
+    "id": 972
   },
   {
     "name": "Microsoft Teams",
@@ -11644,10 +11182,10 @@ const logoData = [
     "filename": "Microsoft-Teams_256x256.png",
     "path": "Microsoft_365/Teams/2013-2019_positive-format/Microsoft-Teams_256x256.png",
     "style": "positive",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 1107
+    "id": 975
   },
   {
     "name": "Microsoft Teams",
@@ -11655,10 +11193,10 @@ const logoData = [
     "filename": "Microsoft-Teams_48x48.png",
     "path": "Microsoft_365/Teams/2013-2019_positive-format/Microsoft-Teams_48x48.png",
     "style": "positive",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 1108
+    "id": 976
   },
   {
     "name": "Microsoft Teams",
@@ -11666,10 +11204,10 @@ const logoData = [
     "filename": "Microsoft-Teams_64x64.png",
     "path": "Microsoft_365/Teams/2013-2019_positive-format/Microsoft-Teams_64x64.png",
     "style": "positive",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 1105
+    "id": 973
   },
   {
     "name": "Microsoft Teams",
@@ -11677,21 +11215,10 @@ const logoData = [
     "filename": "Microsoft-Teams_96x96.png",
     "path": "Microsoft_365/Teams/2013-2019_positive-format/Microsoft-Teams_96x96.png",
     "style": "positive",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 1106
-  },
-  {
-    "name": "Microsoft Teams",
-    "family": "Microsoft_365",
-    "filename": "Microsoft_Teams.pdf",
-    "path": "Microsoft_365/Teams/2019-2025_full-color/Microsoft_Teams.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1118
+    "id": 974
   },
   {
     "name": "Microsoft Teams",
@@ -11699,10 +11226,10 @@ const logoData = [
     "filename": "Microsoft_Teams_128x128.png",
     "path": "Microsoft_365/Teams/2019-2025_full-color/Microsoft_Teams_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1116
+    "id": 983
   },
   {
     "name": "Microsoft Teams",
@@ -11710,10 +11237,10 @@ const logoData = [
     "filename": "Microsoft_Teams_256x256.png",
     "path": "Microsoft_365/Teams/2019-2025_full-color/Microsoft_Teams_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1120
+    "id": 986
   },
   {
     "name": "Microsoft Teams",
@@ -11721,10 +11248,10 @@ const logoData = [
     "filename": "Microsoft_Teams_48x48.png",
     "path": "Microsoft_365/Teams/2019-2025_full-color/Microsoft_Teams_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1117
+    "id": 984
   },
   {
     "name": "Microsoft Teams",
@@ -11732,10 +11259,10 @@ const logoData = [
     "filename": "Microsoft_Teams_64x64.png",
     "path": "Microsoft_365/Teams/2019-2025_full-color/Microsoft_Teams_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1115
+    "id": 982
   },
   {
     "name": "Microsoft Teams",
@@ -11743,21 +11270,10 @@ const logoData = [
     "filename": "Microsoft_Teams_96x96.png",
     "path": "Microsoft_365/Teams/2019-2025_full-color/Microsoft_Teams_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1119
-  },
-  {
-    "name": "Microsoft Teams",
-    "family": "Microsoft_365",
-    "filename": "Microsoft_Teams.pdf",
-    "path": "Microsoft_365/Teams/2019-2025_monochromatic-negative/Microsoft_Teams.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1124
+    "id": 985
   },
   {
     "name": "Microsoft Teams",
@@ -11765,10 +11281,10 @@ const logoData = [
     "filename": "Microsoft_Teams_128x128.png",
     "path": "Microsoft_365/Teams/2019-2025_monochromatic-negative/Microsoft_Teams_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1122
+    "id": 988
   },
   {
     "name": "Microsoft Teams",
@@ -11776,10 +11292,10 @@ const logoData = [
     "filename": "Microsoft_Teams_256x256.png",
     "path": "Microsoft_365/Teams/2019-2025_monochromatic-negative/Microsoft_Teams_256x256.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1127
+    "id": 992
   },
   {
     "name": "Microsoft Teams",
@@ -11787,10 +11303,10 @@ const logoData = [
     "filename": "Microsoft_Teams_48x48.png",
     "path": "Microsoft_365/Teams/2019-2025_monochromatic-negative/Microsoft_Teams_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1123
+    "id": 989
   },
   {
     "name": "Microsoft Teams",
@@ -11798,10 +11314,10 @@ const logoData = [
     "filename": "Microsoft_Teams_64x64.png",
     "path": "Microsoft_365/Teams/2019-2025_monochromatic-negative/Microsoft_Teams_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1121
+    "id": 987
   },
   {
     "name": "Microsoft Teams",
@@ -11809,21 +11325,10 @@ const logoData = [
     "filename": "Microsoft_Teams_96x96.png",
     "path": "Microsoft_365/Teams/2019-2025_monochromatic-negative/Microsoft_Teams_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1126
-  },
-  {
-    "name": "Microsoft Teams",
-    "family": "Microsoft_365",
-    "filename": "Microsoft_Teams.pdf",
-    "path": "Microsoft_365/Teams/2019-2025_monochromatic-positive/Microsoft_Teams.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1112
+    "id": 991
   },
   {
     "name": "Microsoft Teams",
@@ -11831,10 +11336,10 @@ const logoData = [
     "filename": "Microsoft_Teams_128x128.png",
     "path": "Microsoft_365/Teams/2019-2025_monochromatic-positive/Microsoft_Teams_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1110
+    "id": 978
   },
   {
     "name": "Microsoft Teams",
@@ -11842,10 +11347,10 @@ const logoData = [
     "filename": "Microsoft_Teams_256x256.png",
     "path": "Microsoft_365/Teams/2019-2025_monochromatic-positive/Microsoft_Teams_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1114
+    "id": 981
   },
   {
     "name": "Microsoft Teams",
@@ -11853,10 +11358,10 @@ const logoData = [
     "filename": "Microsoft_Teams_48x48.png",
     "path": "Microsoft_365/Teams/2019-2025_monochromatic-positive/Microsoft_Teams_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1111
+    "id": 979
   },
   {
     "name": "Microsoft Teams",
@@ -11864,10 +11369,10 @@ const logoData = [
     "filename": "Microsoft_Teams_64x64.png",
     "path": "Microsoft_365/Teams/2019-2025_monochromatic-positive/Microsoft_Teams_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1109
+    "id": 977
   },
   {
     "name": "Microsoft Teams",
@@ -11875,10 +11380,10 @@ const logoData = [
     "filename": "Microsoft_Teams_96x96.png",
     "path": "Microsoft_365/Teams/2019-2025_monochromatic-positive/Microsoft_Teams_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1113
+    "id": 980
   },
   {
     "name": "Microsoft Teams 48x48 No Padding",
@@ -11886,21 +11391,10 @@ const logoData = [
     "filename": "Microsoft_Teams_48x48_-_no_padding.png",
     "path": "Microsoft_365/Teams/2019-2025_monochromatic-negative/Microsoft_Teams_48x48_-_no_padding.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1125
-  },
-  {
-    "name": "Microsoft To Do",
-    "family": "Microsoft_365",
-    "filename": "Microsoft_To_Do.pdf",
-    "path": "Microsoft_365/To_Do/2017-2019_full-color/Microsoft_To_Do.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 678
+    "id": 990
   },
   {
     "name": "Microsoft To Do",
@@ -11908,10 +11402,10 @@ const logoData = [
     "filename": "Microsoft_To_Do_128x128.png",
     "path": "Microsoft_365/To_Do/2017-2019_full-color/Microsoft_To_Do_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2017-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 680
+    "id": 615
   },
   {
     "name": "Microsoft To Do",
@@ -11919,10 +11413,10 @@ const logoData = [
     "filename": "Microsoft_To_Do_256x256.png",
     "path": "Microsoft_365/To_Do/2017-2019_full-color/Microsoft_To_Do_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2017-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 677
+    "id": 613
   },
   {
     "name": "Microsoft To Do",
@@ -11930,10 +11424,10 @@ const logoData = [
     "filename": "Microsoft_To_Do_48x48.png",
     "path": "Microsoft_365/To_Do/2017-2019_full-color/Microsoft_To_Do_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2017-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 679
+    "id": 614
   },
   {
     "name": "Microsoft To Do",
@@ -11941,10 +11435,10 @@ const logoData = [
     "filename": "Microsoft_To_Do_64x64.png",
     "path": "Microsoft_365/To_Do/2017-2019_full-color/Microsoft_To_Do_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2017-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 676
+    "id": 612
   },
   {
     "name": "Microsoft To Do",
@@ -11952,21 +11446,10 @@ const logoData = [
     "filename": "Microsoft_To_Do_96x96.png",
     "path": "Microsoft_365/To_Do/2017-2019_full-color/Microsoft_To_Do_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2017-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 675
-  },
-  {
-    "name": "Microsoft To Do",
-    "family": "Microsoft_365",
-    "filename": "Microsoft_To_Do.pdf",
-    "path": "Microsoft_365/To_Do/2017-2019_monochromatic-negative/Microsoft_To_Do.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 684
+    "id": 611
   },
   {
     "name": "Microsoft To Do",
@@ -11974,10 +11457,10 @@ const logoData = [
     "filename": "Microsoft_To_Do_128x128.png",
     "path": "Microsoft_365/To_Do/2017-2019_monochromatic-negative/Microsoft_To_Do_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2017-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 686
+    "id": 620
   },
   {
     "name": "Microsoft To Do",
@@ -11985,10 +11468,10 @@ const logoData = [
     "filename": "Microsoft_To_Do_256x256.png",
     "path": "Microsoft_365/To_Do/2017-2019_monochromatic-negative/Microsoft_To_Do_256x256.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2017-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 683
+    "id": 618
   },
   {
     "name": "Microsoft To Do",
@@ -11996,10 +11479,10 @@ const logoData = [
     "filename": "Microsoft_To_Do_48x48.png",
     "path": "Microsoft_365/To_Do/2017-2019_monochromatic-negative/Microsoft_To_Do_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2017-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 685
+    "id": 619
   },
   {
     "name": "Microsoft To Do",
@@ -12007,10 +11490,10 @@ const logoData = [
     "filename": "Microsoft_To_Do_64x64.png",
     "path": "Microsoft_365/To_Do/2017-2019_monochromatic-negative/Microsoft_To_Do_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2017-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 682
+    "id": 617
   },
   {
     "name": "Microsoft To Do",
@@ -12018,21 +11501,10 @@ const logoData = [
     "filename": "Microsoft_To_Do_96x96.png",
     "path": "Microsoft_365/To_Do/2017-2019_monochromatic-negative/Microsoft_To_Do_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2017-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 681
-  },
-  {
-    "name": "Microsoft To Do",
-    "family": "Microsoft_365",
-    "filename": "Microsoft_To_Do.pdf",
-    "path": "Microsoft_365/To_Do/2017-2019_monochromatic-positive/Microsoft_To_Do.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 690
+    "id": 616
   },
   {
     "name": "Microsoft To Do",
@@ -12040,10 +11512,10 @@ const logoData = [
     "filename": "Microsoft_To_Do_128x128.png",
     "path": "Microsoft_365/To_Do/2017-2019_monochromatic-positive/Microsoft_To_Do_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2017-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 692
+    "id": 625
   },
   {
     "name": "Microsoft To Do",
@@ -12051,10 +11523,10 @@ const logoData = [
     "filename": "Microsoft_To_Do_256x256.png",
     "path": "Microsoft_365/To_Do/2017-2019_monochromatic-positive/Microsoft_To_Do_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2017-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 689
+    "id": 623
   },
   {
     "name": "Microsoft To Do",
@@ -12062,10 +11534,10 @@ const logoData = [
     "filename": "Microsoft_To_Do_48x48.png",
     "path": "Microsoft_365/To_Do/2017-2019_monochromatic-positive/Microsoft_To_Do_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2017-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 691
+    "id": 624
   },
   {
     "name": "Microsoft To Do",
@@ -12073,10 +11545,10 @@ const logoData = [
     "filename": "Microsoft_To_Do_64x64.png",
     "path": "Microsoft_365/To_Do/2017-2019_monochromatic-positive/Microsoft_To_Do_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2017-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 688
+    "id": 622
   },
   {
     "name": "Microsoft To Do",
@@ -12084,10 +11556,10 @@ const logoData = [
     "filename": "Microsoft_To_Do_96x96.png",
     "path": "Microsoft_365/To_Do/2017-2019_monochromatic-positive/Microsoft_To_Do_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2017-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 687
+    "id": 621
   },
   {
     "name": "Microsoft Whiteboard Logo",
@@ -12098,29 +11570,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "JPG",
-    "id": 1019
-  },
-  {
-    "name": "Microsoft365 Logo Horiz Black Cmyk",
-    "family": "Microsoft_365",
-    "filename": "Microsoft365_logo_horiz_black_cmyk.pdf",
-    "path": "Microsoft_365/Microsoft_365_logo/Microsoft365_logo_horiz_black_cmyk.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 932
-  },
-  {
-    "name": "Microsoft365 Logo Horiz Black Rgb",
-    "family": "Microsoft_365",
-    "filename": "Microsoft365_logo_horiz_black_rgb.pdf",
-    "path": "Microsoft_365/Microsoft_365_logo/Microsoft365_logo_horiz_black_rgb.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 939
+    "id": 899
   },
   {
     "name": "Microsoft365 Logo Horiz Black Rgb",
@@ -12131,29 +11581,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 945
-  },
-  {
-    "name": "Microsoft365 Logo Horiz C Gray Cmyk",
-    "family": "Microsoft_365",
-    "filename": "Microsoft365_logo_horiz_c-gray_cmyk.pdf",
-    "path": "Microsoft_365/Microsoft_365_logo/Microsoft365_logo_horiz_c-gray_cmyk.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 942
-  },
-  {
-    "name": "Microsoft365 Logo Horiz C Gray Rgb",
-    "family": "Microsoft_365",
-    "filename": "Microsoft365_logo_horiz_c-gray_rgb.pdf",
-    "path": "Microsoft_365/Microsoft_365_logo/Microsoft365_logo_horiz_c-gray_rgb.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 930
+    "id": 835
   },
   {
     "name": "Microsoft365 Logo Horiz C Gray Rgb",
@@ -12164,29 +11592,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 936
-  },
-  {
-    "name": "Microsoft365 Logo Horiz C White Cmyk",
-    "family": "Microsoft_365",
-    "filename": "Microsoft365_logo_horiz_c-white_cmyk.pdf",
-    "path": "Microsoft_365/Microsoft_365_logo/Microsoft365_logo_horiz_c-white_cmyk.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 943
-  },
-  {
-    "name": "Microsoft365 Logo Horiz C White Rgb",
-    "family": "Microsoft_365",
-    "filename": "Microsoft365_logo_horiz_c-white_rgb.pdf",
-    "path": "Microsoft_365/Microsoft_365_logo/Microsoft365_logo_horiz_c-white_rgb.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 940
+    "id": 830
   },
   {
     "name": "Microsoft365 Logo Horiz C White Rgb",
@@ -12197,29 +11603,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 933
-  },
-  {
-    "name": "Microsoft365 Logo Horiz White Cmyk",
-    "family": "Microsoft_365",
-    "filename": "Microsoft365_logo_horiz_white_cmyk.pdf",
-    "path": "Microsoft_365/Microsoft_365_logo/Microsoft365_logo_horiz_white_cmyk.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 935
-  },
-  {
-    "name": "Microsoft365 Logo Horiz White Rgb",
-    "family": "Microsoft_365",
-    "filename": "Microsoft365_logo_horiz_white_rgb.pdf",
-    "path": "Microsoft_365/Microsoft_365_logo/Microsoft365_logo_horiz_white_rgb.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 928
+    "id": 828
   },
   {
     "name": "Microsoft365 Logo Horiz White Rgb",
@@ -12230,7 +11614,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 934
+    "id": 829
   },
   {
     "name": "New Bookings",
@@ -12241,7 +11625,7 @@ const logoData = [
     "year": "current",
     "size": "2048x1839",
     "format": "PNG",
-    "id": 363
+    "id": 347
   },
   {
     "name": "New Bookings",
@@ -12252,7 +11636,7 @@ const logoData = [
     "year": "current",
     "size": "56x50",
     "format": "PNG",
-    "id": 362
+    "id": 346
   },
   {
     "name": "New Bookings",
@@ -12263,18 +11647,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 364
-  },
-  {
-    "name": "Office",
-    "family": "Microsoft_365",
-    "filename": "Office.pdf",
-    "path": "Microsoft_365/Microsoft_365_Apps/Office/2012-2019_negative-format/Office.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1034
+    "id": 348
   },
   {
     "name": "Office",
@@ -12282,10 +11655,10 @@ const logoData = [
     "filename": "Office_128x128.png",
     "path": "Microsoft_365/Microsoft_365_Apps/Office/2012-2019_negative-format/Office_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2012-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 1032
+    "id": 910
   },
   {
     "name": "Office",
@@ -12293,10 +11666,10 @@ const logoData = [
     "filename": "Office_256x256.png",
     "path": "Microsoft_365/Microsoft_365_Apps/Office/2012-2019_negative-format/Office_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2012-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 1036
+    "id": 913
   },
   {
     "name": "Office",
@@ -12304,10 +11677,10 @@ const logoData = [
     "filename": "Office_48x48.png",
     "path": "Microsoft_365/Microsoft_365_Apps/Office/2012-2019_negative-format/Office_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2012-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 1031
+    "id": 909
   },
   {
     "name": "Office",
@@ -12315,10 +11688,10 @@ const logoData = [
     "filename": "Office_64x64.png",
     "path": "Microsoft_365/Microsoft_365_Apps/Office/2012-2019_negative-format/Office_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2012-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 1035
+    "id": 912
   },
   {
     "name": "Office",
@@ -12326,21 +11699,10 @@ const logoData = [
     "filename": "Office_96x96.png",
     "path": "Microsoft_365/Microsoft_365_Apps/Office/2012-2019_negative-format/Office_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2012-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 1033
-  },
-  {
-    "name": "Office",
-    "family": "Microsoft_365",
-    "filename": "Office.pdf",
-    "path": "Microsoft_365/Microsoft_365_Apps/Office/2012-2019_postive-format/Office.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1028
+    "id": 911
   },
   {
     "name": "Office",
@@ -12348,10 +11710,10 @@ const logoData = [
     "filename": "Office_128x128.png",
     "path": "Microsoft_365/Microsoft_365_Apps/Office/2012-2019_postive-format/Office_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2012-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 1027
+    "id": 906
   },
   {
     "name": "Office",
@@ -12359,10 +11721,10 @@ const logoData = [
     "filename": "Office_256x256.png",
     "path": "Microsoft_365/Microsoft_365_Apps/Office/2012-2019_postive-format/Office_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2012-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 1030
+    "id": 908
   },
   {
     "name": "Office",
@@ -12370,10 +11732,10 @@ const logoData = [
     "filename": "Office_48x48.png",
     "path": "Microsoft_365/Microsoft_365_Apps/Office/2012-2019_postive-format/Office_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2012-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 1025
+    "id": 904
   },
   {
     "name": "Office",
@@ -12381,10 +11743,10 @@ const logoData = [
     "filename": "Office_64x64.png",
     "path": "Microsoft_365/Microsoft_365_Apps/Office/2012-2019_postive-format/Office_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2012-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 1029
+    "id": 907
   },
   {
     "name": "Office",
@@ -12392,21 +11754,10 @@ const logoData = [
     "filename": "Office__96x96.png",
     "path": "Microsoft_365/Microsoft_365_Apps/Office/2012-2019_postive-format/Office__96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2012-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 1026
-  },
-  {
-    "name": "Office",
-    "family": "Microsoft_365",
-    "filename": "Office.pdf",
-    "path": "Microsoft_365/Microsoft_365_Apps/Office/2019-2022_full-color/Office.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1046
+    "id": 905
   },
   {
     "name": "Office",
@@ -12414,10 +11765,10 @@ const logoData = [
     "filename": "Office_128x128.png",
     "path": "Microsoft_365/Microsoft_365_Apps/Office/2019-2022_full-color/Office_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2022",
     "size": "128x128",
     "format": "PNG",
-    "id": 1044
+    "id": 920
   },
   {
     "name": "Office",
@@ -12425,10 +11776,10 @@ const logoData = [
     "filename": "Office_256x256.png",
     "path": "Microsoft_365/Microsoft_365_Apps/Office/2019-2022_full-color/Office_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2022",
     "size": "256x256",
     "format": "PNG",
-    "id": 1048
+    "id": 923
   },
   {
     "name": "Office",
@@ -12436,10 +11787,10 @@ const logoData = [
     "filename": "Office_48x48.png",
     "path": "Microsoft_365/Microsoft_365_Apps/Office/2019-2022_full-color/Office_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2022",
     "size": "48x48",
     "format": "PNG",
-    "id": 1043
+    "id": 919
   },
   {
     "name": "Office",
@@ -12447,10 +11798,10 @@ const logoData = [
     "filename": "Office_64x64.png",
     "path": "Microsoft_365/Microsoft_365_Apps/Office/2019-2022_full-color/Office_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2022",
     "size": "64x64",
     "format": "PNG",
-    "id": 1047
+    "id": 922
   },
   {
     "name": "Office",
@@ -12458,21 +11809,10 @@ const logoData = [
     "filename": "Office_96x96.png",
     "path": "Microsoft_365/Microsoft_365_Apps/Office/2019-2022_full-color/Office_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2022",
     "size": "96x96",
     "format": "PNG",
-    "id": 1045
-  },
-  {
-    "name": "Office",
-    "family": "Microsoft_365",
-    "filename": "Office.pdf",
-    "path": "Microsoft_365/Microsoft_365_Apps/Office/2019-2022_monochromatic-negative/Office.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1040
+    "id": 921
   },
   {
     "name": "Office",
@@ -12480,10 +11820,10 @@ const logoData = [
     "filename": "Office_128x128.png",
     "path": "Microsoft_365/Microsoft_365_Apps/Office/2019-2022_monochromatic-negative/Office_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2022",
     "size": "128x128",
     "format": "PNG",
-    "id": 1038
+    "id": 915
   },
   {
     "name": "Office",
@@ -12491,10 +11831,10 @@ const logoData = [
     "filename": "Office_256x256.png",
     "path": "Microsoft_365/Microsoft_365_Apps/Office/2019-2022_monochromatic-negative/Office_256x256.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2022",
     "size": "256x256",
     "format": "PNG",
-    "id": 1042
+    "id": 918
   },
   {
     "name": "Office",
@@ -12502,10 +11842,10 @@ const logoData = [
     "filename": "Office_48x48.png",
     "path": "Microsoft_365/Microsoft_365_Apps/Office/2019-2022_monochromatic-negative/Office_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2022",
     "size": "48x48",
     "format": "PNG",
-    "id": 1037
+    "id": 914
   },
   {
     "name": "Office",
@@ -12513,10 +11853,10 @@ const logoData = [
     "filename": "Office_64x64.png",
     "path": "Microsoft_365/Microsoft_365_Apps/Office/2019-2022_monochromatic-negative/Office_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2022",
     "size": "64x64",
     "format": "PNG",
-    "id": 1041
+    "id": 917
   },
   {
     "name": "Office",
@@ -12524,21 +11864,10 @@ const logoData = [
     "filename": "Office_96x96.png",
     "path": "Microsoft_365/Microsoft_365_Apps/Office/2019-2022_monochromatic-negative/Office_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2022",
     "size": "96x96",
     "format": "PNG",
-    "id": 1039
-  },
-  {
-    "name": "Office",
-    "family": "Microsoft_365",
-    "filename": "Office.pdf",
-    "path": "Microsoft_365/Microsoft_365_Apps/Office/2019-2022_monochromatic-positive/Office.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1052
+    "id": 916
   },
   {
     "name": "Office",
@@ -12546,10 +11875,10 @@ const logoData = [
     "filename": "Office_128x128.png",
     "path": "Microsoft_365/Microsoft_365_Apps/Office/2019-2022_monochromatic-positive/Office_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2022",
     "size": "128x128",
     "format": "PNG",
-    "id": 1050
+    "id": 925
   },
   {
     "name": "Office",
@@ -12557,10 +11886,10 @@ const logoData = [
     "filename": "Office_256x256.png",
     "path": "Microsoft_365/Microsoft_365_Apps/Office/2019-2022_monochromatic-positive/Office_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2022",
     "size": "256x256",
     "format": "PNG",
-    "id": 1054
+    "id": 928
   },
   {
     "name": "Office",
@@ -12568,10 +11897,10 @@ const logoData = [
     "filename": "Office_48x48.png",
     "path": "Microsoft_365/Microsoft_365_Apps/Office/2019-2022_monochromatic-positive/Office_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2022",
     "size": "48x48",
     "format": "PNG",
-    "id": 1049
+    "id": 924
   },
   {
     "name": "Office",
@@ -12579,10 +11908,10 @@ const logoData = [
     "filename": "Office_64x64.png",
     "path": "Microsoft_365/Microsoft_365_Apps/Office/2019-2022_monochromatic-positive/Office_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2022",
     "size": "64x64",
     "format": "PNG",
-    "id": 1053
+    "id": 927
   },
   {
     "name": "Office",
@@ -12590,21 +11919,10 @@ const logoData = [
     "filename": "Office_96x96.png",
     "path": "Microsoft_365/Microsoft_365_Apps/Office/2019-2022_monochromatic-positive/Office_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2022",
     "size": "96x96",
     "format": "PNG",
-    "id": 1051
-  },
-  {
-    "name": "Onedrive",
-    "family": "Microsoft_365",
-    "filename": "OneDrive.pdf",
-    "path": "Microsoft_365/OneDrive/2013-2019_negative-format/OneDrive.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1095
+    "id": 926
   },
   {
     "name": "Onedrive",
@@ -12612,10 +11930,10 @@ const logoData = [
     "filename": "OneDrive_128x128.png",
     "path": "Microsoft_365/OneDrive/2013-2019_negative-format/OneDrive_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 1098
+    "id": 967
   },
   {
     "name": "Onedrive",
@@ -12623,10 +11941,10 @@ const logoData = [
     "filename": "OneDrive_256x256.png",
     "path": "Microsoft_365/OneDrive/2013-2019_negative-format/OneDrive_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 1094
+    "id": 964
   },
   {
     "name": "Onedrive",
@@ -12634,10 +11952,10 @@ const logoData = [
     "filename": "OneDrive_48x48.png",
     "path": "Microsoft_365/OneDrive/2013-2019_negative-format/OneDrive_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 1099
+    "id": 968
   },
   {
     "name": "Onedrive",
@@ -12645,10 +11963,10 @@ const logoData = [
     "filename": "OneDrive_64x64.png",
     "path": "Microsoft_365/OneDrive/2013-2019_negative-format/OneDrive_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 1096
+    "id": 965
   },
   {
     "name": "Onedrive",
@@ -12656,21 +11974,10 @@ const logoData = [
     "filename": "OneDrive_96x96.png",
     "path": "Microsoft_365/OneDrive/2013-2019_negative-format/OneDrive_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 1097
-  },
-  {
-    "name": "Onedrive",
-    "family": "Microsoft_365",
-    "filename": "OneDrive.pdf",
-    "path": "Microsoft_365/OneDrive/2013-2019_postive-format/OneDrive.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1083
+    "id": 966
   },
   {
     "name": "Onedrive",
@@ -12678,10 +11985,10 @@ const logoData = [
     "filename": "OneDrive_128x128.png",
     "path": "Microsoft_365/OneDrive/2013-2019_postive-format/OneDrive_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 1086
+    "id": 957
   },
   {
     "name": "Onedrive",
@@ -12689,10 +11996,10 @@ const logoData = [
     "filename": "OneDrive_256x256.png",
     "path": "Microsoft_365/OneDrive/2013-2019_postive-format/OneDrive_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 1082
+    "id": 954
   },
   {
     "name": "Onedrive",
@@ -12700,10 +12007,10 @@ const logoData = [
     "filename": "OneDrive_48x48.png",
     "path": "Microsoft_365/OneDrive/2013-2019_postive-format/OneDrive_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 1087
+    "id": 958
   },
   {
     "name": "Onedrive",
@@ -12711,10 +12018,10 @@ const logoData = [
     "filename": "OneDrive_64x64.png",
     "path": "Microsoft_365/OneDrive/2013-2019_postive-format/OneDrive_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 1084
+    "id": 955
   },
   {
     "name": "Onedrive",
@@ -12722,21 +12029,10 @@ const logoData = [
     "filename": "OneDrive_96x96.png",
     "path": "Microsoft_365/OneDrive/2013-2019_postive-format/OneDrive_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 1085
-  },
-  {
-    "name": "Onedrive",
-    "family": "Microsoft_365",
-    "filename": "OneDrive.pdf",
-    "path": "Microsoft_365/OneDrive/2019-2025_full-color/OneDrive.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1077
+    "id": 956
   },
   {
     "name": "Onedrive",
@@ -12744,10 +12040,10 @@ const logoData = [
     "filename": "OneDrive_128x128.png",
     "path": "Microsoft_365/OneDrive/2019-2025_full-color/OneDrive_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1080
+    "id": 952
   },
   {
     "name": "Onedrive",
@@ -12755,10 +12051,10 @@ const logoData = [
     "filename": "OneDrive_256x256.png",
     "path": "Microsoft_365/OneDrive/2019-2025_full-color/OneDrive_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1076
+    "id": 949
   },
   {
     "name": "Onedrive",
@@ -12766,10 +12062,10 @@ const logoData = [
     "filename": "OneDrive_48x48.png",
     "path": "Microsoft_365/OneDrive/2019-2025_full-color/OneDrive_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1081
+    "id": 953
   },
   {
     "name": "Onedrive",
@@ -12777,10 +12073,10 @@ const logoData = [
     "filename": "OneDrive_64x64.png",
     "path": "Microsoft_365/OneDrive/2019-2025_full-color/OneDrive_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1078
+    "id": 950
   },
   {
     "name": "Onedrive",
@@ -12788,21 +12084,10 @@ const logoData = [
     "filename": "OneDrive_96x96.png",
     "path": "Microsoft_365/OneDrive/2019-2025_full-color/OneDrive_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1079
-  },
-  {
-    "name": "Onedrive",
-    "family": "Microsoft_365",
-    "filename": "OneDrive.pdf",
-    "path": "Microsoft_365/OneDrive/2019-2025_monochromatic-negative/OneDrive.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1089
+    "id": 951
   },
   {
     "name": "Onedrive",
@@ -12810,10 +12095,10 @@ const logoData = [
     "filename": "OneDrive_128x128.png",
     "path": "Microsoft_365/OneDrive/2019-2025_monochromatic-negative/OneDrive_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1092
+    "id": 962
   },
   {
     "name": "Onedrive",
@@ -12821,10 +12106,10 @@ const logoData = [
     "filename": "OneDrive_256x256.png",
     "path": "Microsoft_365/OneDrive/2019-2025_monochromatic-negative/OneDrive_256x256.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1088
+    "id": 959
   },
   {
     "name": "Onedrive",
@@ -12832,10 +12117,10 @@ const logoData = [
     "filename": "OneDrive_48x48.png",
     "path": "Microsoft_365/OneDrive/2019-2025_monochromatic-negative/OneDrive_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1093
+    "id": 963
   },
   {
     "name": "Onedrive",
@@ -12843,10 +12128,10 @@ const logoData = [
     "filename": "OneDrive_64x64.png",
     "path": "Microsoft_365/OneDrive/2019-2025_monochromatic-negative/OneDrive_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1090
+    "id": 960
   },
   {
     "name": "Onedrive",
@@ -12854,21 +12139,10 @@ const logoData = [
     "filename": "OneDrive_96x96.png",
     "path": "Microsoft_365/OneDrive/2019-2025_monochromatic-negative/OneDrive_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1091
-  },
-  {
-    "name": "Onedrive",
-    "family": "Microsoft_365",
-    "filename": "OneDrive.pdf",
-    "path": "Microsoft_365/OneDrive/2019-2025_monochromatic-positive/OneDrive.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1071
+    "id": 961
   },
   {
     "name": "Onedrive",
@@ -12876,10 +12150,10 @@ const logoData = [
     "filename": "OneDrive_128x128.png",
     "path": "Microsoft_365/OneDrive/2019-2025_monochromatic-positive/OneDrive_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1074
+    "id": 947
   },
   {
     "name": "Onedrive",
@@ -12887,10 +12161,10 @@ const logoData = [
     "filename": "OneDrive_256x256.png",
     "path": "Microsoft_365/OneDrive/2019-2025_monochromatic-positive/OneDrive_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1070
+    "id": 944
   },
   {
     "name": "Onedrive",
@@ -12898,10 +12172,10 @@ const logoData = [
     "filename": "OneDrive_48x48.png",
     "path": "Microsoft_365/OneDrive/2019-2025_monochromatic-positive/OneDrive_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1075
+    "id": 948
   },
   {
     "name": "Onedrive",
@@ -12909,10 +12183,10 @@ const logoData = [
     "filename": "OneDrive_64x64.png",
     "path": "Microsoft_365/OneDrive/2019-2025_monochromatic-positive/OneDrive_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1072
+    "id": 945
   },
   {
     "name": "Onedrive",
@@ -12920,10 +12194,10 @@ const logoData = [
     "filename": "OneDrive_96x96.png",
     "path": "Microsoft_365/OneDrive/2019-2025_monochromatic-positive/OneDrive_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1073
+    "id": 946
   },
   {
     "name": "Onedrive 1024x1024 (2025 Unofficial)",
@@ -12934,7 +12208,7 @@ const logoData = [
     "year": "current",
     "size": "1024x1024",
     "format": "PNG",
-    "id": 1068
+    "id": 942
   },
   {
     "name": "Onedrive 512",
@@ -12945,7 +12219,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 1069
+    "id": 943
   },
   {
     "name": "Onedrive 512 Padded",
@@ -12956,18 +12230,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 1067
-  },
-  {
-    "name": "Onenote",
-    "family": "Microsoft_365",
-    "filename": "OneNote.pdf",
-    "path": "Microsoft_365/OneNote/2013-2019_negative-format/OneNote.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 892
+    "id": 941
   },
   {
     "name": "Onenote",
@@ -12975,10 +12238,10 @@ const logoData = [
     "filename": "OneNote_128x128.png",
     "path": "Microsoft_365/OneNote/2013-2019_negative-format/OneNote_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 893
+    "id": 796
   },
   {
     "name": "Onenote",
@@ -12986,10 +12249,10 @@ const logoData = [
     "filename": "OneNote_256x256.png",
     "path": "Microsoft_365/OneNote/2013-2019_negative-format/OneNote_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 890
+    "id": 794
   },
   {
     "name": "Onenote",
@@ -12997,10 +12260,10 @@ const logoData = [
     "filename": "OneNote_48x48.png",
     "path": "Microsoft_365/OneNote/2013-2019_negative-format/OneNote_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 891
+    "id": 795
   },
   {
     "name": "Onenote",
@@ -13008,10 +12271,10 @@ const logoData = [
     "filename": "OneNote_64x64.png",
     "path": "Microsoft_365/OneNote/2013-2019_negative-format/OneNote_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 889
+    "id": 793
   },
   {
     "name": "Onenote",
@@ -13019,21 +12282,10 @@ const logoData = [
     "filename": "OneNote_96x96.png",
     "path": "Microsoft_365/OneNote/2013-2019_negative-format/OneNote_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 894
-  },
-  {
-    "name": "Onenote",
-    "family": "Microsoft_365",
-    "filename": "OneNote.pdf",
-    "path": "Microsoft_365/OneNote/2013-2019_postive-format/OneNote.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 880
+    "id": 797
   },
   {
     "name": "Onenote",
@@ -13041,10 +12293,10 @@ const logoData = [
     "filename": "OneNote_128x128.png",
     "path": "Microsoft_365/OneNote/2013-2019_postive-format/OneNote_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 881
+    "id": 786
   },
   {
     "name": "Onenote",
@@ -13052,10 +12304,10 @@ const logoData = [
     "filename": "OneNote_256x256.png",
     "path": "Microsoft_365/OneNote/2013-2019_postive-format/OneNote_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 878
+    "id": 784
   },
   {
     "name": "Onenote",
@@ -13063,10 +12315,10 @@ const logoData = [
     "filename": "OneNote_48x48.png",
     "path": "Microsoft_365/OneNote/2013-2019_postive-format/OneNote_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 879
+    "id": 785
   },
   {
     "name": "Onenote",
@@ -13074,10 +12326,10 @@ const logoData = [
     "filename": "OneNote_64x64.png",
     "path": "Microsoft_365/OneNote/2013-2019_postive-format/OneNote_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 877
+    "id": 783
   },
   {
     "name": "Onenote",
@@ -13085,21 +12337,10 @@ const logoData = [
     "filename": "OneNote_96x96.png",
     "path": "Microsoft_365/OneNote/2013-2019_postive-format/OneNote_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 882
-  },
-  {
-    "name": "Onenote",
-    "family": "Microsoft_365",
-    "filename": "OneNote.pdf",
-    "path": "Microsoft_365/OneNote/2019-2025_full-color/OneNote.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 874
+    "id": 787
   },
   {
     "name": "Onenote",
@@ -13107,10 +12348,10 @@ const logoData = [
     "filename": "OneNote_128x128.png",
     "path": "Microsoft_365/OneNote/2019-2025_full-color/OneNote_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 875
+    "id": 781
   },
   {
     "name": "Onenote",
@@ -13118,10 +12359,10 @@ const logoData = [
     "filename": "OneNote_256x256.png",
     "path": "Microsoft_365/OneNote/2019-2025_full-color/OneNote_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 872
+    "id": 779
   },
   {
     "name": "Onenote",
@@ -13129,10 +12370,10 @@ const logoData = [
     "filename": "OneNote_48x48.png",
     "path": "Microsoft_365/OneNote/2019-2025_full-color/OneNote_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 873
+    "id": 780
   },
   {
     "name": "Onenote",
@@ -13140,10 +12381,10 @@ const logoData = [
     "filename": "OneNote_64x64.png",
     "path": "Microsoft_365/OneNote/2019-2025_full-color/OneNote_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 871
+    "id": 778
   },
   {
     "name": "Onenote",
@@ -13151,21 +12392,10 @@ const logoData = [
     "filename": "OneNote_96x96.png",
     "path": "Microsoft_365/OneNote/2019-2025_full-color/OneNote_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 876
-  },
-  {
-    "name": "Onenote",
-    "family": "Microsoft_365",
-    "filename": "OneNote.pdf",
-    "path": "Microsoft_365/OneNote/2019-2025_monochromatic-negative/OneNote.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 886
+    "id": 782
   },
   {
     "name": "Onenote",
@@ -13173,10 +12403,10 @@ const logoData = [
     "filename": "OneNote_128x128.png",
     "path": "Microsoft_365/OneNote/2019-2025_monochromatic-negative/OneNote_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 887
+    "id": 791
   },
   {
     "name": "Onenote",
@@ -13184,10 +12414,10 @@ const logoData = [
     "filename": "OneNote_256x256.png",
     "path": "Microsoft_365/OneNote/2019-2025_monochromatic-negative/OneNote_256x256.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 884
+    "id": 789
   },
   {
     "name": "Onenote",
@@ -13195,10 +12425,10 @@ const logoData = [
     "filename": "OneNote_48x48.png",
     "path": "Microsoft_365/OneNote/2019-2025_monochromatic-negative/OneNote_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 885
+    "id": 790
   },
   {
     "name": "Onenote",
@@ -13206,10 +12436,10 @@ const logoData = [
     "filename": "OneNote_64x64.png",
     "path": "Microsoft_365/OneNote/2019-2025_monochromatic-negative/OneNote_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 883
+    "id": 788
   },
   {
     "name": "Onenote",
@@ -13217,21 +12447,10 @@ const logoData = [
     "filename": "OneNote_96x96.png",
     "path": "Microsoft_365/OneNote/2019-2025_monochromatic-negative/OneNote_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 888
-  },
-  {
-    "name": "Onenote",
-    "family": "Microsoft_365",
-    "filename": "OneNote.pdf",
-    "path": "Microsoft_365/OneNote/2019-2025_monochromatic-positive/OneNote.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 868
+    "id": 792
   },
   {
     "name": "Onenote",
@@ -13239,10 +12458,10 @@ const logoData = [
     "filename": "OneNote_128x128.png",
     "path": "Microsoft_365/OneNote/2019-2025_monochromatic-positive/OneNote_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 869
+    "id": 776
   },
   {
     "name": "Onenote",
@@ -13250,10 +12469,10 @@ const logoData = [
     "filename": "OneNote_256x256.png",
     "path": "Microsoft_365/OneNote/2019-2025_monochromatic-positive/OneNote_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 866
+    "id": 774
   },
   {
     "name": "Onenote",
@@ -13261,10 +12480,10 @@ const logoData = [
     "filename": "OneNote_48x48.png",
     "path": "Microsoft_365/OneNote/2019-2025_monochromatic-positive/OneNote_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 867
+    "id": 775
   },
   {
     "name": "Onenote",
@@ -13272,10 +12491,10 @@ const logoData = [
     "filename": "OneNote_64x64.png",
     "path": "Microsoft_365/OneNote/2019-2025_monochromatic-positive/OneNote_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 865
+    "id": 773
   },
   {
     "name": "Onenote",
@@ -13283,10 +12502,10 @@ const logoData = [
     "filename": "OneNote_96x96.png",
     "path": "Microsoft_365/OneNote/2019-2025_monochromatic-positive/OneNote_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 870
+    "id": 777
   },
   {
     "name": "Onenote 1024x1024 (2025 Unofficial)",
@@ -13297,7 +12516,7 @@ const logoData = [
     "year": "current",
     "size": "1024x1024",
     "format": "PNG",
-    "id": 864
+    "id": 772
   },
   {
     "name": "Onenote 512",
@@ -13308,7 +12527,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 863
+    "id": 771
   },
   {
     "name": "Onenote 512 Padded",
@@ -13319,18 +12538,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 862
-  },
-  {
-    "name": "Outlook",
-    "family": "Microsoft_365",
-    "filename": "Outlook.pdf",
-    "path": "Microsoft_365/Outlook/2013-2019_negative-format/Outlook.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 924
+    "id": 770
   },
   {
     "name": "Outlook",
@@ -13338,10 +12546,10 @@ const logoData = [
     "filename": "Outlook_128x128.png",
     "path": "Microsoft_365/Outlook/2013-2019_negative-format/Outlook_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 927
+    "id": 825
   },
   {
     "name": "Outlook",
@@ -13349,10 +12557,10 @@ const logoData = [
     "filename": "Outlook_256x256.png",
     "path": "Microsoft_365/Outlook/2013-2019_negative-format/Outlook_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 923
+    "id": 822
   },
   {
     "name": "Outlook",
@@ -13360,10 +12568,10 @@ const logoData = [
     "filename": "Outlook_48x48.png",
     "path": "Microsoft_365/Outlook/2013-2019_negative-format/Outlook_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 925
+    "id": 823
   },
   {
     "name": "Outlook",
@@ -13371,10 +12579,10 @@ const logoData = [
     "filename": "Outlook_64x64.png",
     "path": "Microsoft_365/Outlook/2013-2019_negative-format/Outlook_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 922
+    "id": 821
   },
   {
     "name": "Outlook",
@@ -13382,21 +12590,10 @@ const logoData = [
     "filename": "Outlook_96x96.png",
     "path": "Microsoft_365/Outlook/2013-2019_negative-format/Outlook_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 926
-  },
-  {
-    "name": "Outlook",
-    "family": "Microsoft_365",
-    "filename": "Outlook.pdf",
-    "path": "Microsoft_365/Outlook/2013-2019_postive-format/Outlook.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 912
+    "id": 824
   },
   {
     "name": "Outlook",
@@ -13404,10 +12601,10 @@ const logoData = [
     "filename": "Outlook_128x128.png",
     "path": "Microsoft_365/Outlook/2013-2019_postive-format/Outlook_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 915
+    "id": 815
   },
   {
     "name": "Outlook",
@@ -13415,10 +12612,10 @@ const logoData = [
     "filename": "Outlook_256x256.png",
     "path": "Microsoft_365/Outlook/2013-2019_postive-format/Outlook_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 911
+    "id": 812
   },
   {
     "name": "Outlook",
@@ -13426,10 +12623,10 @@ const logoData = [
     "filename": "Outlook_48x48.png",
     "path": "Microsoft_365/Outlook/2013-2019_postive-format/Outlook_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 913
+    "id": 813
   },
   {
     "name": "Outlook",
@@ -13437,10 +12634,10 @@ const logoData = [
     "filename": "Outlook_64x64.png",
     "path": "Microsoft_365/Outlook/2013-2019_postive-format/Outlook_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 910
+    "id": 811
   },
   {
     "name": "Outlook",
@@ -13448,21 +12645,10 @@ const logoData = [
     "filename": "Outlook_96x96.png",
     "path": "Microsoft_365/Outlook/2013-2019_postive-format/Outlook_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 914
-  },
-  {
-    "name": "Outlook",
-    "family": "Microsoft_365",
-    "filename": "Outlook.pdf",
-    "path": "Microsoft_365/Outlook/2019-2025_full-color/Outlook.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 906
+    "id": 814
   },
   {
     "name": "Outlook",
@@ -13470,10 +12656,10 @@ const logoData = [
     "filename": "Outlook_128x128.png",
     "path": "Microsoft_365/Outlook/2019-2025_full-color/Outlook_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 909
+    "id": 810
   },
   {
     "name": "Outlook",
@@ -13481,10 +12667,10 @@ const logoData = [
     "filename": "Outlook_256x256.png",
     "path": "Microsoft_365/Outlook/2019-2025_full-color/Outlook_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 905
+    "id": 807
   },
   {
     "name": "Outlook",
@@ -13492,10 +12678,10 @@ const logoData = [
     "filename": "Outlook_48x48.png",
     "path": "Microsoft_365/Outlook/2019-2025_full-color/Outlook_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 907
+    "id": 808
   },
   {
     "name": "Outlook",
@@ -13503,10 +12689,10 @@ const logoData = [
     "filename": "Outlook_64x64.png",
     "path": "Microsoft_365/Outlook/2019-2025_full-color/Outlook_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 904
+    "id": 806
   },
   {
     "name": "Outlook",
@@ -13514,21 +12700,10 @@ const logoData = [
     "filename": "Outlook_96x96.png",
     "path": "Microsoft_365/Outlook/2019-2025_full-color/Outlook_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 908
-  },
-  {
-    "name": "Outlook",
-    "family": "Microsoft_365",
-    "filename": "Outlook.pdf",
-    "path": "Microsoft_365/Outlook/2019-2025_monochromatic-negative/Outlook.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 918
+    "id": 809
   },
   {
     "name": "Outlook",
@@ -13536,10 +12711,10 @@ const logoData = [
     "filename": "Outlook_128x128.png",
     "path": "Microsoft_365/Outlook/2019-2025_monochromatic-negative/Outlook_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 921
+    "id": 820
   },
   {
     "name": "Outlook",
@@ -13547,10 +12722,10 @@ const logoData = [
     "filename": "Outlook_256x256.png",
     "path": "Microsoft_365/Outlook/2019-2025_monochromatic-negative/Outlook_256x256.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 917
+    "id": 817
   },
   {
     "name": "Outlook",
@@ -13558,10 +12733,10 @@ const logoData = [
     "filename": "Outlook_48x48.png",
     "path": "Microsoft_365/Outlook/2019-2025_monochromatic-negative/Outlook_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 919
+    "id": 818
   },
   {
     "name": "Outlook",
@@ -13569,10 +12744,10 @@ const logoData = [
     "filename": "Outlook_64x64.png",
     "path": "Microsoft_365/Outlook/2019-2025_monochromatic-negative/Outlook_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 916
+    "id": 816
   },
   {
     "name": "Outlook",
@@ -13580,21 +12755,10 @@ const logoData = [
     "filename": "Outlook_96x96.png",
     "path": "Microsoft_365/Outlook/2019-2025_monochromatic-negative/Outlook_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 920
-  },
-  {
-    "name": "Outlook",
-    "family": "Microsoft_365",
-    "filename": "Outlook.pdf",
-    "path": "Microsoft_365/Outlook/2019-2025_monochromatic-positive/Outlook.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 900
+    "id": 819
   },
   {
     "name": "Outlook",
@@ -13602,10 +12766,10 @@ const logoData = [
     "filename": "Outlook_128x128.png",
     "path": "Microsoft_365/Outlook/2019-2025_monochromatic-positive/Outlook_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 903
+    "id": 805
   },
   {
     "name": "Outlook",
@@ -13613,10 +12777,10 @@ const logoData = [
     "filename": "Outlook_256x256.png",
     "path": "Microsoft_365/Outlook/2019-2025_monochromatic-positive/Outlook_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 899
+    "id": 802
   },
   {
     "name": "Outlook",
@@ -13624,10 +12788,10 @@ const logoData = [
     "filename": "Outlook_48x48.png",
     "path": "Microsoft_365/Outlook/2019-2025_monochromatic-positive/Outlook_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 901
+    "id": 803
   },
   {
     "name": "Outlook",
@@ -13635,10 +12799,10 @@ const logoData = [
     "filename": "Outlook_64x64.png",
     "path": "Microsoft_365/Outlook/2019-2025_monochromatic-positive/Outlook_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 898
+    "id": 801
   },
   {
     "name": "Outlook",
@@ -13646,10 +12810,10 @@ const logoData = [
     "filename": "Outlook_96x96.png",
     "path": "Microsoft_365/Outlook/2019-2025_monochromatic-positive/Outlook_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 902
+    "id": 804
   },
   {
     "name": "Outlook 1024x1024 (2025 Unofficial)",
@@ -13660,7 +12824,7 @@ const logoData = [
     "year": "current",
     "size": "1024x1024",
     "format": "PNG",
-    "id": 896
+    "id": 799
   },
   {
     "name": "Outlook 512",
@@ -13671,7 +12835,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 895
+    "id": 798
   },
   {
     "name": "Outlook 512 Padded",
@@ -13682,18 +12846,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 897
-  },
-  {
-    "name": "Outlook Calendar",
-    "family": "Microsoft_365",
-    "filename": "Outlook-Calendar.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_calendar/old-icons-negative-format/Outlook-Calendar.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 403
+    "id": 800
   },
   {
     "name": "Outlook Calendar",
@@ -13704,7 +12857,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 402
+    "id": 381
   },
   {
     "name": "Outlook Calendar",
@@ -13715,7 +12868,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 401
+    "id": 380
   },
   {
     "name": "Outlook Calendar",
@@ -13726,7 +12879,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 398
+    "id": 377
   },
   {
     "name": "Outlook Calendar",
@@ -13737,7 +12890,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 399
+    "id": 378
   },
   {
     "name": "Outlook Calendar",
@@ -13748,18 +12901,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 400
-  },
-  {
-    "name": "Outlook Customer Manager",
-    "family": "Microsoft_365",
-    "filename": "Outlook-Customer-Manager.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_Customer_Manager/2016-2020_negative-format/Outlook-Customer-Manager.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 500
+    "id": 379
   },
   {
     "name": "Outlook Customer Manager",
@@ -13767,10 +12909,10 @@ const logoData = [
     "filename": "Outlook-Customer-Manager_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_Customer_Manager/2016-2020_negative-format/Outlook-Customer-Manager_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2020",
     "size": "128x128",
     "format": "PNG",
-    "id": 502
+    "id": 464
   },
   {
     "name": "Outlook Customer Manager",
@@ -13778,10 +12920,10 @@ const logoData = [
     "filename": "Outlook-Customer-Manager_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_Customer_Manager/2016-2020_negative-format/Outlook-Customer-Manager_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2020",
     "size": "256x256",
     "format": "PNG",
-    "id": 505
+    "id": 467
   },
   {
     "name": "Outlook Customer Manager",
@@ -13789,10 +12931,10 @@ const logoData = [
     "filename": "Outlook-Customer-Manager_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_Customer_Manager/2016-2020_negative-format/Outlook-Customer-Manager_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2020",
     "size": "48x48",
     "format": "PNG",
-    "id": 504
+    "id": 466
   },
   {
     "name": "Outlook Customer Manager",
@@ -13800,10 +12942,10 @@ const logoData = [
     "filename": "Outlook-Customer-Manager_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_Customer_Manager/2016-2020_negative-format/Outlook-Customer-Manager_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2020",
     "size": "64x64",
     "format": "PNG",
-    "id": 503
+    "id": 465
   },
   {
     "name": "Outlook Customer Manager",
@@ -13811,21 +12953,10 @@ const logoData = [
     "filename": "Outlook-Customer-Manager_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_Customer_Manager/2016-2020_negative-format/Outlook-Customer-Manager_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2020",
     "size": "96x96",
     "format": "PNG",
-    "id": 501
-  },
-  {
-    "name": "Outlook Customer Manager",
-    "family": "Microsoft_365",
-    "filename": "Outlook-Customer-Manager.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_Customer_Manager/2016-2020_postive-format/Outlook-Customer-Manager.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 506
+    "id": 463
   },
   {
     "name": "Outlook Customer Manager",
@@ -13833,10 +12964,10 @@ const logoData = [
     "filename": "Outlook-Customer-Manager_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_Customer_Manager/2016-2020_postive-format/Outlook-Customer-Manager_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2020",
     "size": "128x128",
     "format": "PNG",
-    "id": 508
+    "id": 469
   },
   {
     "name": "Outlook Customer Manager",
@@ -13844,10 +12975,10 @@ const logoData = [
     "filename": "Outlook-Customer-Manager_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_Customer_Manager/2016-2020_postive-format/Outlook-Customer-Manager_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2020",
     "size": "256x256",
     "format": "PNG",
-    "id": 511
+    "id": 472
   },
   {
     "name": "Outlook Customer Manager",
@@ -13855,10 +12986,10 @@ const logoData = [
     "filename": "Outlook-Customer-Manager_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_Customer_Manager/2016-2020_postive-format/Outlook-Customer-Manager_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2020",
     "size": "48x48",
     "format": "PNG",
-    "id": 510
+    "id": 471
   },
   {
     "name": "Outlook Customer Manager",
@@ -13866,10 +12997,10 @@ const logoData = [
     "filename": "Outlook-Customer-Manager_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_Customer_Manager/2016-2020_postive-format/Outlook-Customer-Manager_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2020",
     "size": "64x64",
     "format": "PNG",
-    "id": 509
+    "id": 470
   },
   {
     "name": "Outlook Customer Manager",
@@ -13877,21 +13008,10 @@ const logoData = [
     "filename": "Outlook-Customer-Manager_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_Customer_Manager/2016-2020_postive-format/Outlook-Customer-Manager_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2020",
     "size": "96x96",
     "format": "PNG",
-    "id": 507
-  },
-  {
-    "name": "Outlookcalendar",
-    "family": "Microsoft_365",
-    "filename": "OutlookCalendar.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Outlook_calendar/old-icons-postive-format/OutlookCalendar.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 406
+    "id": 468
   },
   {
     "name": "Outlookcalendar",
@@ -13902,7 +13022,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 404
+    "id": 382
   },
   {
     "name": "Outlookcalendar",
@@ -13913,7 +13033,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 405
+    "id": 383
   },
   {
     "name": "Outlookcalendar",
@@ -13924,7 +13044,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 407
+    "id": 384
   },
   {
     "name": "Outlookcalendar",
@@ -13935,7 +13055,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 409
+    "id": 386
   },
   {
     "name": "Outlookcalendar",
@@ -13946,7 +13066,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 408
+    "id": 385
   },
   {
     "name": "Pages Icon",
@@ -13957,18 +13077,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 361
-  },
-  {
-    "name": "Planner",
-    "family": "Microsoft_365",
-    "filename": "Planner.pdf",
-    "path": "Microsoft_365/Planner/2013-2016_Old-icons-negative-format/Planner.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 719
+    "id": 345
   },
   {
     "name": "Planner",
@@ -13976,10 +13085,10 @@ const logoData = [
     "filename": "Planner_128x128.png",
     "path": "Microsoft_365/Planner/2013-2016_Old-icons-negative-format/Planner_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2016",
     "size": "128x128",
     "format": "PNG",
-    "id": 723
+    "id": 651
   },
   {
     "name": "Planner",
@@ -13987,10 +13096,10 @@ const logoData = [
     "filename": "Planner_256x256.png",
     "path": "Microsoft_365/Planner/2013-2016_Old-icons-negative-format/Planner_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2016",
     "size": "256x256",
     "format": "PNG",
-    "id": 720
+    "id": 648
   },
   {
     "name": "Planner",
@@ -13998,10 +13107,10 @@ const logoData = [
     "filename": "Planner_48x48.png",
     "path": "Microsoft_365/Planner/2013-2016_Old-icons-negative-format/Planner_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2016",
     "size": "48x48",
     "format": "PNG",
-    "id": 721
+    "id": 649
   },
   {
     "name": "Planner",
@@ -14009,10 +13118,10 @@ const logoData = [
     "filename": "Planner_64x64.png",
     "path": "Microsoft_365/Planner/2013-2016_Old-icons-negative-format/Planner_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2016",
     "size": "64x64",
     "format": "PNG",
-    "id": 724
+    "id": 652
   },
   {
     "name": "Planner",
@@ -14020,21 +13129,10 @@ const logoData = [
     "filename": "Planner_96x96.png",
     "path": "Microsoft_365/Planner/2013-2016_Old-icons-negative-format/Planner_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2016",
     "size": "96x96",
     "format": "PNG",
-    "id": 722
-  },
-  {
-    "name": "Planner",
-    "family": "Microsoft_365",
-    "filename": "Planner.pdf",
-    "path": "Microsoft_365/Planner/2013-2016_Old-icons-postive-format/Planner.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 701
+    "id": 650
   },
   {
     "name": "Planner",
@@ -14042,10 +13140,10 @@ const logoData = [
     "filename": "Planner_128x128.png",
     "path": "Microsoft_365/Planner/2013-2016_Old-icons-postive-format/Planner_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2016",
     "size": "128x128",
     "format": "PNG",
-    "id": 706
+    "id": 637
   },
   {
     "name": "Planner",
@@ -14053,10 +13151,10 @@ const logoData = [
     "filename": "Planner_256x256.png",
     "path": "Microsoft_365/Planner/2013-2016_Old-icons-postive-format/Planner_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2016",
     "size": "256x256",
     "format": "PNG",
-    "id": 703
+    "id": 634
   },
   {
     "name": "Planner",
@@ -14064,10 +13162,10 @@ const logoData = [
     "filename": "Planner_48x48.png",
     "path": "Microsoft_365/Planner/2013-2016_Old-icons-postive-format/Planner_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2016",
     "size": "48x48",
     "format": "PNG",
-    "id": 704
+    "id": 635
   },
   {
     "name": "Planner",
@@ -14075,10 +13173,10 @@ const logoData = [
     "filename": "Planner_96x96.png",
     "path": "Microsoft_365/Planner/2013-2016_Old-icons-postive-format/Planner_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2016",
     "size": "96x96",
     "format": "PNG",
-    "id": 705
+    "id": 636
   },
   {
     "name": "Planner",
@@ -14086,21 +13184,10 @@ const logoData = [
     "filename": "planner_64x64.png",
     "path": "Microsoft_365/Planner/2013-2016_Old-icons-postive-format/planner_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2016",
     "size": "64x64",
     "format": "PNG",
-    "id": 702
-  },
-  {
-    "name": "Planner",
-    "family": "Microsoft_365",
-    "filename": "Planner.pdf",
-    "path": "Microsoft_365/Planner/2019-2024_full-color/Planner.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 695
+    "id": 633
   },
   {
     "name": "Planner",
@@ -14108,10 +13195,10 @@ const logoData = [
     "filename": "Planner_128x128.png",
     "path": "Microsoft_365/Planner/2019-2024_full-color/Planner_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2024",
     "size": "128x128",
     "format": "PNG",
-    "id": 699
+    "id": 631
   },
   {
     "name": "Planner",
@@ -14119,10 +13206,10 @@ const logoData = [
     "filename": "Planner_256x256.png",
     "path": "Microsoft_365/Planner/2019-2024_full-color/Planner_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2024",
     "size": "256x256",
     "format": "PNG",
-    "id": 696
+    "id": 628
   },
   {
     "name": "Planner",
@@ -14130,10 +13217,10 @@ const logoData = [
     "filename": "Planner_48x48.png",
     "path": "Microsoft_365/Planner/2019-2024_full-color/Planner_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2024",
     "size": "48x48",
     "format": "PNG",
-    "id": 697
+    "id": 629
   },
   {
     "name": "Planner",
@@ -14141,10 +13228,10 @@ const logoData = [
     "filename": "Planner_64x64.png",
     "path": "Microsoft_365/Planner/2019-2024_full-color/Planner_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2024",
     "size": "64x64",
     "format": "PNG",
-    "id": 700
+    "id": 632
   },
   {
     "name": "Planner",
@@ -14152,21 +13239,10 @@ const logoData = [
     "filename": "Planner_96x96.png",
     "path": "Microsoft_365/Planner/2019-2024_full-color/Planner_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2024",
     "size": "96x96",
     "format": "PNG",
-    "id": 698
-  },
-  {
-    "name": "Planner",
-    "family": "Microsoft_365",
-    "filename": "Planner.pdf",
-    "path": "Microsoft_365/Planner/2019-2024_monochromatic-negative/Planner.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 713
+    "id": 630
   },
   {
     "name": "Planner",
@@ -14174,10 +13250,10 @@ const logoData = [
     "filename": "Planner_128x128.png",
     "path": "Microsoft_365/Planner/2019-2024_monochromatic-negative/Planner_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2024",
     "size": "128x128",
     "format": "PNG",
-    "id": 717
+    "id": 646
   },
   {
     "name": "Planner",
@@ -14185,10 +13261,10 @@ const logoData = [
     "filename": "Planner_256x256.png",
     "path": "Microsoft_365/Planner/2019-2024_monochromatic-negative/Planner_256x256.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2024",
     "size": "256x256",
     "format": "PNG",
-    "id": 714
+    "id": 643
   },
   {
     "name": "Planner",
@@ -14196,10 +13272,10 @@ const logoData = [
     "filename": "Planner_48x48.png",
     "path": "Microsoft_365/Planner/2019-2024_monochromatic-negative/Planner_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2024",
     "size": "48x48",
     "format": "PNG",
-    "id": 715
+    "id": 644
   },
   {
     "name": "Planner",
@@ -14207,10 +13283,10 @@ const logoData = [
     "filename": "Planner_64x64.png",
     "path": "Microsoft_365/Planner/2019-2024_monochromatic-negative/Planner_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2024",
     "size": "64x64",
     "format": "PNG",
-    "id": 718
+    "id": 647
   },
   {
     "name": "Planner",
@@ -14218,21 +13294,10 @@ const logoData = [
     "filename": "Planner_96x96.png",
     "path": "Microsoft_365/Planner/2019-2024_monochromatic-negative/Planner_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2024",
     "size": "96x96",
     "format": "PNG",
-    "id": 716
-  },
-  {
-    "name": "Planner",
-    "family": "Microsoft_365",
-    "filename": "Planner.pdf",
-    "path": "Microsoft_365/Planner/2019-2024_monochromatic-positive/Planner.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 707
+    "id": 645
   },
   {
     "name": "Planner",
@@ -14240,10 +13305,10 @@ const logoData = [
     "filename": "Planner_128x128.png",
     "path": "Microsoft_365/Planner/2019-2024_monochromatic-positive/Planner_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2024",
     "size": "128x128",
     "format": "PNG",
-    "id": 711
+    "id": 641
   },
   {
     "name": "Planner",
@@ -14251,10 +13316,10 @@ const logoData = [
     "filename": "Planner_256x256.png",
     "path": "Microsoft_365/Planner/2019-2024_monochromatic-positive/Planner_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2024",
     "size": "256x256",
     "format": "PNG",
-    "id": 708
+    "id": 638
   },
   {
     "name": "Planner",
@@ -14262,10 +13327,10 @@ const logoData = [
     "filename": "Planner_48x48.png",
     "path": "Microsoft_365/Planner/2019-2024_monochromatic-positive/Planner_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2024",
     "size": "48x48",
     "format": "PNG",
-    "id": 709
+    "id": 639
   },
   {
     "name": "Planner",
@@ -14273,10 +13338,10 @@ const logoData = [
     "filename": "Planner_64x64.png",
     "path": "Microsoft_365/Planner/2019-2024_monochromatic-positive/Planner_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2024",
     "size": "64x64",
     "format": "PNG",
-    "id": 712
+    "id": 642
   },
   {
     "name": "Planner",
@@ -14284,10 +13349,10 @@ const logoData = [
     "filename": "Planner_96x96.png",
     "path": "Microsoft_365/Planner/2019-2024_monochromatic-positive/Planner_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2024",
     "size": "96x96",
     "format": "PNG",
-    "id": 710
+    "id": 640
   },
   {
     "name": "Planner",
@@ -14298,7 +13363,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 693
+    "id": 626
   },
   {
     "name": "Planner 256x256 Padded",
@@ -14309,18 +13374,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 694
-  },
-  {
-    "name": "Powerpoint",
-    "family": "Microsoft_365",
-    "filename": "PowerPoint.pdf",
-    "path": "Microsoft_365/PowerPoint/2013-2019_negative-format/PowerPoint.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 668
+    "id": 627
   },
   {
     "name": "Powerpoint",
@@ -14328,10 +13382,10 @@ const logoData = [
     "filename": "PowerPoint_128x128.png",
     "path": "Microsoft_365/PowerPoint/2013-2019_negative-format/PowerPoint_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 667
+    "id": 604
   },
   {
     "name": "Powerpoint",
@@ -14339,10 +13393,10 @@ const logoData = [
     "filename": "PowerPoint_256x256.png",
     "path": "Microsoft_365/PowerPoint/2013-2019_negative-format/PowerPoint_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 672
+    "id": 608
   },
   {
     "name": "Powerpoint",
@@ -14350,10 +13404,10 @@ const logoData = [
     "filename": "PowerPoint_48x48.png",
     "path": "Microsoft_365/PowerPoint/2013-2019_negative-format/PowerPoint_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 670
+    "id": 606
   },
   {
     "name": "Powerpoint",
@@ -14361,10 +13415,10 @@ const logoData = [
     "filename": "PowerPoint_64x64.png",
     "path": "Microsoft_365/PowerPoint/2013-2019_negative-format/PowerPoint_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 669
+    "id": 605
   },
   {
     "name": "Powerpoint",
@@ -14372,21 +13426,10 @@ const logoData = [
     "filename": "PowerPoint_96x96.png",
     "path": "Microsoft_365/PowerPoint/2013-2019_negative-format/PowerPoint_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 671
-  },
-  {
-    "name": "Powerpoint",
-    "family": "Microsoft_365",
-    "filename": "PowerPoint.pdf",
-    "path": "Microsoft_365/PowerPoint/2013-2019_postive-format/PowerPoint.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 656
+    "id": 607
   },
   {
     "name": "Powerpoint",
@@ -14394,10 +13437,10 @@ const logoData = [
     "filename": "PowerPoint_128x128.png",
     "path": "Microsoft_365/PowerPoint/2013-2019_postive-format/PowerPoint_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 655
+    "id": 594
   },
   {
     "name": "Powerpoint",
@@ -14405,10 +13448,10 @@ const logoData = [
     "filename": "PowerPoint_256x256.png",
     "path": "Microsoft_365/PowerPoint/2013-2019_postive-format/PowerPoint_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 660
+    "id": 598
   },
   {
     "name": "Powerpoint",
@@ -14416,10 +13459,10 @@ const logoData = [
     "filename": "PowerPoint_48x48.png",
     "path": "Microsoft_365/PowerPoint/2013-2019_postive-format/PowerPoint_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 658
+    "id": 596
   },
   {
     "name": "Powerpoint",
@@ -14427,10 +13470,10 @@ const logoData = [
     "filename": "PowerPoint_64x64.png",
     "path": "Microsoft_365/PowerPoint/2013-2019_postive-format/PowerPoint_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 657
+    "id": 595
   },
   {
     "name": "Powerpoint",
@@ -14438,21 +13481,10 @@ const logoData = [
     "filename": "PowerPoint_96x96.png",
     "path": "Microsoft_365/PowerPoint/2013-2019_postive-format/PowerPoint_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 659
-  },
-  {
-    "name": "Powerpoint",
-    "family": "Microsoft_365",
-    "filename": "PowerPoint.pdf",
-    "path": "Microsoft_365/PowerPoint/2019-2025_full-color/PowerPoint.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 650
+    "id": 597
   },
   {
     "name": "Powerpoint",
@@ -14460,10 +13492,10 @@ const logoData = [
     "filename": "PowerPoint_128x128.png",
     "path": "Microsoft_365/PowerPoint/2019-2025_full-color/PowerPoint_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 649
+    "id": 589
   },
   {
     "name": "Powerpoint",
@@ -14471,10 +13503,10 @@ const logoData = [
     "filename": "PowerPoint_256x256.png",
     "path": "Microsoft_365/PowerPoint/2019-2025_full-color/PowerPoint_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 654
+    "id": 593
   },
   {
     "name": "Powerpoint",
@@ -14482,10 +13514,10 @@ const logoData = [
     "filename": "PowerPoint_48x48.png",
     "path": "Microsoft_365/PowerPoint/2019-2025_full-color/PowerPoint_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 652
+    "id": 591
   },
   {
     "name": "Powerpoint",
@@ -14493,10 +13525,10 @@ const logoData = [
     "filename": "PowerPoint_64x64.png",
     "path": "Microsoft_365/PowerPoint/2019-2025_full-color/PowerPoint_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 651
+    "id": 590
   },
   {
     "name": "Powerpoint",
@@ -14504,21 +13536,10 @@ const logoData = [
     "filename": "PowerPoint_96x96.png",
     "path": "Microsoft_365/PowerPoint/2019-2025_full-color/PowerPoint_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 653
-  },
-  {
-    "name": "Powerpoint",
-    "family": "Microsoft_365",
-    "filename": "PowerPoint.pdf",
-    "path": "Microsoft_365/PowerPoint/2019-2025_monochromatic-negative/PowerPoint.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 662
+    "id": 592
   },
   {
     "name": "Powerpoint",
@@ -14526,10 +13547,10 @@ const logoData = [
     "filename": "PowerPoint_128x128.png",
     "path": "Microsoft_365/PowerPoint/2019-2025_monochromatic-negative/PowerPoint_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 661
+    "id": 599
   },
   {
     "name": "Powerpoint",
@@ -14537,10 +13558,10 @@ const logoData = [
     "filename": "PowerPoint_256x256.png",
     "path": "Microsoft_365/PowerPoint/2019-2025_monochromatic-negative/PowerPoint_256x256.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 666
+    "id": 603
   },
   {
     "name": "Powerpoint",
@@ -14548,10 +13569,10 @@ const logoData = [
     "filename": "PowerPoint_48x48.png",
     "path": "Microsoft_365/PowerPoint/2019-2025_monochromatic-negative/PowerPoint_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 664
+    "id": 601
   },
   {
     "name": "Powerpoint",
@@ -14559,10 +13580,10 @@ const logoData = [
     "filename": "PowerPoint_64x64.png",
     "path": "Microsoft_365/PowerPoint/2019-2025_monochromatic-negative/PowerPoint_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 663
+    "id": 600
   },
   {
     "name": "Powerpoint",
@@ -14570,21 +13591,10 @@ const logoData = [
     "filename": "PowerPoint_96x96.png",
     "path": "Microsoft_365/PowerPoint/2019-2025_monochromatic-negative/PowerPoint_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 665
-  },
-  {
-    "name": "Powerpoint",
-    "family": "Microsoft_365",
-    "filename": "PowerPoint.pdf",
-    "path": "Microsoft_365/PowerPoint/2019-2025_monochromatic-positive/PowerPoint.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 644
+    "id": 602
   },
   {
     "name": "Powerpoint",
@@ -14592,10 +13602,10 @@ const logoData = [
     "filename": "PowerPoint_128x128.png",
     "path": "Microsoft_365/PowerPoint/2019-2025_monochromatic-positive/PowerPoint_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 643
+    "id": 584
   },
   {
     "name": "Powerpoint",
@@ -14603,10 +13613,10 @@ const logoData = [
     "filename": "PowerPoint_256x256.png",
     "path": "Microsoft_365/PowerPoint/2019-2025_monochromatic-positive/PowerPoint_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 648
+    "id": 588
   },
   {
     "name": "Powerpoint",
@@ -14614,10 +13624,10 @@ const logoData = [
     "filename": "PowerPoint_48x48.png",
     "path": "Microsoft_365/PowerPoint/2019-2025_monochromatic-positive/PowerPoint_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 646
+    "id": 586
   },
   {
     "name": "Powerpoint",
@@ -14625,10 +13635,10 @@ const logoData = [
     "filename": "PowerPoint_64x64.png",
     "path": "Microsoft_365/PowerPoint/2019-2025_monochromatic-positive/PowerPoint_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 645
+    "id": 585
   },
   {
     "name": "Powerpoint",
@@ -14636,10 +13646,10 @@ const logoData = [
     "filename": "PowerPoint_96x96.png",
     "path": "Microsoft_365/PowerPoint/2019-2025_monochromatic-positive/PowerPoint_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 647
+    "id": 587
   },
   {
     "name": "Powerpoint 1024x1024 (2025 Unofficial)",
@@ -14650,7 +13660,7 @@ const logoData = [
     "year": "current",
     "size": "1024x1024",
     "format": "PNG",
-    "id": 641
+    "id": 582
   },
   {
     "name": "Powerpoint 512",
@@ -14661,7 +13671,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 642
+    "id": 583
   },
   {
     "name": "Powerpoint 512 Padded",
@@ -14672,18 +13682,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 640
-  },
-  {
-    "name": "Project",
-    "family": "Microsoft_365",
-    "filename": "Project.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2013-2019_negative-format/Project.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 544
+    "id": 581
   },
   {
     "name": "Project",
@@ -14691,10 +13690,10 @@ const logoData = [
     "filename": "Project_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2013-2019_negative-format/Project_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 541
+    "id": 498
   },
   {
     "name": "Project",
@@ -14702,10 +13701,10 @@ const logoData = [
     "filename": "Project_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2013-2019_negative-format/Project_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 543
+    "id": 500
   },
   {
     "name": "Project",
@@ -14713,10 +13712,10 @@ const logoData = [
     "filename": "Project_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2013-2019_negative-format/Project_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 542
+    "id": 499
   },
   {
     "name": "Project",
@@ -14724,10 +13723,10 @@ const logoData = [
     "filename": "Project_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2013-2019_negative-format/Project_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 546
+    "id": 502
   },
   {
     "name": "Project",
@@ -14735,21 +13734,10 @@ const logoData = [
     "filename": "Project_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2013-2019_negative-format/Project_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 545
-  },
-  {
-    "name": "Project",
-    "family": "Microsoft_365",
-    "filename": "Project.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2013-2019_postive-format/Project.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 516
+    "id": 501
   },
   {
     "name": "Project",
@@ -14757,10 +13745,10 @@ const logoData = [
     "filename": "Project_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2013-2019_postive-format/Project_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 512
+    "id": 473
   },
   {
     "name": "Project",
@@ -14768,10 +13756,10 @@ const logoData = [
     "filename": "Project_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2013-2019_postive-format/Project_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 514
+    "id": 475
   },
   {
     "name": "Project",
@@ -14779,10 +13767,10 @@ const logoData = [
     "filename": "Project_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2013-2019_postive-format/Project_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 513
+    "id": 474
   },
   {
     "name": "Project",
@@ -14790,10 +13778,10 @@ const logoData = [
     "filename": "Project_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2013-2019_postive-format/Project_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 517
+    "id": 477
   },
   {
     "name": "Project",
@@ -14801,21 +13789,10 @@ const logoData = [
     "filename": "project_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2013-2019_postive-format/project_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 515
-  },
-  {
-    "name": "Project",
-    "family": "Microsoft_365",
-    "filename": "Project.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2019-2026_full-color/Project.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 524
+    "id": 476
   },
   {
     "name": "Project",
@@ -14823,10 +13800,10 @@ const logoData = [
     "filename": "Project_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2019-2026_full-color/Project_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2026",
     "size": "128x128",
     "format": "PNG",
-    "id": 518
+    "id": 478
   },
   {
     "name": "Project",
@@ -14834,10 +13811,10 @@ const logoData = [
     "filename": "Project_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2019-2026_full-color/Project_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2026",
     "size": "256x256",
     "format": "PNG",
-    "id": 520
+    "id": 480
   },
   {
     "name": "Project",
@@ -14845,10 +13822,10 @@ const logoData = [
     "filename": "Project_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2019-2026_full-color/Project_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2026",
     "size": "48x48",
     "format": "PNG",
-    "id": 519
+    "id": 479
   },
   {
     "name": "Project",
@@ -14856,10 +13833,10 @@ const logoData = [
     "filename": "Project_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2019-2026_full-color/Project_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2026",
     "size": "64x64",
     "format": "PNG",
-    "id": 526
+    "id": 485
   },
   {
     "name": "Project",
@@ -14867,10 +13844,10 @@ const logoData = [
     "filename": "Project_85x85.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2019-2026_full-color/Project_85x85.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2026",
     "size": "85x85",
     "format": "PNG",
-    "id": 522
+    "id": 482
   },
   {
     "name": "Project",
@@ -14878,21 +13855,10 @@ const logoData = [
     "filename": "Project_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2019-2026_full-color/Project_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2026",
     "size": "96x96",
     "format": "PNG",
-    "id": 525
-  },
-  {
-    "name": "Project",
-    "family": "Microsoft_365",
-    "filename": "Project.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2019-2026_monochromatic-negative/Project.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 531
+    "id": 484
   },
   {
     "name": "Project",
@@ -14900,10 +13866,10 @@ const logoData = [
     "filename": "Project_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2019-2026_monochromatic-negative/Project_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2026",
     "size": "128x128",
     "format": "PNG",
-    "id": 527
+    "id": 486
   },
   {
     "name": "Project",
@@ -14911,10 +13877,10 @@ const logoData = [
     "filename": "Project_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2019-2026_monochromatic-negative/Project_256x256.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2026",
     "size": "256x256",
     "format": "PNG",
-    "id": 529
+    "id": 488
   },
   {
     "name": "Project",
@@ -14922,10 +13888,10 @@ const logoData = [
     "filename": "Project_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2019-2026_monochromatic-negative/Project_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2026",
     "size": "48x48",
     "format": "PNG",
-    "id": 528
+    "id": 487
   },
   {
     "name": "Project",
@@ -14933,10 +13899,10 @@ const logoData = [
     "filename": "Project_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2019-2026_monochromatic-negative/Project_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2026",
     "size": "64x64",
     "format": "PNG",
-    "id": 533
+    "id": 491
   },
   {
     "name": "Project",
@@ -14944,10 +13910,10 @@ const logoData = [
     "filename": "Project_85x85.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2019-2026_monochromatic-negative/Project_85x85.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2026",
     "size": "85x85",
     "format": "PNG",
-    "id": 530
+    "id": 489
   },
   {
     "name": "Project",
@@ -14955,21 +13921,10 @@ const logoData = [
     "filename": "Project_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2019-2026_monochromatic-negative/Project_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2026",
     "size": "96x96",
     "format": "PNG",
-    "id": 532
-  },
-  {
-    "name": "Project",
-    "family": "Microsoft_365",
-    "filename": "Project.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2019-2026_monochromatic-positive/Project.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 538
+    "id": 490
   },
   {
     "name": "Project",
@@ -14977,10 +13932,10 @@ const logoData = [
     "filename": "Project_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2019-2026_monochromatic-positive/Project_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2026",
     "size": "128x128",
     "format": "PNG",
-    "id": 534
+    "id": 492
   },
   {
     "name": "Project",
@@ -14988,10 +13943,10 @@ const logoData = [
     "filename": "Project_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2019-2026_monochromatic-positive/Project_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2026",
     "size": "256x256",
     "format": "PNG",
-    "id": 536
+    "id": 494
   },
   {
     "name": "Project",
@@ -14999,10 +13954,10 @@ const logoData = [
     "filename": "Project_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2019-2026_monochromatic-positive/Project_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2026",
     "size": "48x48",
     "format": "PNG",
-    "id": 535
+    "id": 493
   },
   {
     "name": "Project",
@@ -15010,10 +13965,10 @@ const logoData = [
     "filename": "Project_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2019-2026_monochromatic-positive/Project_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2026",
     "size": "64x64",
     "format": "PNG",
-    "id": 540
+    "id": 497
   },
   {
     "name": "Project",
@@ -15021,10 +13976,10 @@ const logoData = [
     "filename": "Project_85x85.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2019-2026_monochromatic-positive/Project_85x85.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2026",
     "size": "85x85",
     "format": "PNG",
-    "id": 537
+    "id": 495
   },
   {
     "name": "Project",
@@ -15032,10 +13987,10 @@ const logoData = [
     "filename": "Project_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2019-2026_monochromatic-positive/Project_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2026",
     "size": "96x96",
     "format": "PNG",
-    "id": 539
+    "id": 496
   },
   {
     "name": "Project 40x",
@@ -15043,10 +13998,10 @@ const logoData = [
     "filename": "Project_40x.svg",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2019-2026_full-color/Project_40x.svg",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2026",
     "size": "",
     "format": "SVG",
-    "id": 521
+    "id": 481
   },
   {
     "name": "Project 64x",
@@ -15054,21 +14009,10 @@ const logoData = [
     "filename": "Project_64x.svg",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Project/2019-2026_full-color/Project_64x.svg",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2026",
     "size": "",
     "format": "SVG",
-    "id": 523
-  },
-  {
-    "name": "Publisher",
-    "family": "Microsoft_365",
-    "filename": "Publisher.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2013-2019_negative-format/Publisher.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 573
+    "id": 483
   },
   {
     "name": "Publisher",
@@ -15076,10 +14020,10 @@ const logoData = [
     "filename": "Publisher_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2013-2019_negative-format/Publisher_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 572
+    "id": 524
   },
   {
     "name": "Publisher",
@@ -15087,10 +14031,10 @@ const logoData = [
     "filename": "Publisher_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2013-2019_negative-format/Publisher_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 575
+    "id": 526
   },
   {
     "name": "Publisher",
@@ -15098,10 +14042,10 @@ const logoData = [
     "filename": "Publisher_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2013-2019_negative-format/Publisher_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 571
+    "id": 523
   },
   {
     "name": "Publisher",
@@ -15109,10 +14053,10 @@ const logoData = [
     "filename": "Publisher_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2013-2019_negative-format/Publisher_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 574
+    "id": 525
   },
   {
     "name": "Publisher",
@@ -15120,21 +14064,10 @@ const logoData = [
     "filename": "Publisher_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2013-2019_negative-format/Publisher_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 576
-  },
-  {
-    "name": "Publisher",
-    "family": "Microsoft_365",
-    "filename": "Publisher.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2013-2019_postive-format/Publisher.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 549
+    "id": 527
   },
   {
     "name": "Publisher",
@@ -15142,10 +14075,10 @@ const logoData = [
     "filename": "Publisher_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2013-2019_postive-format/Publisher_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 548
+    "id": 504
   },
   {
     "name": "Publisher",
@@ -15153,10 +14086,10 @@ const logoData = [
     "filename": "Publisher_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2013-2019_postive-format/Publisher_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 551
+    "id": 506
   },
   {
     "name": "Publisher",
@@ -15164,10 +14097,10 @@ const logoData = [
     "filename": "Publisher_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2013-2019_postive-format/Publisher_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 547
+    "id": 503
   },
   {
     "name": "Publisher",
@@ -15175,10 +14108,10 @@ const logoData = [
     "filename": "Publisher_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2013-2019_postive-format/Publisher_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 550
+    "id": 505
   },
   {
     "name": "Publisher",
@@ -15186,21 +14119,10 @@ const logoData = [
     "filename": "Publisher_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2013-2019_postive-format/Publisher_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 552
-  },
-  {
-    "name": "Publisher",
-    "family": "Microsoft_365",
-    "filename": "Publisher.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2019-2026_full-color/Publisher.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 555
+    "id": 507
   },
   {
     "name": "Publisher",
@@ -15208,10 +14130,10 @@ const logoData = [
     "filename": "Publisher_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2019-2026_full-color/Publisher_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2026",
     "size": "128x128",
     "format": "PNG",
-    "id": 554
+    "id": 509
   },
   {
     "name": "Publisher",
@@ -15219,10 +14141,10 @@ const logoData = [
     "filename": "Publisher_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2019-2026_full-color/Publisher_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2026",
     "size": "256x256",
     "format": "PNG",
-    "id": 557
+    "id": 511
   },
   {
     "name": "Publisher",
@@ -15230,10 +14152,10 @@ const logoData = [
     "filename": "Publisher_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2019-2026_full-color/Publisher_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2026",
     "size": "48x48",
     "format": "PNG",
-    "id": 553
+    "id": 508
   },
   {
     "name": "Publisher",
@@ -15241,10 +14163,10 @@ const logoData = [
     "filename": "Publisher_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2019-2026_full-color/Publisher_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2026",
     "size": "64x64",
     "format": "PNG",
-    "id": 556
+    "id": 510
   },
   {
     "name": "Publisher",
@@ -15252,21 +14174,10 @@ const logoData = [
     "filename": "Publisher_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2019-2026_full-color/Publisher_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2026",
     "size": "96x96",
     "format": "PNG",
-    "id": 558
-  },
-  {
-    "name": "Publisher",
-    "family": "Microsoft_365",
-    "filename": "Publisher.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2019-2026_monochromatic-negative/Publisher.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 561
+    "id": 512
   },
   {
     "name": "Publisher",
@@ -15274,10 +14185,10 @@ const logoData = [
     "filename": "Publisher_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2019-2026_monochromatic-negative/Publisher_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2026",
     "size": "128x128",
     "format": "PNG",
-    "id": 560
+    "id": 514
   },
   {
     "name": "Publisher",
@@ -15285,10 +14196,10 @@ const logoData = [
     "filename": "Publisher_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2019-2026_monochromatic-negative/Publisher_256x256.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2026",
     "size": "256x256",
     "format": "PNG",
-    "id": 563
+    "id": 516
   },
   {
     "name": "Publisher",
@@ -15296,10 +14207,10 @@ const logoData = [
     "filename": "Publisher_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2019-2026_monochromatic-negative/Publisher_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2026",
     "size": "48x48",
     "format": "PNG",
-    "id": 559
+    "id": 513
   },
   {
     "name": "Publisher",
@@ -15307,10 +14218,10 @@ const logoData = [
     "filename": "Publisher_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2019-2026_monochromatic-negative/Publisher_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2026",
     "size": "64x64",
     "format": "PNG",
-    "id": 562
+    "id": 515
   },
   {
     "name": "Publisher",
@@ -15318,21 +14229,10 @@ const logoData = [
     "filename": "Publisher_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2019-2026_monochromatic-negative/Publisher_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2026",
     "size": "96x96",
     "format": "PNG",
-    "id": 564
-  },
-  {
-    "name": "Publisher",
-    "family": "Microsoft_365",
-    "filename": "Publisher.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2019-2026_monochromatic-positive/Publisher.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 567
+    "id": 517
   },
   {
     "name": "Publisher",
@@ -15340,10 +14240,10 @@ const logoData = [
     "filename": "Publisher_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2019-2026_monochromatic-positive/Publisher_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2026",
     "size": "128x128",
     "format": "PNG",
-    "id": 566
+    "id": 519
   },
   {
     "name": "Publisher",
@@ -15351,10 +14251,10 @@ const logoData = [
     "filename": "Publisher_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2019-2026_monochromatic-positive/Publisher_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2026",
     "size": "256x256",
     "format": "PNG",
-    "id": 569
+    "id": 521
   },
   {
     "name": "Publisher",
@@ -15362,10 +14262,10 @@ const logoData = [
     "filename": "Publisher_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2019-2026_monochromatic-positive/Publisher_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2026",
     "size": "48x48",
     "format": "PNG",
-    "id": 565
+    "id": 518
   },
   {
     "name": "Publisher",
@@ -15373,10 +14273,10 @@ const logoData = [
     "filename": "Publisher_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2019-2026_monochromatic-positive/Publisher_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2026",
     "size": "64x64",
     "format": "PNG",
-    "id": 568
+    "id": 520
   },
   {
     "name": "Publisher",
@@ -15384,21 +14284,10 @@ const logoData = [
     "filename": "Publisher_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Publisher/2019-2026_monochromatic-positive/Publisher_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2026",
     "size": "96x96",
     "format": "PNG",
-    "id": 570
-  },
-  {
-    "name": "Sharepoint",
-    "family": "Microsoft_365",
-    "filename": "SharePoint.pdf",
-    "path": "Microsoft_365/SharePoint/2013-2019_negative-format/SharePoint.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 856
+    "id": 522
   },
   {
     "name": "Sharepoint",
@@ -15406,10 +14295,10 @@ const logoData = [
     "filename": "SharePoint_128x128.png",
     "path": "Microsoft_365/SharePoint/2013-2019_negative-format/SharePoint_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 859
+    "id": 767
   },
   {
     "name": "Sharepoint",
@@ -15417,10 +14306,10 @@ const logoData = [
     "filename": "SharePoint_256x256.png",
     "path": "Microsoft_365/SharePoint/2013-2019_negative-format/SharePoint_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 861
+    "id": 769
   },
   {
     "name": "Sharepoint",
@@ -15428,10 +14317,10 @@ const logoData = [
     "filename": "SharePoint_48x48.png",
     "path": "Microsoft_365/SharePoint/2013-2019_negative-format/SharePoint_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 858
+    "id": 766
   },
   {
     "name": "Sharepoint",
@@ -15439,10 +14328,10 @@ const logoData = [
     "filename": "SharePoint_64x64.png",
     "path": "Microsoft_365/SharePoint/2013-2019_negative-format/SharePoint_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 857
+    "id": 765
   },
   {
     "name": "Sharepoint",
@@ -15450,21 +14339,10 @@ const logoData = [
     "filename": "SharePoint_96x96.png",
     "path": "Microsoft_365/SharePoint/2013-2019_negative-format/SharePoint_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 860
-  },
-  {
-    "name": "Sharepoint",
-    "family": "Microsoft_365",
-    "filename": "SharePoint.pdf",
-    "path": "Microsoft_365/SharePoint/2013-2019_positive-format/SharePoint.pdf",
-    "style": "positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 831
+    "id": 768
   },
   {
     "name": "Sharepoint",
@@ -15472,10 +14350,10 @@ const logoData = [
     "filename": "SharePoint_128x128.png",
     "path": "Microsoft_365/SharePoint/2013-2019_positive-format/SharePoint_128x128.png",
     "style": "positive",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 834
+    "id": 746
   },
   {
     "name": "Sharepoint",
@@ -15483,10 +14361,10 @@ const logoData = [
     "filename": "SharePoint_256x256.png",
     "path": "Microsoft_365/SharePoint/2013-2019_positive-format/SharePoint_256x256.png",
     "style": "positive",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 836
+    "id": 748
   },
   {
     "name": "Sharepoint",
@@ -15494,10 +14372,10 @@ const logoData = [
     "filename": "SharePoint_48x48.png",
     "path": "Microsoft_365/SharePoint/2013-2019_positive-format/SharePoint_48x48.png",
     "style": "positive",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 833
+    "id": 745
   },
   {
     "name": "Sharepoint",
@@ -15505,10 +14383,10 @@ const logoData = [
     "filename": "SharePoint_64x64.png",
     "path": "Microsoft_365/SharePoint/2013-2019_positive-format/SharePoint_64x64.png",
     "style": "positive",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 832
+    "id": 744
   },
   {
     "name": "Sharepoint",
@@ -15516,21 +14394,10 @@ const logoData = [
     "filename": "SharePoint_96x96.png",
     "path": "Microsoft_365/SharePoint/2013-2019_positive-format/SharePoint_96x96.png",
     "style": "positive",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 835
-  },
-  {
-    "name": "Sharepoint",
-    "family": "Microsoft_365",
-    "filename": "SharePoint.pdf",
-    "path": "Microsoft_365/SharePoint/2019-2025_full-color/SharePoint.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 844
+    "id": 747
   },
   {
     "name": "Sharepoint",
@@ -15538,10 +14405,10 @@ const logoData = [
     "filename": "SharePoint_128x128.png",
     "path": "Microsoft_365/SharePoint/2019-2025_full-color/SharePoint_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 847
+    "id": 757
   },
   {
     "name": "Sharepoint",
@@ -15549,10 +14416,10 @@ const logoData = [
     "filename": "SharePoint_256x256.png",
     "path": "Microsoft_365/SharePoint/2019-2025_full-color/SharePoint_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 849
+    "id": 759
   },
   {
     "name": "Sharepoint",
@@ -15560,10 +14427,10 @@ const logoData = [
     "filename": "SharePoint_48x48.png",
     "path": "Microsoft_365/SharePoint/2019-2025_full-color/SharePoint_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 846
+    "id": 756
   },
   {
     "name": "Sharepoint",
@@ -15571,10 +14438,10 @@ const logoData = [
     "filename": "SharePoint_64x64.png",
     "path": "Microsoft_365/SharePoint/2019-2025_full-color/SharePoint_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 845
+    "id": 755
   },
   {
     "name": "Sharepoint",
@@ -15582,21 +14449,10 @@ const logoData = [
     "filename": "SharePoint_96x96.png",
     "path": "Microsoft_365/SharePoint/2019-2025_full-color/SharePoint_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 848
-  },
-  {
-    "name": "Sharepoint",
-    "family": "Microsoft_365",
-    "filename": "SharePoint.pdf",
-    "path": "Microsoft_365/SharePoint/2019-2025_monochromatic-negative/SharePoint.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 850
+    "id": 758
   },
   {
     "name": "Sharepoint",
@@ -15604,10 +14460,10 @@ const logoData = [
     "filename": "SharePoint_128x128.png",
     "path": "Microsoft_365/SharePoint/2019-2025_monochromatic-negative/SharePoint_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 853
+    "id": 762
   },
   {
     "name": "Sharepoint",
@@ -15615,10 +14471,10 @@ const logoData = [
     "filename": "SharePoint_256x256.png",
     "path": "Microsoft_365/SharePoint/2019-2025_monochromatic-negative/SharePoint_256x256.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 855
+    "id": 764
   },
   {
     "name": "Sharepoint",
@@ -15626,10 +14482,10 @@ const logoData = [
     "filename": "SharePoint_48x48.png",
     "path": "Microsoft_365/SharePoint/2019-2025_monochromatic-negative/SharePoint_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 852
+    "id": 761
   },
   {
     "name": "Sharepoint",
@@ -15637,10 +14493,10 @@ const logoData = [
     "filename": "SharePoint_64x64.png",
     "path": "Microsoft_365/SharePoint/2019-2025_monochromatic-negative/SharePoint_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 851
+    "id": 760
   },
   {
     "name": "Sharepoint",
@@ -15648,21 +14504,10 @@ const logoData = [
     "filename": "SharePoint_96x96.png",
     "path": "Microsoft_365/SharePoint/2019-2025_monochromatic-negative/SharePoint_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 854
-  },
-  {
-    "name": "Sharepoint",
-    "family": "Microsoft_365",
-    "filename": "SharePoint.pdf",
-    "path": "Microsoft_365/SharePoint/2019-2025_monochromatic-positive/SharePoint.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 837
+    "id": 763
   },
   {
     "name": "Sharepoint",
@@ -15670,10 +14515,10 @@ const logoData = [
     "filename": "SharePoint_128x128.png",
     "path": "Microsoft_365/SharePoint/2019-2025_monochromatic-positive/SharePoint_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 840
+    "id": 751
   },
   {
     "name": "Sharepoint",
@@ -15681,10 +14526,10 @@ const logoData = [
     "filename": "SharePoint_256x256.png",
     "path": "Microsoft_365/SharePoint/2019-2025_monochromatic-positive/SharePoint_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 842
+    "id": 753
   },
   {
     "name": "Sharepoint",
@@ -15692,10 +14537,10 @@ const logoData = [
     "filename": "SharePoint_48x48.png",
     "path": "Microsoft_365/SharePoint/2019-2025_monochromatic-positive/SharePoint_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 839
+    "id": 750
   },
   {
     "name": "Sharepoint",
@@ -15703,10 +14548,10 @@ const logoData = [
     "filename": "SharePoint_64x64.png",
     "path": "Microsoft_365/SharePoint/2019-2025_monochromatic-positive/SharePoint_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 838
+    "id": 749
   },
   {
     "name": "Sharepoint",
@@ -15714,10 +14559,10 @@ const logoData = [
     "filename": "SharePoint_96x96.png",
     "path": "Microsoft_365/SharePoint/2019-2025_monochromatic-positive/SharePoint_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 841
+    "id": 752
   },
   {
     "name": "Sharepoint 1024x1024 (2025 Unofficial)",
@@ -15728,7 +14573,7 @@ const logoData = [
     "year": "current",
     "size": "1024x1024",
     "format": "PNG",
-    "id": 829
+    "id": 742
   },
   {
     "name": "Sharepoint 256x256 Uncropped",
@@ -15736,10 +14581,10 @@ const logoData = [
     "filename": "SharePoint_256x256_-_uncropped.png",
     "path": "Microsoft_365/SharePoint/2019-2025_full-color/SharePoint_256x256_-_uncropped.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 843
+    "id": 754
   },
   {
     "name": "Sharepoint 512",
@@ -15750,7 +14595,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 828
+    "id": 741
   },
   {
     "name": "Sharepoint 512 Padded",
@@ -15761,18 +14606,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 830
-  },
-  {
-    "name": "Skype for Business",
-    "family": "Microsoft_365",
-    "filename": "Skype-for-Business.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Skype_for_Business/2015-2021_negative-format/Skype-for-Business.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 424
+    "id": 743
   },
   {
     "name": "Skype for Business",
@@ -15780,10 +14614,10 @@ const logoData = [
     "filename": "Skype-for-Business_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Skype_for_Business/2015-2021_negative-format/Skype-for-Business_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2015-2021",
     "size": "128x128",
     "format": "PNG",
-    "id": 427
+    "id": 401
   },
   {
     "name": "Skype for Business",
@@ -15791,10 +14625,10 @@ const logoData = [
     "filename": "Skype-for-Business_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Skype_for_Business/2015-2021_negative-format/Skype-for-Business_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2015-2021",
     "size": "256x256",
     "format": "PNG",
-    "id": 426
+    "id": 400
   },
   {
     "name": "Skype for Business",
@@ -15802,10 +14636,10 @@ const logoData = [
     "filename": "Skype-for-Business_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Skype_for_Business/2015-2021_negative-format/Skype-for-Business_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2015-2021",
     "size": "48x48",
     "format": "PNG",
-    "id": 423
+    "id": 398
   },
   {
     "name": "Skype for Business",
@@ -15813,10 +14647,10 @@ const logoData = [
     "filename": "Skype-for-Business_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Skype_for_Business/2015-2021_negative-format/Skype-for-Business_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2015-2021",
     "size": "64x64",
     "format": "PNG",
-    "id": 422
+    "id": 397
   },
   {
     "name": "Skype for Business",
@@ -15824,21 +14658,10 @@ const logoData = [
     "filename": "Skype-for-Business_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Skype_for_Business/2015-2021_negative-format/Skype-for-Business_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2015-2021",
     "size": "96x96",
     "format": "PNG",
-    "id": 425
-  },
-  {
-    "name": "Skype for Business",
-    "family": "Microsoft_365",
-    "filename": "Skype-for-Business.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/Skype_for_Business/2015-2021_postive-format/Skype-for-Business.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 430
+    "id": 399
   },
   {
     "name": "Skype for Business",
@@ -15846,10 +14669,10 @@ const logoData = [
     "filename": "Skype-for-Business_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Skype_for_Business/2015-2021_postive-format/Skype-for-Business_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2015-2021",
     "size": "128x128",
     "format": "PNG",
-    "id": 433
+    "id": 406
   },
   {
     "name": "Skype for Business",
@@ -15857,10 +14680,10 @@ const logoData = [
     "filename": "Skype-for-Business_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Skype_for_Business/2015-2021_postive-format/Skype-for-Business_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2015-2021",
     "size": "256x256",
     "format": "PNG",
-    "id": 432
+    "id": 405
   },
   {
     "name": "Skype for Business",
@@ -15868,10 +14691,10 @@ const logoData = [
     "filename": "Skype-for-Business_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Skype_for_Business/2015-2021_postive-format/Skype-for-Business_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2015-2021",
     "size": "48x48",
     "format": "PNG",
-    "id": 429
+    "id": 403
   },
   {
     "name": "Skype for Business",
@@ -15879,10 +14702,10 @@ const logoData = [
     "filename": "Skype-for-Business_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Skype_for_Business/2015-2021_postive-format/Skype-for-Business_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2015-2021",
     "size": "64x64",
     "format": "PNG",
-    "id": 428
+    "id": 402
   },
   {
     "name": "Skype for Business",
@@ -15890,21 +14713,10 @@ const logoData = [
     "filename": "Skype-for-Business_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/Skype_for_Business/2015-2021_postive-format/Skype-for-Business_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2015-2021",
     "size": "96x96",
     "format": "PNG",
-    "id": 431
-  },
-  {
-    "name": "Staffhub",
-    "family": "Microsoft_365",
-    "filename": "StaffHub.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/StaffHub/2017-2019_negative-format/StaffHub.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 416
+    "id": 404
   },
   {
     "name": "Staffhub",
@@ -15912,10 +14724,10 @@ const logoData = [
     "filename": "StaffHub_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/StaffHub/2017-2019_negative-format/StaffHub_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2017-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 418
+    "id": 393
   },
   {
     "name": "Staffhub",
@@ -15923,10 +14735,10 @@ const logoData = [
     "filename": "StaffHub_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/StaffHub/2017-2019_negative-format/StaffHub_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2017-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 419
+    "id": 394
   },
   {
     "name": "Staffhub",
@@ -15934,10 +14746,10 @@ const logoData = [
     "filename": "StaffHub_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/StaffHub/2017-2019_negative-format/StaffHub_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2017-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 420
+    "id": 395
   },
   {
     "name": "Staffhub",
@@ -15945,10 +14757,10 @@ const logoData = [
     "filename": "StaffHub_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/StaffHub/2017-2019_negative-format/StaffHub_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2017-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 417
+    "id": 392
   },
   {
     "name": "Staffhub",
@@ -15956,21 +14768,10 @@ const logoData = [
     "filename": "StaffHub_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/StaffHub/2017-2019_negative-format/StaffHub_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2017-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 421
-  },
-  {
-    "name": "Staffhub",
-    "family": "Microsoft_365",
-    "filename": "StaffHub.pdf",
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/StaffHub/2017-2019_postive-format/StaffHub.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 410
+    "id": 396
   },
   {
     "name": "Staffhub",
@@ -15978,10 +14779,10 @@ const logoData = [
     "filename": "StaffHub_128x128.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/StaffHub/2017-2019_postive-format/StaffHub_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2017-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 412
+    "id": 388
   },
   {
     "name": "Staffhub",
@@ -15989,10 +14790,10 @@ const logoData = [
     "filename": "StaffHub_256x256.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/StaffHub/2017-2019_postive-format/StaffHub_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2017-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 413
+    "id": 389
   },
   {
     "name": "Staffhub",
@@ -16000,10 +14801,10 @@ const logoData = [
     "filename": "StaffHub_48x48.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/StaffHub/2017-2019_postive-format/StaffHub_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2017-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 414
+    "id": 390
   },
   {
     "name": "Staffhub",
@@ -16011,10 +14812,10 @@ const logoData = [
     "filename": "StaffHub_64x64.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/StaffHub/2017-2019_postive-format/StaffHub_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2017-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 411
+    "id": 387
   },
   {
     "name": "Staffhub",
@@ -16022,21 +14823,10 @@ const logoData = [
     "filename": "StaffHub_96x96.png",
     "path": "Microsoft_365/zzFORMER_PRODUCTS/StaffHub/2017-2019_postive-format/StaffHub_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2017-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 415
-  },
-  {
-    "name": "Sway",
-    "family": "Microsoft_365",
-    "filename": "Sway.pdf",
-    "path": "Microsoft_365/Sway/2015-2019_negative-format/Sway.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 988
+    "id": 391
   },
   {
     "name": "Sway",
@@ -16044,10 +14834,10 @@ const logoData = [
     "filename": "Sway_128x128.png",
     "path": "Microsoft_365/Sway/2015-2019_negative-format/Sway_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2015-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 989
+    "id": 872
   },
   {
     "name": "Sway",
@@ -16055,10 +14845,10 @@ const logoData = [
     "filename": "Sway_256x256.png",
     "path": "Microsoft_365/Sway/2015-2019_negative-format/Sway_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2015-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 991
+    "id": 874
   },
   {
     "name": "Sway",
@@ -16066,10 +14856,10 @@ const logoData = [
     "filename": "Sway_48x48.png",
     "path": "Microsoft_365/Sway/2015-2019_negative-format/Sway_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2015-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 992
+    "id": 875
   },
   {
     "name": "Sway",
@@ -16077,10 +14867,10 @@ const logoData = [
     "filename": "Sway_64x64.png",
     "path": "Microsoft_365/Sway/2015-2019_negative-format/Sway_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2015-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 990
+    "id": 873
   },
   {
     "name": "Sway",
@@ -16088,21 +14878,10 @@ const logoData = [
     "filename": "Sway_96x96.png",
     "path": "Microsoft_365/Sway/2015-2019_negative-format/Sway_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2015-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 987
-  },
-  {
-    "name": "Sway",
-    "family": "Microsoft_365",
-    "filename": "Sway.pdf",
-    "path": "Microsoft_365/Sway/2015-2019_postive-format/Sway.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1000
+    "id": 871
   },
   {
     "name": "Sway",
@@ -16110,10 +14889,10 @@ const logoData = [
     "filename": "Sway_128x128.png",
     "path": "Microsoft_365/Sway/2015-2019_postive-format/Sway_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2015-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 1001
+    "id": 882
   },
   {
     "name": "Sway",
@@ -16121,10 +14900,10 @@ const logoData = [
     "filename": "Sway_256x256.png",
     "path": "Microsoft_365/Sway/2015-2019_postive-format/Sway_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2015-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 1003
+    "id": 884
   },
   {
     "name": "Sway",
@@ -16132,10 +14911,10 @@ const logoData = [
     "filename": "Sway_48x48.png",
     "path": "Microsoft_365/Sway/2015-2019_postive-format/Sway_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2015-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 1004
+    "id": 885
   },
   {
     "name": "Sway",
@@ -16143,10 +14922,10 @@ const logoData = [
     "filename": "Sway_64x64.png",
     "path": "Microsoft_365/Sway/2015-2019_postive-format/Sway_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2015-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 1002
+    "id": 883
   },
   {
     "name": "Sway",
@@ -16154,21 +14933,10 @@ const logoData = [
     "filename": "Sway_96x96.png",
     "path": "Microsoft_365/Sway/2015-2019_postive-format/Sway_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2015-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 999
-  },
-  {
-    "name": "Sway",
-    "family": "Microsoft_365",
-    "filename": "Sway.pdf",
-    "path": "Microsoft_365/Sway/2019-current_full-color/Sway.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1006
+    "id": 881
   },
   {
     "name": "Sway",
@@ -16176,10 +14944,10 @@ const logoData = [
     "filename": "Sway_128x128.png",
     "path": "Microsoft_365/Sway/2019-current_full-color/Sway_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 1008
+    "id": 888
   },
   {
     "name": "Sway",
@@ -16187,10 +14955,10 @@ const logoData = [
     "filename": "Sway_256x256.png",
     "path": "Microsoft_365/Sway/2019-current_full-color/Sway_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-current",
     "size": "256x256",
     "format": "PNG",
-    "id": 1011
+    "id": 891
   },
   {
     "name": "Sway",
@@ -16198,10 +14966,10 @@ const logoData = [
     "filename": "Sway_48x48.png",
     "path": "Microsoft_365/Sway/2019-current_full-color/Sway_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 1012
+    "id": 892
   },
   {
     "name": "Sway",
@@ -16209,10 +14977,10 @@ const logoData = [
     "filename": "Sway_64x64.png",
     "path": "Microsoft_365/Sway/2019-current_full-color/Sway_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 1009
+    "id": 889
   },
   {
     "name": "Sway",
@@ -16220,10 +14988,10 @@ const logoData = [
     "filename": "Sway_75x75.png",
     "path": "Microsoft_365/Sway/2019-current_full-color/Sway_75x75.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-current",
     "size": "75x75",
     "format": "PNG",
-    "id": 1010
+    "id": 890
   },
   {
     "name": "Sway",
@@ -16231,10 +14999,10 @@ const logoData = [
     "filename": "Sway_85x85.png",
     "path": "Microsoft_365/Sway/2019-current_full-color/Sway_85x85.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-current",
     "size": "85x85",
     "format": "PNG",
-    "id": 1007
+    "id": 887
   },
   {
     "name": "Sway",
@@ -16242,21 +15010,10 @@ const logoData = [
     "filename": "Sway_96x96.png",
     "path": "Microsoft_365/Sway/2019-current_full-color/Sway_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-current",
     "size": "96x96",
     "format": "PNG",
-    "id": 1005
-  },
-  {
-    "name": "Sway",
-    "family": "Microsoft_365",
-    "filename": "Sway.pdf",
-    "path": "Microsoft_365/Sway/2019-current_monochromatic-negative/Sway.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 994
+    "id": 886
   },
   {
     "name": "Sway",
@@ -16264,10 +15021,10 @@ const logoData = [
     "filename": "Sway_128x128.png",
     "path": "Microsoft_365/Sway/2019-current_monochromatic-negative/Sway_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 995
+    "id": 877
   },
   {
     "name": "Sway",
@@ -16275,10 +15032,10 @@ const logoData = [
     "filename": "Sway_256x256.png",
     "path": "Microsoft_365/Sway/2019-current_monochromatic-negative/Sway_256x256.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-current",
     "size": "256x256",
     "format": "PNG",
-    "id": 997
+    "id": 879
   },
   {
     "name": "Sway",
@@ -16286,10 +15043,10 @@ const logoData = [
     "filename": "Sway_48x48.png",
     "path": "Microsoft_365/Sway/2019-current_monochromatic-negative/Sway_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 998
+    "id": 880
   },
   {
     "name": "Sway",
@@ -16297,10 +15054,10 @@ const logoData = [
     "filename": "Sway_64x64.png",
     "path": "Microsoft_365/Sway/2019-current_monochromatic-negative/Sway_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 996
+    "id": 878
   },
   {
     "name": "Sway",
@@ -16308,21 +15065,10 @@ const logoData = [
     "filename": "Sway_96x96.png",
     "path": "Microsoft_365/Sway/2019-current_monochromatic-negative/Sway_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-current",
     "size": "96x96",
     "format": "PNG",
-    "id": 993
-  },
-  {
-    "name": "Sway",
-    "family": "Microsoft_365",
-    "filename": "Sway.pdf",
-    "path": "Microsoft_365/Sway/2019-current_monochromatic-positive/Sway.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 982
+    "id": 876
   },
   {
     "name": "Sway",
@@ -16330,10 +15076,10 @@ const logoData = [
     "filename": "Sway_128x128.png",
     "path": "Microsoft_365/Sway/2019-current_monochromatic-positive/Sway_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 983
+    "id": 867
   },
   {
     "name": "Sway",
@@ -16341,10 +15087,10 @@ const logoData = [
     "filename": "Sway_256x256.png",
     "path": "Microsoft_365/Sway/2019-current_monochromatic-positive/Sway_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-current",
     "size": "256x256",
     "format": "PNG",
-    "id": 985
+    "id": 869
   },
   {
     "name": "Sway",
@@ -16352,10 +15098,10 @@ const logoData = [
     "filename": "Sway_48x48.png",
     "path": "Microsoft_365/Sway/2019-current_monochromatic-positive/Sway_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 986
+    "id": 870
   },
   {
     "name": "Sway",
@@ -16363,10 +15109,10 @@ const logoData = [
     "filename": "Sway_64x64.png",
     "path": "Microsoft_365/Sway/2019-current_monochromatic-positive/Sway_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 984
+    "id": 868
   },
   {
     "name": "Sway",
@@ -16374,10 +15120,10 @@ const logoData = [
     "filename": "Sway_96x96.png",
     "path": "Microsoft_365/Sway/2019-current_monochromatic-positive/Sway_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-current",
     "size": "96x96",
     "format": "PNG",
-    "id": 981
+    "id": 866
   },
   {
     "name": "Teams 1024x1024 (2025 Unofficial)",
@@ -16388,7 +15134,7 @@ const logoData = [
     "year": "current",
     "size": "1024x1024",
     "format": "PNG",
-    "id": 1102
+    "id": 971
   },
   {
     "name": "Teams 512",
@@ -16399,7 +15145,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 1101
+    "id": 970
   },
   {
     "name": "Teams 512 Padded",
@@ -16410,7 +15156,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 1100
+    "id": 969
   },
   {
     "name": "To Do",
@@ -16421,7 +15167,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 674
+    "id": 610
   },
   {
     "name": "To Do",
@@ -16432,18 +15178,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 673
-  },
-  {
-    "name": "Visio",
-    "family": "Microsoft_365",
-    "filename": "Visio.pdf",
-    "path": "Microsoft_365/Visio/2013-2019_negative-format/Visio.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 975
+    "id": 609
   },
   {
     "name": "Visio",
@@ -16451,10 +15186,10 @@ const logoData = [
     "filename": "Visio_128x128.png",
     "path": "Microsoft_365/Visio/2013-2019_negative-format/Visio_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 972
+    "id": 858
   },
   {
     "name": "Visio",
@@ -16462,10 +15197,10 @@ const logoData = [
     "filename": "Visio_256x256.png",
     "path": "Microsoft_365/Visio/2013-2019_negative-format/Visio_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 976
+    "id": 861
   },
   {
     "name": "Visio",
@@ -16473,10 +15208,10 @@ const logoData = [
     "filename": "Visio_48x48.png",
     "path": "Microsoft_365/Visio/2013-2019_negative-format/Visio_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 974
+    "id": 860
   },
   {
     "name": "Visio",
@@ -16484,10 +15219,10 @@ const logoData = [
     "filename": "Visio_64x64.png",
     "path": "Microsoft_365/Visio/2013-2019_negative-format/Visio_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 977
+    "id": 862
   },
   {
     "name": "Visio",
@@ -16495,21 +15230,10 @@ const logoData = [
     "filename": "Visio_96x96.png",
     "path": "Microsoft_365/Visio/2013-2019_negative-format/Visio_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 973
-  },
-  {
-    "name": "Visio",
-    "family": "Microsoft_365",
-    "filename": "Visio.pdf",
-    "path": "Microsoft_365/Visio/2013-2019_postive-format/Visio.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 957
+    "id": 859
   },
   {
     "name": "Visio",
@@ -16517,10 +15241,10 @@ const logoData = [
     "filename": "Visio_128x128.png",
     "path": "Microsoft_365/Visio/2013-2019_postive-format/Visio_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 954
+    "id": 843
   },
   {
     "name": "Visio",
@@ -16528,10 +15252,10 @@ const logoData = [
     "filename": "Visio_256x256.png",
     "path": "Microsoft_365/Visio/2013-2019_postive-format/Visio_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 958
+    "id": 846
   },
   {
     "name": "Visio",
@@ -16539,10 +15263,10 @@ const logoData = [
     "filename": "Visio_48x48.png",
     "path": "Microsoft_365/Visio/2013-2019_postive-format/Visio_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 956
+    "id": 845
   },
   {
     "name": "Visio",
@@ -16550,10 +15274,10 @@ const logoData = [
     "filename": "Visio_64x64.png",
     "path": "Microsoft_365/Visio/2013-2019_postive-format/Visio_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 959
+    "id": 847
   },
   {
     "name": "Visio",
@@ -16561,21 +15285,10 @@ const logoData = [
     "filename": "Visio_96x96.png",
     "path": "Microsoft_365/Visio/2013-2019_postive-format/Visio_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 955
-  },
-  {
-    "name": "Visio",
-    "family": "Microsoft_365",
-    "filename": "Visio.pdf",
-    "path": "Microsoft_365/Visio/2019-current_full-color/Visio.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 969
+    "id": 844
   },
   {
     "name": "Visio",
@@ -16583,10 +15296,10 @@ const logoData = [
     "filename": "Visio_128x128.png",
     "path": "Microsoft_365/Visio/2019-current_full-color/Visio_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 966
+    "id": 853
   },
   {
     "name": "Visio",
@@ -16594,10 +15307,10 @@ const logoData = [
     "filename": "Visio_256x256.png",
     "path": "Microsoft_365/Visio/2019-current_full-color/Visio_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-current",
     "size": "256x256",
     "format": "PNG",
-    "id": 970
+    "id": 856
   },
   {
     "name": "Visio",
@@ -16605,10 +15318,10 @@ const logoData = [
     "filename": "Visio_48x48.png",
     "path": "Microsoft_365/Visio/2019-current_full-color/Visio_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 968
+    "id": 855
   },
   {
     "name": "Visio",
@@ -16616,10 +15329,10 @@ const logoData = [
     "filename": "Visio_64x64.png",
     "path": "Microsoft_365/Visio/2019-current_full-color/Visio_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 971
+    "id": 857
   },
   {
     "name": "Visio",
@@ -16627,21 +15340,10 @@ const logoData = [
     "filename": "Visio_96x96.png",
     "path": "Microsoft_365/Visio/2019-current_full-color/Visio_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-current",
     "size": "96x96",
     "format": "PNG",
-    "id": 967
-  },
-  {
-    "name": "Visio",
-    "family": "Microsoft_365",
-    "filename": "Visio.pdf",
-    "path": "Microsoft_365/Visio/2019-current_monochromatic-negative/Visio.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 963
+    "id": 854
   },
   {
     "name": "Visio",
@@ -16649,10 +15351,10 @@ const logoData = [
     "filename": "Visio_128x128.png",
     "path": "Microsoft_365/Visio/2019-current_monochromatic-negative/Visio_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 960
+    "id": 848
   },
   {
     "name": "Visio",
@@ -16660,10 +15362,10 @@ const logoData = [
     "filename": "Visio_256x256.png",
     "path": "Microsoft_365/Visio/2019-current_monochromatic-negative/Visio_256x256.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-current",
     "size": "256x256",
     "format": "PNG",
-    "id": 964
+    "id": 851
   },
   {
     "name": "Visio",
@@ -16671,10 +15373,10 @@ const logoData = [
     "filename": "Visio_48x48.png",
     "path": "Microsoft_365/Visio/2019-current_monochromatic-negative/Visio_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 962
+    "id": 850
   },
   {
     "name": "Visio",
@@ -16682,10 +15384,10 @@ const logoData = [
     "filename": "Visio_64x64.png",
     "path": "Microsoft_365/Visio/2019-current_monochromatic-negative/Visio_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 965
+    "id": 852
   },
   {
     "name": "Visio",
@@ -16693,21 +15395,10 @@ const logoData = [
     "filename": "Visio_96x96.png",
     "path": "Microsoft_365/Visio/2019-current_monochromatic-negative/Visio_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-current",
     "size": "96x96",
     "format": "PNG",
-    "id": 961
-  },
-  {
-    "name": "Visio",
-    "family": "Microsoft_365",
-    "filename": "Visio.pdf",
-    "path": "Microsoft_365/Visio/2019-current_monochromatic-positive/Visio.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 951
+    "id": 849
   },
   {
     "name": "Visio",
@@ -16715,10 +15406,10 @@ const logoData = [
     "filename": "Visio_128x128.png",
     "path": "Microsoft_365/Visio/2019-current_monochromatic-positive/Visio_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-current",
     "size": "128x128",
     "format": "PNG",
-    "id": 948
+    "id": 838
   },
   {
     "name": "Visio",
@@ -16726,10 +15417,10 @@ const logoData = [
     "filename": "Visio_256x256.png",
     "path": "Microsoft_365/Visio/2019-current_monochromatic-positive/Visio_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-current",
     "size": "256x256",
     "format": "PNG",
-    "id": 952
+    "id": 841
   },
   {
     "name": "Visio",
@@ -16737,10 +15428,10 @@ const logoData = [
     "filename": "Visio_48x48.png",
     "path": "Microsoft_365/Visio/2019-current_monochromatic-positive/Visio_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-current",
     "size": "48x48",
     "format": "PNG",
-    "id": 950
+    "id": 840
   },
   {
     "name": "Visio",
@@ -16748,10 +15439,10 @@ const logoData = [
     "filename": "Visio_64x64.png",
     "path": "Microsoft_365/Visio/2019-current_monochromatic-positive/Visio_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-current",
     "size": "64x64",
     "format": "PNG",
-    "id": 953
+    "id": 842
   },
   {
     "name": "Visio",
@@ -16759,10 +15450,10 @@ const logoData = [
     "filename": "Visio_96x96.png",
     "path": "Microsoft_365/Visio/2019-current_monochromatic-positive/Visio_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-current",
     "size": "96x96",
     "format": "PNG",
-    "id": 949
+    "id": 839
   },
   {
     "name": "Whiteboard",
@@ -16773,7 +15464,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 1013
+    "id": 893
   },
   {
     "name": "Whiteboard",
@@ -16784,7 +15475,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 1015
+    "id": 895
   },
   {
     "name": "Whiteboard",
@@ -16795,7 +15486,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 1017
+    "id": 897
   },
   {
     "name": "Whiteboard",
@@ -16806,7 +15497,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 1022
+    "id": 901
   },
   {
     "name": "Whiteboard",
@@ -16817,7 +15508,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 1016
+    "id": 896
   },
   {
     "name": "Whiteboard 256x256 (padded)",
@@ -16828,18 +15519,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 1021
-  },
-  {
-    "name": "Whiteboard Rgb",
-    "family": "Microsoft_365",
-    "filename": "Whiteboard_RGB.pdf",
-    "path": "Microsoft_365/Whiteboard/Whiteboard_RGB.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1020
+    "id": 900
   },
   {
     "name": "Whiteboard Transparent",
@@ -16850,7 +15530,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 1018
+    "id": 898
   },
   {
     "name": "Whiteboard Transparent",
@@ -16861,18 +15541,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 1014
-  },
-  {
-    "name": "Word",
-    "family": "Microsoft_365",
-    "filename": "Word.pdf",
-    "path": "Microsoft_365/Word/2013-2019_negative-format/Word.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 823
+    "id": 894
   },
   {
     "name": "Word",
@@ -16880,10 +15549,10 @@ const logoData = [
     "filename": "Word_128x128.png",
     "path": "Microsoft_365/Word/2013-2019_negative-format/Word_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 827
+    "id": 740
   },
   {
     "name": "Word",
@@ -16891,10 +15560,10 @@ const logoData = [
     "filename": "Word_256x256.png",
     "path": "Microsoft_365/Word/2013-2019_negative-format/Word_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 826
+    "id": 739
   },
   {
     "name": "Word",
@@ -16902,10 +15571,10 @@ const logoData = [
     "filename": "Word_48x48.png",
     "path": "Microsoft_365/Word/2013-2019_negative-format/Word_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 822
+    "id": 736
   },
   {
     "name": "Word",
@@ -16913,10 +15582,10 @@ const logoData = [
     "filename": "Word_64x64.png",
     "path": "Microsoft_365/Word/2013-2019_negative-format/Word_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 824
+    "id": 737
   },
   {
     "name": "Word",
@@ -16924,21 +15593,10 @@ const logoData = [
     "filename": "Word_96x96.png",
     "path": "Microsoft_365/Word/2013-2019_negative-format/Word_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 825
-  },
-  {
-    "name": "Word",
-    "family": "Microsoft_365",
-    "filename": "Word.pdf",
-    "path": "Microsoft_365/Word/2013-2019_postive-format/Word.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 811
+    "id": 738
   },
   {
     "name": "Word",
@@ -16946,10 +15604,10 @@ const logoData = [
     "filename": "Word_128x128.png",
     "path": "Microsoft_365/Word/2013-2019_postive-format/Word_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 815
+    "id": 730
   },
   {
     "name": "Word",
@@ -16957,10 +15615,10 @@ const logoData = [
     "filename": "Word_256x256.png",
     "path": "Microsoft_365/Word/2013-2019_postive-format/Word_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 814
+    "id": 729
   },
   {
     "name": "Word",
@@ -16968,10 +15626,10 @@ const logoData = [
     "filename": "Word_48x48.png",
     "path": "Microsoft_365/Word/2013-2019_postive-format/Word_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 810
+    "id": 726
   },
   {
     "name": "Word",
@@ -16979,10 +15637,10 @@ const logoData = [
     "filename": "Word_64x64.png",
     "path": "Microsoft_365/Word/2013-2019_postive-format/Word_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 812
+    "id": 727
   },
   {
     "name": "Word",
@@ -16990,21 +15648,10 @@ const logoData = [
     "filename": "Word_96x96.png",
     "path": "Microsoft_365/Word/2013-2019_postive-format/Word_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2013-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 813
-  },
-  {
-    "name": "Word",
-    "family": "Microsoft_365",
-    "filename": "Word.pdf",
-    "path": "Microsoft_365/Word/2019-2025_full-color/Word.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 805
+    "id": 728
   },
   {
     "name": "Word",
@@ -17012,10 +15659,10 @@ const logoData = [
     "filename": "Word_128x128.png",
     "path": "Microsoft_365/Word/2019-2025_full-color/Word_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 809
+    "id": 725
   },
   {
     "name": "Word",
@@ -17023,10 +15670,10 @@ const logoData = [
     "filename": "Word_256x256.png",
     "path": "Microsoft_365/Word/2019-2025_full-color/Word_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 808
+    "id": 724
   },
   {
     "name": "Word",
@@ -17034,10 +15681,10 @@ const logoData = [
     "filename": "Word_48x48.png",
     "path": "Microsoft_365/Word/2019-2025_full-color/Word_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 804
+    "id": 721
   },
   {
     "name": "Word",
@@ -17045,10 +15692,10 @@ const logoData = [
     "filename": "Word_64x64.png",
     "path": "Microsoft_365/Word/2019-2025_full-color/Word_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 806
+    "id": 722
   },
   {
     "name": "Word",
@@ -17056,21 +15703,10 @@ const logoData = [
     "filename": "Word_96x96.png",
     "path": "Microsoft_365/Word/2019-2025_full-color/Word_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 807
-  },
-  {
-    "name": "Word",
-    "family": "Microsoft_365",
-    "filename": "Word.pdf",
-    "path": "Microsoft_365/Word/2019-2025_monochromatic-negative/Word.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 817
+    "id": 723
   },
   {
     "name": "Word",
@@ -17078,10 +15714,10 @@ const logoData = [
     "filename": "Word_128x128.png",
     "path": "Microsoft_365/Word/2019-2025_monochromatic-negative/Word_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 821
+    "id": 735
   },
   {
     "name": "Word",
@@ -17089,10 +15725,10 @@ const logoData = [
     "filename": "Word_256x256.png",
     "path": "Microsoft_365/Word/2019-2025_monochromatic-negative/Word_256x256.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 820
+    "id": 734
   },
   {
     "name": "Word",
@@ -17100,10 +15736,10 @@ const logoData = [
     "filename": "Word_48x48.png",
     "path": "Microsoft_365/Word/2019-2025_monochromatic-negative/Word_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 816
+    "id": 731
   },
   {
     "name": "Word",
@@ -17111,10 +15747,10 @@ const logoData = [
     "filename": "Word_64x64.png",
     "path": "Microsoft_365/Word/2019-2025_monochromatic-negative/Word_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 818
+    "id": 732
   },
   {
     "name": "Word",
@@ -17122,21 +15758,10 @@ const logoData = [
     "filename": "Word_96x96.png",
     "path": "Microsoft_365/Word/2019-2025_monochromatic-negative/Word_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 819
-  },
-  {
-    "name": "Word",
-    "family": "Microsoft_365",
-    "filename": "Word.pdf",
-    "path": "Microsoft_365/Word/2019-2025_monochromatic-positive/Word.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 799
+    "id": 733
   },
   {
     "name": "Word",
@@ -17144,10 +15769,10 @@ const logoData = [
     "filename": "Word_128x128.png",
     "path": "Microsoft_365/Word/2019-2025_monochromatic-positive/Word_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 803
+    "id": 720
   },
   {
     "name": "Word",
@@ -17155,10 +15780,10 @@ const logoData = [
     "filename": "Word_256x256.png",
     "path": "Microsoft_365/Word/2019-2025_monochromatic-positive/Word_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 802
+    "id": 719
   },
   {
     "name": "Word",
@@ -17166,10 +15791,10 @@ const logoData = [
     "filename": "Word_48x48.png",
     "path": "Microsoft_365/Word/2019-2025_monochromatic-positive/Word_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 798
+    "id": 716
   },
   {
     "name": "Word",
@@ -17177,10 +15802,10 @@ const logoData = [
     "filename": "Word_64x64.png",
     "path": "Microsoft_365/Word/2019-2025_monochromatic-positive/Word_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 800
+    "id": 717
   },
   {
     "name": "Word",
@@ -17188,10 +15813,10 @@ const logoData = [
     "filename": "Word_96x96.png",
     "path": "Microsoft_365/Word/2019-2025_monochromatic-positive/Word_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 801
+    "id": 718
   },
   {
     "name": "Word 1024x1024 (2025 Unofficial)",
@@ -17202,7 +15827,7 @@ const logoData = [
     "year": "current",
     "size": "1024x1024",
     "format": "PNG",
-    "id": 796
+    "id": 714
   },
   {
     "name": "Word 512",
@@ -17213,7 +15838,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 797
+    "id": 715
   },
   {
     "name": "Word 512 Padded",
@@ -17224,7 +15849,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 795
+    "id": 713
   },
   {
     "name": "Agent 365",
@@ -17235,7 +15860,7 @@ const logoData = [
     "year": "current",
     "size": "300x300",
     "format": "PNG",
-    "id": 1168
+    "id": 1027
   },
   {
     "name": "Agent 365",
@@ -17246,7 +15871,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1171
+    "id": 1028
   },
   {
     "name": "Ai Builder",
@@ -17257,7 +15882,7 @@ const logoData = [
     "year": "current",
     "size": "300x300",
     "format": "PNG",
-    "id": 1243
+    "id": 1097
   },
   {
     "name": "Aibuilder",
@@ -17265,10 +15890,10 @@ const logoData = [
     "filename": "AIBuilder_scalable.svg",
     "path": "Power_Platform/AI_Builder/2024-2025/AIBuilder_scalable.svg",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2024-2025",
     "size": "",
     "format": "SVG",
-    "id": 1245
+    "id": 1099
   },
   {
     "name": "Aibuilder",
@@ -17279,18 +15904,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1244
-  },
-  {
-    "name": "Cela Licenses Public Use Icons",
-    "family": "Power_Platform",
-    "filename": "CELA_Licenses_Public_Use_Icons.pdf",
-    "path": "Power_Platform/CELA_Licenses_Public_Use_Icons.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1169
+    "id": 1098
   },
   {
     "name": "Common Data Service",
@@ -17298,10 +15912,10 @@ const logoData = [
     "filename": "Common_Data_Service.jpg",
     "path": "Power_Platform/Dataverse/2016-2020_(Common_Data_Service)/Common_Data_Service.jpg",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2020",
     "size": "",
     "format": "JPG",
-    "id": 1248
+    "id": 1102
   },
   {
     "name": "Copilot Studio",
@@ -17309,10 +15923,10 @@ const logoData = [
     "filename": "Copilot_Studio.png",
     "path": "Power_Platform/Copilot_Studio/2024-2025/Copilot_Studio.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2024-2025",
     "size": "",
     "format": "PNG",
-    "id": 1334
+    "id": 1185
   },
   {
     "name": "Copilot Studio",
@@ -17323,7 +15937,7 @@ const logoData = [
     "year": "current",
     "size": "300x300",
     "format": "PNG",
-    "id": 1331
+    "id": 1182
   },
   {
     "name": "Copilot Studio 256x256 Padded",
@@ -17331,10 +15945,10 @@ const logoData = [
     "filename": "Copilot_Studio_-_256x256_padded.png",
     "path": "Power_Platform/Copilot_Studio/2024-2025/Copilot_Studio_-_256x256_padded.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2024-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1333
+    "id": 1184
   },
   {
     "name": "Copilotstudio",
@@ -17345,7 +15959,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1332
+    "id": 1183
   },
   {
     "name": "Dataverse",
@@ -17353,10 +15967,10 @@ const logoData = [
     "filename": "Dataverse_scalable.svg",
     "path": "Power_Platform/Dataverse/2020-2025/Dataverse_scalable.svg",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2020-2025",
     "size": "",
     "format": "SVG",
-    "id": 1249
+    "id": 1103
   },
   {
     "name": "Dataverse",
@@ -17367,7 +15981,7 @@ const logoData = [
     "year": "current",
     "size": "300x300",
     "format": "PNG",
-    "id": 1246
+    "id": 1100
   },
   {
     "name": "Dataverse",
@@ -17378,18 +15992,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1247
-  },
-  {
-    "name": "Flow",
-    "family": "Power_Platform",
-    "filename": "Flow.pdf",
-    "path": "Power_Platform/Power_Automate/2016-2020_negative-format/Flow.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1442
+    "id": 1101
   },
   {
     "name": "Flow",
@@ -17397,10 +16000,10 @@ const logoData = [
     "filename": "Flow_128x128.png",
     "path": "Power_Platform/Power_Automate/2016-2020_negative-format/Flow_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2020",
     "size": "128x128",
     "format": "PNG",
-    "id": 1446
+    "id": 1294
   },
   {
     "name": "Flow",
@@ -17408,10 +16011,10 @@ const logoData = [
     "filename": "Flow_256x256.png",
     "path": "Power_Platform/Power_Automate/2016-2020_negative-format/Flow_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2020",
     "size": "256x256",
     "format": "PNG",
-    "id": 1447
+    "id": 1295
   },
   {
     "name": "Flow",
@@ -17419,10 +16022,10 @@ const logoData = [
     "filename": "Flow_48x48.png",
     "path": "Power_Platform/Power_Automate/2016-2020_negative-format/Flow_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2020",
     "size": "48x48",
     "format": "PNG",
-    "id": 1445
+    "id": 1293
   },
   {
     "name": "Flow",
@@ -17430,10 +16033,10 @@ const logoData = [
     "filename": "Flow_64x64.png",
     "path": "Power_Platform/Power_Automate/2016-2020_negative-format/Flow_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2020",
     "size": "64x64",
     "format": "PNG",
-    "id": 1444
+    "id": 1292
   },
   {
     "name": "Flow",
@@ -17441,21 +16044,10 @@ const logoData = [
     "filename": "Flow_96x96.png",
     "path": "Power_Platform/Power_Automate/2016-2020_negative-format/Flow_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2020",
     "size": "96x96",
     "format": "PNG",
-    "id": 1443
-  },
-  {
-    "name": "Flow",
-    "family": "Power_Platform",
-    "filename": "Flow.pdf",
-    "path": "Power_Platform/Power_Automate/2016-2020_postive-format/Flow.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1466
+    "id": 1291
   },
   {
     "name": "Flow",
@@ -17463,10 +16055,10 @@ const logoData = [
     "filename": "Flow_128x128.png",
     "path": "Power_Platform/Power_Automate/2016-2020_postive-format/Flow_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2020",
     "size": "128x128",
     "format": "PNG",
-    "id": 1470
+    "id": 1317
   },
   {
     "name": "Flow",
@@ -17474,10 +16066,10 @@ const logoData = [
     "filename": "Flow_256x256.png",
     "path": "Power_Platform/Power_Automate/2016-2020_postive-format/Flow_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2020",
     "size": "256x256",
     "format": "PNG",
-    "id": 1471
+    "id": 1318
   },
   {
     "name": "Flow",
@@ -17485,10 +16077,10 @@ const logoData = [
     "filename": "Flow_48x48.png",
     "path": "Power_Platform/Power_Automate/2016-2020_postive-format/Flow_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2020",
     "size": "48x48",
     "format": "PNG",
-    "id": 1469
+    "id": 1316
   },
   {
     "name": "Flow",
@@ -17496,10 +16088,10 @@ const logoData = [
     "filename": "Flow_64x64.png",
     "path": "Power_Platform/Power_Automate/2016-2020_postive-format/Flow_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2020",
     "size": "64x64",
     "format": "PNG",
-    "id": 1468
+    "id": 1315
   },
   {
     "name": "Flow",
@@ -17507,10 +16099,10 @@ const logoData = [
     "filename": "Flow_96x96.png",
     "path": "Power_Platform/Power_Automate/2016-2020_postive-format/Flow_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2020",
     "size": "96x96",
     "format": "PNG",
-    "id": 1467
+    "id": 1314
   },
   {
     "name": "Power Apps",
@@ -17518,21 +16110,10 @@ const logoData = [
     "filename": "Power_Apps.ico",
     "path": "Power_Platform/Power_Apps/2020-2025_full-color/Power_Apps.ico",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "",
     "format": "ICO",
-    "id": 1280
-  },
-  {
-    "name": "Power Apps",
-    "family": "Power_Platform",
-    "filename": "Power_Apps.pdf",
-    "path": "Power_Platform/Power_Apps/2020-2025_full-color/Power_Apps.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1278
+    "id": 1133
   },
   {
     "name": "Power Apps",
@@ -17540,10 +16121,10 @@ const logoData = [
     "filename": "Power_Apps_128x128.png",
     "path": "Power_Platform/Power_Apps/2020-2025_full-color/Power_Apps_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1295
+    "id": 1148
   },
   {
     "name": "Power Apps",
@@ -17551,10 +16132,10 @@ const logoData = [
     "filename": "Power_Apps_16x16.png",
     "path": "Power_Platform/Power_Apps/2020-2025_full-color/Power_Apps_16x16.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "16x16",
     "format": "PNG",
-    "id": 1289
+    "id": 1142
   },
   {
     "name": "Power Apps",
@@ -17562,10 +16143,10 @@ const logoData = [
     "filename": "Power_Apps_192x192.png",
     "path": "Power_Platform/Power_Apps/2020-2025_full-color/Power_Apps_192x192.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "192x192",
     "format": "PNG",
-    "id": 1276
+    "id": 1130
   },
   {
     "name": "Power Apps",
@@ -17573,10 +16154,10 @@ const logoData = [
     "filename": "Power_Apps_20x20.png",
     "path": "Power_Platform/Power_Apps/2020-2025_full-color/Power_Apps_20x20.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "20x20",
     "format": "PNG",
-    "id": 1283
+    "id": 1136
   },
   {
     "name": "Power Apps",
@@ -17584,10 +16165,10 @@ const logoData = [
     "filename": "Power_Apps_24x24.png",
     "path": "Power_Platform/Power_Apps/2020-2025_full-color/Power_Apps_24x24.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "24x24",
     "format": "PNG",
-    "id": 1285
+    "id": 1138
   },
   {
     "name": "Power Apps",
@@ -17595,10 +16176,10 @@ const logoData = [
     "filename": "Power_Apps_256x256.png",
     "path": "Power_Platform/Power_Apps/2020-2025_full-color/Power_Apps_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1293
+    "id": 1146
   },
   {
     "name": "Power Apps",
@@ -17606,10 +16187,10 @@ const logoData = [
     "filename": "Power_Apps_30x30.png",
     "path": "Power_Platform/Power_Apps/2020-2025_full-color/Power_Apps_30x30.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "30x30",
     "format": "PNG",
-    "id": 1284
+    "id": 1137
   },
   {
     "name": "Power Apps",
@@ -17617,10 +16198,10 @@ const logoData = [
     "filename": "Power_Apps_32x32.png",
     "path": "Power_Platform/Power_Apps/2020-2025_full-color/Power_Apps_32x32.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "32x32",
     "format": "PNG",
-    "id": 1273
+    "id": 1127
   },
   {
     "name": "Power Apps",
@@ -17628,10 +16209,10 @@ const logoData = [
     "filename": "Power_Apps_36x36.png",
     "path": "Power_Platform/Power_Apps/2020-2025_full-color/Power_Apps_36x36.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "36x36",
     "format": "PNG",
-    "id": 1290
+    "id": 1143
   },
   {
     "name": "Power Apps",
@@ -17639,10 +16220,10 @@ const logoData = [
     "filename": "Power_Apps_40x40.png",
     "path": "Power_Platform/Power_Apps/2020-2025_full-color/Power_Apps_40x40.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "40x40",
     "format": "PNG",
-    "id": 1282
+    "id": 1135
   },
   {
     "name": "Power Apps",
@@ -17650,10 +16231,10 @@ const logoData = [
     "filename": "Power_Apps_42x42.png",
     "path": "Power_Platform/Power_Apps/2020-2025_full-color/Power_Apps_42x42.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "42x42",
     "format": "PNG",
-    "id": 1279
+    "id": 1132
   },
   {
     "name": "Power Apps",
@@ -17661,10 +16242,10 @@ const logoData = [
     "filename": "Power_Apps_48x48.png",
     "path": "Power_Platform/Power_Apps/2020-2025_full-color/Power_Apps_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1274
+    "id": 1128
   },
   {
     "name": "Power Apps",
@@ -17672,10 +16253,10 @@ const logoData = [
     "filename": "Power_Apps_512x512.png",
     "path": "Power_Platform/Power_Apps/2020-2025_full-color/Power_Apps_512x512.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "512x512",
     "format": "PNG",
-    "id": 1286
+    "id": 1139
   },
   {
     "name": "Power Apps",
@@ -17683,10 +16264,10 @@ const logoData = [
     "filename": "Power_Apps_54x54.png",
     "path": "Power_Platform/Power_Apps/2020-2025_full-color/Power_Apps_54x54.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "54x54",
     "format": "PNG",
-    "id": 1287
+    "id": 1140
   },
   {
     "name": "Power Apps",
@@ -17694,10 +16275,10 @@ const logoData = [
     "filename": "Power_Apps_60x60.png",
     "path": "Power_Platform/Power_Apps/2020-2025_full-color/Power_Apps_60x60.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "60x60",
     "format": "PNG",
-    "id": 1281
+    "id": 1134
   },
   {
     "name": "Power Apps",
@@ -17705,10 +16286,10 @@ const logoData = [
     "filename": "Power_Apps_64x64.png",
     "path": "Power_Platform/Power_Apps/2020-2025_full-color/Power_Apps_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1292
+    "id": 1145
   },
   {
     "name": "Power Apps",
@@ -17716,10 +16297,10 @@ const logoData = [
     "filename": "Power_Apps_72x72.png",
     "path": "Power_Platform/Power_Apps/2020-2025_full-color/Power_Apps_72x72.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "72x72",
     "format": "PNG",
-    "id": 1277
+    "id": 1131
   },
   {
     "name": "Power Apps",
@@ -17727,10 +16308,10 @@ const logoData = [
     "filename": "Power_Apps_80x80.png",
     "path": "Power_Platform/Power_Apps/2020-2025_full-color/Power_Apps_80x80.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "80x80",
     "format": "PNG",
-    "id": 1294
+    "id": 1147
   },
   {
     "name": "Power Apps",
@@ -17738,10 +16319,10 @@ const logoData = [
     "filename": "Power_Apps_96x96.png",
     "path": "Power_Platform/Power_Apps/2020-2025_full-color/Power_Apps_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1275
+    "id": 1129
   },
   {
     "name": "Power Apps",
@@ -17749,10 +16330,10 @@ const logoData = [
     "filename": "Power_Apps_scalable.svg",
     "path": "Power_Platform/Power_Apps/2020-2025_full-color/Power_Apps_scalable.svg",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "",
     "format": "SVG",
-    "id": 1291
+    "id": 1144
   },
   {
     "name": "Power Apps",
@@ -17760,10 +16341,10 @@ const logoData = [
     "filename": "Power_Apps.ico",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-negative/Power_Apps.ico",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "",
     "format": "ICO",
-    "id": 1259
+    "id": 1113
   },
   {
     "name": "Power Apps",
@@ -17771,10 +16352,10 @@ const logoData = [
     "filename": "Power_Apps_128x128.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-negative/Power_Apps_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1272
+    "id": 1126
   },
   {
     "name": "Power Apps",
@@ -17782,10 +16363,10 @@ const logoData = [
     "filename": "Power_Apps_16x16.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-negative/Power_Apps_16x16.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "16x16",
     "format": "PNG",
-    "id": 1267
+    "id": 1121
   },
   {
     "name": "Power Apps",
@@ -17793,10 +16374,10 @@ const logoData = [
     "filename": "Power_Apps_192x192.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-negative/Power_Apps_192x192.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "192x192",
     "format": "PNG",
-    "id": 1256
+    "id": 1110
   },
   {
     "name": "Power Apps",
@@ -17804,10 +16385,10 @@ const logoData = [
     "filename": "Power_Apps_20x20.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-negative/Power_Apps_20x20.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "20x20",
     "format": "PNG",
-    "id": 1262
+    "id": 1116
   },
   {
     "name": "Power Apps",
@@ -17815,10 +16396,10 @@ const logoData = [
     "filename": "Power_Apps_24x24.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-negative/Power_Apps_24x24.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "24x24",
     "format": "PNG",
-    "id": 1264
+    "id": 1118
   },
   {
     "name": "Power Apps",
@@ -17826,10 +16407,10 @@ const logoData = [
     "filename": "Power_Apps_256x256.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-negative/Power_Apps_256x256.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1270
+    "id": 1124
   },
   {
     "name": "Power Apps",
@@ -17837,10 +16418,10 @@ const logoData = [
     "filename": "Power_Apps_30x30.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-negative/Power_Apps_30x30.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "30x30",
     "format": "PNG",
-    "id": 1263
+    "id": 1117
   },
   {
     "name": "Power Apps",
@@ -17848,10 +16429,10 @@ const logoData = [
     "filename": "Power_Apps_32x32.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-negative/Power_Apps_32x32.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "32x32",
     "format": "PNG",
-    "id": 1253
+    "id": 1107
   },
   {
     "name": "Power Apps",
@@ -17859,10 +16440,10 @@ const logoData = [
     "filename": "Power_Apps_36x36.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-negative/Power_Apps_36x36.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "36x36",
     "format": "PNG",
-    "id": 1268
+    "id": 1122
   },
   {
     "name": "Power Apps",
@@ -17870,10 +16451,10 @@ const logoData = [
     "filename": "Power_Apps_40x40.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-negative/Power_Apps_40x40.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "40x40",
     "format": "PNG",
-    "id": 1261
+    "id": 1115
   },
   {
     "name": "Power Apps",
@@ -17881,10 +16462,10 @@ const logoData = [
     "filename": "Power_Apps_42x42.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-negative/Power_Apps_42x42.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "42x42",
     "format": "PNG",
-    "id": 1258
+    "id": 1112
   },
   {
     "name": "Power Apps",
@@ -17892,10 +16473,10 @@ const logoData = [
     "filename": "Power_Apps_48x48.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-negative/Power_Apps_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1254
+    "id": 1108
   },
   {
     "name": "Power Apps",
@@ -17903,10 +16484,10 @@ const logoData = [
     "filename": "Power_Apps_512x512.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-negative/Power_Apps_512x512.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "512x512",
     "format": "PNG",
-    "id": 1265
+    "id": 1119
   },
   {
     "name": "Power Apps",
@@ -17914,10 +16495,10 @@ const logoData = [
     "filename": "Power_Apps_54x54.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-negative/Power_Apps_54x54.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "54x54",
     "format": "PNG",
-    "id": 1266
+    "id": 1120
   },
   {
     "name": "Power Apps",
@@ -17925,10 +16506,10 @@ const logoData = [
     "filename": "Power_Apps_60x60.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-negative/Power_Apps_60x60.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "60x60",
     "format": "PNG",
-    "id": 1260
+    "id": 1114
   },
   {
     "name": "Power Apps",
@@ -17936,10 +16517,10 @@ const logoData = [
     "filename": "Power_Apps_64x64.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-negative/Power_Apps_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1269
+    "id": 1123
   },
   {
     "name": "Power Apps",
@@ -17947,10 +16528,10 @@ const logoData = [
     "filename": "Power_Apps_72x72.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-negative/Power_Apps_72x72.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "72x72",
     "format": "PNG",
-    "id": 1257
+    "id": 1111
   },
   {
     "name": "Power Apps",
@@ -17958,10 +16539,10 @@ const logoData = [
     "filename": "Power_Apps_80x80.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-negative/Power_Apps_80x80.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "80x80",
     "format": "PNG",
-    "id": 1271
+    "id": 1125
   },
   {
     "name": "Power Apps",
@@ -17969,10 +16550,10 @@ const logoData = [
     "filename": "Power_Apps_96x96.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-negative/Power_Apps_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1255
+    "id": 1109
   },
   {
     "name": "Power Apps",
@@ -17980,10 +16561,10 @@ const logoData = [
     "filename": "Power_Apps.ico",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-positive/Power_Apps.ico",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "",
     "format": "ICO",
-    "id": 1308
+    "id": 1160
   },
   {
     "name": "Power Apps",
@@ -17991,10 +16572,10 @@ const logoData = [
     "filename": "Power_Apps_128x128.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-positive/Power_Apps_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1321
+    "id": 1173
   },
   {
     "name": "Power Apps",
@@ -18002,10 +16583,10 @@ const logoData = [
     "filename": "Power_Apps_16x16.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-positive/Power_Apps_16x16.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "16x16",
     "format": "PNG",
-    "id": 1316
+    "id": 1168
   },
   {
     "name": "Power Apps",
@@ -18013,10 +16594,10 @@ const logoData = [
     "filename": "Power_Apps_192x192.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-positive/Power_Apps_192x192.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "192x192",
     "format": "PNG",
-    "id": 1305
+    "id": 1157
   },
   {
     "name": "Power Apps",
@@ -18024,10 +16605,10 @@ const logoData = [
     "filename": "Power_Apps_20x20.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-positive/Power_Apps_20x20.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "20x20",
     "format": "PNG",
-    "id": 1311
+    "id": 1163
   },
   {
     "name": "Power Apps",
@@ -18035,10 +16616,10 @@ const logoData = [
     "filename": "Power_Apps_24x24.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-positive/Power_Apps_24x24.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "24x24",
     "format": "PNG",
-    "id": 1313
+    "id": 1165
   },
   {
     "name": "Power Apps",
@@ -18046,10 +16627,10 @@ const logoData = [
     "filename": "Power_Apps_256x256.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-positive/Power_Apps_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1319
+    "id": 1171
   },
   {
     "name": "Power Apps",
@@ -18057,10 +16638,10 @@ const logoData = [
     "filename": "Power_Apps_30x30.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-positive/Power_Apps_30x30.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "30x30",
     "format": "PNG",
-    "id": 1312
+    "id": 1164
   },
   {
     "name": "Power Apps",
@@ -18068,10 +16649,10 @@ const logoData = [
     "filename": "Power_Apps_32x32.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-positive/Power_Apps_32x32.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "32x32",
     "format": "PNG",
-    "id": 1302
+    "id": 1154
   },
   {
     "name": "Power Apps",
@@ -18079,10 +16660,10 @@ const logoData = [
     "filename": "Power_Apps_36x36.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-positive/Power_Apps_36x36.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "36x36",
     "format": "PNG",
-    "id": 1317
+    "id": 1169
   },
   {
     "name": "Power Apps",
@@ -18090,10 +16671,10 @@ const logoData = [
     "filename": "Power_Apps_40x40.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-positive/Power_Apps_40x40.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "40x40",
     "format": "PNG",
-    "id": 1310
+    "id": 1162
   },
   {
     "name": "Power Apps",
@@ -18101,10 +16682,10 @@ const logoData = [
     "filename": "Power_Apps_42x42.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-positive/Power_Apps_42x42.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "42x42",
     "format": "PNG",
-    "id": 1307
+    "id": 1159
   },
   {
     "name": "Power Apps",
@@ -18112,10 +16693,10 @@ const logoData = [
     "filename": "Power_Apps_48x48.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-positive/Power_Apps_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1303
+    "id": 1155
   },
   {
     "name": "Power Apps",
@@ -18123,10 +16704,10 @@ const logoData = [
     "filename": "Power_Apps_512x512.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-positive/Power_Apps_512x512.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "512x512",
     "format": "PNG",
-    "id": 1314
+    "id": 1166
   },
   {
     "name": "Power Apps",
@@ -18134,10 +16715,10 @@ const logoData = [
     "filename": "Power_Apps_54x54.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-positive/Power_Apps_54x54.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "54x54",
     "format": "PNG",
-    "id": 1315
+    "id": 1167
   },
   {
     "name": "Power Apps",
@@ -18145,10 +16726,10 @@ const logoData = [
     "filename": "Power_Apps_60x60.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-positive/Power_Apps_60x60.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "60x60",
     "format": "PNG",
-    "id": 1309
+    "id": 1161
   },
   {
     "name": "Power Apps",
@@ -18156,10 +16737,10 @@ const logoData = [
     "filename": "Power_Apps_64x64.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-positive/Power_Apps_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1318
+    "id": 1170
   },
   {
     "name": "Power Apps",
@@ -18167,10 +16748,10 @@ const logoData = [
     "filename": "Power_Apps_72x72.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-positive/Power_Apps_72x72.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "72x72",
     "format": "PNG",
-    "id": 1306
+    "id": 1158
   },
   {
     "name": "Power Apps",
@@ -18178,10 +16759,10 @@ const logoData = [
     "filename": "Power_Apps_80x80.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-positive/Power_Apps_80x80.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "80x80",
     "format": "PNG",
-    "id": 1320
+    "id": 1172
   },
   {
     "name": "Power Apps",
@@ -18189,10 +16770,10 @@ const logoData = [
     "filename": "Power_Apps_96x96.png",
     "path": "Power_Platform/Power_Apps/2020-2025_monochromatic-positive/Power_Apps_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1304
+    "id": 1156
   },
   {
     "name": "Power Apps",
@@ -18203,7 +16784,7 @@ const logoData = [
     "year": "current",
     "size": "300x300",
     "format": "PNG",
-    "id": 1252
+    "id": 1106
   },
   {
     "name": "Power Apps 256x256 Padded",
@@ -18211,10 +16792,10 @@ const logoData = [
     "filename": "Power_Apps_256x256_padded.png",
     "path": "Power_Platform/Power_Apps/2020-2025_full-color/Power_Apps_256x256_padded.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1288
+    "id": 1141
   },
   {
     "name": "Power Automate",
@@ -18222,21 +16803,10 @@ const logoData = [
     "filename": "Power_Automate.ico",
     "path": "Power_Platform/Power_Automate/2020-2025_full-color/Power_Automate.ico",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "",
     "format": "ICO",
-    "id": 1430
-  },
-  {
-    "name": "Power Automate",
-    "family": "Power_Platform",
-    "filename": "Power_Automate.pdf",
-    "path": "Power_Platform/Power_Automate/2020-2025_full-color/Power_Automate.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1425
+    "id": 1279
   },
   {
     "name": "Power Automate",
@@ -18244,10 +16814,10 @@ const logoData = [
     "filename": "Power_Automate_128x128.png",
     "path": "Power_Platform/Power_Automate/2020-2025_full-color/Power_Automate_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1431
+    "id": 1280
   },
   {
     "name": "Power Automate",
@@ -18255,10 +16825,10 @@ const logoData = [
     "filename": "Power_Automate_16x16.png",
     "path": "Power_Platform/Power_Automate/2020-2025_full-color/Power_Automate_16x16.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "16x16",
     "format": "PNG",
-    "id": 1436
+    "id": 1285
   },
   {
     "name": "Power Automate",
@@ -18266,10 +16836,10 @@ const logoData = [
     "filename": "Power_Automate_180x180.png",
     "path": "Power_Platform/Power_Automate/2020-2025_full-color/Power_Automate_180x180.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "180x180",
     "format": "PNG",
-    "id": 1433
+    "id": 1282
   },
   {
     "name": "Power Automate",
@@ -18277,10 +16847,10 @@ const logoData = [
     "filename": "Power_Automate_192x192.png",
     "path": "Power_Platform/Power_Automate/2020-2025_full-color/Power_Automate_192x192.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "192x192",
     "format": "PNG",
-    "id": 1429
+    "id": 1278
   },
   {
     "name": "Power Automate",
@@ -18288,10 +16858,10 @@ const logoData = [
     "filename": "Power_Automate_20x20.png",
     "path": "Power_Platform/Power_Automate/2020-2025_full-color/Power_Automate_20x20.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "20x20",
     "format": "PNG",
-    "id": 1441
+    "id": 1290
   },
   {
     "name": "Power Automate",
@@ -18299,10 +16869,10 @@ const logoData = [
     "filename": "Power_Automate_24x24.png",
     "path": "Power_Platform/Power_Automate/2020-2025_full-color/Power_Automate_24x24.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "24x24",
     "format": "PNG",
-    "id": 1432
+    "id": 1281
   },
   {
     "name": "Power Automate",
@@ -18310,10 +16880,10 @@ const logoData = [
     "filename": "Power_Automate_256x256.png",
     "path": "Power_Platform/Power_Automate/2020-2025_full-color/Power_Automate_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1434
+    "id": 1283
   },
   {
     "name": "Power Automate",
@@ -18321,10 +16891,10 @@ const logoData = [
     "filename": "Power_Automate_32x32.png",
     "path": "Power_Platform/Power_Automate/2020-2025_full-color/Power_Automate_32x32.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "32x32",
     "format": "PNG",
-    "id": 1428
+    "id": 1277
   },
   {
     "name": "Power Automate",
@@ -18332,10 +16902,10 @@ const logoData = [
     "filename": "Power_Automate_36x36.png",
     "path": "Power_Platform/Power_Automate/2020-2025_full-color/Power_Automate_36x36.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "36x36",
     "format": "PNG",
-    "id": 1422
+    "id": 1272
   },
   {
     "name": "Power Automate",
@@ -18343,10 +16913,10 @@ const logoData = [
     "filename": "Power_Automate_40x40.png",
     "path": "Power_Platform/Power_Automate/2020-2025_full-color/Power_Automate_40x40.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "40x40",
     "format": "PNG",
-    "id": 1423
+    "id": 1273
   },
   {
     "name": "Power Automate",
@@ -18354,10 +16924,10 @@ const logoData = [
     "filename": "Power_Automate_48x48.png",
     "path": "Power_Platform/Power_Automate/2020-2025_full-color/Power_Automate_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1424
+    "id": 1274
   },
   {
     "name": "Power Automate",
@@ -18365,10 +16935,10 @@ const logoData = [
     "filename": "Power_Automate_512x512.png",
     "path": "Power_Platform/Power_Automate/2020-2025_full-color/Power_Automate_512x512.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "512x512",
     "format": "PNG",
-    "id": 1421
+    "id": 1271
   },
   {
     "name": "Power Automate",
@@ -18376,10 +16946,10 @@ const logoData = [
     "filename": "Power_Automate_54x54.png",
     "path": "Power_Platform/Power_Automate/2020-2025_full-color/Power_Automate_54x54.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "54x54",
     "format": "PNG",
-    "id": 1437
+    "id": 1286
   },
   {
     "name": "Power Automate",
@@ -18387,10 +16957,10 @@ const logoData = [
     "filename": "Power_Automate_60x60.png",
     "path": "Power_Platform/Power_Automate/2020-2025_full-color/Power_Automate_60x60.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "60x60",
     "format": "PNG",
-    "id": 1420
+    "id": 1270
   },
   {
     "name": "Power Automate",
@@ -18398,10 +16968,10 @@ const logoData = [
     "filename": "Power_Automate_64x64.png",
     "path": "Power_Platform/Power_Automate/2020-2025_full-color/Power_Automate_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1439
+    "id": 1288
   },
   {
     "name": "Power Automate",
@@ -18409,10 +16979,10 @@ const logoData = [
     "filename": "Power_Automate_72x72.png",
     "path": "Power_Platform/Power_Automate/2020-2025_full-color/Power_Automate_72x72.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "72x72",
     "format": "PNG",
-    "id": 1435
+    "id": 1284
   },
   {
     "name": "Power Automate",
@@ -18420,10 +16990,10 @@ const logoData = [
     "filename": "Power_Automate_80x80.png",
     "path": "Power_Platform/Power_Automate/2020-2025_full-color/Power_Automate_80x80.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "80x80",
     "format": "PNG",
-    "id": 1440
+    "id": 1289
   },
   {
     "name": "Power Automate",
@@ -18431,10 +17001,10 @@ const logoData = [
     "filename": "Power_Automate_96x96.png",
     "path": "Power_Platform/Power_Automate/2020-2025_full-color/Power_Automate_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1438
+    "id": 1287
   },
   {
     "name": "Power Automate",
@@ -18442,10 +17012,10 @@ const logoData = [
     "filename": "Power_Automate_Scalable.svg",
     "path": "Power_Platform/Power_Automate/2020-2025_full-color/Power_Automate_Scalable.svg",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "",
     "format": "SVG",
-    "id": 1427
+    "id": 1276
   },
   {
     "name": "Power Automate",
@@ -18453,10 +17023,10 @@ const logoData = [
     "filename": "Power_Automate_128x128.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-negative/Power_Automate_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1409
+    "id": 1259
   },
   {
     "name": "Power Automate",
@@ -18464,10 +17034,10 @@ const logoData = [
     "filename": "Power_Automate_16x16.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-negative/Power_Automate_16x16.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "16x16",
     "format": "PNG",
-    "id": 1413
+    "id": 1263
   },
   {
     "name": "Power Automate",
@@ -18475,10 +17045,10 @@ const logoData = [
     "filename": "Power_Automate_192x192.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-negative/Power_Automate_192x192.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "192x192",
     "format": "PNG",
-    "id": 1408
+    "id": 1258
   },
   {
     "name": "Power Automate",
@@ -18486,10 +17056,10 @@ const logoData = [
     "filename": "Power_Automate_20x20.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-negative/Power_Automate_20x20.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "20x20",
     "format": "PNG",
-    "id": 1419
+    "id": 1269
   },
   {
     "name": "Power Automate",
@@ -18497,10 +17067,10 @@ const logoData = [
     "filename": "Power_Automate_24x24.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-negative/Power_Automate_24x24.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "24x24",
     "format": "PNG",
-    "id": 1410
+    "id": 1260
   },
   {
     "name": "Power Automate",
@@ -18508,10 +17078,10 @@ const logoData = [
     "filename": "Power_Automate_256x256.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-negative/Power_Automate_256x256.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1411
+    "id": 1261
   },
   {
     "name": "Power Automate",
@@ -18519,10 +17089,10 @@ const logoData = [
     "filename": "Power_Automate_32x32.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-negative/Power_Automate_32x32.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "32x32",
     "format": "PNG",
-    "id": 1407
+    "id": 1257
   },
   {
     "name": "Power Automate",
@@ -18530,10 +17100,10 @@ const logoData = [
     "filename": "Power_Automate_36x36.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-negative/Power_Automate_36x36.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "36x36",
     "format": "PNG",
-    "id": 1404
+    "id": 1254
   },
   {
     "name": "Power Automate",
@@ -18541,10 +17111,10 @@ const logoData = [
     "filename": "Power_Automate_40x40.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-negative/Power_Automate_40x40.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "40x40",
     "format": "PNG",
-    "id": 1405
+    "id": 1255
   },
   {
     "name": "Power Automate",
@@ -18552,10 +17122,10 @@ const logoData = [
     "filename": "Power_Automate_48x48.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-negative/Power_Automate_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1406
+    "id": 1256
   },
   {
     "name": "Power Automate",
@@ -18563,10 +17133,10 @@ const logoData = [
     "filename": "Power_Automate_512x512.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-negative/Power_Automate_512x512.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "512x512",
     "format": "PNG",
-    "id": 1403
+    "id": 1253
   },
   {
     "name": "Power Automate",
@@ -18574,10 +17144,10 @@ const logoData = [
     "filename": "Power_Automate_54x54.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-negative/Power_Automate_54x54.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "54x54",
     "format": "PNG",
-    "id": 1415
+    "id": 1265
   },
   {
     "name": "Power Automate",
@@ -18585,10 +17155,10 @@ const logoData = [
     "filename": "Power_Automate_60x60.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-negative/Power_Automate_60x60.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "60x60",
     "format": "PNG",
-    "id": 1402
+    "id": 1252
   },
   {
     "name": "Power Automate",
@@ -18596,10 +17166,10 @@ const logoData = [
     "filename": "Power_Automate_64x64.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-negative/Power_Automate_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1417
+    "id": 1267
   },
   {
     "name": "Power Automate",
@@ -18607,10 +17177,10 @@ const logoData = [
     "filename": "Power_Automate_72x72.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-negative/Power_Automate_72x72.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "72x72",
     "format": "PNG",
-    "id": 1412
+    "id": 1262
   },
   {
     "name": "Power Automate",
@@ -18618,10 +17188,10 @@ const logoData = [
     "filename": "Power_Automate_80x80.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-negative/Power_Automate_80x80.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "80x80",
     "format": "PNG",
-    "id": 1418
+    "id": 1268
   },
   {
     "name": "Power Automate",
@@ -18629,10 +17199,10 @@ const logoData = [
     "filename": "Power_Automate_96x96.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-negative/Power_Automate_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1416
+    "id": 1266
   },
   {
     "name": "Power Automate",
@@ -18640,10 +17210,10 @@ const logoData = [
     "filename": "Power_Automate.ico",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-positive/Power_Automate.ico",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "",
     "format": "ICO",
-    "id": 1455
+    "id": 1303
   },
   {
     "name": "Power Automate",
@@ -18651,10 +17221,10 @@ const logoData = [
     "filename": "Power_Automate_128x128.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-positive/Power_Automate_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1456
+    "id": 1304
   },
   {
     "name": "Power Automate",
@@ -18662,10 +17232,10 @@ const logoData = [
     "filename": "Power_Automate_16x16.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-positive/Power_Automate_16x16.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "16x16",
     "format": "PNG",
-    "id": 1460
+    "id": 1308
   },
   {
     "name": "Power Automate",
@@ -18673,10 +17243,10 @@ const logoData = [
     "filename": "Power_Automate_192x192.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-positive/Power_Automate_192x192.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "192x192",
     "format": "PNG",
-    "id": 1454
+    "id": 1302
   },
   {
     "name": "Power Automate",
@@ -18684,10 +17254,10 @@ const logoData = [
     "filename": "Power_Automate_20x20.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-positive/Power_Automate_20x20.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "20x20",
     "format": "PNG",
-    "id": 1465
+    "id": 1313
   },
   {
     "name": "Power Automate",
@@ -18695,10 +17265,10 @@ const logoData = [
     "filename": "Power_Automate_24x24.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-positive/Power_Automate_24x24.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "24x24",
     "format": "PNG",
-    "id": 1457
+    "id": 1305
   },
   {
     "name": "Power Automate",
@@ -18706,10 +17276,10 @@ const logoData = [
     "filename": "Power_Automate_256x256.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-positive/Power_Automate_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1458
+    "id": 1306
   },
   {
     "name": "Power Automate",
@@ -18717,10 +17287,10 @@ const logoData = [
     "filename": "Power_Automate_32x32.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-positive/Power_Automate_32x32.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "32x32",
     "format": "PNG",
-    "id": 1453
+    "id": 1301
   },
   {
     "name": "Power Automate",
@@ -18728,10 +17298,10 @@ const logoData = [
     "filename": "Power_Automate_36x36.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-positive/Power_Automate_36x36.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "36x36",
     "format": "PNG",
-    "id": 1450
+    "id": 1298
   },
   {
     "name": "Power Automate",
@@ -18739,10 +17309,10 @@ const logoData = [
     "filename": "Power_Automate_40x40.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-positive/Power_Automate_40x40.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "40x40",
     "format": "PNG",
-    "id": 1451
+    "id": 1299
   },
   {
     "name": "Power Automate",
@@ -18750,10 +17320,10 @@ const logoData = [
     "filename": "Power_Automate_48x48.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-positive/Power_Automate_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1452
+    "id": 1300
   },
   {
     "name": "Power Automate",
@@ -18761,10 +17331,10 @@ const logoData = [
     "filename": "Power_Automate_512x512.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-positive/Power_Automate_512x512.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "512x512",
     "format": "PNG",
-    "id": 1449
+    "id": 1297
   },
   {
     "name": "Power Automate",
@@ -18772,10 +17342,10 @@ const logoData = [
     "filename": "Power_Automate_54x54.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-positive/Power_Automate_54x54.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "54x54",
     "format": "PNG",
-    "id": 1461
+    "id": 1309
   },
   {
     "name": "Power Automate",
@@ -18783,10 +17353,10 @@ const logoData = [
     "filename": "Power_Automate_60x60.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-positive/Power_Automate_60x60.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "60x60",
     "format": "PNG",
-    "id": 1448
+    "id": 1296
   },
   {
     "name": "Power Automate",
@@ -18794,10 +17364,10 @@ const logoData = [
     "filename": "Power_Automate_64x64.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-positive/Power_Automate_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1463
+    "id": 1311
   },
   {
     "name": "Power Automate",
@@ -18805,10 +17375,10 @@ const logoData = [
     "filename": "Power_Automate_72x72.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-positive/Power_Automate_72x72.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "72x72",
     "format": "PNG",
-    "id": 1459
+    "id": 1307
   },
   {
     "name": "Power Automate",
@@ -18816,10 +17386,10 @@ const logoData = [
     "filename": "Power_Automate_80x80.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-positive/Power_Automate_80x80.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "80x80",
     "format": "PNG",
-    "id": 1464
+    "id": 1312
   },
   {
     "name": "Power Automate",
@@ -18827,10 +17397,10 @@ const logoData = [
     "filename": "Power_Automate_96x96.png",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-positive/Power_Automate_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1462
+    "id": 1310
   },
   {
     "name": "Power Automate",
@@ -18841,7 +17411,7 @@ const logoData = [
     "year": "current",
     "size": "300x300",
     "format": "PNG",
-    "id": 1400
+    "id": 1250
   },
   {
     "name": "Power Automate 256x256 Padded",
@@ -18849,21 +17419,10 @@ const logoData = [
     "filename": "Power_Automate_256x256_padded.png",
     "path": "Power_Platform/Power_Automate/2020-2025_full-color/Power_Automate_256x256_padded.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1426
-  },
-  {
-    "name": "Power Bi",
-    "family": "Power_Platform",
-    "filename": "Power_BI.pdf",
-    "path": "Power_Platform/Power_BI/2016-2020_negative-format/Power_BI.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1214
+    "id": 1275
   },
   {
     "name": "Power Bi",
@@ -18871,10 +17430,10 @@ const logoData = [
     "filename": "Power_BI_128x128.png",
     "path": "Power_Platform/Power_BI/2016-2020_negative-format/Power_BI_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2020",
     "size": "128x128",
     "format": "PNG",
-    "id": 1218
+    "id": 1073
   },
   {
     "name": "Power Bi",
@@ -18882,10 +17441,10 @@ const logoData = [
     "filename": "Power_BI_256x256.png",
     "path": "Power_Platform/Power_BI/2016-2020_negative-format/Power_BI_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2020",
     "size": "256x256",
     "format": "PNG",
-    "id": 1217
+    "id": 1072
   },
   {
     "name": "Power Bi",
@@ -18893,10 +17452,10 @@ const logoData = [
     "filename": "Power_BI_48x48.png",
     "path": "Power_Platform/Power_BI/2016-2020_negative-format/Power_BI_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2020",
     "size": "48x48",
     "format": "PNG",
-    "id": 1213
+    "id": 1069
   },
   {
     "name": "Power Bi",
@@ -18904,10 +17463,10 @@ const logoData = [
     "filename": "Power_BI_64x64.png",
     "path": "Power_Platform/Power_BI/2016-2020_negative-format/Power_BI_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2020",
     "size": "64x64",
     "format": "PNG",
-    "id": 1215
+    "id": 1070
   },
   {
     "name": "Power Bi",
@@ -18915,21 +17474,10 @@ const logoData = [
     "filename": "Power_BI_96x96.png",
     "path": "Power_Platform/Power_BI/2016-2020_negative-format/Power_BI_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2020",
     "size": "96x96",
     "format": "PNG",
-    "id": 1216
-  },
-  {
-    "name": "Power Bi",
-    "family": "Power_Platform",
-    "filename": "Power_BI.pdf",
-    "path": "Power_Platform/Power_BI/2016-2020_postive-format/Power_BI.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1238
+    "id": 1071
   },
   {
     "name": "Power Bi",
@@ -18937,10 +17485,10 @@ const logoData = [
     "filename": "Power_BI_128x128.png",
     "path": "Power_Platform/Power_BI/2016-2020_postive-format/Power_BI_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2020",
     "size": "128x128",
     "format": "PNG",
-    "id": 1242
+    "id": 1096
   },
   {
     "name": "Power Bi",
@@ -18948,10 +17496,10 @@ const logoData = [
     "filename": "Power_BI_256x256.png",
     "path": "Power_Platform/Power_BI/2016-2020_postive-format/Power_BI_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2020",
     "size": "256x256",
     "format": "PNG",
-    "id": 1241
+    "id": 1095
   },
   {
     "name": "Power Bi",
@@ -18959,10 +17507,10 @@ const logoData = [
     "filename": "Power_BI_48x48.png",
     "path": "Power_Platform/Power_BI/2016-2020_postive-format/Power_BI_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2020",
     "size": "48x48",
     "format": "PNG",
-    "id": 1237
+    "id": 1092
   },
   {
     "name": "Power Bi",
@@ -18970,10 +17518,10 @@ const logoData = [
     "filename": "Power_BI_64x64.png",
     "path": "Power_Platform/Power_BI/2016-2020_postive-format/Power_BI_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2020",
     "size": "64x64",
     "format": "PNG",
-    "id": 1239
+    "id": 1093
   },
   {
     "name": "Power Bi",
@@ -18981,21 +17529,10 @@ const logoData = [
     "filename": "Power_BI_96x96.png",
     "path": "Power_Platform/Power_BI/2016-2020_postive-format/Power_BI_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2020",
     "size": "96x96",
     "format": "PNG",
-    "id": 1240
-  },
-  {
-    "name": "Power Bi",
-    "family": "Power_Platform",
-    "filename": "Power_BI.pdf",
-    "path": "Power_Platform/Power_BI/2020-2025_full-color/Power_BI.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1194
+    "id": 1094
   },
   {
     "name": "Power Bi",
@@ -19003,10 +17540,10 @@ const logoData = [
     "filename": "Power_BI_128x128.png",
     "path": "Power_Platform/Power_BI/2020-2025_full-color/Power_BI_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1209
+    "id": 1065
   },
   {
     "name": "Power Bi",
@@ -19014,10 +17551,10 @@ const logoData = [
     "filename": "Power_BI_16x16.png",
     "path": "Power_Platform/Power_BI/2020-2025_full-color/Power_BI_16x16.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "16x16",
     "format": "PNG",
-    "id": 1212
+    "id": 1068
   },
   {
     "name": "Power Bi",
@@ -19025,10 +17562,10 @@ const logoData = [
     "filename": "Power_BI_192x192.png",
     "path": "Power_Platform/Power_BI/2020-2025_full-color/Power_BI_192x192.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "192x192",
     "format": "PNG",
-    "id": 1203
+    "id": 1059
   },
   {
     "name": "Power Bi",
@@ -19036,10 +17573,10 @@ const logoData = [
     "filename": "Power_BI_20x20.png",
     "path": "Power_Platform/Power_BI/2020-2025_full-color/Power_BI_20x20.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "20x20",
     "format": "PNG",
-    "id": 1204
+    "id": 1060
   },
   {
     "name": "Power Bi",
@@ -19047,10 +17584,10 @@ const logoData = [
     "filename": "Power_BI_24x24.png",
     "path": "Power_Platform/Power_BI/2020-2025_full-color/Power_BI_24x24.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "24x24",
     "format": "PNG",
-    "id": 1211
+    "id": 1067
   },
   {
     "name": "Power Bi",
@@ -19058,10 +17595,10 @@ const logoData = [
     "filename": "Power_BI_256x256.png",
     "path": "Power_Platform/Power_BI/2020-2025_full-color/Power_BI_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1208
+    "id": 1064
   },
   {
     "name": "Power Bi",
@@ -19069,10 +17606,10 @@ const logoData = [
     "filename": "Power_BI_32x32.png",
     "path": "Power_Platform/Power_BI/2020-2025_full-color/Power_BI_32x32.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "32x32",
     "format": "PNG",
-    "id": 1200
+    "id": 1056
   },
   {
     "name": "Power Bi",
@@ -19080,10 +17617,10 @@ const logoData = [
     "filename": "Power_BI_36x36.png",
     "path": "Power_Platform/Power_BI/2020-2025_full-color/Power_BI_36x36.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "36x36",
     "format": "PNG",
-    "id": 1206
+    "id": 1062
   },
   {
     "name": "Power Bi",
@@ -19091,10 +17628,10 @@ const logoData = [
     "filename": "Power_BI_40x40.png",
     "path": "Power_Platform/Power_BI/2020-2025_full-color/Power_BI_40x40.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "40x40",
     "format": "PNG",
-    "id": 1196
+    "id": 1052
   },
   {
     "name": "Power Bi",
@@ -19102,10 +17639,10 @@ const logoData = [
     "filename": "Power_BI_48x48.png",
     "path": "Power_Platform/Power_BI/2020-2025_full-color/Power_BI_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1192
+    "id": 1049
   },
   {
     "name": "Power Bi",
@@ -19113,10 +17650,10 @@ const logoData = [
     "filename": "Power_BI_512x512.png",
     "path": "Power_Platform/Power_BI/2020-2025_full-color/Power_BI_512x512.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "512x512",
     "format": "PNG",
-    "id": 1205
+    "id": 1061
   },
   {
     "name": "Power Bi",
@@ -19124,10 +17661,10 @@ const logoData = [
     "filename": "Power_BI_54x54.png",
     "path": "Power_Platform/Power_BI/2020-2025_full-color/Power_BI_54x54.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "54x54",
     "format": "PNG",
-    "id": 1195
+    "id": 1051
   },
   {
     "name": "Power Bi",
@@ -19135,10 +17672,10 @@ const logoData = [
     "filename": "Power_BI_60x60.png",
     "path": "Power_Platform/Power_BI/2020-2025_full-color/Power_BI_60x60.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "60x60",
     "format": "PNG",
-    "id": 1198
+    "id": 1054
   },
   {
     "name": "Power Bi",
@@ -19146,10 +17683,10 @@ const logoData = [
     "filename": "Power_BI_64x64.png",
     "path": "Power_Platform/Power_BI/2020-2025_full-color/Power_BI_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1202
+    "id": 1058
   },
   {
     "name": "Power Bi",
@@ -19157,10 +17694,10 @@ const logoData = [
     "filename": "Power_BI_72x72.png",
     "path": "Power_Platform/Power_BI/2020-2025_full-color/Power_BI_72x72.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "72x72",
     "format": "PNG",
-    "id": 1210
+    "id": 1066
   },
   {
     "name": "Power Bi",
@@ -19168,10 +17705,10 @@ const logoData = [
     "filename": "Power_BI_80x80.png",
     "path": "Power_Platform/Power_BI/2020-2025_full-color/Power_BI_80x80.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "80x80",
     "format": "PNG",
-    "id": 1193
+    "id": 1050
   },
   {
     "name": "Power Bi",
@@ -19179,10 +17716,10 @@ const logoData = [
     "filename": "Power_BI_96x96.png",
     "path": "Power_Platform/Power_BI/2020-2025_full-color/Power_BI_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1207
+    "id": 1063
   },
   {
     "name": "Power Bi",
@@ -19190,10 +17727,10 @@ const logoData = [
     "filename": "Power_BI_Scalable.svg",
     "path": "Power_Platform/Power_BI/2020-2025_full-color/Power_BI_Scalable.svg",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "",
     "format": "SVG",
-    "id": 1201
+    "id": 1057
   },
   {
     "name": "Power Bi",
@@ -19201,10 +17738,10 @@ const logoData = [
     "filename": "Power_BI_128x128.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-negative/Power_BI_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1188
+    "id": 1045
   },
   {
     "name": "Power Bi",
@@ -19212,10 +17749,10 @@ const logoData = [
     "filename": "Power_BI_16x16.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-negative/Power_BI_16x16.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "16x16",
     "format": "PNG",
-    "id": 1191
+    "id": 1048
   },
   {
     "name": "Power Bi",
@@ -19223,10 +17760,10 @@ const logoData = [
     "filename": "Power_BI_192x192.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-negative/Power_BI_192x192.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "192x192",
     "format": "PNG",
-    "id": 1182
+    "id": 1039
   },
   {
     "name": "Power Bi",
@@ -19234,10 +17771,10 @@ const logoData = [
     "filename": "Power_BI_20x20.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-negative/Power_BI_20x20.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "20x20",
     "format": "PNG",
-    "id": 1183
+    "id": 1040
   },
   {
     "name": "Power Bi",
@@ -19245,10 +17782,10 @@ const logoData = [
     "filename": "Power_BI_24x24.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-negative/Power_BI_24x24.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "24x24",
     "format": "PNG",
-    "id": 1190
+    "id": 1047
   },
   {
     "name": "Power Bi",
@@ -19256,10 +17793,10 @@ const logoData = [
     "filename": "Power_BI_256x256.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-negative/Power_BI_256x256.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1187
+    "id": 1044
   },
   {
     "name": "Power Bi",
@@ -19267,10 +17804,10 @@ const logoData = [
     "filename": "Power_BI_32x32.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-negative/Power_BI_32x32.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "32x32",
     "format": "PNG",
-    "id": 1180
+    "id": 1037
   },
   {
     "name": "Power Bi",
@@ -19278,10 +17815,10 @@ const logoData = [
     "filename": "Power_BI_36x36.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-negative/Power_BI_36x36.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "36x36",
     "format": "PNG",
-    "id": 1185
+    "id": 1042
   },
   {
     "name": "Power Bi",
@@ -19289,10 +17826,10 @@ const logoData = [
     "filename": "Power_BI_40x40.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-negative/Power_BI_40x40.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "40x40",
     "format": "PNG",
-    "id": 1177
+    "id": 1034
   },
   {
     "name": "Power Bi",
@@ -19300,10 +17837,10 @@ const logoData = [
     "filename": "Power_BI_48x48.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-negative/Power_BI_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1174
+    "id": 1031
   },
   {
     "name": "Power Bi",
@@ -19311,10 +17848,10 @@ const logoData = [
     "filename": "Power_BI_512x512.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-negative/Power_BI_512x512.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "512x512",
     "format": "PNG",
-    "id": 1184
+    "id": 1041
   },
   {
     "name": "Power Bi",
@@ -19322,10 +17859,10 @@ const logoData = [
     "filename": "Power_BI_54x54.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-negative/Power_BI_54x54.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "54x54",
     "format": "PNG",
-    "id": 1176
+    "id": 1033
   },
   {
     "name": "Power Bi",
@@ -19333,10 +17870,10 @@ const logoData = [
     "filename": "Power_BI_60x60.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-negative/Power_BI_60x60.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "60x60",
     "format": "PNG",
-    "id": 1179
+    "id": 1036
   },
   {
     "name": "Power Bi",
@@ -19344,10 +17881,10 @@ const logoData = [
     "filename": "Power_BI_64x64.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-negative/Power_BI_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1181
+    "id": 1038
   },
   {
     "name": "Power Bi",
@@ -19355,10 +17892,10 @@ const logoData = [
     "filename": "Power_BI_72x72.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-negative/Power_BI_72x72.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "72x72",
     "format": "PNG",
-    "id": 1189
+    "id": 1046
   },
   {
     "name": "Power Bi",
@@ -19366,10 +17903,10 @@ const logoData = [
     "filename": "Power_BI_80x80.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-negative/Power_BI_80x80.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "80x80",
     "format": "PNG",
-    "id": 1175
+    "id": 1032
   },
   {
     "name": "Power Bi",
@@ -19377,10 +17914,10 @@ const logoData = [
     "filename": "Power_BI_96x96.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-negative/Power_BI_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1186
+    "id": 1043
   },
   {
     "name": "Power Bi",
@@ -19388,10 +17925,10 @@ const logoData = [
     "filename": "Power_BI_128x128.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-positive/Power_BI_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "128x128",
     "format": "PNG",
-    "id": 1233
+    "id": 1088
   },
   {
     "name": "Power Bi",
@@ -19399,10 +17936,10 @@ const logoData = [
     "filename": "Power_BI_16x16.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-positive/Power_BI_16x16.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "16x16",
     "format": "PNG",
-    "id": 1236
+    "id": 1091
   },
   {
     "name": "Power Bi",
@@ -19410,10 +17947,10 @@ const logoData = [
     "filename": "Power_BI_192x192.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-positive/Power_BI_192x192.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "192x192",
     "format": "PNG",
-    "id": 1227
+    "id": 1082
   },
   {
     "name": "Power Bi",
@@ -19421,10 +17958,10 @@ const logoData = [
     "filename": "Power_BI_20x20.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-positive/Power_BI_20x20.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "20x20",
     "format": "PNG",
-    "id": 1228
+    "id": 1083
   },
   {
     "name": "Power Bi",
@@ -19432,10 +17969,10 @@ const logoData = [
     "filename": "Power_BI_24x24.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-positive/Power_BI_24x24.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "24x24",
     "format": "PNG",
-    "id": 1235
+    "id": 1090
   },
   {
     "name": "Power Bi",
@@ -19443,10 +17980,10 @@ const logoData = [
     "filename": "Power_BI_256x256.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-positive/Power_BI_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1232
+    "id": 1087
   },
   {
     "name": "Power Bi",
@@ -19454,10 +17991,10 @@ const logoData = [
     "filename": "Power_BI_32x32.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-positive/Power_BI_32x32.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "32x32",
     "format": "PNG",
-    "id": 1225
+    "id": 1080
   },
   {
     "name": "Power Bi",
@@ -19465,10 +18002,10 @@ const logoData = [
     "filename": "Power_BI_36x36.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-positive/Power_BI_36x36.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "36x36",
     "format": "PNG",
-    "id": 1230
+    "id": 1085
   },
   {
     "name": "Power Bi",
@@ -19476,10 +18013,10 @@ const logoData = [
     "filename": "Power_BI_40x40.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-positive/Power_BI_40x40.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "40x40",
     "format": "PNG",
-    "id": 1222
+    "id": 1077
   },
   {
     "name": "Power Bi",
@@ -19487,10 +18024,10 @@ const logoData = [
     "filename": "Power_BI_48x48.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-positive/Power_BI_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "48x48",
     "format": "PNG",
-    "id": 1219
+    "id": 1074
   },
   {
     "name": "Power Bi",
@@ -19498,10 +18035,10 @@ const logoData = [
     "filename": "Power_BI_512x512.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-positive/Power_BI_512x512.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "512x512",
     "format": "PNG",
-    "id": 1229
+    "id": 1084
   },
   {
     "name": "Power Bi",
@@ -19509,10 +18046,10 @@ const logoData = [
     "filename": "Power_BI_54x54.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-positive/Power_BI_54x54.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "54x54",
     "format": "PNG",
-    "id": 1221
+    "id": 1076
   },
   {
     "name": "Power Bi",
@@ -19520,10 +18057,10 @@ const logoData = [
     "filename": "Power_BI_60x60.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-positive/Power_BI_60x60.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "60x60",
     "format": "PNG",
-    "id": 1224
+    "id": 1079
   },
   {
     "name": "Power Bi",
@@ -19531,10 +18068,10 @@ const logoData = [
     "filename": "Power_BI_64x64.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-positive/Power_BI_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "64x64",
     "format": "PNG",
-    "id": 1226
+    "id": 1081
   },
   {
     "name": "Power Bi",
@@ -19542,10 +18079,10 @@ const logoData = [
     "filename": "Power_BI_72x72.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-positive/Power_BI_72x72.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "72x72",
     "format": "PNG",
-    "id": 1234
+    "id": 1089
   },
   {
     "name": "Power Bi",
@@ -19553,10 +18090,10 @@ const logoData = [
     "filename": "Power_BI_80x80.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-positive/Power_BI_80x80.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "80x80",
     "format": "PNG",
-    "id": 1220
+    "id": 1075
   },
   {
     "name": "Power Bi",
@@ -19564,10 +18101,10 @@ const logoData = [
     "filename": "Power_BI_96x96.png",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-positive/Power_BI_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "96x96",
     "format": "PNG",
-    "id": 1231
+    "id": 1086
   },
   {
     "name": "Power Bi",
@@ -19578,7 +18115,7 @@ const logoData = [
     "year": "current",
     "size": "300x300",
     "format": "PNG",
-    "id": 1172
+    "id": 1029
   },
   {
     "name": "Power Bi 256x256 Padded",
@@ -19586,10 +18123,10 @@ const logoData = [
     "filename": "Power_BI_256x256_-_padded.png",
     "path": "Power_Platform/Power_BI/2020-2025_full-color/Power_BI_256x256_-_padded.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 1199
+    "id": 1055
   },
   {
     "name": "Power Bi Ico",
@@ -19597,10 +18134,10 @@ const logoData = [
     "filename": "Power_BI_ico.ico",
     "path": "Power_Platform/Power_BI/2020-2025_full-color/Power_BI_ico.ico",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "",
     "format": "ICO",
-    "id": 1197
+    "id": 1053
   },
   {
     "name": "Power Bi Ico",
@@ -19608,10 +18145,10 @@ const logoData = [
     "filename": "Power_BI_ico.ico",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-negative/Power_BI_ico.ico",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "",
     "format": "ICO",
-    "id": 1178
+    "id": 1035
   },
   {
     "name": "Power Bi Ico",
@@ -19619,10 +18156,10 @@ const logoData = [
     "filename": "Power_BI_ico.ico",
     "path": "Power_Platform/Power_BI/2020-2025_monochromatic-positive/Power_BI_ico.ico",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2025",
     "size": "",
     "format": "ICO",
-    "id": 1223
+    "id": 1078
   },
   {
     "name": "Power Pages",
@@ -19633,18 +18170,7 @@ const logoData = [
     "year": "current",
     "size": "300x300",
     "format": "PNG",
-    "id": 1328
-  },
-  {
-    "name": "Power Platform Icons Faq",
-    "family": "Power_Platform",
-    "filename": "Power_Platform_Icons_FAQ.pdf",
-    "path": "Power_Platform/Power_Platform_Icons_FAQ.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1170
+    "id": 1179
   },
   {
     "name": "Power Platform Monochrome",
@@ -19652,10 +18178,10 @@ const logoData = [
     "filename": "Power_Platform_monochrome.png",
     "path": "Power_Platform/Power_Platform/2024-2025/Power_Platform_monochrome.png",
     "style": "monochrome",
-    "year": "legacy",
+    "year": "2024-2025",
     "size": "",
     "format": "PNG",
-    "id": 1397
+    "id": 1247
   },
   {
     "name": "Power Virtual Agents",
@@ -19663,21 +18189,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents.ico",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_full-color/Power_Virtual_Agents.ico",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2024",
     "size": "",
     "format": "ICO",
-    "id": 1338
-  },
-  {
-    "name": "Power Virtual Agents",
-    "family": "Power_Platform",
-    "filename": "Power_Virtual_Agents.pdf",
-    "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_full-color/Power_Virtual_Agents.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1354
+    "id": 1189
   },
   {
     "name": "Power Virtual Agents",
@@ -19685,10 +18200,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_128x128.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_full-color/Power_Virtual_Agents_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2024",
     "size": "128x128",
     "format": "PNG",
-    "id": 1350
+    "id": 1201
   },
   {
     "name": "Power Virtual Agents",
@@ -19696,10 +18211,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_16x16.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_full-color/Power_Virtual_Agents_16x16.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2024",
     "size": "16x16",
     "format": "PNG",
-    "id": 1337
+    "id": 1188
   },
   {
     "name": "Power Virtual Agents",
@@ -19707,10 +18222,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_192x192.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_full-color/Power_Virtual_Agents_192x192.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2024",
     "size": "192x192",
     "format": "PNG",
-    "id": 1352
+    "id": 1203
   },
   {
     "name": "Power Virtual Agents",
@@ -19718,10 +18233,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_20x20.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_full-color/Power_Virtual_Agents_20x20.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2024",
     "size": "20x20",
     "format": "PNG",
-    "id": 1336
+    "id": 1187
   },
   {
     "name": "Power Virtual Agents",
@@ -19729,10 +18244,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_24x24.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_full-color/Power_Virtual_Agents_24x24.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2024",
     "size": "24x24",
     "format": "PNG",
-    "id": 1346
+    "id": 1197
   },
   {
     "name": "Power Virtual Agents",
@@ -19740,10 +18255,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_256x256.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_full-color/Power_Virtual_Agents_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2024",
     "size": "256x256",
     "format": "PNG",
-    "id": 1353
+    "id": 1204
   },
   {
     "name": "Power Virtual Agents",
@@ -19751,10 +18266,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_32x32.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_full-color/Power_Virtual_Agents_32x32.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2024",
     "size": "32x32",
     "format": "PNG",
-    "id": 1340
+    "id": 1191
   },
   {
     "name": "Power Virtual Agents",
@@ -19762,10 +18277,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_36x36.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_full-color/Power_Virtual_Agents_36x36.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2024",
     "size": "36x36",
     "format": "PNG",
-    "id": 1351
+    "id": 1202
   },
   {
     "name": "Power Virtual Agents",
@@ -19773,10 +18288,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_40x40.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_full-color/Power_Virtual_Agents_40x40.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2024",
     "size": "40x40",
     "format": "PNG",
-    "id": 1339
+    "id": 1190
   },
   {
     "name": "Power Virtual Agents",
@@ -19784,10 +18299,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_48x48.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_full-color/Power_Virtual_Agents_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2024",
     "size": "48x48",
     "format": "PNG",
-    "id": 1348
+    "id": 1199
   },
   {
     "name": "Power Virtual Agents",
@@ -19795,10 +18310,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_512x512.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_full-color/Power_Virtual_Agents_512x512.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2024",
     "size": "512x512",
     "format": "PNG",
-    "id": 1343
+    "id": 1194
   },
   {
     "name": "Power Virtual Agents",
@@ -19806,10 +18321,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_54x54.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_full-color/Power_Virtual_Agents_54x54.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2024",
     "size": "54x54",
     "format": "PNG",
-    "id": 1347
+    "id": 1198
   },
   {
     "name": "Power Virtual Agents",
@@ -19817,10 +18332,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_60x60.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_full-color/Power_Virtual_Agents_60x60.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2024",
     "size": "60x60",
     "format": "PNG",
-    "id": 1344
+    "id": 1195
   },
   {
     "name": "Power Virtual Agents",
@@ -19828,10 +18343,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_64x64.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_full-color/Power_Virtual_Agents_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2024",
     "size": "64x64",
     "format": "PNG",
-    "id": 1345
+    "id": 1196
   },
   {
     "name": "Power Virtual Agents",
@@ -19839,10 +18354,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_72x72.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_full-color/Power_Virtual_Agents_72x72.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2024",
     "size": "72x72",
     "format": "PNG",
-    "id": 1342
+    "id": 1193
   },
   {
     "name": "Power Virtual Agents",
@@ -19850,10 +18365,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_80x80.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_full-color/Power_Virtual_Agents_80x80.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2024",
     "size": "80x80",
     "format": "PNG",
-    "id": 1355
+    "id": 1205
   },
   {
     "name": "Power Virtual Agents",
@@ -19861,10 +18376,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_96x96.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_full-color/Power_Virtual_Agents_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2024",
     "size": "96x96",
     "format": "PNG",
-    "id": 1349
+    "id": 1200
   },
   {
     "name": "Power Virtual Agents",
@@ -19872,10 +18387,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_Scalable.svg",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_full-color/Power_Virtual_Agents_Scalable.svg",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2024",
     "size": "",
     "format": "SVG",
-    "id": 1341
+    "id": 1192
   },
   {
     "name": "Power Virtual Agents",
@@ -19883,10 +18398,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents.ico",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-negative/Power_Virtual_Agents.ico",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2024",
     "size": "",
     "format": "ICO",
-    "id": 1358
+    "id": 1208
   },
   {
     "name": "Power Virtual Agents",
@@ -19894,10 +18409,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_128x128.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-negative/Power_Virtual_Agents_128x128.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2024",
     "size": "128x128",
     "format": "PNG",
-    "id": 1369
+    "id": 1219
   },
   {
     "name": "Power Virtual Agents",
@@ -19905,10 +18420,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_16x16.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-negative/Power_Virtual_Agents_16x16.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2024",
     "size": "16x16",
     "format": "PNG",
-    "id": 1357
+    "id": 1207
   },
   {
     "name": "Power Virtual Agents",
@@ -19916,10 +18431,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_192x192.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-negative/Power_Virtual_Agents_192x192.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2024",
     "size": "192x192",
     "format": "PNG",
-    "id": 1371
+    "id": 1221
   },
   {
     "name": "Power Virtual Agents",
@@ -19927,10 +18442,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_20x20.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-negative/Power_Virtual_Agents_20x20.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2024",
     "size": "20x20",
     "format": "PNG",
-    "id": 1356
+    "id": 1206
   },
   {
     "name": "Power Virtual Agents",
@@ -19938,10 +18453,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_24x24.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-negative/Power_Virtual_Agents_24x24.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2024",
     "size": "24x24",
     "format": "PNG",
-    "id": 1365
+    "id": 1215
   },
   {
     "name": "Power Virtual Agents",
@@ -19949,10 +18464,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_256x256.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-negative/Power_Virtual_Agents_256x256.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2024",
     "size": "256x256",
     "format": "PNG",
-    "id": 1372
+    "id": 1222
   },
   {
     "name": "Power Virtual Agents",
@@ -19960,10 +18475,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_32x32.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-negative/Power_Virtual_Agents_32x32.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2024",
     "size": "32x32",
     "format": "PNG",
-    "id": 1360
+    "id": 1210
   },
   {
     "name": "Power Virtual Agents",
@@ -19971,10 +18486,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_36x36.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-negative/Power_Virtual_Agents_36x36.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2024",
     "size": "36x36",
     "format": "PNG",
-    "id": 1370
+    "id": 1220
   },
   {
     "name": "Power Virtual Agents",
@@ -19982,10 +18497,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_40x40.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-negative/Power_Virtual_Agents_40x40.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2024",
     "size": "40x40",
     "format": "PNG",
-    "id": 1359
+    "id": 1209
   },
   {
     "name": "Power Virtual Agents",
@@ -19993,10 +18508,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_48x48.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-negative/Power_Virtual_Agents_48x48.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2024",
     "size": "48x48",
     "format": "PNG",
-    "id": 1367
+    "id": 1217
   },
   {
     "name": "Power Virtual Agents",
@@ -20004,10 +18519,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_512x512.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-negative/Power_Virtual_Agents_512x512.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2024",
     "size": "512x512",
     "format": "PNG",
-    "id": 1362
+    "id": 1212
   },
   {
     "name": "Power Virtual Agents",
@@ -20015,10 +18530,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_54x54.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-negative/Power_Virtual_Agents_54x54.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2024",
     "size": "54x54",
     "format": "PNG",
-    "id": 1366
+    "id": 1216
   },
   {
     "name": "Power Virtual Agents",
@@ -20026,10 +18541,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_60x60.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-negative/Power_Virtual_Agents_60x60.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2024",
     "size": "60x60",
     "format": "PNG",
-    "id": 1363
+    "id": 1213
   },
   {
     "name": "Power Virtual Agents",
@@ -20037,10 +18552,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_64x64.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-negative/Power_Virtual_Agents_64x64.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2024",
     "size": "64x64",
     "format": "PNG",
-    "id": 1364
+    "id": 1214
   },
   {
     "name": "Power Virtual Agents",
@@ -20048,10 +18563,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_72x72.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-negative/Power_Virtual_Agents_72x72.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2024",
     "size": "72x72",
     "format": "PNG",
-    "id": 1361
+    "id": 1211
   },
   {
     "name": "Power Virtual Agents",
@@ -20059,10 +18574,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_80x80.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-negative/Power_Virtual_Agents_80x80.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2024",
     "size": "80x80",
     "format": "PNG",
-    "id": 1373
+    "id": 1223
   },
   {
     "name": "Power Virtual Agents",
@@ -20070,10 +18585,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_96x96.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-negative/Power_Virtual_Agents_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2024",
     "size": "96x96",
     "format": "PNG",
-    "id": 1368
+    "id": 1218
   },
   {
     "name": "Power Virtual Agents",
@@ -20081,10 +18596,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents.ico",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-positive/Power_Virtual_Agents.ico",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2024",
     "size": "",
     "format": "ICO",
-    "id": 1376
+    "id": 1226
   },
   {
     "name": "Power Virtual Agents",
@@ -20092,10 +18607,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_128x128.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-positive/Power_Virtual_Agents_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2024",
     "size": "128x128",
     "format": "PNG",
-    "id": 1387
+    "id": 1237
   },
   {
     "name": "Power Virtual Agents",
@@ -20103,10 +18618,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_16x16.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-positive/Power_Virtual_Agents_16x16.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2024",
     "size": "16x16",
     "format": "PNG",
-    "id": 1375
+    "id": 1225
   },
   {
     "name": "Power Virtual Agents",
@@ -20114,10 +18629,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_192x192.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-positive/Power_Virtual_Agents_192x192.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2024",
     "size": "192x192",
     "format": "PNG",
-    "id": 1389
+    "id": 1239
   },
   {
     "name": "Power Virtual Agents",
@@ -20125,10 +18640,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_20x20.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-positive/Power_Virtual_Agents_20x20.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2024",
     "size": "20x20",
     "format": "PNG",
-    "id": 1374
+    "id": 1224
   },
   {
     "name": "Power Virtual Agents",
@@ -20136,10 +18651,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_24x24.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-positive/Power_Virtual_Agents_24x24.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2024",
     "size": "24x24",
     "format": "PNG",
-    "id": 1383
+    "id": 1233
   },
   {
     "name": "Power Virtual Agents",
@@ -20147,10 +18662,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_256x256.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-positive/Power_Virtual_Agents_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2024",
     "size": "256x256",
     "format": "PNG",
-    "id": 1390
+    "id": 1240
   },
   {
     "name": "Power Virtual Agents",
@@ -20158,10 +18673,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_32x32.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-positive/Power_Virtual_Agents_32x32.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2024",
     "size": "32x32",
     "format": "PNG",
-    "id": 1378
+    "id": 1228
   },
   {
     "name": "Power Virtual Agents",
@@ -20169,10 +18684,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_36x36.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-positive/Power_Virtual_Agents_36x36.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2024",
     "size": "36x36",
     "format": "PNG",
-    "id": 1388
+    "id": 1238
   },
   {
     "name": "Power Virtual Agents",
@@ -20180,10 +18695,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_40x40.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-positive/Power_Virtual_Agents_40x40.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2024",
     "size": "40x40",
     "format": "PNG",
-    "id": 1377
+    "id": 1227
   },
   {
     "name": "Power Virtual Agents",
@@ -20191,10 +18706,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_48x48.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-positive/Power_Virtual_Agents_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2024",
     "size": "48x48",
     "format": "PNG",
-    "id": 1385
+    "id": 1235
   },
   {
     "name": "Power Virtual Agents",
@@ -20202,10 +18717,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_512x512.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-positive/Power_Virtual_Agents_512x512.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2024",
     "size": "512x512",
     "format": "PNG",
-    "id": 1380
+    "id": 1230
   },
   {
     "name": "Power Virtual Agents",
@@ -20213,10 +18728,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_54x54.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-positive/Power_Virtual_Agents_54x54.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2024",
     "size": "54x54",
     "format": "PNG",
-    "id": 1384
+    "id": 1234
   },
   {
     "name": "Power Virtual Agents",
@@ -20224,10 +18739,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_60x60.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-positive/Power_Virtual_Agents_60x60.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2024",
     "size": "60x60",
     "format": "PNG",
-    "id": 1381
+    "id": 1231
   },
   {
     "name": "Power Virtual Agents",
@@ -20235,10 +18750,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_64x64.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-positive/Power_Virtual_Agents_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2024",
     "size": "64x64",
     "format": "PNG",
-    "id": 1382
+    "id": 1232
   },
   {
     "name": "Power Virtual Agents",
@@ -20246,10 +18761,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_72x72.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-positive/Power_Virtual_Agents_72x72.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2024",
     "size": "72x72",
     "format": "PNG",
-    "id": 1379
+    "id": 1229
   },
   {
     "name": "Power Virtual Agents",
@@ -20257,10 +18772,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_80x80.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-positive/Power_Virtual_Agents_80x80.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2024",
     "size": "80x80",
     "format": "PNG",
-    "id": 1391
+    "id": 1241
   },
   {
     "name": "Power Virtual Agents",
@@ -20268,21 +18783,10 @@ const logoData = [
     "filename": "Power_Virtual_Agents_96x96.png",
     "path": "Power_Platform/Copilot_Studio/Power_Virtual_Agents/2020-2024_monochromatic-positive/Power_Virtual_Agents_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2020-2024",
     "size": "96x96",
     "format": "PNG",
-    "id": 1386
-  },
-  {
-    "name": "Powerapps",
-    "family": "Power_Platform",
-    "filename": "PowerApps.pdf",
-    "path": "Power_Platform/Power_Apps/2016-2020_negative-format/PowerApps.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1298
+    "id": 1236
   },
   {
     "name": "Powerapps",
@@ -20290,10 +18794,10 @@ const logoData = [
     "filename": "PowerApps_128x128.png",
     "path": "Power_Platform/Power_Apps/2016-2020_negative-format/PowerApps_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2020",
     "size": "128x128",
     "format": "PNG",
-    "id": 1301
+    "id": 1153
   },
   {
     "name": "Powerapps",
@@ -20301,10 +18805,10 @@ const logoData = [
     "filename": "PowerApps_256x256.png",
     "path": "Power_Platform/Power_Apps/2016-2020_negative-format/PowerApps_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2020",
     "size": "256x256",
     "format": "PNG",
-    "id": 1297
+    "id": 1150
   },
   {
     "name": "Powerapps",
@@ -20312,10 +18816,10 @@ const logoData = [
     "filename": "PowerApps_48x48.png",
     "path": "Power_Platform/Power_Apps/2016-2020_negative-format/PowerApps_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2020",
     "size": "48x48",
     "format": "PNG",
-    "id": 1300
+    "id": 1152
   },
   {
     "name": "Powerapps",
@@ -20323,10 +18827,10 @@ const logoData = [
     "filename": "PowerApps_64x64.png",
     "path": "Power_Platform/Power_Apps/2016-2020_negative-format/PowerApps_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2020",
     "size": "64x64",
     "format": "PNG",
-    "id": 1296
+    "id": 1149
   },
   {
     "name": "Powerapps",
@@ -20334,21 +18838,10 @@ const logoData = [
     "filename": "PowerApps_96x96.png",
     "path": "Power_Platform/Power_Apps/2016-2020_negative-format/PowerApps_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2020",
     "size": "96x96",
     "format": "PNG",
-    "id": 1299
-  },
-  {
-    "name": "Powerapps",
-    "family": "Power_Platform",
-    "filename": "PowerApps.pdf",
-    "path": "Power_Platform/Power_Apps/2016-2020_old-icons-postive-format/PowerApps.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1324
+    "id": 1151
   },
   {
     "name": "Powerapps",
@@ -20356,10 +18849,10 @@ const logoData = [
     "filename": "PowerApps_128x128.png",
     "path": "Power_Platform/Power_Apps/2016-2020_old-icons-postive-format/PowerApps_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2020",
     "size": "128x128",
     "format": "PNG",
-    "id": 1327
+    "id": 1178
   },
   {
     "name": "Powerapps",
@@ -20367,10 +18860,10 @@ const logoData = [
     "filename": "PowerApps_256x256.png",
     "path": "Power_Platform/Power_Apps/2016-2020_old-icons-postive-format/PowerApps_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2020",
     "size": "256x256",
     "format": "PNG",
-    "id": 1323
+    "id": 1175
   },
   {
     "name": "Powerapps",
@@ -20378,10 +18871,10 @@ const logoData = [
     "filename": "PowerApps_48x48.png",
     "path": "Power_Platform/Power_Apps/2016-2020_old-icons-postive-format/PowerApps_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2020",
     "size": "48x48",
     "format": "PNG",
-    "id": 1326
+    "id": 1177
   },
   {
     "name": "Powerapps",
@@ -20389,10 +18882,10 @@ const logoData = [
     "filename": "PowerApps_64x64.png",
     "path": "Power_Platform/Power_Apps/2016-2020_old-icons-postive-format/PowerApps_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2020",
     "size": "64x64",
     "format": "PNG",
-    "id": 1322
+    "id": 1174
   },
   {
     "name": "Powerapps",
@@ -20400,10 +18893,10 @@ const logoData = [
     "filename": "PowerApps_96x96.png",
     "path": "Power_Platform/Power_Apps/2016-2020_old-icons-postive-format/PowerApps_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2020",
     "size": "96x96",
     "format": "PNG",
-    "id": 1325
+    "id": 1176
   },
   {
     "name": "Powerapps",
@@ -20414,7 +18907,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1250
+    "id": 1104
   },
   {
     "name": "Powerapps",
@@ -20425,7 +18918,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1251
+    "id": 1105
   },
   {
     "name": "Powerautomate",
@@ -20436,7 +18929,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1399
+    "id": 1249
   },
   {
     "name": "Powerautomate",
@@ -20444,10 +18937,10 @@ const logoData = [
     "filename": "PowerAutomate.ico",
     "path": "Power_Platform/Power_Automate/2020-2025_monochromatic-negative/PowerAutomate.ico",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2020-2025",
     "size": "",
     "format": "ICO",
-    "id": 1414
+    "id": 1264
   },
   {
     "name": "Powerautomate",
@@ -20458,7 +18951,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1401
+    "id": 1251
   },
   {
     "name": "Powerbi",
@@ -20469,7 +18962,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1173
+    "id": 1030
   },
   {
     "name": "Powerfx",
@@ -20480,7 +18973,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1167
+    "id": 1026
   },
   {
     "name": "Powerpages",
@@ -20488,10 +18981,10 @@ const logoData = [
     "filename": "PowerPages_scalable.svg",
     "path": "Power_Platform/Power_Pages/2024-2025/PowerPages_scalable.svg",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2024-2025",
     "size": "",
     "format": "SVG",
-    "id": 1330
+    "id": 1181
   },
   {
     "name": "Powerpages",
@@ -20502,7 +18995,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1329
+    "id": 1180
   },
   {
     "name": "Powerplatform",
@@ -20510,10 +19003,10 @@ const logoData = [
     "filename": "PowerPlatform_scalable.png",
     "path": "Power_Platform/Power_Platform/2024-2025/PowerPlatform_scalable.png",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2024-2025",
     "size": "",
     "format": "PNG",
-    "id": 1396
+    "id": 1246
   },
   {
     "name": "Powerplatform",
@@ -20521,10 +19014,10 @@ const logoData = [
     "filename": "PowerPlatform_scalable.svg",
     "path": "Power_Platform/Power_Platform/2024-2025/PowerPlatform_scalable.svg",
     "style": "full-color",
-    "year": "legacy",
+    "year": "2024-2025",
     "size": "",
     "format": "SVG",
-    "id": 1398
+    "id": 1248
   },
   {
     "name": "Powerplatform",
@@ -20535,7 +19028,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 1393
+    "id": 1243
   },
   {
     "name": "Powerplatform",
@@ -20546,7 +19039,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1395
+    "id": 1245
   },
   {
     "name": "Powerplatform Connectors",
@@ -20557,7 +19050,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1394
+    "id": 1244
   },
   {
     "name": "Powervirtualagents",
@@ -20568,7 +19061,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1335
+    "id": 1186
   },
   {
     "name": "Vibe",
@@ -20579,7 +19072,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 1392
+    "id": 1242
   },
   {
     "name": "Amplify 128",
@@ -20590,7 +19083,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 134
+    "id": 130
   },
   {
     "name": "Amplify 16",
@@ -20601,7 +19094,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 135
+    "id": 131
   },
   {
     "name": "Amplify 192",
@@ -20612,7 +19105,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 142
+    "id": 138
   },
   {
     "name": "Amplify 256",
@@ -20623,7 +19116,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 138
+    "id": 134
   },
   {
     "name": "Amplify 32",
@@ -20634,7 +19127,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 136
+    "id": 132
   },
   {
     "name": "Amplify 512",
@@ -20645,7 +19138,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 141
+    "id": 137
   },
   {
     "name": "Amplify 64",
@@ -20656,7 +19149,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 139
+    "id": 135
   },
   {
     "name": "Amply 256x256 Padded",
@@ -20667,7 +19160,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 137
+    "id": 133
   },
   {
     "name": "Connections Launch C 128 1x",
@@ -20678,7 +19171,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 155
+    "id": 151
   },
   {
     "name": "Connections Launch C 16 1x",
@@ -20689,7 +19182,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 171
+    "id": 167
   },
   {
     "name": "Connections Launch C 192 1x",
@@ -20700,7 +19193,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 156
+    "id": 152
   },
   {
     "name": "Connections Launch C 20 1x",
@@ -20711,7 +19204,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 160
+    "id": 156
   },
   {
     "name": "Connections Launch C 24 1x",
@@ -20722,7 +19215,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 157
+    "id": 153
   },
   {
     "name": "Connections Launch C 256 1x",
@@ -20733,7 +19226,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 166
+    "id": 162
   },
   {
     "name": "Connections Launch C 256 1x Padded",
@@ -20744,7 +19237,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 162
+    "id": 158
   },
   {
     "name": "Connections Launch C 32 1x",
@@ -20755,7 +19248,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 169
+    "id": 165
   },
   {
     "name": "Connections Launch C 36 1x",
@@ -20766,7 +19259,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 154
+    "id": 150
   },
   {
     "name": "Connections Launch C 40 1x",
@@ -20777,7 +19270,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 164
+    "id": 160
   },
   {
     "name": "Connections Launch C 48 1x",
@@ -20788,7 +19281,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 172
+    "id": 168
   },
   {
     "name": "Connections Launch C 512 1x",
@@ -20799,7 +19292,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 163
+    "id": 159
   },
   {
     "name": "Connections Launch C 54 1x",
@@ -20810,7 +19303,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 165
+    "id": 161
   },
   {
     "name": "Connections Launch C 60 1x",
@@ -20821,7 +19314,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 167
+    "id": 163
   },
   {
     "name": "Connections Launch C 64 1x",
@@ -20832,7 +19325,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 158
+    "id": 154
   },
   {
     "name": "Connections Launch C 72 1x",
@@ -20843,7 +19336,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 170
+    "id": 166
   },
   {
     "name": "Connections Launch C 80 1x",
@@ -20854,7 +19347,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 168
+    "id": 164
   },
   {
     "name": "Connections Launch C 96 1x",
@@ -20865,7 +19358,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 159
+    "id": 155
   },
   {
     "name": "Glint",
@@ -21217,7 +19710,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 226
+    "id": 217
   },
   {
     "name": "Learning Launch C 16 1x",
@@ -21228,7 +19721,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 229
+    "id": 220
   },
   {
     "name": "Learning Launch C 192 1x",
@@ -21239,7 +19732,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 225
+    "id": 216
   },
   {
     "name": "Learning Launch C 20 1x",
@@ -21250,7 +19743,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 231
+    "id": 222
   },
   {
     "name": "Learning Launch C 24 1x",
@@ -21261,7 +19754,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 232
+    "id": 223
   },
   {
     "name": "Learning Launch C 256 1x",
@@ -21272,7 +19765,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 230
+    "id": 221
   },
   {
     "name": "Learning Launch C 32 1x",
@@ -21283,7 +19776,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 233
+    "id": 224
   },
   {
     "name": "Learning Launch C 36 1x",
@@ -21294,7 +19787,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 219
+    "id": 210
   },
   {
     "name": "Learning Launch C 40 1x",
@@ -21305,7 +19798,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 224
+    "id": 215
   },
   {
     "name": "Learning Launch C 48 1x",
@@ -21316,7 +19809,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 227
+    "id": 218
   },
   {
     "name": "Learning Launch C 512 1x",
@@ -21327,7 +19820,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 218
+    "id": 209
   },
   {
     "name": "Learning Launch C 54 1x",
@@ -21338,7 +19831,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 220
+    "id": 211
   },
   {
     "name": "Learning Launch C 60 1x",
@@ -21349,7 +19842,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 222
+    "id": 213
   },
   {
     "name": "Learning Launch C 64 1x",
@@ -21360,7 +19853,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 223
+    "id": 214
   },
   {
     "name": "Learning Launch C 72 1x",
@@ -21371,7 +19864,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 221
+    "id": 212
   },
   {
     "name": "Learning Launch C 80 1x",
@@ -21382,7 +19875,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 235
+    "id": 226
   },
   {
     "name": "Learning Launch C 96 1x",
@@ -21393,18 +19886,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 234
-  },
-  {
-    "name": "Myanalytics",
-    "family": "Viva",
-    "filename": "MyAnalytics.pdf",
-    "path": "Viva/Viva_Insights/MyAnalytics/2016-2022_negative-format/MyAnalytics.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 124
+    "id": 225
   },
   {
     "name": "Myanalytics",
@@ -21412,10 +19894,10 @@ const logoData = [
     "filename": "MyAnalytics_128x128.png",
     "path": "Viva/Viva_Insights/MyAnalytics/2016-2022_negative-format/MyAnalytics_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2022",
     "size": "128x128",
     "format": "PNG",
-    "id": 127
+    "id": 124
   },
   {
     "name": "Myanalytics",
@@ -21423,10 +19905,10 @@ const logoData = [
     "filename": "MyAnalytics_256x256.png",
     "path": "Viva/Viva_Insights/MyAnalytics/2016-2022_negative-format/MyAnalytics_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2022",
     "size": "256x256",
     "format": "PNG",
-    "id": 122
+    "id": 120
   },
   {
     "name": "Myanalytics",
@@ -21434,10 +19916,10 @@ const logoData = [
     "filename": "MyAnalytics_48x48.png",
     "path": "Viva/Viva_Insights/MyAnalytics/2016-2022_negative-format/MyAnalytics_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2022",
     "size": "48x48",
     "format": "PNG",
-    "id": 126
+    "id": 123
   },
   {
     "name": "Myanalytics",
@@ -21445,10 +19927,10 @@ const logoData = [
     "filename": "MyAnalytics_64x64.png",
     "path": "Viva/Viva_Insights/MyAnalytics/2016-2022_negative-format/MyAnalytics_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2022",
     "size": "64x64",
     "format": "PNG",
-    "id": 123
+    "id": 121
   },
   {
     "name": "Myanalytics",
@@ -21456,21 +19938,10 @@ const logoData = [
     "filename": "MyAnalytics_96x96.png",
     "path": "Viva/Viva_Insights/MyAnalytics/2016-2022_negative-format/MyAnalytics_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2016-2022",
     "size": "96x96",
     "format": "PNG",
-    "id": 125
-  },
-  {
-    "name": "Myanalytics",
-    "family": "Viva",
-    "filename": "MyAnalytics.pdf",
-    "path": "Viva/Viva_Insights/MyAnalytics/2016-2022_postive-format/MyAnalytics.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 130
+    "id": 122
   },
   {
     "name": "Myanalytics",
@@ -21478,10 +19949,10 @@ const logoData = [
     "filename": "MyAnalytics_128x128.png",
     "path": "Viva/Viva_Insights/MyAnalytics/2016-2022_postive-format/MyAnalytics_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2022",
     "size": "128x128",
     "format": "PNG",
-    "id": 133
+    "id": 129
   },
   {
     "name": "Myanalytics",
@@ -21489,10 +19960,10 @@ const logoData = [
     "filename": "MyAnalytics_256x256.png",
     "path": "Viva/Viva_Insights/MyAnalytics/2016-2022_postive-format/MyAnalytics_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2022",
     "size": "256x256",
     "format": "PNG",
-    "id": 128
+    "id": 125
   },
   {
     "name": "Myanalytics",
@@ -21500,10 +19971,10 @@ const logoData = [
     "filename": "MyAnalytics_48x48.png",
     "path": "Viva/Viva_Insights/MyAnalytics/2016-2022_postive-format/MyAnalytics_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2022",
     "size": "48x48",
     "format": "PNG",
-    "id": 132
+    "id": 128
   },
   {
     "name": "Myanalytics",
@@ -21511,10 +19982,10 @@ const logoData = [
     "filename": "MyAnalytics_64x64.png",
     "path": "Viva/Viva_Insights/MyAnalytics/2016-2022_postive-format/MyAnalytics_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2022",
     "size": "64x64",
     "format": "PNG",
-    "id": 129
+    "id": 126
   },
   {
     "name": "Myanalytics",
@@ -21522,10 +19993,10 @@ const logoData = [
     "filename": "MyAnalytics_96x96.png",
     "path": "Viva/Viva_Insights/MyAnalytics/2016-2022_postive-format/MyAnalytics_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2016-2022",
     "size": "96x96",
     "format": "PNG",
-    "id": 131
+    "id": 127
   },
   {
     "name": "Pulse 128",
@@ -21536,7 +20007,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 145
+    "id": 141
   },
   {
     "name": "Pulse 16",
@@ -21547,7 +20018,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 151
+    "id": 147
   },
   {
     "name": "Pulse 256",
@@ -21558,7 +20029,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 153
+    "id": 149
   },
   {
     "name": "Pulse 256x256 Padded",
@@ -21569,7 +20040,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 146
+    "id": 142
   },
   {
     "name": "Pulse 32",
@@ -21580,7 +20051,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 148
+    "id": 144
   },
   {
     "name": "Pulse 48",
@@ -21591,7 +20062,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 143
+    "id": 139
   },
   {
     "name": "Pulse 512",
@@ -21602,7 +20073,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 147
+    "id": 143
   },
   {
     "name": "Pulse 64",
@@ -21613,7 +20084,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 152
+    "id": 148
   },
   {
     "name": "Pulse 85",
@@ -21624,7 +20095,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 144
+    "id": 140
   },
   {
     "name": "Pulse 96",
@@ -21635,7 +20106,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 149
+    "id": 145
   },
   {
     "name": "Topics Launch C 128 1x",
@@ -21844,7 +20315,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 140
+    "id": 136
   },
   {
     "name": "Viva Connections",
@@ -21855,7 +20326,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 161
+    "id": 157
   },
   {
     "name": "Viva Engage",
@@ -21866,7 +20337,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 179
+    "id": 175
   },
   {
     "name": "Viva Engage",
@@ -21877,7 +20348,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 182
+    "id": 178
   },
   {
     "name": "Viva Engage",
@@ -21888,7 +20359,7 @@ const logoData = [
     "year": "current",
     "size": "1500x1500",
     "format": "PNG",
-    "id": 183
+    "id": 179
   },
   {
     "name": "Viva Engage",
@@ -21899,7 +20370,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 178
+    "id": 174
   },
   {
     "name": "Viva Engage",
@@ -21910,7 +20381,7 @@ const logoData = [
     "year": "current",
     "size": "32x32",
     "format": "PNG",
-    "id": 176
+    "id": 172
   },
   {
     "name": "Viva Engage",
@@ -21921,7 +20392,7 @@ const logoData = [
     "year": "current",
     "size": "375x375",
     "format": "PNG",
-    "id": 174
+    "id": 170
   },
   {
     "name": "Viva Engage",
@@ -21932,7 +20403,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 177
+    "id": 173
   },
   {
     "name": "Viva Engage",
@@ -21943,7 +20414,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 173
+    "id": 169
   },
   {
     "name": "Viva Engage",
@@ -21954,7 +20425,7 @@ const logoData = [
     "year": "current",
     "size": "85x85",
     "format": "PNG",
-    "id": 184
+    "id": 180
   },
   {
     "name": "Viva Engage",
@@ -21965,7 +20436,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 180
+    "id": 176
   },
   {
     "name": "Viva Engage 256x256 Padded",
@@ -21976,7 +20447,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 175
+    "id": 171
   },
   {
     "name": "Viva Engage Outline",
@@ -21987,7 +20458,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 181
+    "id": 177
   },
   {
     "name": "Viva Goals",
@@ -22020,7 +20491,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 228
+    "id": 219
   },
   {
     "name": "Viva Pulse",
@@ -22031,7 +20502,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 150
+    "id": 146
   },
   {
     "name": "Viva Sales",
@@ -22053,7 +20524,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "JPG",
-    "id": 216
+    "id": 207
   },
   {
     "name": "Viva Suite",
@@ -22064,7 +20535,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 217
+    "id": 208
   },
   {
     "name": "Viva Suite 256x256 Padded",
@@ -22075,7 +20546,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 215
+    "id": 206
   },
   {
     "name": "Viva Topics",
@@ -22091,21 +20562,10 @@ const logoData = [
   {
     "name": "Workplace Analytics",
     "family": "Viva",
-    "filename": "Workplace-Analytics.pdf",
-    "path": "Viva/Viva_Insights/Workplace_Analytics/2017-2022_negative-format/Workplace-Analytics.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 114
-  },
-  {
-    "name": "Workplace Analytics",
-    "family": "Viva",
     "filename": "Workplace-Analytics_128x128.png",
     "path": "Viva/Viva_Insights/Workplace_Analytics/2017-2022_negative-format/Workplace-Analytics_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2017-2022",
     "size": "128x128",
     "format": "PNG",
     "id": 113
@@ -22116,10 +20576,10 @@ const logoData = [
     "filename": "Workplace-Analytics_256x256.png",
     "path": "Viva/Viva_Insights/Workplace_Analytics/2017-2022_negative-format/Workplace-Analytics_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2017-2022",
     "size": "256x256",
     "format": "PNG",
-    "id": 115
+    "id": 114
   },
   {
     "name": "Workplace Analytics",
@@ -22127,7 +20587,7 @@ const logoData = [
     "filename": "Workplace-Analytics_48x48.png",
     "path": "Viva/Viva_Insights/Workplace_Analytics/2017-2022_negative-format/Workplace-Analytics_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2017-2022",
     "size": "48x48",
     "format": "PNG",
     "id": 110
@@ -22138,7 +20598,7 @@ const logoData = [
     "filename": "Workplace-Analytics_64x64.png",
     "path": "Viva/Viva_Insights/Workplace_Analytics/2017-2022_negative-format/Workplace-Analytics_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2017-2022",
     "size": "64x64",
     "format": "PNG",
     "id": 111
@@ -22149,7 +20609,7 @@ const logoData = [
     "filename": "Workplace-Analytics_96x96.png",
     "path": "Viva/Viva_Insights/Workplace_Analytics/2017-2022_negative-format/Workplace-Analytics_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2017-2022",
     "size": "96x96",
     "format": "PNG",
     "id": 112
@@ -22157,24 +20617,13 @@ const logoData = [
   {
     "name": "Workplace Analytics",
     "family": "Viva",
-    "filename": "Workplace-Analytics.pdf",
-    "path": "Viva/Viva_Insights/Workplace_Analytics/2017-2022_postive-format/Workplace-Analytics.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 120
-  },
-  {
-    "name": "Workplace Analytics",
-    "family": "Viva",
     "filename": "Workplace-Analytics_128x128.png",
     "path": "Viva/Viva_Insights/Workplace_Analytics/2017-2022_postive-format/Workplace-Analytics_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2017-2022",
     "size": "128x128",
     "format": "PNG",
-    "id": 119
+    "id": 118
   },
   {
     "name": "Workplace Analytics",
@@ -22182,10 +20631,10 @@ const logoData = [
     "filename": "Workplace-Analytics_256x256.png",
     "path": "Viva/Viva_Insights/Workplace_Analytics/2017-2022_postive-format/Workplace-Analytics_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2017-2022",
     "size": "256x256",
     "format": "PNG",
-    "id": 121
+    "id": 119
   },
   {
     "name": "Workplace Analytics",
@@ -22193,10 +20642,10 @@ const logoData = [
     "filename": "Workplace-Analytics_48x48.png",
     "path": "Viva/Viva_Insights/Workplace_Analytics/2017-2022_postive-format/Workplace-Analytics_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2017-2022",
     "size": "48x48",
     "format": "PNG",
-    "id": 116
+    "id": 115
   },
   {
     "name": "Workplace Analytics",
@@ -22204,10 +20653,10 @@ const logoData = [
     "filename": "Workplace-Analytics_64x64.png",
     "path": "Viva/Viva_Insights/Workplace_Analytics/2017-2022_postive-format/Workplace-Analytics_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2017-2022",
     "size": "64x64",
     "format": "PNG",
-    "id": 117
+    "id": 116
   },
   {
     "name": "Workplace Analytics",
@@ -22215,21 +20664,10 @@ const logoData = [
     "filename": "Workplace-Analytics_96x96.png",
     "path": "Viva/Viva_Insights/Workplace_Analytics/2017-2022_postive-format/Workplace-Analytics_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2017-2022",
     "size": "96x96",
     "format": "PNG",
-    "id": 118
-  },
-  {
-    "name": "Yammer",
-    "family": "Viva",
-    "filename": "Yammer.pdf",
-    "path": "Viva/Viva_Engage/Yammer/2012-2019_negative-format/Yammer.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 205
+    "id": 117
   },
   {
     "name": "Yammer",
@@ -22237,10 +20675,10 @@ const logoData = [
     "filename": "Yammer_128x128.png",
     "path": "Viva/Viva_Engage/Yammer/2012-2019_negative-format/Yammer_128x128.png",
     "style": "negative",
-    "year": "current",
+    "year": "2012-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 206
+    "id": 198
   },
   {
     "name": "Yammer",
@@ -22248,10 +20686,10 @@ const logoData = [
     "filename": "Yammer_256x256.png",
     "path": "Viva/Viva_Engage/Yammer/2012-2019_negative-format/Yammer_256x256.png",
     "style": "negative",
-    "year": "current",
+    "year": "2012-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 208
+    "id": 200
   },
   {
     "name": "Yammer",
@@ -22259,10 +20697,10 @@ const logoData = [
     "filename": "Yammer_48x48.png",
     "path": "Viva/Viva_Engage/Yammer/2012-2019_negative-format/Yammer_48x48.png",
     "style": "negative",
-    "year": "current",
+    "year": "2012-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 207
+    "id": 199
   },
   {
     "name": "Yammer",
@@ -22270,10 +20708,10 @@ const logoData = [
     "filename": "Yammer_64x64.png",
     "path": "Viva/Viva_Engage/Yammer/2012-2019_negative-format/Yammer_64x64.png",
     "style": "negative",
-    "year": "current",
+    "year": "2012-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 203
+    "id": 196
   },
   {
     "name": "Yammer",
@@ -22281,20 +20719,9 @@ const logoData = [
     "filename": "Yammer_96x96.png",
     "path": "Viva/Viva_Engage/Yammer/2012-2019_negative-format/Yammer_96x96.png",
     "style": "negative",
-    "year": "current",
+    "year": "2012-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 204
-  },
-  {
-    "name": "Yammer",
-    "family": "Viva",
-    "filename": "Yammer.pdf",
-    "path": "Viva/Viva_Engage/Yammer/2012-2019_postive-format/Yammer.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
     "id": 197
   },
   {
@@ -22303,10 +20730,10 @@ const logoData = [
     "filename": "yammer_128x128.png",
     "path": "Viva/Viva_Engage/Yammer/2012-2019_postive-format/yammer_128x128.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2012-2019",
     "size": "128x128",
     "format": "PNG",
-    "id": 200
+    "id": 193
   },
   {
     "name": "Yammer",
@@ -22314,10 +20741,10 @@ const logoData = [
     "filename": "yammer_256x256.png",
     "path": "Viva/Viva_Engage/Yammer/2012-2019_postive-format/yammer_256x256.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2012-2019",
     "size": "256x256",
     "format": "PNG",
-    "id": 198
+    "id": 191
   },
   {
     "name": "Yammer",
@@ -22325,10 +20752,10 @@ const logoData = [
     "filename": "yammer_48x48.png",
     "path": "Viva/Viva_Engage/Yammer/2012-2019_postive-format/yammer_48x48.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2012-2019",
     "size": "48x48",
     "format": "PNG",
-    "id": 199
+    "id": 192
   },
   {
     "name": "Yammer",
@@ -22336,10 +20763,10 @@ const logoData = [
     "filename": "yammer_64x64.png",
     "path": "Viva/Viva_Engage/Yammer/2012-2019_postive-format/yammer_64x64.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2012-2019",
     "size": "64x64",
     "format": "PNG",
-    "id": 201
+    "id": 194
   },
   {
     "name": "Yammer",
@@ -22347,21 +20774,10 @@ const logoData = [
     "filename": "yammer_96x96.png",
     "path": "Viva/Viva_Engage/Yammer/2012-2019_postive-format/yammer_96x96.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2012-2019",
     "size": "96x96",
     "format": "PNG",
-    "id": 202
-  },
-  {
-    "name": "Yammer",
-    "family": "Viva",
-    "filename": "Yammer.pdf",
-    "path": "Viva/Viva_Engage/Yammer/2019-2023_full-color/Yammer.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 193
+    "id": 195
   },
   {
     "name": "Yammer",
@@ -22369,73 +20785,7 @@ const logoData = [
     "filename": "Yammer_128x128.png",
     "path": "Viva/Viva_Engage/Yammer/2019-2023_full-color/Yammer_128x128.png",
     "style": "full-color",
-    "year": "current",
-    "size": "128x128",
-    "format": "PNG",
-    "id": 194
-  },
-  {
-    "name": "Yammer",
-    "family": "Viva",
-    "filename": "Yammer_256x256.png",
-    "path": "Viva/Viva_Engage/Yammer/2019-2023_full-color/Yammer_256x256.png",
-    "style": "full-color",
-    "year": "current",
-    "size": "256x256",
-    "format": "PNG",
-    "id": 196
-  },
-  {
-    "name": "Yammer",
-    "family": "Viva",
-    "filename": "Yammer_48x48.png",
-    "path": "Viva/Viva_Engage/Yammer/2019-2023_full-color/Yammer_48x48.png",
-    "style": "full-color",
-    "year": "current",
-    "size": "48x48",
-    "format": "PNG",
-    "id": 195
-  },
-  {
-    "name": "Yammer",
-    "family": "Viva",
-    "filename": "Yammer_64x64.png",
-    "path": "Viva/Viva_Engage/Yammer/2019-2023_full-color/Yammer_64x64.png",
-    "style": "full-color",
-    "year": "current",
-    "size": "64x64",
-    "format": "PNG",
-    "id": 191
-  },
-  {
-    "name": "Yammer",
-    "family": "Viva",
-    "filename": "Yammer_96x96.png",
-    "path": "Viva/Viva_Engage/Yammer/2019-2023_full-color/Yammer_96x96.png",
-    "style": "full-color",
-    "year": "current",
-    "size": "96x96",
-    "format": "PNG",
-    "id": 192
-  },
-  {
-    "name": "Yammer",
-    "family": "Viva",
-    "filename": "Yammer.pdf",
-    "path": "Viva/Viva_Engage/Yammer/2019-2023_monochromatic-negative/Yammer.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 187
-  },
-  {
-    "name": "Yammer",
-    "family": "Viva",
-    "filename": "Yammer_128x128.png",
-    "path": "Viva/Viva_Engage/Yammer/2019-2023_monochromatic-negative/Yammer_128x128.png",
-    "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2023",
     "size": "128x128",
     "format": "PNG",
     "id": 188
@@ -22444,9 +20794,9 @@ const logoData = [
     "name": "Yammer",
     "family": "Viva",
     "filename": "Yammer_256x256.png",
-    "path": "Viva/Viva_Engage/Yammer/2019-2023_monochromatic-negative/Yammer_256x256.png",
-    "style": "monochrome-negative",
-    "year": "current",
+    "path": "Viva/Viva_Engage/Yammer/2019-2023_full-color/Yammer_256x256.png",
+    "style": "full-color",
+    "year": "2019-2023",
     "size": "256x256",
     "format": "PNG",
     "id": 190
@@ -22455,9 +20805,9 @@ const logoData = [
     "name": "Yammer",
     "family": "Viva",
     "filename": "Yammer_48x48.png",
-    "path": "Viva/Viva_Engage/Yammer/2019-2023_monochromatic-negative/Yammer_48x48.png",
-    "style": "monochrome-negative",
-    "year": "current",
+    "path": "Viva/Viva_Engage/Yammer/2019-2023_full-color/Yammer_48x48.png",
+    "style": "full-color",
+    "year": "2019-2023",
     "size": "48x48",
     "format": "PNG",
     "id": 189
@@ -22466,12 +20816,67 @@ const logoData = [
     "name": "Yammer",
     "family": "Viva",
     "filename": "Yammer_64x64.png",
-    "path": "Viva/Viva_Engage/Yammer/2019-2023_monochromatic-negative/Yammer_64x64.png",
-    "style": "monochrome-negative",
-    "year": "current",
+    "path": "Viva/Viva_Engage/Yammer/2019-2023_full-color/Yammer_64x64.png",
+    "style": "full-color",
+    "year": "2019-2023",
     "size": "64x64",
     "format": "PNG",
+    "id": 186
+  },
+  {
+    "name": "Yammer",
+    "family": "Viva",
+    "filename": "Yammer_96x96.png",
+    "path": "Viva/Viva_Engage/Yammer/2019-2023_full-color/Yammer_96x96.png",
+    "style": "full-color",
+    "year": "2019-2023",
+    "size": "96x96",
+    "format": "PNG",
+    "id": 187
+  },
+  {
+    "name": "Yammer",
+    "family": "Viva",
+    "filename": "Yammer_128x128.png",
+    "path": "Viva/Viva_Engage/Yammer/2019-2023_monochromatic-negative/Yammer_128x128.png",
+    "style": "monochrome-negative",
+    "year": "2019-2023",
+    "size": "128x128",
+    "format": "PNG",
+    "id": 183
+  },
+  {
+    "name": "Yammer",
+    "family": "Viva",
+    "filename": "Yammer_256x256.png",
+    "path": "Viva/Viva_Engage/Yammer/2019-2023_monochromatic-negative/Yammer_256x256.png",
+    "style": "monochrome-negative",
+    "year": "2019-2023",
+    "size": "256x256",
+    "format": "PNG",
     "id": 185
+  },
+  {
+    "name": "Yammer",
+    "family": "Viva",
+    "filename": "Yammer_48x48.png",
+    "path": "Viva/Viva_Engage/Yammer/2019-2023_monochromatic-negative/Yammer_48x48.png",
+    "style": "monochrome-negative",
+    "year": "2019-2023",
+    "size": "48x48",
+    "format": "PNG",
+    "id": 184
+  },
+  {
+    "name": "Yammer",
+    "family": "Viva",
+    "filename": "Yammer_64x64.png",
+    "path": "Viva/Viva_Engage/Yammer/2019-2023_monochromatic-negative/Yammer_64x64.png",
+    "style": "monochrome-negative",
+    "year": "2019-2023",
+    "size": "64x64",
+    "format": "PNG",
+    "id": 181
   },
   {
     "name": "Yammer",
@@ -22479,21 +20884,10 @@ const logoData = [
     "filename": "Yammer_96x96.png",
     "path": "Viva/Viva_Engage/Yammer/2019-2023_monochromatic-negative/Yammer_96x96.png",
     "style": "monochrome-negative",
-    "year": "current",
+    "year": "2019-2023",
     "size": "96x96",
     "format": "PNG",
-    "id": 186
-  },
-  {
-    "name": "Yammer",
-    "family": "Viva",
-    "filename": "Yammer.pdf",
-    "path": "Viva/Viva_Engage/Yammer/2019-2023_monochromatic-positive/Yammer.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 211
+    "id": 182
   },
   {
     "name": "Yammer",
@@ -22501,10 +20895,10 @@ const logoData = [
     "filename": "Yammer_128x128.png",
     "path": "Viva/Viva_Engage/Yammer/2019-2023_monochromatic-positive/Yammer_128x128.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2023",
     "size": "128x128",
     "format": "PNG",
-    "id": 212
+    "id": 203
   },
   {
     "name": "Yammer",
@@ -22512,10 +20906,10 @@ const logoData = [
     "filename": "Yammer_256x256.png",
     "path": "Viva/Viva_Engage/Yammer/2019-2023_monochromatic-positive/Yammer_256x256.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2023",
     "size": "256x256",
     "format": "PNG",
-    "id": 214
+    "id": 205
   },
   {
     "name": "Yammer",
@@ -22523,10 +20917,10 @@ const logoData = [
     "filename": "Yammer_48x48.png",
     "path": "Viva/Viva_Engage/Yammer/2019-2023_monochromatic-positive/Yammer_48x48.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2023",
     "size": "48x48",
     "format": "PNG",
-    "id": 213
+    "id": 204
   },
   {
     "name": "Yammer",
@@ -22534,10 +20928,10 @@ const logoData = [
     "filename": "Yammer_64x64.png",
     "path": "Viva/Viva_Engage/Yammer/2019-2023_monochromatic-positive/Yammer_64x64.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2023",
     "size": "64x64",
     "format": "PNG",
-    "id": 209
+    "id": 201
   },
   {
     "name": "Yammer",
@@ -22545,10 +20939,10 @@ const logoData = [
     "filename": "Yammer_96x96.png",
     "path": "Viva/Viva_Engage/Yammer/2019-2023_monochromatic-positive/Yammer_96x96.png",
     "style": "monochrome-positive",
-    "year": "current",
+    "year": "2019-2023",
     "size": "96x96",
     "format": "PNG",
-    "id": 210
+    "id": 202
   },
   {
     "name": "Bing 256x256 Padded",
@@ -22559,7 +20953,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 249
+    "id": 240
   },
   {
     "name": "Bing Emblem",
@@ -22570,7 +20964,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 253
+    "id": 244
   },
   {
     "name": "Bing Icon",
@@ -22581,7 +20975,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 239
+    "id": 230
   },
   {
     "name": "Defender 512",
@@ -22592,7 +20986,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 241
+    "id": 232
   },
   {
     "name": "Defender 512 Padded",
@@ -22603,7 +20997,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 252
+    "id": 243
   },
   {
     "name": "Designer Icon",
@@ -22614,18 +21008,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 254
-  },
-  {
-    "name": "Editor",
-    "family": "other",
-    "filename": "Editor.pdf",
-    "path": "other/Editor/full-color/Editor.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 293
+    "id": 245
   },
   {
     "name": "Editor",
@@ -22636,7 +21019,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 292
+    "id": 277
   },
   {
     "name": "Editor",
@@ -22647,7 +21030,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 290
+    "id": 275
   },
   {
     "name": "Editor",
@@ -22658,7 +21041,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 288
+    "id": 273
   },
   {
     "name": "Editor",
@@ -22669,7 +21052,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 291
+    "id": 276
   },
   {
     "name": "Editor",
@@ -22680,18 +21063,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 289
-  },
-  {
-    "name": "Editor",
-    "family": "other",
-    "filename": "Editor.pdf",
-    "path": "other/Editor/monochromatic-negative/Editor.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 281
+    "id": 274
   },
   {
     "name": "Editor",
@@ -22702,7 +21074,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 280
+    "id": 267
   },
   {
     "name": "Editor",
@@ -22713,7 +21085,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 278
+    "id": 265
   },
   {
     "name": "Editor",
@@ -22724,7 +21096,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 276
+    "id": 263
   },
   {
     "name": "Editor",
@@ -22735,7 +21107,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 279
+    "id": 266
   },
   {
     "name": "Editor",
@@ -22746,18 +21118,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 277
-  },
-  {
-    "name": "Editor",
-    "family": "other",
-    "filename": "Editor.pdf",
-    "path": "other/Editor/monochromatic-positive/Editor.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 287
+    "id": 264
   },
   {
     "name": "Editor",
@@ -22768,7 +21129,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 286
+    "id": 272
   },
   {
     "name": "Editor",
@@ -22779,7 +21140,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 284
+    "id": 270
   },
   {
     "name": "Editor",
@@ -22790,7 +21151,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 282
+    "id": 268
   },
   {
     "name": "Editor",
@@ -22801,7 +21162,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 285
+    "id": 271
   },
   {
     "name": "Editor",
@@ -22812,7 +21173,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 283
+    "id": 269
   },
   {
     "name": "Intune",
@@ -22823,7 +21184,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 243
+    "id": 234
   },
   {
     "name": "Intune Company Portal",
@@ -22834,7 +21195,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 244
+    "id": 235
   },
   {
     "name": "Microsoft Edge",
@@ -22845,7 +21206,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 242
+    "id": 233
   },
   {
     "name": "Microsoft Edge 256x256 Padded",
@@ -22856,7 +21217,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 250
+    "id": 241
   },
   {
     "name": "Microsoft Family Safety 256",
@@ -22867,7 +21228,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 257
+    "id": 248
   },
   {
     "name": "Microsoft Family Safety 256",
@@ -22878,7 +21239,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 258
+    "id": 249
   },
   {
     "name": "Microsoft Family Safety 256",
@@ -22889,7 +21250,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 261
+    "id": 251
   },
   {
     "name": "Microsoft Family Safety 256",
@@ -22900,7 +21261,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 262
+    "id": 252
   },
   {
     "name": "Microsoft Family Safety 256",
@@ -22911,29 +21272,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 259
-  },
-  {
-    "name": "Microsoft Family Safety 256 Cmyk",
-    "family": "other",
-    "filename": "Microsoft_Family_Safety_256_CMYK.pdf",
-    "path": "other/Microsoft_Family_Safety/full-color/Microsoft_Family_Safety_256_CMYK.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 263
-  },
-  {
-    "name": "Microsoft Family Safety 256 Rgb",
-    "family": "other",
-    "filename": "Microsoft_Family_Safety_256_RGB.pdf",
-    "path": "other/Microsoft_Family_Safety/full-color/Microsoft_Family_Safety_256_RGB.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 260
+    "id": 250
   },
   {
     "name": "Microsoft Foundry",
@@ -22944,7 +21283,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 238
+    "id": 229
   },
   {
     "name": "Microsoft Graph",
@@ -22955,7 +21294,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 256
+    "id": 247
   },
   {
     "name": "Microsoft Graph Icon 1 Large",
@@ -22966,7 +21305,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 255
+    "id": 246
   },
   {
     "name": "Microsoft Graph Icon 1 Small",
@@ -22977,7 +21316,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 237
+    "id": 228
   },
   {
     "name": "Microsoft Graph Icon 2 Large",
@@ -22988,7 +21327,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 236
+    "id": 227
   },
   {
     "name": "Microsoft Graph Icon 2 Small",
@@ -22999,7 +21338,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 251
+    "id": 242
   },
   {
     "name": "Microsoft Logo",
@@ -23010,7 +21349,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 248
+    "id": 239
   },
   {
     "name": "Microsoft Logo 256x256 Padded",
@@ -23021,7 +21360,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 246
+    "id": 237
   },
   {
     "name": "Microsoft Logo and Name",
@@ -23032,7 +21371,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "JPG",
-    "id": 247
+    "id": 238
   },
   {
     "name": "Microsoft Logo and Name",
@@ -23043,18 +21382,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "PNG",
-    "id": 245
-  },
-  {
-    "name": "Remote",
-    "family": "other",
-    "filename": "Remote.pdf",
-    "path": "other/Remote/icons-negative-format/Remote.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 269
+    "id": 236
   },
   {
     "name": "Remote",
@@ -23065,7 +21393,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 266
+    "id": 255
   },
   {
     "name": "Remote",
@@ -23076,7 +21404,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 268
+    "id": 257
   },
   {
     "name": "Remote",
@@ -23087,7 +21415,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 267
+    "id": 256
   },
   {
     "name": "Remote",
@@ -23098,7 +21426,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 265
+    "id": 254
   },
   {
     "name": "Remote",
@@ -23109,18 +21437,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 264
-  },
-  {
-    "name": "Remote",
-    "family": "other",
-    "filename": "Remote.pdf",
-    "path": "other/Remote/icons-postive-format/Remote.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 275
+    "id": 253
   },
   {
     "name": "Remote",
@@ -23131,7 +21448,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 272
+    "id": 260
   },
   {
     "name": "Remote",
@@ -23142,7 +21459,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 274
+    "id": 262
   },
   {
     "name": "Remote",
@@ -23153,7 +21470,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 273
+    "id": 261
   },
   {
     "name": "Remote",
@@ -23164,7 +21481,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 271
+    "id": 259
   },
   {
     "name": "Remote",
@@ -23175,7 +21492,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 270
+    "id": 258
   },
   {
     "name": "Windows",
@@ -23186,7 +21503,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "JPG",
-    "id": 240
+    "id": 231
   },
   {
     "name": "Cortana",
@@ -23197,7 +21514,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 1547
+    "id": 1380
   },
   {
     "name": "Cortana",
@@ -23208,7 +21525,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 1548
+    "id": 1381
   },
   {
     "name": "Cortana",
@@ -23219,7 +21536,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 1545
+    "id": 1379
   },
   {
     "name": "Cortana",
@@ -23230,7 +21547,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 1544
+    "id": 1378
   },
   {
     "name": "Cortana",
@@ -23241,7 +21558,7 @@ const logoData = [
     "year": "current",
     "size": "85x85",
     "format": "PNG",
-    "id": 1549
+    "id": 1382
   },
   {
     "name": "Cortana",
@@ -23252,7 +21569,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 1543
+    "id": 1377
   },
   {
     "name": "Cortana 128x128 Monochrome Negative",
@@ -23263,7 +21580,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 1529
+    "id": 1367
   },
   {
     "name": "Cortana 128x128 Monochrome Positive",
@@ -23274,18 +21591,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 1535
-  },
-  {
-    "name": "Cortana 256x256 Monochrome Negative",
-    "family": "zzLFORMER_PRODUCTS",
-    "filename": "Cortana_256x256_monochrome_negative.pdf",
-    "path": "zzLFORMER_PRODUCTS/Cortana/monochromatic-negative/Cortana_256x256_monochrome_negative.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "256x256",
-    "format": "PDF",
-    "id": 1533
+    "id": 1372
   },
   {
     "name": "Cortana 256x256 Monochrome Negative",
@@ -23296,18 +21602,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 1532
-  },
-  {
-    "name": "Cortana 256x256 Monochrome Positive",
-    "family": "zzLFORMER_PRODUCTS",
-    "filename": "Cortana_256x256_monochrome_positive.pdf",
-    "path": "zzLFORMER_PRODUCTS/Cortana/monochromatic-positive/Cortana_256x256_monochrome_positive.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "256x256",
-    "format": "PDF",
-    "id": 1538
+    "id": 1370
   },
   {
     "name": "Cortana 256x256 Monochrome Positive",
@@ -23318,7 +21613,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 1536
+    "id": 1373
   },
   {
     "name": "Cortana 48x48 Monochrome Negative",
@@ -23329,7 +21624,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 1530
+    "id": 1368
   },
   {
     "name": "Cortana 48x48 Monochrome Positive",
@@ -23340,7 +21635,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 1539
+    "id": 1375
   },
   {
     "name": "Cortana 64x64 Monochrome Negative",
@@ -23351,7 +21646,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 1534
+    "id": 1371
   },
   {
     "name": "Cortana 64x64 Monochrome Positive",
@@ -23362,7 +21657,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 1540
+    "id": 1376
   },
   {
     "name": "Cortana 96x96 Monochrome Negative",
@@ -23373,7 +21668,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 1531
+    "id": 1369
   },
   {
     "name": "Cortana 96x96 Monochrome Positive",
@@ -23384,51 +21679,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 1537
-  },
-  {
-    "name": "Cortana Symbol Cmyk",
-    "family": "zzLFORMER_PRODUCTS",
-    "filename": "Cortana_symbol_CMYK.pdf",
-    "path": "zzLFORMER_PRODUCTS/Cortana/full-color/Cortana_symbol_CMYK.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1542
-  },
-  {
-    "name": "Cortana Symbol Pms",
-    "family": "zzLFORMER_PRODUCTS",
-    "filename": "Cortana_symbol_PMS.pdf",
-    "path": "zzLFORMER_PRODUCTS/Cortana/full-color/Cortana_symbol_PMS.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1546
-  },
-  {
-    "name": "Cortana Symbol Rgb",
-    "family": "zzLFORMER_PRODUCTS",
-    "filename": "Cortana_symbol_RGB.pdf",
-    "path": "zzLFORMER_PRODUCTS/Cortana/full-color/Cortana_symbol_RGB.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1541
-  },
-  {
-    "name": "Groupme",
-    "family": "zzLFORMER_PRODUCTS",
-    "filename": "GroupMe.pdf",
-    "path": "zzLFORMER_PRODUCTS/GroupMe/icons-negative-format/GroupMe.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1517
+    "id": 1374
   },
   {
     "name": "Groupme",
@@ -23439,7 +21690,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 1521
+    "id": 1360
   },
   {
     "name": "Groupme",
@@ -23450,7 +21701,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 1522
+    "id": 1361
   },
   {
     "name": "Groupme",
@@ -23461,7 +21712,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 1519
+    "id": 1358
   },
   {
     "name": "Groupme",
@@ -23472,7 +21723,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 1518
+    "id": 1357
   },
   {
     "name": "Groupme",
@@ -23483,18 +21734,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 1520
-  },
-  {
-    "name": "Groupme",
-    "family": "zzLFORMER_PRODUCTS",
-    "filename": "GroupMe.pdf",
-    "path": "zzLFORMER_PRODUCTS/GroupMe/icons-postive-format/GroupMe.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1523
+    "id": 1359
   },
   {
     "name": "Groupme",
@@ -23505,7 +21745,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 1527
+    "id": 1365
   },
   {
     "name": "Groupme",
@@ -23516,7 +21756,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 1528
+    "id": 1366
   },
   {
     "name": "Groupme",
@@ -23527,7 +21767,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 1525
+    "id": 1363
   },
   {
     "name": "Groupme",
@@ -23538,7 +21778,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 1524
+    "id": 1362
   },
   {
     "name": "Groupme",
@@ -23549,18 +21789,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 1526
-  },
-  {
-    "name": "Invoicing",
-    "family": "zzLFORMER_PRODUCTS",
-    "filename": "Invoicing.pdf",
-    "path": "zzLFORMER_PRODUCTS/Invoicing/icons-negative-format/Invoicing.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1476
+    "id": 1364
   },
   {
     "name": "Invoicing",
@@ -23571,7 +21800,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 1473
+    "id": 1320
   },
   {
     "name": "Invoicing",
@@ -23582,7 +21811,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 1474
+    "id": 1321
   },
   {
     "name": "Invoicing",
@@ -23593,7 +21822,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 1472
+    "id": 1319
   },
   {
     "name": "Invoicing",
@@ -23604,7 +21833,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 1475
+    "id": 1322
   },
   {
     "name": "Invoicing",
@@ -23615,18 +21844,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 1477
-  },
-  {
-    "name": "Invoicing",
-    "family": "zzLFORMER_PRODUCTS",
-    "filename": "Invoicing.pdf",
-    "path": "zzLFORMER_PRODUCTS/Invoicing/icons-postive-format/Invoicing.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1482
+    "id": 1323
   },
   {
     "name": "Invoicing",
@@ -23637,7 +21855,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 1479
+    "id": 1325
   },
   {
     "name": "Invoicing",
@@ -23648,7 +21866,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 1480
+    "id": 1326
   },
   {
     "name": "Invoicing",
@@ -23659,7 +21877,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 1478
+    "id": 1324
   },
   {
     "name": "Invoicing",
@@ -23670,7 +21888,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 1481
+    "id": 1327
   },
   {
     "name": "Invoicing",
@@ -23681,18 +21899,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 1483
-  },
-  {
-    "name": "Lens",
-    "family": "zzLFORMER_PRODUCTS",
-    "filename": "Lens.pdf",
-    "path": "zzLFORMER_PRODUCTS/Lens/icons-negative-format/Lens.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1507
+    "id": 1328
   },
   {
     "name": "Lens",
@@ -23703,7 +21910,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 1510
+    "id": 1351
   },
   {
     "name": "Lens",
@@ -23714,7 +21921,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 1508
+    "id": 1349
   },
   {
     "name": "Lens",
@@ -23725,7 +21932,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 1506
+    "id": 1348
   },
   {
     "name": "Lens",
@@ -23736,7 +21943,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 1505
+    "id": 1347
   },
   {
     "name": "Lens",
@@ -23747,18 +21954,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 1509
-  },
-  {
-    "name": "Lens",
-    "family": "zzLFORMER_PRODUCTS",
-    "filename": "Lens.pdf",
-    "path": "zzLFORMER_PRODUCTS/Lens/icons-postive-format/Lens.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1513
+    "id": 1350
   },
   {
     "name": "Lens",
@@ -23769,7 +21965,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 1516
+    "id": 1356
   },
   {
     "name": "Lens",
@@ -23780,7 +21976,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 1514
+    "id": 1354
   },
   {
     "name": "Lens",
@@ -23791,7 +21987,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 1512
+    "id": 1353
   },
   {
     "name": "Lens",
@@ -23802,7 +21998,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 1511
+    "id": 1352
   },
   {
     "name": "Lens",
@@ -23813,18 +22009,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 1515
-  },
-  {
-    "name": "Mileiq",
-    "family": "zzLFORMER_PRODUCTS",
-    "filename": "MileIQ.pdf",
-    "path": "zzLFORMER_PRODUCTS/MileIQ/icons-negative-format/MileIQ.pdf",
-    "style": "negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1554
+    "id": 1355
   },
   {
     "name": "Mileiq",
@@ -23835,7 +22020,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 1550
+    "id": 1383
   },
   {
     "name": "Mileiq",
@@ -23846,7 +22031,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 1552
+    "id": 1385
   },
   {
     "name": "Mileiq",
@@ -23857,7 +22042,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 1551
+    "id": 1384
   },
   {
     "name": "Mileiq",
@@ -23868,7 +22053,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 1555
+    "id": 1387
   },
   {
     "name": "Mileiq",
@@ -23879,18 +22064,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 1553
-  },
-  {
-    "name": "Mileiq",
-    "family": "zzLFORMER_PRODUCTS",
-    "filename": "MileIQ.pdf",
-    "path": "zzLFORMER_PRODUCTS/MileIQ/icons-postive-format/MileIQ.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1559
+    "id": 1386
   },
   {
     "name": "Mileiq",
@@ -23901,7 +22075,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 1556
+    "id": 1388
   },
   {
     "name": "Mileiq",
@@ -23912,7 +22086,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 1557
+    "id": 1389
   },
   {
     "name": "Mileiq",
@@ -23923,7 +22097,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 1561
+    "id": 1392
   },
   {
     "name": "Mileiq",
@@ -23934,7 +22108,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 1558
+    "id": 1390
   },
   {
     "name": "Mileiq",
@@ -23945,18 +22119,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 1560
-  },
-  {
-    "name": "Skype",
-    "family": "zzLFORMER_PRODUCTS",
-    "filename": "Skype.pdf",
-    "path": "zzLFORMER_PRODUCTS/Skype/full-color/Skype.pdf",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1497
+    "id": 1391
   },
   {
     "name": "Skype",
@@ -23967,7 +22130,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 1500
+    "id": 1342
   },
   {
     "name": "Skype",
@@ -23978,7 +22141,7 @@ const logoData = [
     "year": "current",
     "size": "1500x1500",
     "format": "PNG",
-    "id": 1496
+    "id": 1339
   },
   {
     "name": "Skype",
@@ -23989,7 +22152,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 1502
+    "id": 1344
   },
   {
     "name": "Skype",
@@ -24000,7 +22163,7 @@ const logoData = [
     "year": "current",
     "size": "375x375",
     "format": "PNG",
-    "id": 1504
+    "id": 1346
   },
   {
     "name": "Skype",
@@ -24011,7 +22174,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 1503
+    "id": 1345
   },
   {
     "name": "Skype",
@@ -24022,7 +22185,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 1499
+    "id": 1341
   },
   {
     "name": "Skype",
@@ -24033,7 +22196,7 @@ const logoData = [
     "year": "current",
     "size": "85x85",
     "format": "PNG",
-    "id": 1501
+    "id": 1343
   },
   {
     "name": "Skype",
@@ -24044,18 +22207,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 1498
-  },
-  {
-    "name": "Skype",
-    "family": "zzLFORMER_PRODUCTS",
-    "filename": "Skype.pdf",
-    "path": "zzLFORMER_PRODUCTS/Skype/monochromatic-negative/Skype.pdf",
-    "style": "monochrome-negative",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1484
+    "id": 1340
   },
   {
     "name": "Skype",
@@ -24066,7 +22218,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 1487
+    "id": 1331
   },
   {
     "name": "Skype",
@@ -24077,7 +22229,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 1488
+    "id": 1332
   },
   {
     "name": "Skype",
@@ -24088,7 +22240,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 1489
+    "id": 1333
   },
   {
     "name": "Skype",
@@ -24099,7 +22251,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 1486
+    "id": 1330
   },
   {
     "name": "Skype",
@@ -24110,18 +22262,7 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 1485
-  },
-  {
-    "name": "Skype",
-    "family": "zzLFORMER_PRODUCTS",
-    "filename": "Skype.pdf",
-    "path": "zzLFORMER_PRODUCTS/Skype/monochromatic-positive/Skype.pdf",
-    "style": "monochrome-positive",
-    "year": "current",
-    "size": "",
-    "format": "PDF",
-    "id": 1490
+    "id": 1329
   },
   {
     "name": "Skype",
@@ -24132,7 +22273,7 @@ const logoData = [
     "year": "current",
     "size": "128x128",
     "format": "PNG",
-    "id": 1493
+    "id": 1336
   },
   {
     "name": "Skype",
@@ -24143,7 +22284,7 @@ const logoData = [
     "year": "current",
     "size": "256x256",
     "format": "PNG",
-    "id": 1494
+    "id": 1337
   },
   {
     "name": "Skype",
@@ -24154,7 +22295,7 @@ const logoData = [
     "year": "current",
     "size": "48x48",
     "format": "PNG",
-    "id": 1495
+    "id": 1338
   },
   {
     "name": "Skype",
@@ -24165,7 +22306,7 @@ const logoData = [
     "year": "current",
     "size": "64x64",
     "format": "PNG",
-    "id": 1492
+    "id": 1335
   },
   {
     "name": "Skype",
@@ -24176,311 +22317,311 @@ const logoData = [
     "year": "current",
     "size": "96x96",
     "format": "PNG",
-    "id": 1491
+    "id": 1334
   }
 ];
 
 // Recently added files
 const recentAdditions = [
   {
-    "path": "Microsoft_365/Whiteboard/Whiteboard_256x256_(padded).png",
-    "date": "2026-04-12 11:08:14 +1000",
+    "path": "Azure/Azure.png",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "fd5a4707c0ad352687ef25e624d4cc4e277cfa0c"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/InfoPath/2007-2010/InfoPath_2007_logo.svg",
-    "date": "2026-04-12 11:08:14 +1000",
+    "path": "Azure/Azure_256x256_padded.png",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "fd5a4707c0ad352687ef25e624d4cc4e277cfa0c"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/InfoPath/2010-2013/InfoPath_gray.png",
-    "date": "2026-04-12 11:08:14 +1000",
+    "path": "Azure/Azure_AI_Studio_logo_315x315.png",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "fd5a4707c0ad352687ef25e624d4cc4e277cfa0c"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Microsoft_365/zzFORMER_PRODUCTS/InfoPath/2010-2013/Microsoft_InfoPath_-_2010.svg",
-    "date": "2026-04-12 11:08:14 +1000",
+    "path": "Azure/ai_+_machine_learning/00028-icon-service-Batch-AI.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "fd5a4707c0ad352687ef25e624d4cc4e277cfa0c"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/databases/Microsoft_SQL_Server_2025_icon.svg",
-    "date": "2026-04-01 12:02:59 +0100",
-    "author": "LinkeD365",
-    "sha": "3e63b16baae409ecd304f1254280e4d8ab7a6893"
+    "path": "Azure/ai_+_machine_learning/00030-icon-service-Machine-Learning-Studio-(Classic)-Web-Services.svg",
+    "date": "2026-04-12 11:10:39 +1000",
+    "author": "Loryan Strant",
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/security/00378-icon-service-Detonation.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/00031-icon-service-Genomics.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/security/02247-icon-service-Microsoft-Defender-for-IoT.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/00792-icon-service-Computer-Vision.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/security/02251-icon-service-Azure-AD-Privleged-Identity-Management.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/00793-icon-service-Custom-Vision.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/security/03336-icon-service-Microsoft-Defender-EASM.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/00794-icon-service-Face-APIs.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/security/03340-icon-service-Identity-Secure-Score.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/00795-icon-service-Content-Moderators.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/security/03341-icon-service-Azure-AD-Risky-Signins.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/00796-icon-service-Personalizers.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/security/03342-icon-service-Azure-AD-Risky-Users.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/00797-icon-service-Speech-Services.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/security/03343-icon-service-Azure-AD-Authentication-Methods.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/00799-icon-service-QnA-Makers.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/security/03344-icon-service-Multifactor-Authentication.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/00800-icon-service-Translator-Text.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/security/10229-icon-service-Azure-Information-Protection.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/00801-icon-service-Language-Understanding.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/security/10231-icon-service-Azure-AD-Identity-Protection.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/00812-icon-service-Immersive-Readers.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/security/10233-icon-service-Conditional-Access.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/00814-icon-service-Anomaly-Detector.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/security/10241-icon-service-Security-Center.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/00819-icon-service-Form-Recognizers.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/security/10244-icon-service-Application-Security-Groups.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/01239-icon-service-Azure-Experimentation-Studio.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/security/10245-icon-service-Key-Vaults.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/01688-icon-service-Azure-Object-Understanding.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/security/10248-icon-service-Azure-Sentinel.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/02409-icon-service-Metrics-Advisor.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/security/10433-icon-service-User-Settings.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/02749-icon-service-Azure-Applied-AI-Services.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/security/10572-icon-service-ExtendedSecurityUpdates.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/02876-icon-service-Language.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/storage/00017-icon-service-Recovery-Services-Vaults.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/03337-icon-service-Bonsai.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/storage/00691-icon-service-Azure-Databox-Gateway.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/10044-icon-service-Cognitive-Search.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/storage/00776-icon-service-Azure-HCP-Cache.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/10162-icon-service-Cognitive-Services.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/storage/10086-icon-service-Storage-Accounts.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/10164-icon-service-Genomics-Accounts.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/storage/10087-icon-service-Storage-Accounts-(Classic).svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/10165-icon-service-Bot-Services.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/storage/10089-icon-service-StorSimple-Device-Managers.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/10166-icon-service-Machine-Learning.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/storage/10090-icon-service-Data-Lake-Storage-Gen1.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/10167-icon-service-Machine-Learning-Studio-Workspaces.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/storage/10091-icon-service-Storage-Explorer.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/ai_+_machine_learning/10168-icon-service-Machine-Learning-Studio-Web-Service-Plans.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/storage/10092-icon-service-StorSimple-Data-Managers.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/analytics/00009-icon-service-Log-Analytics-Workspaces.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/storage/10093-icon-service-Storage-Sync-Services.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/analytics/00039-icon-service-Event-Hubs.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/storage/10094-icon-service-Data-Box.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/analytics/00042-icon-service-Stream-Analytics-Jobs.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/storage/10095-icon-service-Azure-Stack-Edge.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/analytics/00562-icon-service-Endpoint-Analytics.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/storage/10096-icon-service-Azure-NetApp-Files.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/analytics/00606-icon-service-Azure-Synapse-Analytics.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/storage/10097-icon-service-Data-Share-Invitations.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/analytics/02189-icon-service-Azure-Workbooks.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/storage/10098-icon-service-Data-Shares.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/analytics/02209-icon-service-Private-Link-Services.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/storage/10100-icon-service-Import-Export-Jobs.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/analytics/03332-icon-service-Power-BI-Embedded.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/storage/10400-icon-service-Azure-Fileshares.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/analytics/03335-icon-service-Power-Platform.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/web/00046-icon-service-App-Service-Plans.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/analytics/10126-icon-service-Data-Factories.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/web/00049-icon-service-App-Service-Certificates.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/analytics/10142-icon-service-HD-Insight-Clusters.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/web/00050-icon-service-App-Service-Domains.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/analytics/10143-icon-service-Data-Lake-Analytics.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/web/01007-icon-service-Static-Apps.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/analytics/10145-icon-service-Azure-Data-Explorer-Clusters.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/web/03335-icon-service-Power-Platform.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/analytics/10148-icon-service-Analysis-Services.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/web/10035-icon-service-App-Services.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/analytics/10149-icon-service-Event-Hub-Clusters.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/web/10042-icon-service-API-Management-Services.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/analytics/10150-icon-service-Data-Lake-Store-Gen1.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/web/10044-icon-service-Cognitive-Search.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/analytics/10787-icon-service-Azure-Databricks.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/web/10047-icon-service-App-Service-Environments.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/app_services/00046-icon-service-App-Service-Plans.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   },
   {
-    "path": "Azure/web/10048-icon-service-API-Connections.svg",
-    "date": "2024-10-14 23:09:13 +1100",
+    "path": "Azure/app_services/00049-icon-service-App-Service-Certificates.svg",
+    "date": "2026-04-12 11:10:39 +1000",
     "author": "Loryan Strant",
-    "sha": "d5bc802091b1c6931626ec1b082f6fe92e1952ee"
+    "sha": "fc2f0ebfa307d249c58067f0c472f01028738102"
   }
 ];
 

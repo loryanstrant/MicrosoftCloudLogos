@@ -17,8 +17,7 @@
 
     // Constants for year filter values
     const YEAR_VALUES = {
-        CURRENT: 'current',
-        LEGACY: 'legacy'
+        CURRENT: 'current'
     };
 
     // Fallback image for when logo images fail to load
@@ -323,8 +322,26 @@
      * Populate the year filter dropdown with available years
      */
     function populateYearFilter() {
-        const years = [...new Set(logoData.map(l => l.year))].filter(y => y !== YEAR_VALUES.CURRENT && y !== YEAR_VALUES.LEGACY);
-        years.sort().reverse();
+        // Add "Current" at the top
+        const currentOption = document.createElement('option');
+        currentOption.value = YEAR_VALUES.CURRENT;
+        currentOption.textContent = 'Current';
+        elements.yearFilter.appendChild(currentOption);
+
+        // Collect all year-range values (e.g. "2019-2023"), sorted descending by start year
+        const years = [...new Set(logoData.map(l => l.year))].filter(y => y !== YEAR_VALUES.CURRENT);
+        years.sort((a, b) => {
+            const aStart = parseInt(a.split('-')[0], 10);
+            const bStart = parseInt(b.split('-')[0], 10);
+            if (aStart !== bStart) return aStart - bStart;
+            // Equal start years: compare end years numerically ('current' sorts highest)
+            const aEnd = a.split('-')[1];
+            const bEnd = b.split('-')[1];
+            const aEndNum = aEnd === 'current' ? Infinity : parseInt(aEnd, 10);
+            const bEndNum = bEnd === 'current' ? Infinity : parseInt(bEnd, 10);
+            return aEndNum - bEndNum;
+        });
+        years.reverse();
 
         years.forEach(year => {
             const option = document.createElement('option');
@@ -667,7 +684,6 @@
      */
     function formatYear(year) {
         if (year === YEAR_VALUES.CURRENT) return 'Current';
-        if (year === YEAR_VALUES.LEGACY) return 'Legacy';
         return year;
     }
 
