@@ -19,7 +19,7 @@ DOCS_DIR = REPO_ROOT / "docs"
 OUTPUT_FILE = DOCS_DIR / "js" / "logo-data.js"
 
 # File extensions to include
-LOGO_EXTENSIONS = {'.png', '.svg', '.jpg', '.jpeg', '.ico', '.pdf'}
+LOGO_EXTENSIONS = {'.png', '.svg', '.jpg', '.jpeg', '.ico'}
 
 # Folders to exclude from scanning
 EXCLUDE_FOLDERS = {'docs', '.git', 'node_modules', '.github'}
@@ -74,14 +74,13 @@ def parse_logo_path(path, repo_root):
         style = 'positive'
     
     # Determine year/era based on folder structure
+    # Check folder parts (not the filename) for year-range patterns like "2019-2023" or "2020-current"
     year = 'current'  # default
-    if 'zzLEGACY' in str(rel_path) or 'legacy' in path_str:
-        year = 'legacy'
-    else:
-        # Check for year patterns in path (e.g., "2019-2023", "2020-2024")
-        year_match = re.search(r'\b(19|20)\d{2}[-–]\d{4}\b', path_str)
+    for part in reversed(parts[:-1]):  # innermost folder first
+        year_match = re.search(r'(\d{4}-(?:\d{4}|current))', part)
         if year_match:
-            year = 'legacy'
+            year = year_match.group(1)
+            break
     
     # Get file size (could be extracted from filename or left empty)
     size = ''
@@ -135,16 +134,13 @@ def get_recent_additions(repo_root, limit=50):
     try:
         # Get list of added files from git history (not renames or moves, just additions)
         # Using --diff-filter=A to get only added files
-        # Increase buffer since many commits don't contain logo files - we need 5x to ensure adequate coverage after filtering
+        # Scan all commits so older additions are not missed
         cmd = [
             'git', 'log', 
             '--all',
             '--pretty=format:%H|%ai|%an|%ae',
             '--name-status',
             '--diff-filter=A',
-            # Request enough commits to find plenty of logo additions
-            # We multiply by 5 to have a buffer since not all commits contain logo additions
-            f'-{limit * 5}'
         ]
         
         result = subprocess.run(cmd, capture_output=True, text=True, cwd=repo_root)
