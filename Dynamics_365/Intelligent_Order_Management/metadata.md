@@ -1,5 +1,5 @@
 name: Intelligent Order Management
-type: Product
+type: Feature
 status: Active
 altnames: 
 prodfamilies: Dynamics 365

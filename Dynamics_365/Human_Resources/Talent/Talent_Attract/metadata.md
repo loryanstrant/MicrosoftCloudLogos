@@ -1,5 +1,5 @@
 name: Talent Attract
-type: Product
+type: Feature
 status: Renamed (TO: Human Resources)
 altnames: Attract
 prodfamilies: Dynamics 365

@@ -1,5 +1,5 @@
 name: Return to Work
-type: Product
+type: Feature
 status: Active
 altnames: 
 prodfamilies: Dynamics 365

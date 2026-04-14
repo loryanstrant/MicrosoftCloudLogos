@@ -1,4 +1,4 @@
-name: Dynamics 365 Product Visualize
+name: Mixed Reality Portal
 type: Feature
 status: Active
 altnames: 

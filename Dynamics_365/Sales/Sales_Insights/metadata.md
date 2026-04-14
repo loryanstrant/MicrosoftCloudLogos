@@ -1,5 +1,5 @@
 name: Sales Insights
-type: Product
+type: Feature
 status: Active
 altnames: 
 prodfamilies: 
