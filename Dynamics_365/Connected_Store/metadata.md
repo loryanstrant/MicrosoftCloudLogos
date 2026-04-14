@@ -1,5 +1,5 @@
 name: Connected Store
-type: Product
+type: Feature
 status: Active
 altnames: Connected Spaces
 prodfamilies: Dynamics 365

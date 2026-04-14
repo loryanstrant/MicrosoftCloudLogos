@@ -1,5 +1,5 @@
 name: Guides
-type: Product
+type: Feature
 status: Active
 altnames: 
 prodfamilies: Dynamics 365

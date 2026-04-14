@@ -1,5 +1,5 @@
 name: Sustainability Calculator
-type: Product
+type: Feature
 status: Active
 altnames: 
 prodfamilies: Dynamics 365

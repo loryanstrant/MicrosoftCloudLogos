@@ -1,5 +1,5 @@
 name: Fraud Protection
-type: Product
+type: Feature
 status: Active
 altnames: 
 prodfamilies: Dynamics 365

@@ -1,5 +1,5 @@
 name: Talent
-type: Product
+type: Feature
 status: Renamed (TO: Human Resources)
 altnames: 
 prodfamilies: Dynamics 365

@@ -1,4 +1,4 @@
-name: Dynamics 365 Product Visualize
+name: Voice Assistant
 type: Feature
 status: Active
 altnames: 

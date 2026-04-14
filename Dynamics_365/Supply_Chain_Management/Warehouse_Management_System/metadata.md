@@ -1,5 +1,5 @@
 name: Warehouse Management System
-type: Product
+type: Feature
 status: Active
 altnames: 
 prodfamilies: Dynamics 365

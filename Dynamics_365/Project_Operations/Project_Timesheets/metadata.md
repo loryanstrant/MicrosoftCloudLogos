@@ -1,5 +1,5 @@
 name: Project Timesheets
-type: Product
+type: Feature
 status: Active
 altnames: 
-prodfamilies:
+prodfamilies: Dynamics 365

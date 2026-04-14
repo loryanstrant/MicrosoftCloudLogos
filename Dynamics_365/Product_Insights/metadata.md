@@ -1,5 +1,5 @@
 name: Product Insights
-type: Product
+type: Feature
 status: Active
 altnames: 
 prodfamilies: Dynamics 365
