@@ -7033,9 +7033,9 @@ const logoData = [
     "name": "Commerce",
     "family": "Dynamics_365",
     "filename": "Commerce_scalable.svg",
-    "path": "Dynamics_365/Commerce/Commerce_scalable.svg",
+    "path": "Dynamics_365/Commerce/2021-2025/Commerce_scalable.svg",
     "style": "full-color",
-    "year": "current",
+    "year": "2021-2025",
     "size": "",
     "format": "SVG",
     "id": 19
@@ -7076,23 +7076,23 @@ const logoData = [
   {
     "name": "Customerinsights",
     "family": "Dynamics_365",
+    "filename": "CustomerInsights.png",
+    "path": "Dynamics_365/Customer_Insights/2023-2025 scalable/CustomerInsights.png",
+    "style": "full-color",
+    "year": "2023-2025",
+    "size": "",
+    "format": "PNG",
+    "id": 5
+  },
+  {
+    "name": "Customerinsights",
+    "family": "Dynamics_365",
     "filename": "CustomerInsights_scalable.svg",
     "path": "Dynamics_365/Customer_Insights/2023-2025 scalable/CustomerInsights_scalable.svg",
     "style": "full-color",
     "year": "2023-2025",
     "size": "",
     "format": "SVG",
-    "id": 5
-  },
-  {
-    "name": "Customerinsights",
-    "family": "Dynamics_365",
-    "filename": "CustomerInsights.png",
-    "path": "Dynamics_365/Customer_Insights/CustomerInsights.png",
-    "style": "full-color",
-    "year": "current",
-    "size": "",
-    "format": "PNG",
     "id": 4
   },
   {
@@ -7110,9 +7110,9 @@ const logoData = [
     "name": "Customerservice",
     "family": "Dynamics_365",
     "filename": "CustomerService_scalable.png",
-    "path": "Dynamics_365/Customer_Service/CustomerService_scalable.png",
+    "path": "Dynamics_365/Customer_Service/2021-2025/CustomerService_scalable.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 52
@@ -7121,9 +7121,9 @@ const logoData = [
     "name": "Customerservice",
     "family": "Dynamics_365",
     "filename": "CustomerService_scalable.svg",
-    "path": "Dynamics_365/Customer_Service/CustomerService_scalable.svg",
+    "path": "Dynamics_365/Customer_Service/2021-2025/CustomerService_scalable.svg",
     "style": "full-color",
-    "year": "current",
+    "year": "2021-2025",
     "size": "",
     "format": "SVG",
     "id": 54
@@ -7132,9 +7132,9 @@ const logoData = [
     "name": "Customerservice Scalable 256x256 Padded",
     "family": "Dynamics_365",
     "filename": "CustomerService_scalable_256x256_padded.png",
-    "path": "Dynamics_365/Customer_Service/CustomerService_scalable_256x256_padded.png",
+    "path": "Dynamics_365/Customer_Service/2021-2025/CustomerService_scalable_256x256_padded.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2021-2025",
     "size": "256x256",
     "format": "PNG",
     "id": 53
@@ -7143,12 +7143,12 @@ const logoData = [
     "name": "Customerserviceinsights",
     "family": "Dynamics_365",
     "filename": "CustomerServiceInsights_scalable.svg",
-    "path": "Dynamics_365/Customer_Service_Insights/CustomerServiceInsights_scalable.svg",
+    "path": "Dynamics_365/Customer_Service/Customer_Service_Insights/CustomerServiceInsights_scalable.svg",
     "style": "full-color",
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 22
+    "id": 55
   },
   {
     "name": "Customerservices Scalable Fluid",
@@ -7159,18 +7159,18 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 55
+    "id": 51
   },
   {
     "name": "Customervoice",
     "family": "Dynamics_365",
     "filename": "CustomerVoice_scalable.svg",
-    "path": "Dynamics_365/Customer_Voice/CustomerVoice_scalable.svg",
+    "path": "Dynamics_365/Customer_Voice/2021-2025/CustomerVoice_scalable.svg",
     "style": "full-color",
-    "year": "current",
+    "year": "2021-2025",
     "size": "",
     "format": "SVG",
-    "id": 20
+    "id": 21
   },
   {
     "name": "Customervoice Scalable Fluid",
@@ -7181,7 +7181,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 21
+    "id": 20
   },
   {
     "name": "Dynamics 365 Contact Center Logo",
@@ -7220,12 +7220,12 @@ const logoData = [
     "name": "Fieldservice",
     "family": "Dynamics_365",
     "filename": "FieldService_scalable.svg",
-    "path": "Dynamics_365/Field_Service/FieldService_scalable.svg",
+    "path": "Dynamics_365/Field_Service/2021-2025/FieldService_scalable.svg",
     "style": "full-color",
-    "year": "current",
+    "year": "2021-2025",
     "size": "",
     "format": "SVG",
-    "id": 30
+    "id": 29
   },
   {
     "name": "Fieldservice Scalable Fluid",
@@ -7236,15 +7236,15 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 29
+    "id": 28
   },
   {
     "name": "Finance",
     "family": "Dynamics_365",
     "filename": "Finance_scalable.png",
-    "path": "Dynamics_365/Finance/Finance_scalable.png",
+    "path": "Dynamics_365/Finance/2019-2025/Finance_scalable.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "",
     "format": "PNG",
     "id": 33
@@ -7253,9 +7253,9 @@ const logoData = [
     "name": "Finance",
     "family": "Dynamics_365",
     "filename": "Finance_scalable.svg",
-    "path": "Dynamics_365/Finance/Finance_scalable.svg",
+    "path": "Dynamics_365/Finance/2019-2025/Finance_scalable.svg",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "",
     "format": "SVG",
     "id": 31
@@ -7264,9 +7264,9 @@ const logoData = [
     "name": "Finance Scalable 256x256 Padded",
     "family": "Dynamics_365",
     "filename": "Finance_scalable_256x256_padded.png",
-    "path": "Dynamics_365/Finance/Finance_scalable_256x256_padded.png",
+    "path": "Dynamics_365/Finance/2019-2025/Finance_scalable_256x256_padded.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2019-2025",
     "size": "256x256",
     "format": "PNG",
     "id": 32
@@ -7280,7 +7280,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 34
+    "id": 30
   },
   {
     "name": "Finance+operations",
@@ -7291,7 +7291,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 36
+    "id": 35
   },
   {
     "name": "Financeoperations Scalable Fluid",
@@ -7302,7 +7302,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 35
+    "id": 34
   },
   {
     "name": "Fraudprotection",
@@ -7324,7 +7324,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 50
+    "id": 47
   },
   {
     "name": "Humanresources",
@@ -7346,7 +7346,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 51
+    "id": 49
   },
   {
     "name": "Intelligentordermanagement Scalable (1)",
@@ -7368,7 +7368,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 48
+    "id": 45
   },
   {
     "name": "Marketing",
@@ -7390,18 +7390,18 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 24
+    "id": 23
   },
   {
     "name": "Mrportal",
     "family": "Dynamics_365",
     "filename": "MRPortal_scalable.svg",
-    "path": "Dynamics_365/Dynamics_365_Mixed_Reality_Icons/MRPortal_scalable.svg",
+    "path": "Dynamics_365/Dynamics_365_Mixed_Reality_Icons/Mixed_Reality_Portal/MRPortal_scalable.svg",
     "style": "full-color",
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 45
+    "id": 50
   },
   {
     "name": "Product Insights",
@@ -7412,7 +7412,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 39
+    "id": 38
   },
   {
     "name": "Productvisualize",
@@ -7423,18 +7423,18 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 47
+    "id": 44
   },
   {
     "name": "Projectoperations",
     "family": "Dynamics_365",
     "filename": "ProjectOperations_scalable.svg",
-    "path": "Dynamics_365/Project_Operations/ProjectOperations_scalable.svg",
+    "path": "Dynamics_365/Project_Operations/2020-2025/ProjectOperations_scalable.svg",
     "style": "full-color",
-    "year": "current",
+    "year": "2020-2025",
     "size": "",
     "format": "SVG",
-    "id": 26
+    "id": 27
   },
   {
     "name": "Projectoperations Scalable Fluid",
@@ -7445,7 +7445,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 25
+    "id": 24
   },
   {
     "name": "Projectserviceautomation",
@@ -7456,7 +7456,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 27
+    "id": 25
   },
   {
     "name": "Projecttimesheet",
@@ -7467,7 +7467,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 28
+    "id": 26
   },
   {
     "name": "Remoteassist",
@@ -7478,7 +7478,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 49
+    "id": 46
   },
   {
     "name": "Returntoschool",
@@ -7489,7 +7489,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 37
+    "id": 36
   },
   {
     "name": "Returntowork",
@@ -7500,15 +7500,15 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 38
+    "id": 37
   },
   {
     "name": "Sales",
     "family": "Dynamics_365",
     "filename": "Sales_scalable.png",
-    "path": "Dynamics_365/Sales/Sales_scalable.png",
+    "path": "Dynamics_365/Sales/2021-2025/Sales_scalable.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2021-2025",
     "size": "",
     "format": "PNG",
     "id": 40
@@ -7517,9 +7517,9 @@ const logoData = [
     "name": "Sales",
     "family": "Dynamics_365",
     "filename": "Sales_scalable.svg",
-    "path": "Dynamics_365/Sales/Sales_scalable.svg",
+    "path": "Dynamics_365/Sales/2021-2025/Sales_scalable.svg",
     "style": "full-color",
-    "year": "current",
+    "year": "2021-2025",
     "size": "",
     "format": "SVG",
     "id": 41
@@ -7528,12 +7528,12 @@ const logoData = [
     "name": "Sales Scalable 256x256 Padded",
     "family": "Dynamics_365",
     "filename": "Sales_scalable_-_256x256_padded.png",
-    "path": "Dynamics_365/Sales/Sales_scalable_-_256x256_padded.png",
+    "path": "Dynamics_365/Sales/2021-2025/Sales_scalable_-_256x256_padded.png",
     "style": "full-color",
-    "year": "current",
+    "year": "2021-2025",
     "size": "256x256",
     "format": "PNG",
-    "id": 43
+    "id": 42
   },
   {
     "name": "Sales Scalable Fluid",
@@ -7544,7 +7544,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 42
+    "id": 39
   },
   {
     "name": "Salesinsights",
@@ -7555,7 +7555,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 44
+    "id": 43
   },
   {
     "name": "Scmwarehousing",
@@ -7588,7 +7588,7 @@ const logoData = [
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 23
+    "id": 22
   },
   {
     "name": "Talent",
@@ -7627,12 +7627,12 @@ const logoData = [
     "name": "Voiceassistant",
     "family": "Dynamics_365",
     "filename": "VoiceAssistant_scalable.svg",
-    "path": "Dynamics_365/Dynamics_365_Mixed_Reality_Icons/VoiceAssistant_scalable.svg",
+    "path": "Dynamics_365/Dynamics_365_Mixed_Reality_Icons/Voice_Assistant/VoiceAssistant_scalable.svg",
     "style": "full-color",
     "year": "current",
     "size": "",
     "format": "SVG",
-    "id": 46
+    "id": 48
   },
   {
     "name": "Azure Ad",
@@ -22663,12 +22663,12 @@ const contributors = [
   {
     "name": "Loryan Strant",
     "github_username": "loryanstrant",
-    "contributions": 132
+    "contributions": 135
   },
   {
     "name": "Vivian Voss",
     "github_username": "VivianVoss",
-    "contributions": 63
+    "contributions": 65
   },
   {
     "name": "paulineko",
