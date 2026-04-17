@@ -25601,303 +25601,303 @@ const productCatalog = [
 const recentAdditions = [
   {
     "path": "logos/access/2013-2019-negative-format/access-128x128.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/2013-2019-negative-format/access-256x256.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/2013-2019-negative-format/access-48x48.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/2013-2019-negative-format/access-64x64.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/2013-2019-negative-format/access-96x96.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/2013-2019-postive-format/access-128x128.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/2013-2019-postive-format/access-256x256.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/2013-2019-postive-format/access-48x48.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/2013-2019-postive-format/access-64x64.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/2013-2019-postive-format/access-96x96.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/2019-2025-full-color/access-128x128.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/2019-2025-full-color/access-256x256.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/2019-2025-full-color/access-48x48.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/2019-2025-full-color/access-64x64.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/2019-2025-full-color/access-96x96.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/2019-2025-monochromatic-negative/access-128x128.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/2019-2025-monochromatic-negative/access-256x256.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/2019-2025-monochromatic-negative/access-48x48.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/2019-2025-monochromatic-negative/access-64x64.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/2019-2025-monochromatic-negative/access-96x96.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/2019-2025-monochromatic-positive/access-128x128.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/2019-2025-monochromatic-positive/access-256x256.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/2019-2025-monochromatic-positive/access-48x48.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/2019-2025-monochromatic-positive/access-64x64.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/2019-2025-monochromatic-positive/access-96x96.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/access-512-padded.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/access/access-512.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/agent-365/agent-365-300x300.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/agent-365/agent-365-scalable.svg",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/ai-builder/2024-2025/aibuilder-scalable.svg",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/ai-builder/ai-builder-300x300.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/ai-builder/aibuilder-scalable.svg",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/bing/bing-256x256-padded.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/bing/bing-emblem.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/bing/bing-icon.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/bookings/2016-2024-negative-format/bookings-128x128.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/bookings/2016-2024-negative-format/bookings-256x256.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/bookings/2016-2024-negative-format/bookings-48x48.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/bookings/2016-2024-negative-format/bookings-64x64.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/bookings/2016-2024-negative-format/bookings-96x96..png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/bookings/2016-2024-postive-format/bookings-128x128.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/bookings/2016-2024-postive-format/bookings-256x256.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/bookings/2016-2024-postive-format/bookings-48x48.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/bookings/2016-2024-postive-format/bookings-64x64.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/bookings/2016-2024-postive-format/bookings-96x96.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/bookings/bookings-monochromatic.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/bookings/new-bookings-2048x1839.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/bookings/new-bookings-256x256.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/bookings/new-bookings-56x50.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   },
   {
     "path": "logos/clipchamp/2022-2025/clipchamp-256x256.png",
-    "date": "2026-04-17 11:07:29 +1000",
+    "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
-    "sha": "8132d880c56efc0fee562f392dd19c8bb1920107"
+    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
   }
 ];
 
@@ -25906,7 +25906,7 @@ const contributors = [
   {
     "name": "Loryan Strant",
     "github_username": "loryanstrant",
-    "contributions": 140
+    "contributions": 138
   },
   {
     "name": "Vivian Voss",
