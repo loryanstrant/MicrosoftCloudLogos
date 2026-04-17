@@ -94,6 +94,9 @@
         modalYear: document.getElementById('modal-year'),
         modalFormat: document.getElementById('modal-format'),
         modalSize: document.getElementById('modal-size'),
+        modalType: document.getElementById('modal-type'),
+        modalStatus: document.getElementById('modal-status'),
+        modalAltnames: document.getElementById('modal-altnames'),
         modalDownload: document.getElementById('modal-download'),
         modalGithub: document.getElementById('modal-github'),
         modalClose: document.querySelector('.modal-close'),
@@ -185,31 +188,43 @@
     }
 
     /**
-     * Update home page statistics
+     * Update home page statistics (uses metadata families)
      */
     function updateStats() {
-        const families = new Set(logoData.map(l => l.family));
-        const uniqueProductNames = new Set(logoData.map(l => l.name));
+        const familySet = new Set();
+        const uniqueProductNames = new Set();
+
+        logoData.forEach(l => {
+            uniqueProductNames.add(l.name);
+            if (l.families && l.families.length) {
+                l.families.forEach(f => familySet.add(f));
+            } else {
+                familySet.add(l.family);
+            }
+        });
 
         elements.totalLogos.textContent = logoData.length.toLocaleString();
-        elements.productFamilies.textContent = families.size;
+        elements.productFamilies.textContent = familySet.size;
         elements.uniqueProducts.textContent = uniqueProductNames.size;
     }
 
     /**
-     * Initialize charts
+     * Initialize charts (using metadata families)
      */
     function initCharts() {
-        // Get family distribution
+        // Get family distribution - a logo may appear in multiple families
         const familyCounts = {};
         const uniqueLogosPerFamily = {};
-        
+
         logoData.forEach(logo => {
-            familyCounts[logo.family] = (familyCounts[logo.family] || 0) + 1;
-            if (!uniqueLogosPerFamily[logo.family]) {
-                uniqueLogosPerFamily[logo.family] = new Set();
-            }
-            uniqueLogosPerFamily[logo.family].add(logo.name);
+            const fams = logo.families && logo.families.length ? logo.families : [logo.family];
+            fams.forEach(fam => {
+                familyCounts[fam] = (familyCounts[fam] || 0) + 1;
+                if (!uniqueLogosPerFamily[fam]) {
+                    uniqueLogosPerFamily[fam] = new Set();
+                }
+                uniqueLogosPerFamily[fam].add(logo.name);
+            });
         });
 
         const families = Object.keys(familyCounts).sort();
@@ -315,11 +330,19 @@
     }
 
     /**
-     * Populate the product family filter dropdown
+     * Populate the product family filter dropdown using metadata families
      */
     function populateFamilyFilter() {
-        const families = [...new Set(logoData.map(l => l.family))].sort();
-        
+        const familySet = new Set();
+        logoData.forEach(l => {
+            if (l.families && l.families.length) {
+                l.families.forEach(f => familySet.add(f));
+            } else {
+                familySet.add(l.family);
+            }
+        });
+        const families = [...familySet].sort();
+
         families.forEach(family => {
             const option = document.createElement('option');
             option.value = family;
@@ -523,18 +546,22 @@
         const currentYear = new Date().getFullYear();
 
         state.filteredLogos = logoData.filter(logo => {
-            // Search filter
+            // Search filter (includes altnames)
             if (state.currentFilters.search) {
                 const searchTerm = state.currentFilters.search;
-                const searchableText = `${logo.name} ${logo.family} ${logo.filename}`.toLowerCase();
+                const searchableText = `${logo.name} ${logo.family} ${logo.filename} ${logo.altnames || ''}`.toLowerCase();
                 if (!searchableText.includes(searchTerm)) {
                     return false;
                 }
             }
 
-            // Family filter
-            if (state.currentFilters.family && logo.family !== state.currentFilters.family) {
-                return false;
+            // Family filter (check all families, not just primary)
+            if (state.currentFilters.family) {
+                const filterFamily = state.currentFilters.family;
+                const logoFamilies = logo.families && logo.families.length ? logo.families : [logo.family];
+                if (!logoFamilies.includes(filterFamily)) {
+                    return false;
+                }
             }
 
             // Style filter
@@ -762,11 +789,27 @@
         elements.modalImage.src = imageUrl;
         elements.modalImage.alt = logo.name;
         elements.modalTitle.textContent = logo.name;
-        elements.modalFamily.textContent = logo.family;
+
+        // Show all families if multiple, otherwise primary family
+        const familyText = logo.families && logo.families.length ? logo.families.join(', ') : logo.family;
+        elements.modalFamily.textContent = familyText;
+
         elements.modalStyle.textContent = formatStyle(logo.style);
         elements.modalYear.textContent = formatYear(logo.year);
         elements.modalFormat.textContent = logo.format;
         elements.modalSize.textContent = logo.size || 'Variable';
+
+        // Type & status
+        if (elements.modalType) {
+            elements.modalType.textContent = logo.type || '—';
+        }
+        if (elements.modalStatus) {
+            elements.modalStatus.textContent = logo.status || '—';
+        }
+        if (elements.modalAltnames) {
+            elements.modalAltnames.textContent = logo.altnames || '—';
+        }
+
         elements.modalDownload.href = imageUrl;
         elements.modalDownload.download = logo.filename;
         elements.modalGithub.href = githubUrl;
@@ -840,23 +883,226 @@
     }
 
     /**
-     * Render the folder browser
-     * @param {string} currentPath - Current folder path
+     * Render the folder browser using metadata-based product hierarchy.
+     * Navigation levels:
+     *   Root → Product Families (+ "Other" for uncategorised)
+     *   Family → Products (from productCatalog)
+     *   Product → Logo files (from logoData by productSlug)
+     *
+     * @param {string} currentPath - Current virtual path (e.g. "" | "Microsoft 365" | "Microsoft 365/Teams")
      */
     function renderFolderBrowser(currentPath) {
         state.currentFolder = currentPath;
-        
-        // Render breadcrumb
         renderBreadcrumb(currentPath);
-        
-        // Get folders and files for current path
-        const foldersAndFiles = getFoldersAndFiles(currentPath);
-        
-        // Render folder grid
         elements.folderGrid.innerHTML = '';
-        
-        // Render folders
-        foldersAndFiles.folders.forEach(folder => {
+
+        const parts = currentPath ? currentPath.split('/') : [];
+
+        if (parts.length === 0) {
+            // Root level: show product families
+            renderFamilyLevel();
+        } else if (parts.length === 1) {
+            // Family level: show products belonging to this family
+            renderProductLevel(parts[0]);
+        } else {
+            // Product level: show logo files for a specific product slug
+            const productSlug = parts.slice(1).join('/');
+            renderFileLevel(parts[0], productSlug);
+        }
+    }
+
+    /**
+     * Root level of the folder browser – list all product families.
+     */
+    function renderFamilyLevel() {
+        const familySet = new Set();
+        if (typeof productCatalog !== 'undefined') {
+            productCatalog.forEach(p => {
+                if (p.families && p.families.length) {
+                    p.families.forEach(f => familySet.add(f));
+                }
+            });
+        }
+        // Also scan logoData for products not in the catalog
+        logoData.forEach(l => {
+            if (l.families && l.families.length) {
+                l.families.forEach(f => familySet.add(f));
+            } else {
+                familySet.add(l.family);
+            }
+        });
+
+        const families = [...familySet].sort((a, b) => a.localeCompare(b));
+
+        families.forEach(family => {
+            const folderItem = document.createElement('div');
+            folderItem.className = 'folder-item';
+            folderItem.innerHTML = `
+                <span class="folder-icon">📁</span>
+                <span class="folder-name">${escapeHtml(family)}</span>
+            `;
+            folderItem.addEventListener('click', () => {
+                renderFolderBrowser(family);
+            });
+            elements.folderGrid.appendChild(folderItem);
+        });
+
+        if (families.length === 0) {
+            elements.folderGrid.innerHTML = `
+                <div class="empty-state">
+                    <div class="empty-state-icon">📂</div>
+                    <h3>No product families found</h3>
+                </div>
+            `;
+        }
+    }
+
+    /**
+     * Family level – list products that belong to the selected family.
+     * Uses productCatalog for the list, but also includes products from
+     * logoData that lack catalog entries.
+     */
+    function renderProductLevel(familyName) {
+        // Build product list from catalog
+        const productsMap = new Map(); // slug -> { name, type, status }
+        if (typeof productCatalog !== 'undefined') {
+            productCatalog.forEach(p => {
+                const fams = p.families && p.families.length ? p.families : [];
+                if (fams.includes(familyName) || (fams.length === 0 && familyName === 'Other')) {
+                    // Skip if this is a family-type entry itself
+                    if (p.type === 'Family' || p.type === 'Company') return;
+                    productsMap.set(p.slug, { name: p.name, type: p.type, status: p.status });
+                }
+            });
+        }
+
+        // Also pick up products from logoData that aren't in catalog
+        logoData.forEach(l => {
+            const fams = l.families && l.families.length ? l.families : [l.family];
+            if (fams.includes(familyName) && l.productSlug && !productsMap.has(l.productSlug)) {
+                productsMap.set(l.productSlug, { name: l.name, type: l.type || '', status: l.status || '' });
+            }
+        });
+
+        // Sort by product name
+        const products = [...productsMap.entries()].sort((a, b) => a[1].name.localeCompare(b[1].name));
+
+        products.forEach(([slug, info]) => {
+            const folderItem = document.createElement('div');
+            folderItem.className = 'folder-item';
+
+            // Build a status badge
+            let badge = '';
+            if (info.status && info.status.toLowerCase().startsWith('retired')) {
+                badge = '<span class="status-badge retired">Retired</span>';
+            } else if (info.status && info.status.toLowerCase().startsWith('renamed')) {
+                badge = '<span class="status-badge renamed">Renamed</span>';
+            }
+
+            let typeBadge = '';
+            if (info.type && info.type !== 'Product') {
+                typeBadge = `<span class="type-badge">${escapeHtml(info.type)}</span>`;
+            }
+
+            folderItem.innerHTML = `
+                <span class="folder-icon">📁</span>
+                <span class="folder-name">${escapeHtml(info.name)}</span>
+                ${badge}${typeBadge}
+            `;
+            folderItem.addEventListener('click', () => {
+                renderFolderBrowser(`${familyName}/${slug}`);
+            });
+            elements.folderGrid.appendChild(folderItem);
+        });
+
+        if (products.length === 0) {
+            elements.folderGrid.innerHTML = `
+                <div class="empty-state">
+                    <div class="empty-state-icon">📂</div>
+                    <h3>No products found</h3>
+                    <p>No products are listed under ${escapeHtml(familyName)}</p>
+                </div>
+            `;
+        }
+    }
+
+    /**
+     * Product level – show all logo files for a product slug, grouped into
+     * subfolders exactly as they appear on disk.
+     */
+    function renderFileLevel(familyName, productSlug) {
+        // Get all logos matching this product slug
+        const matchingLogos = logoData.filter(l => l.productSlug === productSlug);
+
+        // Build subfolders and files relative to logos/<productSlug>/
+        const prefix = `logos/${productSlug}/`;
+        const folders = new Set();
+        const files = [];
+
+        // We also track files that belong inside subfolders of this product
+        // but where the path has additional depth beyond the product slug.
+        matchingLogos.forEach(logo => {
+            const relToProduct = logo.path.substring(prefix.length);
+            const subParts = relToProduct.split('/');
+            if (subParts.length === 1) {
+                files.push(logo);
+            } else {
+                folders.add(subParts[0]);
+            }
+        });
+
+        // Also check if there is a deeper path being navigated
+        // e.g. "Microsoft 365/teams/2019-2025-full-color" means productSlug is actually "teams/2019-2025-full-color"
+        // We need to handle subfolder navigation within a product
+        const slugParts = productSlug.split('/');
+        const baseSlug = slugParts[0]; // actual product folder name
+        const subPath = slugParts.length > 1 ? slugParts.slice(1).join('/') : '';
+
+        if (subPath) {
+            // We're inside a subfolder of the product
+            const subPrefix = `logos/${baseSlug}/${subPath}/`;
+            const subLogos = logoData.filter(l => l.path.startsWith(subPrefix));
+            const subFolders = new Set();
+            const subFiles = [];
+
+            subLogos.forEach(logo => {
+                const relToSub = logo.path.substring(subPrefix.length);
+                const sp = relToSub.split('/');
+                if (sp.length === 1) {
+                    subFiles.push(logo);
+                } else {
+                    subFolders.add(sp[0]);
+                }
+            });
+
+            // Render subfolders
+            [...subFolders].sort().forEach(folder => {
+                const folderItem = document.createElement('div');
+                folderItem.className = 'folder-item';
+                folderItem.innerHTML = `
+                    <span class="folder-icon">📁</span>
+                    <span class="folder-name">${escapeHtml(folder)}</span>
+                `;
+                folderItem.addEventListener('click', () => {
+                    renderFolderBrowser(`${familyName}/${baseSlug}/${subPath}/${folder}`);
+                });
+                elements.folderGrid.appendChild(folderItem);
+            });
+
+            // Render files
+            subFiles.sort((a, b) => a.filename.localeCompare(b.filename)).forEach(logo => {
+                const fileItem = createFileItem(logo);
+                elements.folderGrid.appendChild(fileItem);
+            });
+
+            if (subFolders.size === 0 && subFiles.length === 0) {
+                showEmptyFolder();
+            }
+            return;
+        }
+
+        // Render subfolders within the product
+        [...folders].sort().forEach(folder => {
             const folderItem = document.createElement('div');
             folderItem.className = 'folder-item';
             folderItem.innerHTML = `
@@ -864,44 +1110,57 @@
                 <span class="folder-name">${escapeHtml(folder)}</span>
             `;
             folderItem.addEventListener('click', () => {
-                const newPath = currentPath ? `${currentPath}/${folder}` : folder;
-                renderFolderBrowser(newPath);
+                renderFolderBrowser(`${familyName}/${productSlug}/${folder}`);
             });
             elements.folderGrid.appendChild(folderItem);
         });
-        
-        // Render files (logos)
-        foldersAndFiles.files.forEach(logo => {
-            const fileItem = document.createElement('div');
-            fileItem.className = 'file-item';
-            const imageUrl = buildRawImageUrl(logo.path);
-            fileItem.innerHTML = `
-                <img src="${imageUrl}" alt="${escapeHtml(logo.name)}" class="file-preview" loading="lazy" onerror="this.src='${FALLBACK_IMAGE_SVG}'">
-                <span class="file-name">${escapeHtml(logo.filename)}</span>
-            `;
-            fileItem.addEventListener('click', () => openModal(logo));
+
+        // Render files
+        files.sort((a, b) => a.filename.localeCompare(b.filename)).forEach(logo => {
+            const fileItem = createFileItem(logo);
             elements.folderGrid.appendChild(fileItem);
         });
-        
-        // Show empty state if no items
-        if (foldersAndFiles.folders.length === 0 && foldersAndFiles.files.length === 0) {
-            elements.folderGrid.innerHTML = `
-                <div class="empty-state">
-                    <div class="empty-state-icon">📂</div>
-                    <h3>Empty folder</h3>
-                    <p>No files or subfolders found</p>
-                </div>
-            `;
+
+        if (folders.size === 0 && files.length === 0) {
+            showEmptyFolder();
         }
     }
 
     /**
-     * Render breadcrumb navigation
+     * Create a file item element for the folder browser
+     */
+    function createFileItem(logo) {
+        const fileItem = document.createElement('div');
+        fileItem.className = 'file-item';
+        const imageUrl = buildRawImageUrl(logo.path);
+        fileItem.innerHTML = `
+            <img src="${imageUrl}" alt="${escapeHtml(logo.name)}" class="file-preview" loading="lazy" onerror="this.src='${FALLBACK_IMAGE_SVG}'">
+            <span class="file-name">${escapeHtml(logo.filename)}</span>
+        `;
+        fileItem.addEventListener('click', () => openModal(logo));
+        return fileItem;
+    }
+
+    /**
+     * Show empty folder state
+     */
+    function showEmptyFolder() {
+        elements.folderGrid.innerHTML = `
+            <div class="empty-state">
+                <div class="empty-state-icon">📂</div>
+                <h3>Empty folder</h3>
+                <p>No files or subfolders found</p>
+            </div>
+        `;
+    }
+
+    /**
+     * Render breadcrumb navigation for the virtual folder path
      * @param {string} currentPath - Current folder path
      */
     function renderBreadcrumb(currentPath) {
         elements.folderBreadcrumb.innerHTML = '';
-        
+
         // Root
         const rootItem = document.createElement('span');
         rootItem.className = currentPath ? 'breadcrumb-item' : 'breadcrumb-current';
@@ -910,7 +1169,7 @@
             rootItem.addEventListener('click', () => renderFolderBrowser(''));
         }
         elements.folderBreadcrumb.appendChild(rootItem);
-        
+
         if (currentPath) {
             const parts = currentPath.split('/');
             parts.forEach((part, index) => {
@@ -919,62 +1178,28 @@
                 separator.className = 'breadcrumb-separator';
                 separator.textContent = ' / ';
                 elements.folderBreadcrumb.appendChild(separator);
-                
-                // Part
+
                 const partPath = parts.slice(0, index + 1).join('/');
                 const isLast = index === parts.length - 1;
                 const partItem = document.createElement('span');
                 partItem.className = isLast ? 'breadcrumb-current' : 'breadcrumb-item';
-                partItem.textContent = part;
+
+                // Try to resolve a friendly name for the part
+                let displayName = part;
+                if (index === 1 && typeof productCatalog !== 'undefined') {
+                    // This is a product slug — look up its name
+                    const slug = parts.slice(1, index + 1).join('/');
+                    const catalogEntry = productCatalog.find(p => p.slug === slug);
+                    if (catalogEntry) displayName = catalogEntry.name;
+                }
+                partItem.textContent = displayName;
+
                 if (!isLast) {
                     partItem.addEventListener('click', () => renderFolderBrowser(partPath));
                 }
                 elements.folderBreadcrumb.appendChild(partItem);
             });
         }
-    }
-
-    /**
-     * Get folders and files for a given path
-     * @param {string} currentPath - Current folder path
-     * @returns {Object} - Object with folders and files arrays
-     */
-    function getFoldersAndFiles(currentPath) {
-        const folders = new Set();
-        const files = [];
-        
-        logoData.forEach(logo => {
-            const logoPath = logo.path;
-            
-            if (currentPath) {
-                // Check if logo is in current path or subfolder
-                if (!logoPath.startsWith(currentPath + '/')) return;
-                
-                const relativePath = logoPath.substring(currentPath.length + 1);
-                const parts = relativePath.split('/');
-                
-                if (parts.length === 1) {
-                    // File in current folder
-                    files.push(logo);
-                } else {
-                    // Subfolder
-                    folders.add(parts[0]);
-                }
-            } else {
-                // Root level
-                const parts = logoPath.split('/');
-                if (parts.length === 1) {
-                    files.push(logo);
-                } else {
-                    folders.add(parts[0]);
-                }
-            }
-        });
-        
-        return {
-            folders: [...folders].sort((a, b) => a.localeCompare(b)),
-            files: files.sort((a, b) => a.filename.localeCompare(b.filename))
-        };
     }
 
     /**

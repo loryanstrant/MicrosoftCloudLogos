@@ -1116,6 +1116,48 @@ a:hover {
     word-break: break-word;
 }
 
+.status-badge,
+.type-badge {
+    display: inline-block;
+    font-size: 0.65rem;
+    padding: 0.15em 0.5em;
+    border-radius: var(--radius-sm);
+    margin-top: 0.25rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+}
+
+.status-badge.retired {
+    background: #FDE7E9;
+    color: #A4262C;
+}
+
+[data-theme="dark"] .status-badge.retired {
+    background: #442726;
+    color: #F1707B;
+}
+
+.status-badge.renamed {
+    background: #FFF4CE;
+    color: #8A7400;
+}
+
+[data-theme="dark"] .status-badge.renamed {
+    background: #3D3520;
+    color: #F2C661;
+}
+
+.type-badge {
+    background: #E8F1FB;
+    color: #0078D4;
+}
+
+[data-theme="dark"] .type-badge {
+    background: #1B3A57;
+    color: #4DB2FF;
+}
+
 .file-item {
     display: flex;
     flex-direction: column;

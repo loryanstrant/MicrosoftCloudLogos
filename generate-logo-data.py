@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 Generate logo-data.js from repository structure
-This script scans the repository for logo files and generates the logo-data.js
-file used by the GitHub Pages interface.
+This script scans the logos/ directory, reads metadata.md files for each product
+folder, and generates the logo-data.js file used by the GitHub Pages interface.
 """
 
 import os
@@ -15,147 +15,252 @@ from datetime import datetime
 
 # Configuration
 REPO_ROOT = Path(__file__).parent
+LOGOS_DIR = REPO_ROOT / "logos"
 DOCS_DIR = REPO_ROOT / "docs"
 OUTPUT_FILE = DOCS_DIR / "js" / "logo-data.js"
 
 # File extensions to include
 LOGO_EXTENSIONS = {'.png', '.svg', '.jpg', '.jpeg', '.ico'}
 
-# Folders to exclude from scanning
-EXCLUDE_FOLDERS = {'docs', '.git', 'node_modules', '.github'}
+# Files to skip when scanning for logo images
+SKIP_FILES = {'metadata.md'}
+
 
 def get_file_format(filename):
     """Extract file format from filename"""
     ext = Path(filename).suffix.upper()
     return ext[1:] if ext else ''
 
-def parse_logo_path(path, repo_root):
-    """Parse logo information from file path"""
-    # Get relative path from repo root
-    rel_path = path.relative_to(repo_root)
-    parts = rel_path.parts
-    
-    # Skip if in excluded folders
-    if any(excluded in parts for excluded in EXCLUDE_FOLDERS):
-        return None
-    
-    # Determine product family (top-level folder)
-    family = parts[0] if len(parts) > 0 else 'Other'
-    
-    # Get filename
-    filename = parts[-1]
-    
-    # Extract product name from filename (remove extensions and numbers)
-    name = Path(filename).stem
-    # Clean up name: remove size specifications like _256x256, icon numbers like 02681-icon-service-
-    name = re.sub(r'[-_]\d+x\d+$', '', name)  # Remove size specs
-    name = re.sub(r'^\d+-icon-service-', '', name)  # Remove Azure icon prefixes
-    name = re.sub(r'^[0-9\-]+', '', name)  # Remove leading numbers and dashes
-    name = re.sub(r'[-_]scalable$', '', name, flags=re.IGNORECASE)  # Remove scalable suffix
-    # Replace underscores and dashes with spaces
-    name = name.replace('_', ' ').replace('-', ' ')
-    # Clean up multiple spaces
+
+def parse_metadata(metadata_path):
+    """Parse a metadata.md file and return a dict of its fields."""
+    metadata = {
+        'name': '',
+        'type': '',
+        'status': '',
+        'altnames': '',
+        'prodfamilies': ''
+    }
+    try:
+        with open(metadata_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                for key in metadata:
+                    if line.lower().startswith(key + ':'):
+                        metadata[key] = line[len(key) + 1:].strip()
+                        break
+    except Exception as e:
+        print(f"  Warning: Could not read {metadata_path}: {e}")
+    return metadata
+
+
+def find_nearest_metadata(file_path, logos_dir):
+    """Walk up from file_path toward logos_dir looking for the nearest metadata.md."""
+    current = file_path.parent
+    while current != logos_dir and str(current).startswith(str(logos_dir)):
+        md_path = current / 'metadata.md'
+        if md_path.exists():
+            return md_path
+        current = current.parent
+    return None
+
+
+def fallback_name_from_folder(folder_name):
+    """Generate a display name from a folder name when no metadata exists."""
+    name = folder_name.replace('-', ' ').replace('_', ' ')
     name = re.sub(r'\s+', ' ', name).strip()
-    # Capitalize words appropriately
-    name = ' '.join(word.capitalize() if word.lower() not in ['365', 'and', 'or', 'the', 'of', 'for'] else word for word in name.split())
-    
-    # Determine style based on folder/filename
-    style = 'full-color'  # default
-    path_str = str(rel_path).lower()
-    if 'monochrome-negative' in path_str or 'monochromatic-negative' in path_str:
-        style = 'monochrome-negative'
-    elif 'monochrome-positive' in path_str or 'monochromatic-positive' in path_str:
-        style = 'monochrome-positive'
-    elif 'monochrome' in path_str or 'monochromatic' in path_str:
-        style = 'monochrome'
-    elif 'negative' in path_str:
-        style = 'negative'
-    elif 'positive' in path_str:
-        style = 'positive'
-    
-    # Determine year/era based on folder structure
-    # Check folder parts (not the filename) for year-range patterns like "2019-2023" or "2020-current"
-    year = 'current'  # default
-    for part in reversed(parts[:-1]):  # innermost folder first
+    # Capitalise words, keeping certain words lowercase
+    keep_lower = {'and', 'or', 'the', 'of', 'for', 'in'}
+    words = name.split()
+    return ' '.join(
+        w if w.lower() in keep_lower and i > 0 else w.capitalize()
+        for i, w in enumerate(words)
+    )
+
+
+def determine_style(rel_path_str):
+    """Determine logo style from the path components."""
+    path_lower = rel_path_str.lower()
+    if 'monochrome-negative' in path_lower or 'monochromatic-negative' in path_lower:
+        return 'monochrome-negative'
+    if 'monochrome-positive' in path_lower or 'monochromatic-positive' in path_lower:
+        return 'monochrome-positive'
+    if 'monochrome' in path_lower or 'monochromatic' in path_lower:
+        return 'monochrome'
+    if 'negative' in path_lower:
+        return 'negative'
+    if 'positive' in path_lower:
+        return 'positive'
+    return 'full-color'
+
+
+def determine_year(path_parts):
+    """Extract year/era from folder names in the path."""
+    for part in reversed(path_parts):
         year_match = re.search(r'(\d{4}-(?:\d{4}|current))', part)
         if year_match:
-            year = year_match.group(1)
-            break
-    
-    # Get file size (could be extracted from filename or left empty)
-    size = ''
-    size_match = re.search(r'(\d+x\d+)', filename)
-    if size_match:
-        size = size_match.group(1)
-    
-    # Get format
-    file_format = get_file_format(filename)
-    
-    return {
-        'name': name,
-        'family': family,
-        'filename': filename,
-        'path': str(rel_path).replace('\\', '/'),  # Use forward slashes for web
-        'style': style,
-        'year': year,
-        'size': size,
-        'format': file_format
-    }
+            return year_match.group(1)
+    return 'current'
 
-def scan_logos(root_path):
-    """Scan repository for logo files"""
+
+def build_product_catalog(logos_dir):
+    """
+    Build a catalog of all products by reading every metadata.md under logos/.
+    Returns a dict keyed by the metadata.md path with parsed metadata,
+    and a list of product entries for the JS output.
+    """
+    products = []
+    metadata_cache = {}  # metadata_path -> parsed metadata
+
+    for md_path in sorted(logos_dir.rglob('metadata.md')):
+        metadata = parse_metadata(md_path)
+        metadata_cache[str(md_path)] = metadata
+
+        # Determine the folder slug (relative to logos/)
+        folder_rel = md_path.parent.relative_to(logos_dir)
+        slug = str(folder_rel).replace('\\', '/')
+
+        # Parse prodfamilies into a list
+        families_raw = metadata.get('prodfamilies', '')
+        families = [f.strip() for f in families_raw.split(',') if f.strip()] if families_raw else []
+
+        products.append({
+            'slug': slug,
+            'name': metadata.get('name', '') or fallback_name_from_folder(slug.split('/')[-1]),
+            'type': metadata.get('type', ''),
+            'status': metadata.get('status', ''),
+            'altnames': metadata.get('altnames', ''),
+            'families': families
+        })
+
+    return products, metadata_cache
+
+
+def scan_logos(logos_dir):
+    """Scan logos/ directory for logo files, enriching each with metadata."""
     logos = []
     logo_id = 0
-    
-    for root, dirs, files in os.walk(root_path):
-        # Remove excluded directories from dirs list to prevent walking into them
-        dirs[:] = [d for d in dirs if d not in EXCLUDE_FOLDERS]
-        
-        root_path_obj = Path(root)
-        
-        for file in files:
-            file_path = root_path_obj / file
-            
+
+    # Pre-build metadata cache: for each metadata.md, cache the parsed result
+    _, metadata_cache = build_product_catalog(logos_dir)
+    # Build a lookup: folder path -> metadata
+    folder_metadata = {}
+    for md_path_str, metadata in metadata_cache.items():
+        folder = str(Path(md_path_str).parent)
+        folder_metadata[folder] = metadata
+
+    for root, dirs, files in os.walk(logos_dir):
+        root_path = Path(root)
+
+        for file in sorted(files):
+            if file in SKIP_FILES:
+                continue
+
+            file_path = root_path / file
+
             # Check if file has a logo extension
-            if file_path.suffix.lower() in LOGO_EXTENSIONS:
-                logo_info = parse_logo_path(file_path, root_path)
-                
-                if logo_info:
-                    logo_info['id'] = logo_id
-                    logos.append(logo_info)
-                    logo_id += 1
-    
+            if file_path.suffix.lower() not in LOGO_EXTENSIONS:
+                continue
+
+            # Find nearest metadata.md
+            nearest_md = find_nearest_metadata(file_path, logos_dir)
+            if nearest_md:
+                metadata = folder_metadata.get(str(nearest_md.parent), {})
+            else:
+                metadata = {}
+
+            # Relative path from repo root (logos/product/...)
+            rel_path = file_path.relative_to(REPO_ROOT)
+            rel_path_str = str(rel_path).replace('\\', '/')
+
+            # Path parts relative to logos/ for style/year detection
+            rel_to_logos = file_path.relative_to(logos_dir)
+            path_parts = rel_to_logos.parts
+
+            # Product name from metadata, or fallback from top-level folder name
+            product_name = metadata.get('name', '')
+            if not product_name:
+                # Use the top-level folder under logos/ as fallback
+                top_folder = path_parts[0] if path_parts else 'Other'
+                product_name = fallback_name_from_folder(top_folder)
+
+            # Product families
+            families_raw = metadata.get('prodfamilies', '')
+            families = [f.strip() for f in families_raw.split(',') if f.strip()] if families_raw else []
+            # Use first family as primary, or 'Other' if none
+            primary_family = families[0] if families else 'Other'
+
+            # Type and status
+            product_type = metadata.get('type', '')
+            product_status = metadata.get('status', '')
+            altnames = metadata.get('altnames', '')
+
+            # Style from path
+            style = determine_style(rel_path_str)
+
+            # Year/era from folder structure
+            year = determine_year(path_parts[:-1])  # exclude filename
+
+            # Size from filename
+            size = ''
+            size_match = re.search(r'(\d+x\d+)', file)
+            if size_match:
+                size = size_match.group(1)
+
+            # Format
+            file_format = get_file_format(file)
+
+            # Product folder slug (top-level folder under logos/)
+            product_slug = path_parts[0] if path_parts else ''
+
+            logos.append({
+                'id': logo_id,
+                'name': product_name,
+                'family': primary_family,
+                'families': families,
+                'type': product_type,
+                'status': product_status,
+                'altnames': altnames,
+                'productSlug': product_slug,
+                'filename': file,
+                'path': rel_path_str,
+                'style': style,
+                'year': year,
+                'size': size,
+                'format': file_format
+            })
+            logo_id += 1
+
     return logos
 
 def get_recent_additions(repo_root, limit=50):
-    """Get recently added logo files from git history"""
+    """Get recently added logo files from git history (only files under logos/)"""
     recent_files = []
-    
+
     try:
-        # Get list of added files from git history (not renames or moves, just additions)
-        # Using --diff-filter=A to get only added files
-        # Scan all commits so older additions are not missed
         cmd = [
-            'git', 'log', 
+            'git', 'log',
             '--all',
             '--pretty=format:%H|%ai|%an|%ae',
             '--name-status',
             '--diff-filter=A',
+            '--', 'logos/'
         ]
-        
+
         result = subprocess.run(cmd, capture_output=True, text=True, cwd=repo_root)
-        
+
         if result.returncode != 0:
             print("Warning: Could not get git history for recent additions")
             return []
-        
+
         lines = result.stdout.split('\n')
         current_commit = None
-        
+
         for line in lines:
             line = line.strip()
             if '|' in line and len(line.split('|')) == 4:
-                # This is a commit info line
                 parts = line.split('|')
                 current_commit = {
                     'sha': parts[0],
@@ -164,15 +269,11 @@ def get_recent_additions(repo_root, limit=50):
                     'email': parts[3]
                 }
             elif line.startswith('A\t') and current_commit:
-                # This is an added file
                 file_path = line[2:].strip()
-                
-                # Check if it's a logo file and not in excluded folders
                 path_obj = Path(file_path)
+
                 if (path_obj.suffix.lower() in LOGO_EXTENSIONS and
-                    not any(excluded in path_obj.parts for excluded in EXCLUDE_FOLDERS)):
-                    
-                    # Check if file still exists before adding to the list
+                        file_path.startswith('logos/')):
                     full_path = repo_root / file_path
                     if full_path.exists():
                         recent_files.append({
@@ -181,15 +282,13 @@ def get_recent_additions(repo_root, limit=50):
                             'author': current_commit['author'],
                             'sha': current_commit['sha']
                         })
-        
-        # Sort collected files by date (most recent first) to show truly recent additions
-        # rather than files ordered by git log traversal (which can be alphabetical within commits)
+
         recent_files.sort(key=lambda x: x['date'], reverse=True)
-        
+
     except Exception as e:
         print(f"Warning: Error getting git history: {e}")
         return []
-    
+
     return recent_files[:limit]
 
 def make_github_api_request(url):
@@ -353,62 +452,71 @@ def get_contributors_from_git(repo_root):
     
     return result
 
-def generate_logo_data_js(logos, recent_additions, contributors, output_file):
+def generate_logo_data_js(logos, product_catalog, recent_additions, contributors, output_file):
     """Generate logo-data.js file"""
     # Sort logos by name for consistency
     logos_sorted = sorted(logos, key=lambda x: (x['family'], x['name'], x['path']))
-    
+
     # Generate JavaScript file
     js_content = "// Auto-generated logo data\n"
     js_content += "const logoData = "
     js_content += json.dumps(logos_sorted, indent=2)
     js_content += ";\n\n"
-    
+
+    # Add product catalog (metadata-based hierarchy)
+    js_content += "// Product catalog from metadata.md files\n"
+    js_content += "const productCatalog = "
+    js_content += json.dumps(product_catalog, indent=2)
+    js_content += ";\n\n"
+
     # Add recent additions
     js_content += "// Recently added files\n"
     js_content += "const recentAdditions = "
     js_content += json.dumps(recent_additions, indent=2)
     js_content += ";\n\n"
-    
+
     # Add contributors
     js_content += "// Contributors\n"
     js_content += "const contributors = "
     js_content += json.dumps(contributors, indent=2)
     js_content += ";\n"
-    
+
     # Write to file
     output_file.parent.mkdir(parents=True, exist_ok=True)
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write(js_content)
-    
+
     return len(logos_sorted)
 
 def main():
     """Main function"""
-    print("Scanning repository for logo files...")
-    logos = scan_logos(REPO_ROOT)
-    
+    print("Building product catalog from metadata.md files...")
+    product_catalog, _ = build_product_catalog(LOGOS_DIR)
+    print(f"Found {len(product_catalog)} products/features in catalog")
+
+    print("Scanning logos/ directory for logo files...")
+    logos = scan_logos(LOGOS_DIR)
     print(f"Found {len(logos)} logo files")
-    
+
     print("Getting recent additions from git history...")
     recent_additions = get_recent_additions(REPO_ROOT, limit=50)
     print(f"Found {len(recent_additions)} recent additions")
-    
+
     print("Getting contributors from git history...")
     contributors = get_contributors(REPO_ROOT)
     print(f"Found {len(contributors)} contributors")
-    
+
     print(f"Generating {OUTPUT_FILE}...")
-    count = generate_logo_data_js(logos, recent_additions, contributors, OUTPUT_FILE)
-    
+    count = generate_logo_data_js(logos, product_catalog, recent_additions, contributors, OUTPUT_FILE)
+
     print(f"✓ Generated logo-data.js with {count} logos")
-    
+
     # Print summary by family
     families = {}
     for logo in logos:
         family = logo['family']
         families[family] = families.get(family, 0) + 1
-    
+
     print("\nLogos by product family:")
     for family in sorted(families.keys()):
         print(f"  {family}: {families[family]}")
