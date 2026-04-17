@@ -110,9 +110,11 @@
                 <div class="intro-card">
                     <h2>Organization</h2>
                     <ul class="feature-list">
-                        <li>Logos are grouped by their current product family (Azure, Microsoft 365, Dynamics 365, etc.)</li>
+                        <li>All logos live in the <code>logos/</code> directory, grouped by product folder</li>
+                        <li>Each product folder contains a <code>metadata.md</code> with name, type, status, alternative names, and product family</li>
+                        <li>The Browse Folders tab organises products into their product families based on metadata</li>
                         <li>Multiple versions of logos are organized by their years of existence</li>
-                        <li>Retired products are in the Legacy collection</li>
+                        <li>Products may be active, retired, or renamed — status is shown in the folder browser</li>
                         <li>Various styles available: full-color, monochrome positive, monochrome negative</li>
                     </ul>
                 </div>
@@ -303,6 +305,12 @@
                     <dl class="modal-details">
                         <dt>Product Family</dt>
                         <dd id="modal-family"></dd>
+                        <dt>Type</dt>
+                        <dd id="modal-type"></dd>
+                        <dt>Status</dt>
+                        <dd id="modal-status"></dd>
+                        <dt>Also Known As</dt>
+                        <dd id="modal-altnames"></dd>
                         <dt>Style</dt>
                         <dd id="modal-style"></dd>
                         <dt>Era</dt>
