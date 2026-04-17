@@ -977,9 +977,20 @@
         }
 
         // Also pick up products from logoData that aren't in catalog
+        // but avoid duplicating entries that are already covered by a nested catalog slug
+        const catalogSlugs = new Set();
+        if (typeof productCatalog !== 'undefined') {
+            productCatalog.forEach(p => {
+                const fams = p.families && p.families.length ? p.families : [];
+                if (fams.includes(familyName) || (fams.length === 0 && familyName === 'Other')) {
+                    // Track the top-level slug of every catalog entry in this family
+                    catalogSlugs.add(p.slug.split('/')[0]);
+                }
+            });
+        }
         logoData.forEach(l => {
             const fams = l.families && l.families.length ? l.families : [l.family];
-            if (fams.includes(familyName) && l.productSlug && !productsMap.has(l.productSlug)) {
+            if (fams.includes(familyName) && l.productSlug && !productsMap.has(l.productSlug) && !catalogSlugs.has(l.productSlug)) {
                 productsMap.set(l.productSlug, { name: l.name, type: l.type || '', status: l.status || '' });
             }
         });
@@ -1186,11 +1197,17 @@
 
                 // Try to resolve a friendly name for the part
                 let displayName = part;
-                if (index === 1 && typeof productCatalog !== 'undefined') {
-                    // This is a product slug — look up its name
+                if (index >= 1 && typeof productCatalog !== 'undefined') {
+                    // This is a product slug or subfolder — look up its name
                     const slug = parts.slice(1, index + 1).join('/');
                     const catalogEntry = productCatalog.find(p => p.slug === slug);
-                    if (catalogEntry) displayName = catalogEntry.name;
+                    if (catalogEntry) {
+                        displayName = catalogEntry.name;
+                    } else if (index === 1) {
+                        // Fallback: look up from logoData for folders without metadata
+                        const logo = logoData.find(l => l.productSlug === part);
+                        if (logo) displayName = logo.name;
+                    }
                 }
                 partItem.textContent = displayName;
 
