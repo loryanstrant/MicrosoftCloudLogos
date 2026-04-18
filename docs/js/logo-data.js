@@ -1,7 +1,7 @@
 // Auto-generated logo data
 const logoData = [
   {
-    "id": 1309,
+    "id": 1310,
     "name": "Azure Active Directory",
     "family": "Azure",
     "families": [
@@ -21,7 +21,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1310,
+    "id": 1311,
     "name": "Azure Active Directory",
     "family": "Azure",
     "families": [
@@ -41,7 +41,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1311,
+    "id": 1312,
     "name": "Azure Active Directory",
     "family": "Azure",
     "families": [
@@ -169,7 +169,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1368,
+    "id": 1369,
     "name": "Connected Store",
     "family": "Dynamics 365",
     "families": [
@@ -619,7 +619,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1254,
+    "id": 1255,
     "name": "Fraud Protection",
     "family": "Dynamics 365",
     "families": [
@@ -1033,7 +1033,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1305,
+    "id": 1306,
     "name": "Entra ID",
     "family": "Entra",
     "families": [
@@ -1051,7 +1051,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1306,
+    "id": 1307,
     "name": "Entra ID",
     "family": "Entra",
     "families": [
@@ -1069,7 +1069,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1307,
+    "id": 1308,
     "name": "Entra ID",
     "family": "Entra",
     "families": [
@@ -1087,7 +1087,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1308,
+    "id": 1309,
     "name": "Entra ID",
     "family": "Entra",
     "families": [
@@ -1141,7 +1141,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1303,
+    "id": 1304,
     "name": "Entra Verified ID",
     "family": "Entra",
     "families": [
@@ -1159,7 +1159,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1304,
+    "id": 1305,
     "name": "Entra Verified ID",
     "family": "Entra",
     "families": [
@@ -3171,7 +3171,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1349,
+    "id": 1350,
     "name": "Agent 365",
     "family": "Microsoft 365",
     "families": [
@@ -3189,7 +3189,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1350,
+    "id": 1351,
     "name": "Agent 365",
     "family": "Microsoft 365",
     "families": [
@@ -6177,7 +6177,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1351,
+    "id": 1352,
     "name": "Lists",
     "family": "Microsoft 365",
     "families": [
@@ -6195,7 +6195,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1352,
+    "id": 1353,
     "name": "Lists",
     "family": "Microsoft 365",
     "families": [
@@ -6213,7 +6213,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1353,
+    "id": 1354,
     "name": "Lists",
     "family": "Microsoft 365",
     "families": [
@@ -6231,7 +6231,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1354,
+    "id": 1355,
     "name": "Lists",
     "family": "Microsoft 365",
     "families": [
@@ -6249,7 +6249,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1355,
+    "id": 1356,
     "name": "Lists",
     "family": "Microsoft 365",
     "families": [
@@ -6267,7 +6267,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1356,
+    "id": 1357,
     "name": "Lists",
     "family": "Microsoft 365",
     "families": [
@@ -6285,7 +6285,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1357,
+    "id": 1358,
     "name": "Lists",
     "family": "Microsoft 365",
     "families": [
@@ -6303,7 +6303,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1363,
+    "id": 1364,
     "name": "Lists",
     "family": "Microsoft 365",
     "families": [
@@ -6321,7 +6321,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1364,
+    "id": 1365,
     "name": "Lists",
     "family": "Microsoft 365",
     "families": [
@@ -6339,7 +6339,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1365,
+    "id": 1366,
     "name": "Lists",
     "family": "Microsoft 365",
     "families": [
@@ -6357,7 +6357,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1366,
+    "id": 1367,
     "name": "Lists",
     "family": "Microsoft 365",
     "families": [
@@ -6375,7 +6375,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1367,
+    "id": 1368,
     "name": "Lists",
     "family": "Microsoft 365",
     "families": [
@@ -6393,7 +6393,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1358,
+    "id": 1359,
     "name": "Lists",
     "family": "Microsoft 365",
     "families": [
@@ -6411,7 +6411,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1359,
+    "id": 1360,
     "name": "Lists",
     "family": "Microsoft 365",
     "families": [
@@ -6429,7 +6429,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1360,
+    "id": 1361,
     "name": "Lists",
     "family": "Microsoft 365",
     "families": [
@@ -6447,7 +6447,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1361,
+    "id": 1362,
     "name": "Lists",
     "family": "Microsoft 365",
     "families": [
@@ -6465,7 +6465,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1362,
+    "id": 1363,
     "name": "Lists",
     "family": "Microsoft 365",
     "families": [
@@ -11379,7 +11379,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1369,
+    "id": 1370,
     "name": "StaffHub",
     "family": "Microsoft 365",
     "families": [
@@ -11397,7 +11397,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1370,
+    "id": 1371,
     "name": "StaffHub",
     "family": "Microsoft 365",
     "families": [
@@ -11415,7 +11415,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1371,
+    "id": 1372,
     "name": "StaffHub",
     "family": "Microsoft 365",
     "families": [
@@ -11433,7 +11433,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1372,
+    "id": 1373,
     "name": "StaffHub",
     "family": "Microsoft 365",
     "families": [
@@ -11451,7 +11451,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1373,
+    "id": 1374,
     "name": "StaffHub",
     "family": "Microsoft 365",
     "families": [
@@ -11469,7 +11469,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1374,
+    "id": 1375,
     "name": "StaffHub",
     "family": "Microsoft 365",
     "families": [
@@ -11487,7 +11487,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1375,
+    "id": 1376,
     "name": "StaffHub",
     "family": "Microsoft 365",
     "families": [
@@ -11505,7 +11505,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1376,
+    "id": 1377,
     "name": "StaffHub",
     "family": "Microsoft 365",
     "families": [
@@ -11523,7 +11523,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1377,
+    "id": 1378,
     "name": "StaffHub",
     "family": "Microsoft 365",
     "families": [
@@ -11541,7 +11541,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1378,
+    "id": 1379,
     "name": "StaffHub",
     "family": "Microsoft 365",
     "families": [
@@ -11559,7 +11559,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1234,
+    "id": 1235,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -11577,7 +11577,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1235,
+    "id": 1236,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -11595,7 +11595,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1236,
+    "id": 1237,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -11613,7 +11613,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1237,
+    "id": 1238,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -11631,7 +11631,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1238,
+    "id": 1239,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -11649,7 +11649,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1244,
+    "id": 1245,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -11667,7 +11667,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1245,
+    "id": 1246,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -11685,7 +11685,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1246,
+    "id": 1247,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -11703,7 +11703,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1247,
+    "id": 1248,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -11721,7 +11721,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1248,
+    "id": 1249,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -11739,7 +11739,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1239,
+    "id": 1240,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -11757,7 +11757,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1240,
+    "id": 1241,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -11775,7 +11775,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1241,
+    "id": 1242,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -11793,7 +11793,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1242,
+    "id": 1243,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -11811,7 +11811,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1243,
+    "id": 1244,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -11829,7 +11829,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1229,
+    "id": 1230,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -11847,7 +11847,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1230,
+    "id": 1231,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -11865,7 +11865,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1231,
+    "id": 1232,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -11883,7 +11883,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1232,
+    "id": 1233,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -11901,7 +11901,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1233,
+    "id": 1234,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -11919,7 +11919,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1249,
+    "id": 1250,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -11937,7 +11937,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1250,
+    "id": 1251,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -11955,7 +11955,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1251,
+    "id": 1252,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -11973,7 +11973,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1252,
+    "id": 1253,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -11991,7 +11991,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1253,
+    "id": 1254,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -12009,7 +12009,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1228,
+    "id": 1229,
     "name": "Stream",
     "family": "Microsoft 365",
     "families": [
@@ -12513,7 +12513,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1298,
+    "id": 1299,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12531,7 +12531,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1299,
+    "id": 1300,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12549,7 +12549,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1300,
+    "id": 1301,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12567,7 +12567,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1301,
+    "id": 1302,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12585,7 +12585,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1302,
+    "id": 1303,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12603,7 +12603,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1283,
+    "id": 1284,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12621,7 +12621,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1284,
+    "id": 1285,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12639,7 +12639,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1285,
+    "id": 1286,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12657,7 +12657,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1286,
+    "id": 1287,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12675,7 +12675,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1287,
+    "id": 1288,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12693,7 +12693,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1288,
+    "id": 1289,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12711,7 +12711,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1289,
+    "id": 1290,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12729,7 +12729,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1290,
+    "id": 1291,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12747,7 +12747,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1291,
+    "id": 1292,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12765,7 +12765,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1292,
+    "id": 1293,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12783,7 +12783,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1277,
+    "id": 1278,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12801,7 +12801,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1278,
+    "id": 1279,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12819,7 +12819,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1279,
+    "id": 1280,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12837,7 +12837,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1280,
+    "id": 1281,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12855,7 +12855,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1281,
+    "id": 1282,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12873,7 +12873,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1282,
+    "id": 1283,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12891,7 +12891,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1293,
+    "id": 1294,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12909,7 +12909,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1294,
+    "id": 1295,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12927,7 +12927,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1295,
+    "id": 1296,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12945,7 +12945,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1296,
+    "id": 1297,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12963,7 +12963,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1297,
+    "id": 1298,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12981,7 +12981,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1274,
+    "id": 1275,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -12999,7 +12999,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1275,
+    "id": 1276,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -13017,7 +13017,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1276,
+    "id": 1277,
     "name": "Teams",
     "family": "Microsoft 365",
     "families": [
@@ -17689,6 +17689,22 @@ const logoData = [
     "format": "PNG"
   },
   {
+    "id": 1228,
+    "name": "Visual Studio",
+    "family": "Other",
+    "families": [],
+    "type": "Product",
+    "status": "Active",
+    "altnames": "",
+    "productSlug": "visual-studio",
+    "filename": "visual-studio.png",
+    "path": "logos/visual-studio/visual-studio.png",
+    "style": "full-color",
+    "year": "current",
+    "size": "",
+    "format": "PNG"
+  },
+  {
     "id": 1011,
     "name": "Viva Suite",
     "family": "Other",
@@ -17737,7 +17753,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1255,
+    "id": 1256,
     "name": "Windows",
     "family": "Other",
     "families": [],
@@ -17929,7 +17945,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1334,
+    "id": 1335,
     "name": "Yammer",
     "family": "Other",
     "families": [],
@@ -17945,7 +17961,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1335,
+    "id": 1336,
     "name": "Yammer",
     "family": "Other",
     "families": [],
@@ -17961,7 +17977,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1336,
+    "id": 1337,
     "name": "Yammer",
     "family": "Other",
     "families": [],
@@ -17977,7 +17993,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1337,
+    "id": 1338,
     "name": "Yammer",
     "family": "Other",
     "families": [],
@@ -17993,7 +18009,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1338,
+    "id": 1339,
     "name": "Yammer",
     "family": "Other",
     "families": [],
@@ -18009,7 +18025,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1324,
+    "id": 1325,
     "name": "Yammer",
     "family": "Other",
     "families": [],
@@ -18025,7 +18041,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1325,
+    "id": 1326,
     "name": "Yammer",
     "family": "Other",
     "families": [],
@@ -18041,7 +18057,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1326,
+    "id": 1327,
     "name": "Yammer",
     "family": "Other",
     "families": [],
@@ -18057,7 +18073,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1327,
+    "id": 1328,
     "name": "Yammer",
     "family": "Other",
     "families": [],
@@ -18073,7 +18089,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1328,
+    "id": 1329,
     "name": "Yammer",
     "family": "Other",
     "families": [],
@@ -18089,7 +18105,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1329,
+    "id": 1330,
     "name": "Yammer",
     "family": "Other",
     "families": [],
@@ -18105,7 +18121,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1330,
+    "id": 1331,
     "name": "Yammer",
     "family": "Other",
     "families": [],
@@ -18121,7 +18137,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1331,
+    "id": 1332,
     "name": "Yammer",
     "family": "Other",
     "families": [],
@@ -18137,7 +18153,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1332,
+    "id": 1333,
     "name": "Yammer",
     "family": "Other",
     "families": [],
@@ -18153,7 +18169,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1333,
+    "id": 1334,
     "name": "Yammer",
     "family": "Other",
     "families": [],
@@ -18169,7 +18185,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1339,
+    "id": 1340,
     "name": "Yammer",
     "family": "Other",
     "families": [],
@@ -18185,7 +18201,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1340,
+    "id": 1341,
     "name": "Yammer",
     "family": "Other",
     "families": [],
@@ -18201,7 +18217,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1341,
+    "id": 1342,
     "name": "Yammer",
     "family": "Other",
     "families": [],
@@ -18217,7 +18233,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1342,
+    "id": 1343,
     "name": "Yammer",
     "family": "Other",
     "families": [],
@@ -18233,7 +18249,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1343,
+    "id": 1344,
     "name": "Yammer",
     "family": "Other",
     "families": [],
@@ -18249,7 +18265,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1344,
+    "id": 1345,
     "name": "Yammer",
     "family": "Other",
     "families": [],
@@ -18265,7 +18281,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1345,
+    "id": 1346,
     "name": "Yammer",
     "family": "Other",
     "families": [],
@@ -18281,7 +18297,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1346,
+    "id": 1347,
     "name": "Yammer",
     "family": "Other",
     "families": [],
@@ -18297,7 +18313,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1347,
+    "id": 1348,
     "name": "Yammer",
     "family": "Other",
     "families": [],
@@ -18313,7 +18329,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1348,
+    "id": 1349,
     "name": "Yammer",
     "family": "Other",
     "families": [],
@@ -22721,7 +22737,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1312,
+    "id": 1313,
     "name": "Viva Engage",
     "family": "Viva Suite",
     "families": [
@@ -22739,7 +22755,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1313,
+    "id": 1314,
     "name": "Viva Engage",
     "family": "Viva Suite",
     "families": [
@@ -22757,7 +22773,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1314,
+    "id": 1315,
     "name": "Viva Engage",
     "family": "Viva Suite",
     "families": [
@@ -22775,7 +22791,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1315,
+    "id": 1316,
     "name": "Viva Engage",
     "family": "Viva Suite",
     "families": [
@@ -22793,7 +22809,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1316,
+    "id": 1317,
     "name": "Viva Engage",
     "family": "Viva Suite",
     "families": [
@@ -22811,7 +22827,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1317,
+    "id": 1318,
     "name": "Viva Engage",
     "family": "Viva Suite",
     "families": [
@@ -22829,7 +22845,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1318,
+    "id": 1319,
     "name": "Viva Engage",
     "family": "Viva Suite",
     "families": [
@@ -22847,7 +22863,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1319,
+    "id": 1320,
     "name": "Viva Engage",
     "family": "Viva Suite",
     "families": [
@@ -22865,7 +22881,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1320,
+    "id": 1321,
     "name": "Viva Engage",
     "family": "Viva Suite",
     "families": [
@@ -22883,7 +22899,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1321,
+    "id": 1322,
     "name": "Viva Engage",
     "family": "Viva Suite",
     "families": [
@@ -22901,7 +22917,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1322,
+    "id": 1323,
     "name": "Viva Engage",
     "family": "Viva Suite",
     "families": [
@@ -22919,7 +22935,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1323,
+    "id": 1324,
     "name": "Viva Engage",
     "family": "Viva Suite",
     "families": [
@@ -23549,7 +23565,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1256,
+    "id": 1257,
     "name": "Viva Learning",
     "family": "Viva Suite",
     "families": [
@@ -23567,7 +23583,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1257,
+    "id": 1258,
     "name": "Viva Learning",
     "family": "Viva Suite",
     "families": [
@@ -23585,7 +23601,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1258,
+    "id": 1259,
     "name": "Viva Learning",
     "family": "Viva Suite",
     "families": [
@@ -23603,7 +23619,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1259,
+    "id": 1260,
     "name": "Viva Learning",
     "family": "Viva Suite",
     "families": [
@@ -23621,7 +23637,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1260,
+    "id": 1261,
     "name": "Viva Learning",
     "family": "Viva Suite",
     "families": [
@@ -23639,7 +23655,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1261,
+    "id": 1262,
     "name": "Viva Learning",
     "family": "Viva Suite",
     "families": [
@@ -23657,7 +23673,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1262,
+    "id": 1263,
     "name": "Viva Learning",
     "family": "Viva Suite",
     "families": [
@@ -23675,7 +23691,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1263,
+    "id": 1264,
     "name": "Viva Learning",
     "family": "Viva Suite",
     "families": [
@@ -23693,7 +23709,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1264,
+    "id": 1265,
     "name": "Viva Learning",
     "family": "Viva Suite",
     "families": [
@@ -23711,7 +23727,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1265,
+    "id": 1266,
     "name": "Viva Learning",
     "family": "Viva Suite",
     "families": [
@@ -23729,7 +23745,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1266,
+    "id": 1267,
     "name": "Viva Learning",
     "family": "Viva Suite",
     "families": [
@@ -23747,7 +23763,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1267,
+    "id": 1268,
     "name": "Viva Learning",
     "family": "Viva Suite",
     "families": [
@@ -23765,7 +23781,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1268,
+    "id": 1269,
     "name": "Viva Learning",
     "family": "Viva Suite",
     "families": [
@@ -23783,7 +23799,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1269,
+    "id": 1270,
     "name": "Viva Learning",
     "family": "Viva Suite",
     "families": [
@@ -23801,7 +23817,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1270,
+    "id": 1271,
     "name": "Viva Learning",
     "family": "Viva Suite",
     "families": [
@@ -23819,7 +23835,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1271,
+    "id": 1272,
     "name": "Viva Learning",
     "family": "Viva Suite",
     "families": [
@@ -23837,7 +23853,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1272,
+    "id": 1273,
     "name": "Viva Learning",
     "family": "Viva Suite",
     "families": [
@@ -23855,7 +23871,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1273,
+    "id": 1274,
     "name": "Viva Learning",
     "family": "Viva Suite",
     "families": [
@@ -25520,6 +25536,14 @@ const productCatalog = [
     ]
   },
   {
+    "slug": "visual-studio",
+    "name": "Visual Studio",
+    "type": "Product",
+    "status": "Active",
+    "altnames": "",
+    "families": []
+  },
+  {
     "slug": "viva-amplify",
     "name": "Viva Amplify",
     "type": "Product",
@@ -25691,6 +25715,12 @@ const productCatalog = [
 
 // Recently added files
 const recentAdditions = [
+  {
+    "path": "logos/visual-studio/visual-studio.png",
+    "date": "2026-04-18 17:41:02 +1000",
+    "author": "Loryan Strant",
+    "sha": "a6086d2f3d4922bcc4a95470e1cc976054608e66"
+  },
   {
     "path": "logos/azure-devops/10261-icon-service-azure-devops.svg",
     "date": "2026-04-17 12:05:51 +1000",
@@ -25981,12 +26011,6 @@ const recentAdditions = [
   },
   {
     "path": "logos/bookings/2016-2024-postive-format/bookings-96x96.png",
-    "date": "2026-04-17 11:06:19 +1000",
-    "author": "Loryan Strant",
-    "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
-  },
-  {
-    "path": "logos/bookings/bookings-monochromatic.png",
     "date": "2026-04-17 11:06:19 +1000",
     "author": "Loryan Strant",
     "sha": "297d4a5457675d57b50ac9210cb4f6aaf6099585"
