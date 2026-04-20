@@ -1,0 +1,10 @@
+name: Azure Key Vault
+
+type: Product
+
+status: Active
+
+altnames:
+
+prodfamilies: Azure
+
