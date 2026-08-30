@@ -403,7 +403,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1526,
+    "id": 1528,
     "name": "Azure App Configuration",
     "family": "Azure",
     "families": [
@@ -493,7 +493,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1455,
+    "id": 1457,
     "name": "Azure Attestation",
     "family": "Azure",
     "families": [
@@ -601,7 +601,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1525,
+    "id": 1527,
     "name": "Azure Cache for Redis",
     "family": "Azure",
     "families": [
@@ -709,7 +709,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1448,
+    "id": 1450,
     "name": "Azure Container Instances",
     "family": "Azure",
     "families": [
@@ -727,7 +727,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1504,
+    "id": 1506,
     "name": "Azure Container Registry",
     "family": "Azure",
     "families": [
@@ -1177,7 +1177,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1472,
+    "id": 1474,
     "name": "Azure Event Hubs",
     "family": "Azure",
     "families": [
@@ -1555,7 +1555,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1509,
+    "id": 1511,
     "name": "Azure Maps",
     "family": "Azure",
     "families": [
@@ -1591,7 +1591,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1419,
+    "id": 1421,
     "name": "Azure Modular Data Center",
     "family": "Azure",
     "families": [
@@ -1861,7 +1861,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1503,
+    "id": 1505,
     "name": "Azure SQL Database",
     "family": "Azure",
     "families": [
@@ -1897,7 +1897,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1454,
+    "id": 1456,
     "name": "Azure Service Bus",
     "family": "Azure",
     "families": [
@@ -2113,7 +2113,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1508,
+    "id": 1510,
     "name": "Azure Synapse Analytics",
     "family": "Azure",
     "families": [
@@ -2203,7 +2203,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1471,
+    "id": 1473,
     "name": "Azure Virtual Machine Scale Sets",
     "family": "Azure",
     "families": [
@@ -2329,7 +2329,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1502,
+    "id": 1504,
     "name": "Microsoft Defender for IoT",
     "family": "Azure",
     "families": [
@@ -3013,7 +3013,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1418,
+    "id": 1420,
     "name": "Product Insights",
     "family": "Dynamics 365",
     "families": [
@@ -3457,6 +3457,42 @@ const logoData = [
     "productSlug": "entra-verified-id",
     "filename": "microsoft-entra-verified-id-color-icon.svg",
     "path": "logos/entra-verified-id/microsoft-entra-verified-id-color-icon.svg",
+    "style": "full-color",
+    "year": "current",
+    "size": "",
+    "format": "SVG"
+  },
+  {
+    "id": 1417,
+    "name": "Global Secure Access",
+    "family": "Entra",
+    "families": [
+      "Entra"
+    ],
+    "type": "Product",
+    "status": "Active",
+    "altnames": "GSA",
+    "productSlug": "global-secure-access",
+    "filename": "global-secure-access.png",
+    "path": "logos/global-secure-access/global-secure-access.png",
+    "style": "full-color",
+    "year": "current",
+    "size": "",
+    "format": "PNG"
+  },
+  {
+    "id": 1418,
+    "name": "Global Secure Access",
+    "family": "Entra",
+    "families": [
+      "Entra"
+    ],
+    "type": "Product",
+    "status": "Active",
+    "altnames": "GSA",
+    "productSlug": "global-secure-access",
+    "filename": "global-secure-access.svg",
+    "path": "logos/global-secure-access/global-secure-access.svg",
     "style": "full-color",
     "year": "current",
     "size": "",
@@ -8319,7 +8355,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1456,
+    "id": 1458,
     "name": "Kaizala",
     "family": "Microsoft 365",
     "families": [
@@ -8337,7 +8373,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1457,
+    "id": 1459,
     "name": "Kaizala",
     "family": "Microsoft 365",
     "families": [
@@ -8355,7 +8391,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1458,
+    "id": 1460,
     "name": "Kaizala",
     "family": "Microsoft 365",
     "families": [
@@ -8373,7 +8409,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1459,
+    "id": 1461,
     "name": "Kaizala",
     "family": "Microsoft 365",
     "families": [
@@ -8391,7 +8427,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1460,
+    "id": 1462,
     "name": "Kaizala",
     "family": "Microsoft 365",
     "families": [
@@ -8409,7 +8445,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1461,
+    "id": 1463,
     "name": "Kaizala",
     "family": "Microsoft 365",
     "families": [
@@ -8427,7 +8463,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1462,
+    "id": 1464,
     "name": "Kaizala",
     "family": "Microsoft 365",
     "families": [
@@ -8445,7 +8481,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1463,
+    "id": 1465,
     "name": "Kaizala",
     "family": "Microsoft 365",
     "families": [
@@ -8463,7 +8499,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1464,
+    "id": 1466,
     "name": "Kaizala",
     "family": "Microsoft 365",
     "families": [
@@ -8481,7 +8517,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1465,
+    "id": 1467,
     "name": "Kaizala",
     "family": "Microsoft 365",
     "families": [
@@ -8499,7 +8535,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1466,
+    "id": 1468,
     "name": "Kaizala",
     "family": "Microsoft 365",
     "families": [
@@ -8517,7 +8553,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1467,
+    "id": 1469,
     "name": "Kaizala",
     "family": "Microsoft 365",
     "families": [
@@ -8535,7 +8571,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1468,
+    "id": 1470,
     "name": "Kaizala",
     "family": "Microsoft 365",
     "families": [
@@ -8553,7 +8589,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1469,
+    "id": 1471,
     "name": "Kaizala",
     "family": "Microsoft 365",
     "families": [
@@ -8571,7 +8607,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1470,
+    "id": 1472,
     "name": "Kaizala",
     "family": "Microsoft 365",
     "families": [
@@ -9039,7 +9075,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1520,
+    "id": 1522,
     "name": "Microsoft 365 Copilot",
     "family": "Microsoft 365",
     "families": [
@@ -9057,7 +9093,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1521,
+    "id": 1523,
     "name": "Microsoft 365 Copilot",
     "family": "Microsoft 365",
     "families": [
@@ -9075,7 +9111,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1522,
+    "id": 1524,
     "name": "Microsoft 365 Copilot",
     "family": "Microsoft 365",
     "families": [
@@ -9093,7 +9129,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1523,
+    "id": 1525,
     "name": "Microsoft 365 Copilot",
     "family": "Microsoft 365",
     "families": [
@@ -9111,7 +9147,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1524,
+    "id": 1526,
     "name": "Microsoft 365 Copilot",
     "family": "Microsoft 365",
     "families": [
@@ -11325,7 +11361,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1505,
+    "id": 1507,
     "name": "Places",
     "family": "Microsoft 365",
     "families": [
@@ -11343,7 +11379,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1506,
+    "id": 1508,
     "name": "Places",
     "family": "Microsoft 365",
     "families": [
@@ -11361,7 +11397,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1507,
+    "id": 1509,
     "name": "Places",
     "family": "Microsoft 365",
     "families": [
@@ -11883,7 +11919,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1428,
+    "id": 1430,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -11901,7 +11937,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1429,
+    "id": 1431,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -11919,7 +11955,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1430,
+    "id": 1432,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -11937,7 +11973,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1431,
+    "id": 1433,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -11955,7 +11991,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1432,
+    "id": 1434,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -11973,7 +12009,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1433,
+    "id": 1435,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -11991,7 +12027,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1434,
+    "id": 1436,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -12009,7 +12045,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1435,
+    "id": 1437,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -12027,7 +12063,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1436,
+    "id": 1438,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -12045,7 +12081,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1437,
+    "id": 1439,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -12063,7 +12099,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1443,
+    "id": 1445,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -12081,7 +12117,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1444,
+    "id": 1446,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -12099,7 +12135,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1445,
+    "id": 1447,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -12117,7 +12153,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1446,
+    "id": 1448,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -12135,7 +12171,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1447,
+    "id": 1449,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -12153,7 +12189,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1438,
+    "id": 1440,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -12171,7 +12207,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1439,
+    "id": 1441,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -12189,7 +12225,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1440,
+    "id": 1442,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -12207,7 +12243,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1441,
+    "id": 1443,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -12225,7 +12261,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1442,
+    "id": 1444,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -12243,7 +12279,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1423,
+    "id": 1425,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -12261,7 +12297,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1424,
+    "id": 1426,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -12279,7 +12315,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1425,
+    "id": 1427,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -12297,7 +12333,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1426,
+    "id": 1428,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -12315,7 +12351,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1427,
+    "id": 1429,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -12333,7 +12369,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1420,
+    "id": 1422,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -12351,7 +12387,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1421,
+    "id": 1423,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -12369,7 +12405,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1422,
+    "id": 1424,
     "name": "PowerPoint",
     "family": "Microsoft 365",
     "families": [
@@ -13431,7 +13467,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1486,
+    "id": 1488,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13449,7 +13485,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1487,
+    "id": 1489,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13467,7 +13503,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1488,
+    "id": 1490,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13485,7 +13521,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1489,
+    "id": 1491,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13503,7 +13539,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1490,
+    "id": 1492,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13521,7 +13557,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1481,
+    "id": 1483,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13539,7 +13575,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1482,
+    "id": 1484,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13557,7 +13593,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1483,
+    "id": 1485,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13575,7 +13611,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1484,
+    "id": 1486,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13593,7 +13629,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1485,
+    "id": 1487,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13611,7 +13647,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1496,
+    "id": 1498,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13629,7 +13665,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1497,
+    "id": 1499,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13647,7 +13683,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1498,
+    "id": 1500,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13665,7 +13701,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1499,
+    "id": 1501,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13683,7 +13719,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1500,
+    "id": 1502,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13701,7 +13737,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1501,
+    "id": 1503,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13719,7 +13755,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1491,
+    "id": 1493,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13737,7 +13773,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1492,
+    "id": 1494,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13755,7 +13791,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1493,
+    "id": 1495,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13773,7 +13809,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1494,
+    "id": 1496,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13791,7 +13827,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1495,
+    "id": 1497,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13809,7 +13845,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1476,
+    "id": 1478,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13827,7 +13863,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1477,
+    "id": 1479,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13845,7 +13881,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1478,
+    "id": 1480,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13863,7 +13899,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1479,
+    "id": 1481,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13881,7 +13917,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1480,
+    "id": 1482,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13899,7 +13935,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1473,
+    "id": 1475,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13917,7 +13953,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1474,
+    "id": 1476,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -13935,7 +13971,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1475,
+    "id": 1477,
     "name": "SharePoint",
     "family": "Microsoft 365",
     "families": [
@@ -17265,7 +17301,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1453,
+    "id": 1455,
     "name": "Workflows",
     "family": "Microsoft 365",
     "families": [
@@ -17415,7 +17451,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1510,
+    "id": 1512,
     "name": "Copilot in Office Apps",
     "family": "Other",
     "families": [],
@@ -17431,7 +17467,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1511,
+    "id": 1513,
     "name": "Copilot in Office Apps",
     "family": "Other",
     "families": [],
@@ -17447,7 +17483,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1512,
+    "id": 1514,
     "name": "Copilot in Office Apps",
     "family": "Other",
     "families": [],
@@ -17463,7 +17499,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1513,
+    "id": 1515,
     "name": "Copilot in Office Apps",
     "family": "Other",
     "families": [],
@@ -17479,7 +17515,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1514,
+    "id": 1516,
     "name": "Copilot in Office Apps",
     "family": "Other",
     "families": [],
@@ -17495,7 +17531,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1515,
+    "id": 1517,
     "name": "Copilot in Office Apps",
     "family": "Other",
     "families": [],
@@ -17511,7 +17547,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1516,
+    "id": 1518,
     "name": "Copilot in Office Apps",
     "family": "Other",
     "families": [],
@@ -17527,7 +17563,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1517,
+    "id": 1519,
     "name": "Copilot in Office Apps",
     "family": "Other",
     "families": [],
@@ -17543,7 +17579,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1518,
+    "id": 1520,
     "name": "Copilot in Office Apps",
     "family": "Other",
     "families": [],
@@ -20375,7 +20411,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1417,
+    "id": 1419,
     "name": "Windows",
     "family": "Other",
     "families": [],
@@ -21093,7 +21129,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1452,
+    "id": 1454,
     "name": "Dataverse",
     "family": "Power Platform",
     "families": [
@@ -21111,7 +21147,7 @@ const logoData = [
     "format": "JPG"
   },
   {
-    "id": 1451,
+    "id": 1453,
     "name": "Dataverse",
     "family": "Power Platform",
     "families": [
@@ -21129,7 +21165,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1449,
+    "id": 1451,
     "name": "Dataverse",
     "family": "Power Platform",
     "families": [
@@ -21147,7 +21183,7 @@ const logoData = [
     "format": "PNG"
   },
   {
-    "id": 1450,
+    "id": 1452,
     "name": "Dataverse",
     "family": "Power Platform",
     "families": [
@@ -27051,7 +27087,7 @@ const logoData = [
     "format": "SVG"
   },
   {
-    "id": 1519,
+    "id": 1521,
     "name": "Copilot",
     "family": "other",
     "families": [
@@ -29301,6 +29337,16 @@ const productCatalog = [
     "families": []
   },
   {
+    "slug": "global-secure-access",
+    "name": "Global Secure Access",
+    "type": "Product",
+    "status": "Active",
+    "altnames": "GSA",
+    "families": [
+      "Entra"
+    ]
+  },
+  {
     "slug": "graph",
     "name": "Graph",
     "type": "Feature",
@@ -29948,6 +29994,18 @@ const productCatalog = [
 // Recently added files
 const recentAdditions = [
   {
+    "path": "logos/global-secure-access/global-secure-access.png",
+    "date": "2026-08-25 11:43:47 +0100",
+    "author": "Ben Street",
+    "sha": "a19e80d1ae292ebb7cf7ef4a055466b4814bce46"
+  },
+  {
+    "path": "logos/global-secure-access/global-secure-access.svg",
+    "date": "2026-08-25 11:43:47 +0100",
+    "author": "Ben Street",
+    "sha": "a19e80d1ae292ebb7cf7ef4a055466b4814bce46"
+  },
+  {
     "path": "logos/copilot/microsoft-copilot-510x510.png",
     "date": "2026-08-19 12:55:11 +1000",
     "author": "Loryan Strant",
@@ -30234,18 +30292,6 @@ const recentAdditions = [
     "date": "2026-04-20 01:48:28 +0000",
     "author": "copilot-swe-agent[bot]",
     "sha": "d2be0415d9da1fbb049eca09c84f3697fe2bcb33"
-  },
-  {
-    "path": "logos/azure-batch/10031-icon-service-batch-accounts.svg",
-    "date": "2026-04-20 01:48:28 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "d2be0415d9da1fbb049eca09c84f3697fe2bcb33"
-  },
-  {
-    "path": "logos/azure-bot-service/10165-icon-service-bot-services.svg",
-    "date": "2026-04-20 01:48:28 +0000",
-    "author": "copilot-swe-agent[bot]",
-    "sha": "d2be0415d9da1fbb049eca09c84f3697fe2bcb33"
   }
 ];
 
@@ -30254,7 +30300,7 @@ const contributors = [
   {
     "name": "Loryan Strant",
     "github_username": "loryanstrant",
-    "contributions": 157
+    "contributions": 161
   },
   {
     "name": "Vivian Voss",
@@ -30300,6 +30346,11 @@ const contributors = [
     "name": "Joshua Fernando",
     "github_username": "joshuafdo",
     "contributions": 2
+  },
+  {
+    "name": "Ben Street",
+    "github_username": "BenStreet365",
+    "contributions": 1
   },
   {
     "name": "Jukka Niiranen",
