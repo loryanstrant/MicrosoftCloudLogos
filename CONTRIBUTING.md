@@ -94,28 +94,15 @@ prodfamilies: Microsoft 365
 See [reorganisation_guidance.md](reorganisation_guidance.md) for more worked
 examples (renamed products, families, and features).
 
-### 4. Do **not** hand-edit `docs/js/logo-data.js`
+### 4. Website updates are automatic
 
-`docs/js/logo-data.js` is **auto-generated** from the logo files and their
-`metadata.md` by [`generate-logo-data.py`](generate-logo-data.py). Never edit it
-by hand.
+The catalogue at [www.mscloudlogos.com](https://www.mscloudlogos.com) is built
+and deployed independently from this repository. After a logo change reaches
+`main`, the website's scheduled source check rebuilds its catalogue from the
+logo files and `metadata.md` history.
 
-You have two options:
-
-- **Let CI do it (simplest):** just commit your logo file(s) and `metadata.md`.
-  The [Update GitHub Pages workflow](.github/workflows/update-github-pages.yml)
-  regenerates and commits `logo-data.js` for branches in this repo, and comments
-  on fork pull requests asking you to regenerate it.
-- **Regenerate it yourself:** run the generator and commit the result:
-
-  ```bash
-  python generate-logo-data.py
-  ```
-
-> **Heads-up about the diff:** each logo's `id` in `logo-data.js` is a positional
-> index. Adding a logo renumbers the IDs of everything after it, so the generated
-> diff can look large. **This is expected** — the IDs aren't referenced by the
-> website (lookups use `productSlug` and `path`), and CI produces the same result.
+Do not add generated website data to this repository. Contributors only need to
+commit the logo file(s) and matching metadata.
 
 ---
 
