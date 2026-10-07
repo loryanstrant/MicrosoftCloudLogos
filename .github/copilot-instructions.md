@@ -4,23 +4,22 @@
 
 ## What this repo is
 
-An **asset collection** of Microsoft Cloud logos/icons, plus a Python script that
-generates logo-data from them. Not a Home Assistant component, not an app.
+An **asset collection** of Microsoft Cloud logos/icons and their metadata. Not a
+Home Assistant component, an app, or the website's source repository.
 
 ## Repo shape
 
 - `logos/` + `icons/` — the image assets (the actual deliverable).
-- `generate-logo-data.py` — a generator script (produces logo-data, e.g. an
-  index/manifest from the assets).
-- `docs/`, `README.md`, `reorganisation_guidance.md`, `.devcontainer/`,
-  `.github/`.
+- `metadata.md` files — product names, status, aliases, and family information.
+- `README.md`, `CONTRIBUTING.md`, `reorganisation_guidance.md`,
+  `.devcontainer/`, and `.github/` — contributor guidance and repository tooling.
 
 ## Conventions
 
-- Primarily an asset repo: the images are the content; `generate-logo-data.py` is
-  the one piece of editable code.
-- Re-run the generator after adding/reorganising assets rather than hand-editing
-  any generated data files.
+- Primarily an asset repo: commit logo files and matching metadata only.
+- The independently deployed website at `www.mscloudlogos.com` rebuilds its
+  catalogue from this repository after changes reach `main`; do not add or
+  commit generated website data here.
 - Microsoft logos are **trademarked** — usage is governed by Microsoft's brand
   guidelines; this repo just collects them. Don't alter the marks themselves.
 
