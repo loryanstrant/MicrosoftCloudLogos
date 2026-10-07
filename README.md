@@ -16,7 +16,9 @@ If you have any to add or update any, please feel free to contribute!
 
 Enjoy!
 
-You can also access it by going to www.mscloudlogos.com where you'll find an easy to use interface for sorting and filtering the icons.
+You can also access the collection at [www.mscloudlogos.com](https://www.mscloudlogos.com), where you'll find an easy-to-use interface for sorting and filtering the icons.
+
+The website is built and deployed independently from the private `MicrosoftCloudLogos-Website` repository in Gitea. Changes to this logo repository are picked up by that site's scheduled source check; contributors do not need to regenerate or commit website data.
 
 
 
